@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Navigation"
+title                    : "Haowen's Homepage"
 title_separator          : "-"
 name                     : &name "Haowen Zhou"
 description              : &description "This is a test site for academicpages."
 url                      : https://hwzhou2020.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hwzhou2020/HaowenZhou.github.io"
+repository               : "hwzhou2020/hwzhou2020.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
