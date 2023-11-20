@@ -18,17 +18,14 @@ Education and Selected Fellowships
 ======
 
 **California Insitute of Technology (2021 - )**
-
-[Naren and Vinita Gupta Fellows (2022)](https://s2i.caltech.edu/people/fellows)
+- [Naren and Vinita Gupta Fellows (2022)](https://s2i.caltech.edu/people/fellows)
 
 **University of Dayton (2019 - 2021)**
-
-[Dean's Fellow (2019)](https://udayton.edu/engineering/departments/electrooptics_grad/_resources/newsletters/2020-spring-newsletter.pdf)
+- [Dean's Fellow (2019)](https://udayton.edu/engineering/departments/electrooptics_grad/_resources/newsletters/2020-spring-newsletter.pdf)
 
 
 **Huazhong University of Science and technology (2015 - 2019)**
-
-National Endeavor Scholarship Award of China (2016)
+- National Endeavor Scholarship Award of China (2016)
 
 
 Selected Publications
