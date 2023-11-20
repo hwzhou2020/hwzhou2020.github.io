@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "Haowen Zhou is a 3rd year graduate student in the Department of Electrical Engineering at Caltech."
   location         : "Pasadena, CA"
-  employer         : "California Institute of Technology"
+  employer         : "Caltech"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : https://scholar.google.com/citations?user=feZDslgAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=feZDslgAAAAJ&hl=en"
   email            : "hzhou7@caltech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
