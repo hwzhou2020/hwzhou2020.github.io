@@ -15,6 +15,7 @@ div.pub {
   display: flex;
   width: 100%; /* Make the container full-width */
   align-items: flex-start; /* Vertically align content to the top */
+  margin-bottom: 20px;
 }
 
 .publication-image {
@@ -31,8 +32,12 @@ div.pub {
 }
 
 .publication-details {
+  display: inline-block;
+  vertical-align: top;
   flex-grow: 1; /* Expand to fill available space */
 }
+
+
 
 /* Apply your other CSS styles for fonts, colors, links, etc. as needed */
 
@@ -87,9 +92,6 @@ doi = {10.1364/AO.58.00G177},
 <div class="publication">
   <div class="publication-image">
     <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/3D_obj.png" alt="3D_obj" width="250" height="250">
-    <br>
-    <br>
-    <br>
   </div>
   <div class="publication-details">
     <font size="4">
@@ -122,9 +124,6 @@ doi = {10.1364/AO.58.00G177},
         Digitally recorded holograms encode three-dimensional obejct information into a 2D images (hologram). This work demonstrates the correlation of the holograms as metric to reveal object topographic features.
       </span>
     </font>
-    <br>
-    <br>
-    <br>
   </div>
 </div>
 
@@ -133,9 +132,6 @@ doi = {10.1364/AO.58.00G177},
 <div class="publication">
   <div class="publication-image">
     <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Sulfur.png" alt="Sulfur" width="250" height="250">
-    <br>
-    <br>
-    <br>
   </div>
   <div class="publication-details">
     <font size="4">
@@ -168,9 +164,6 @@ doi = {10.1364/AO.58.00G177},
         We demonstrate the synthesis of gas-sensing materials for sulfur dioxide (ZIF-67), which results in significant sensitivity, cross-selectivity and durability towards SO2 at room temperature.
       </span>
     </font>
-    <br>
-    <br>
-    <br>
   </div>
 </div>
 
