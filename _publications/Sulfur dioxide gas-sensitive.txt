@@ -1,0 +1,12 @@
+@article{C8TA02036A,
+author ="Li, Qun and Wu, Jiabin and Huang, Liang and Gao, Junfeng and Zhou, Haowen and Shi, Yijie and Pan, Qinhe and Zhang, Gang and Du, Yu and Liang, Wenxi",
+title  ="Sulfur dioxide gas-sensitive materials based on zeolitic imidazolate framework-derived carbon nanotubes",
+journal  ="J. Mater. Chem. A",
+year  ="2018",
+volume  ="6",
+issue  ="25",
+pages  ="12115-12124",
+publisher  ="The Royal Society of Chemistry",
+doi  ="10.1039/C8TA02036A",
+url  ="http://dx.doi.org/10.1039/C8TA02036A",
+}
