@@ -12,8 +12,13 @@ div.pub {
 }
 
 .title-text {
-    color: #FFA500 ; /* Dark Green  #186F65*/
-    font-size: 4rem; /* Font size of 4 */
+    color: #186F65 ; /* Dark Green */
+    font-size: 4; /* Font size of 4 */
+}
+
+.author-text {
+    color: gray ; /* Dark Green */
+    font-size: 3; /* Font size of 4 */
 }
 
 </style>
@@ -79,18 +84,37 @@ doi = {10.1364/AO.58.00G197}},
 
 <div class="pub">
 
-  <span class="title-text">
-    <strong>
-      Sulfur dioxide gas-sensitive materials based on zeolitic imidazolate framework-derived carbon nanotubes
-    </strong>
-  </span>
+  <font size="3">
+    <span style="color: #191717;">
+      <strong>
+        Sulfur dioxide gas-sensitive materials based on zeolitic imidazolate framework-derived carbon nanotubes
+      </strong>
+    </span>
+  </font>
 
-<font size="3">Qun Li, Jiabin Wu, Liang Huang, Junfeng Gao,  <strong>Haowen Zhou</strong>, Yijie Shi, Qinhe Pan, Gang Zhang, Yu Du, Wenxi Liang</font>
+  <font size="3">
+    <span style="color: #B4B4B3;">
+      Qun Li, Jiabin Wu, Liang Huang, Junfeng Gao,  <span style="color: #E5D283;"><strong>Haowen Zhou</strong></span>, Yijie Shi, Qinhe Pan, Gang Zhang, Yu Du, Wenxi Liang
+    </span>
+  </font>
 
-<font size="3">[J. Mater. Chem. A, 2018](https://doi.org/10.1039/C8TA02036A)
-([BibiTex](https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Sulfur%20dioxide%20gas-sensitive.txt))</font>
+  <font size="3">
+    <span style="color: #4F709C;">
+      <a href="https://doi.org/10.1039/C8TA02036A">
+        J. Mater. Chem. A, 2018
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Sulfur%20dioxide%20gas-sensitive.txt">
+        BibTex
+      </a>
+    </span>
+  </font>
 
-<font size="3"><span style="color: gray;">We demonstrate the synthesis of gas-sensing materials for sulfur dioxide, namely, carbon nanotube networks based on zinc-doped zeolitic imidazolate frameworks (ZIF-67). The particles synthesized via bimetal co-doping of cobalt and zinc and the pyrolysis process possess a porous polyhedral morphology with abundant interconnecting carbon nanotubes (CNTs) on the surface, which results in significant sensitivity, cross-selectivity and durability towards $SO_2$ at room temperature.</span></font>
+  <font size="3">
+    <span style="color: gray;">
+      We demonstrate the synthesis of gas-sensing materials for sulfur dioxide, namely, carbon nanotube networks based on zinc-doped zeolitic imidazolate frameworks (ZIF-67). The particles synthesized via bimetal co-doping of cobalt and zinc and the pyrolysis process possess a porous polyhedral morphology with abundant interconnecting carbon nanotubes (CNTs) on the surface, which results in significant sensitivity, cross-selectivity and durability towards SO2 at room temperature.
+    </span>
+  </font>
+
 </div>
 
 
