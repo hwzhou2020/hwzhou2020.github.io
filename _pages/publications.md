@@ -18,12 +18,12 @@ div.pub {
 
 .publication-image {
   margin-right: 10px;
-  width: 250px; /* Set a fixed width for the image container */
+  height: 250px; /* Set a fixed width for the image container */
 }
 
 .publication-image img {
-  height: auto; /* Maintain the aspect ratio */
-  width: 100%; /* Ensure the image fills the container horizontally */
+  height: 100%; /* Maintain the aspect ratio */
+  width: autp; /* Ensure the image fills the container horizontally */
 }
 
 
