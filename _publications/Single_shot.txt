@@ -1,0 +1,13 @@
+@article{Guo:21,
+author = {Haiyun Guo and Haowen Zhou and Partha P. Banerjee},
+journal = {Appl. Opt.},
+number = {4},
+pages = {A84--A92},
+publisher = {Optica Publishing Group},
+title = {Single-shot digital phase-shifting Moir\'{e} patterns for 3D topography},
+volume = {60},
+month = {Feb},
+year = {2021},
+url = {https://opg.optica.org/ao/abstract.cfm?URI=ao-60-4-A84},
+doi = {10.1364/AO.404424},
+}

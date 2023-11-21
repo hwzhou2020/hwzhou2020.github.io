@@ -16,13 +16,13 @@ div.pub {
   grid-template-columns: 220px 1fr; /* Two columns: 250px for image, 1fr for text */
   align-items: flex-start; /* Align items to the top */
   gap: 10px; /* Add some gap between image and text */
-  margin-bottom: 25px;
+  margin-bottom: 45px;
 }
 
 .publication-image {
   margin-right: 10px;
-  width: 220px; /* Set a fixed width for the image container */
-  height: 220px; /* Set a fixed height for the image container */
+  width: 150px; /* Set a fixed width for the image container */
+  height: 150px; /* Set a fixed height for the image container */
   overflow: hidden; /* Hide any overflowing content within the container */
 }
 
@@ -66,20 +66,50 @@ doi = {10.1364/AO.404424},
 }
 ```
 
-
-3.  ([link](10.1364/AO.58.00G197))
-
-```
-
-```
- -->
-
+<!-- pub 4 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Single_shot.png" alt="Single_shot" width="150" height="150">
+  </div>
+  <div class="publication-details">
+    <font size="4">
+      <span style="color: #191717;">
+        <strong>
+          Single-shot digital phase-shifting Moiré patterns for 3D topography
+        </strong>
+      </span>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #B4B4B3;">
+        Haiyun Guo, <span style="color: #26577C;"><strong>Haowen Zhou</strong></span>, Partha P. Banerjee
+      </span>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #4F709C;">
+        <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-60-4-A84" style="text-decoration: none;">
+          Appl. Opt., 2021
+        </a>
+        <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Single_shot.txt" style="text-decoration: none;">
+          &nbsp; &nbsp; (BibTex)
+        </a>
+      </span>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+        We demonstrates a simple and robust technique of Moiré topography with single-image capture and incorporating digital filtering along with a four-step digitally implemented phase-shifting method for 3D surface mapping.
+      </span>
+    </font>
+  </div>
+</div>
 
 
 <!-- pub 3 -->
 <div class="publication">
   <div class="publication-image">
-    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Digital_corr.png" alt="Digital_corr" width="220" height="220">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Digital_corr.png" alt="Digital_corr" width="150" height="150">
   </div>
   <div class="publication-details">
     <font size="4">
@@ -119,7 +149,7 @@ doi = {10.1364/AO.404424},
 <!-- pub 2 -->
 <div class="publication">
   <div class="publication-image">
-    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/3D_obj.png" alt="3D_obj" width="220" height="220">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/3D_obj.png" alt="3D_obj" width="150" height="150">
   </div>
   <div class="publication-details">
     <font size="4">
@@ -159,7 +189,7 @@ doi = {10.1364/AO.404424},
 <!-- pub 1 -->
 <div class="publication">
   <div class="publication-image">
-    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Sulfur.png" alt="Sulfur" width="220" height="220">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Sulfur.png" alt="Sulfur" width="150" height="150">
   </div>
   <div class="publication-details">
     <font size="4">
