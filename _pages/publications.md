@@ -87,7 +87,7 @@ doi = {10.1364/AO.58.00G177},
 <!-- pub 2 -->
 <div class="publication">
   <div class="publication-image">
-    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/3D_obj.jpg" alt="3D_obj" width="250" height="250">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/3D_obj.png" alt="3D_obj" width="250" height="250">
   </div>
   <div class="publication-details">
     <font size="4">
@@ -120,9 +120,9 @@ doi = {10.1364/AO.58.00G177},
         Digitally recorded holograms encode three-dimensional obejct information into a 2D images (hologram). This work demonstrates the correlation of the holograms as metric to reveal object topographic features.
       </span>
     </font>
+    <br>
+    <br>
   </div>
-  <br>
-  <br>
 </div>
 
 
@@ -163,8 +163,6 @@ doi = {10.1364/AO.58.00G177},
       </span>
     </font>
   </div>
-  <br>
-  <br>
 </div>
 
 
