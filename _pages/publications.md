@@ -88,6 +88,8 @@ doi = {10.1364/AO.58.00G177},
 <div class="publication">
   <div class="publication-image">
     <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/3D_obj.png" alt="3D_obj" width="250" height="250">
+    <br>
+    <br>
   </div>
   <div class="publication-details">
     <font size="4">
