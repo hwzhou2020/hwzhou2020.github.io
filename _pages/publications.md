@@ -11,25 +11,18 @@ div.pub {
   line-height: 120%;
 }
 
-<!-- .publication {
-  display: inline-block;
-  width: 100%; /* Make the container full-width */
-  vertical-align: top; /* Vertically align content to the top */
-  margin-bottom: 20px;
-} -->
-
 .publication {
   display: grid; /* Use grid display for layout */
-  grid-template-columns: 250px 1fr; /* Two columns: 250px for image, 1fr for text */
+  grid-template-columns: 220px 1fr; /* Two columns: 250px for image, 1fr for text */
   align-items: flex-start; /* Align items to the top */
   gap: 10px; /* Add some gap between image and text */
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
 
 .publication-image {
   margin-right: 10px;
-  width: 250px; /* Set a fixed width for the image container */
-  height: 250px; /* Set a fixed height for the image container */
+  width: 220px; /* Set a fixed width for the image container */
+  height: 220px; /* Set a fixed height for the image container */
   overflow: hidden; /* Hide any overflowing content within the container */
 }
 
@@ -74,31 +67,59 @@ doi = {10.1364/AO.404424},
 ```
 
 
-3. 3D object recognition through processing of 2D holograms ([link](10.1364/AO.58.00G197))
+3.  ([link](10.1364/AO.58.00G197))
 
 ```
-@article{Zhou:19,
-author = {Haowen Zhou and Xiaomeng Sui and Liangcai Cao and Partha P. Banerjee},
-journal = {Appl. Opt.},
-keywords = {Digital holography; Fresnel diffraction; Optical correlators; Pattern recognition; Position sensors; Structured light},
-number = {34},
-pages = {G177--G186},
-publisher = {Optica Publishing Group},
-title = {Digital correlation of computer-generated holograms for 3D face recognition},
-volume = {58},
-month = {Dec},
-year = {2019},
-url = {https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G177},
-doi = {10.1364/AO.58.00G177},
-}
+
 ```
  -->
+
+
+
+<!-- pub 3 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Digital_corr.png" alt="Digital_corr" width="220" height="220">
+  </div>
+  <div class="publication-details">
+    <font size="4">
+      <span style="color: #191717;">
+        <strong>
+          Digital correlation of computer-generated holograms for 3D face recognition
+        </strong>
+      </span>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #B4B4B3;">
+        <span style="color: #26577C;"><strong>Haowen Zhou</strong></span>, Xiaomeng Sui, Liangcai Cao, Partha P. Banerjee
+      </span>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #4F709C;">
+        <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G177" style="text-decoration: none;">
+          Appl. Opt., 2019
+        </a>
+        <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Digital_correlation.txt" style="text-decoration: none;">
+          &nbsp; &nbsp; (BibTex)
+        </a>
+      </span>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+        A digital correlation method of a computer-generated hologram (CGH) can encode 3D spatial data information into a 2D hologram. We demonstrate its application in for 3D face recognition.
+      </span>
+    </font>
+  </div>
+</div>
 
 
 <!-- pub 2 -->
 <div class="publication">
   <div class="publication-image">
-    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/3D_obj.png" alt="3D_obj" width="250" height="250">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/3D_obj.png" alt="3D_obj" width="220" height="220">
   </div>
   <div class="publication-details">
     <font size="4">
@@ -138,7 +159,7 @@ doi = {10.1364/AO.58.00G177},
 <!-- pub 1 -->
 <div class="publication">
   <div class="publication-image">
-    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Sulfur.png" alt="Sulfur" width="250" height="250">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Sulfur.png" alt="Sulfur" width="220" height="220">
   </div>
   <div class="publication-details">
     <font size="4">
