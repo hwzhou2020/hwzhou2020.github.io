@@ -22,9 +22,10 @@ div.pub {
 } -->
 
 
+
 .publication {
   display: flex;
-  align-items: center; /* Vertically center-align content */
+  align-items: flex-start; /* Vertically align content to the top */
 }
 
 .publication-image {
@@ -34,6 +35,7 @@ div.pub {
 .publication-details {
   flex-grow: 1; /* Expand to fill available space */
 }
+
 
 /* Apply your other CSS styles for fonts, colors, links, etc. as needed */
 
@@ -109,10 +111,10 @@ doi = {10.1364/AO.58.00G177},
     <br>
     <font size="3">
       <span style="color: #4F709C;">
-        <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G197">
+        <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G197" style="text-decoration: none;">
           Appl. Opt., 2019
         </a>
-        <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/3D_object.txt">
+        <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/3D_object.txt" style="text-decoration: none;">
           &nbsp; &nbsp; (BibTex)
         </a>
       </span>
@@ -154,11 +156,11 @@ doi = {10.1364/AO.58.00G177},
     </font>
     <br>
     <font size="3">
-      <span style="color: #4F709C;">
-        <a href="https://doi.org/10.1039/C8TA02036A">
-          J. Mater. Chem. A, 2018 
+      <span style="color: #818FB4;">
+        <a href="https://doi.org/10.1039/C8TA02036A" style="text-decoration: none;">
+          J. Mater. Chem. A, 2018
         </a>
-        <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Sulfur_dioxide_gas-sensitive.txt">
+        <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Sulfur_dioxide_gas-sensitive.txt" style="text-decoration: none;">
           &nbsp; &nbsp; (BibTex)
         </a>
       </span>
