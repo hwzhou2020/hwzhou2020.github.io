@@ -73,6 +73,9 @@ div.pub {
       <a href="https://hwzhou2020.github.io/FPM-INR-Web/" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #186F65;">[Project Page]</span>
       </a>
+      <a href="https://doi.org/10.22002/7aer7-qhf77" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #FCE09B;">{Data}</span>
+      </a>
     </font>
     <br>
     <font size="3">
