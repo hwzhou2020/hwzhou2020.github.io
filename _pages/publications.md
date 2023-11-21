@@ -62,24 +62,14 @@ url = {https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G197},
 doi = {10.1364/AO.58.00G197}},
 ```
 
-1. Sulfur dioxide gas-sensitive materials based on zeolitic imidazolate framework-derived carbon nanotubes ([link](https://doi.org/10.1039/C8TA02036A))
+Sulfur dioxide gas-sensitive materials based on zeolitic imidazolate framework-derived carbon nanotubes ([link](https://doi.org/10.1039/C8TA02036A))
+<font size="10">Qun Li, Jiabin Wu, Liang Huang, Junfeng Gao, **Haowen Zhou**, Yijie Shi, Qinhe Pan, Gang Zhang, Yu Du, Wenxi Liang</font>
+
+
+[BibiTex](_publications/Sulfur dioxide gas-sensitive.txt)
 
 <!-- We demonstrate the synthesis of gas-sensing materials for sulfur dioxide, namely, carbon nanotube networks based on zinc-doped zeolitic imidazolate frameworks (ZIF-67) (bimetallic MOFs). The particles synthesized via bimetal co-doping of cobalt and zinc and the pyrolysis process possess a porous polyhedral morphology with abundant interconnecting carbon nanotubes (CNTs) on the surface, which results in significant sensitivity, cross-selectivity and durability towards SO2 at room temperature. -->
 
-```
-@Article{C8TA02036A,
-author ="Li, Qun and Wu, Jiabin and Huang, Liang and Gao, Junfeng and Zhou, Haowen and Shi, Yijie and Pan, Qinhe and Zhang, Gang and Du, Yu and Liang, Wenxi",
-title  ="Sulfur dioxide gas-sensitive materials based on zeolitic imidazolate framework-derived carbon nanotubes",
-journal  ="J. Mater. Chem. A",
-year  ="2018",
-volume  ="6",
-issue  ="25",
-pages  ="12115-12124",
-publisher  ="The Royal Society of Chemistry",
-doi  ="10.1039/C8TA02036A",
-url  ="http://dx.doi.org/10.1039/C8TA02036A",
-}
-```
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=feZDslgAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
