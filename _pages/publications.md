@@ -90,6 +90,7 @@ doi = {10.1364/AO.58.00G177},
     <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/3D_obj.png" alt="3D_obj" width="250" height="250">
     <br>
     <br>
+    <br>
   </div>
   <div class="publication-details">
     <font size="4">
@@ -111,8 +112,8 @@ doi = {10.1364/AO.58.00G177},
         <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G197">
           Appl. Opt., 2019
         </a>
-        <a href="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/3D_object.txt">
-          BibTex
+        <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/3D_object.txt">
+          &nbsp; &nbsp; (BibTex)
         </a>
       </span>
     </font>
@@ -124,6 +125,7 @@ doi = {10.1364/AO.58.00G177},
     </font>
     <br>
     <br>
+    <br>
   </div>
 </div>
 
@@ -132,6 +134,9 @@ doi = {10.1364/AO.58.00G177},
 <div class="publication">
   <div class="publication-image">
     <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Sulfur.png" alt="Sulfur" width="250" height="250">
+    <br>
+    <br>
+    <br>
   </div>
   <div class="publication-details">
     <font size="4">
@@ -151,10 +156,10 @@ doi = {10.1364/AO.58.00G177},
     <font size="3">
       <span style="color: #4F709C;">
         <a href="https://doi.org/10.1039/C8TA02036A">
-          J. Mater. Chem. A, 2018
+          J. Mater. Chem. A, 2018 
         </a>
-        <a href="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Sulfur%20dioxide%20gas-sensitive.txt">
-          BibTex
+        <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Sulfur_dioxide_gas-sensitive.txt">
+          &nbsp; &nbsp; (BibTex)
         </a>
       </span>
     </font>
@@ -164,6 +169,9 @@ doi = {10.1364/AO.58.00G177},
         We demonstrate the synthesis of gas-sensing materials for sulfur dioxide (ZIF-67), which results in significant sensitivity, cross-selectivity and durability towards SO2 at room temperature.
       </span>
     </font>
+    <br>
+    <br>
+    <br>
   </div>
 </div>
 
