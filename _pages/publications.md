@@ -89,6 +89,7 @@ doi = {10.1364/AO.58.00G177},
 ``` -->
 
 
+<!-- pub 2 -->
 <div class="publication">
   <div class="publication-image">
     <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/3D_obj.jpg" alt="3D_obj" width="250" height="250">
@@ -121,17 +122,18 @@ doi = {10.1364/AO.58.00G177},
     <br>
     <font size="3">
       <span style="color: gray;">
-        We demonstrate the synthesis of gas-sensing materials for sulfur dioxide (ZIF-67), which results in significant sensitivity, cross-selectivity and durability towards SO2 at room temperature.
+        Digitally recorded holograms encode three-dimensional obejct information into a 2D images (hologram). This work demonstrates the correlation of the holograms as metric to reveal object topographic features.
       </span>
     </font>
   </div>
 </div>
 
 
+<br>
+<br>
 
 
-
-
+<!-- pub 1 -->
 <div class="publication">
   <div class="publication-image">
     <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Sulfur.png" alt="Sulfur" width="250" height="250">
@@ -169,7 +171,6 @@ doi = {10.1364/AO.58.00G177},
     </font>
   </div>
 </div>
-
 
 
 

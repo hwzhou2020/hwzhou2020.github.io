@@ -1,0 +1,13 @@
+@article{Bordbar:19,
+author = {Behzad Bordbar and Haowen Zhou and Partha P. Banerjee},
+journal = {Appl. Opt.},
+number = {34},
+pages = {G197--G203},
+publisher = {Optica Publishing Group},
+title = {3D object recognition through processing of 2D holograms},
+volume = {58},
+month = {Dec},
+year = {2019},
+url = {https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G197},
+doi = {10.1364/AO.58.00G197}},
+}
