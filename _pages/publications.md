@@ -11,10 +11,18 @@ div.pub {
   line-height: 120%;
 }
 
-.publication {
+<!-- .publication {
   display: inline-block;
   width: 100%; /* Make the container full-width */
   vertical-align: top; /* Vertically align content to the top */
+  margin-bottom: 20px;
+} -->
+
+.publication {
+  display: grid; /* Use grid display for layout */
+  grid-template-columns: 250px 1fr; /* Two columns: 250px for image, 1fr for text */
+  align-items: flex-start; /* Align items to the top */
+  gap: 10px; /* Add some gap between image and text */
   margin-bottom: 20px;
 }
 
