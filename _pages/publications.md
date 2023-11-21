@@ -45,6 +45,45 @@ div.pub {
 
 
 
+<!-- pub 5 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Performance_analysis.png" alt="Performance" width="150" height="150">
+  </div>
+  <div class="publication-details">
+    <font size="4">
+      <span style="color: #191717;">
+        <strong>
+          Performance analysis of phase retrieval using transport of intensity with digital holography [Invited]
+        </strong>
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri Light;">
+      <span style="color: #D8C4B6;">
+        <span style="color: #213555;"><strong>Haowen Zhou</strong></span>, Elena Stoykova, Mallik Hussain, Partha P. Banerjee
+      </span>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #4F709C;">
+        <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-60-4-A73" style="text-decoration: none;">
+          Appl. Opt., 2021
+        </a>
+        <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Performance_analysis.txt" style="text-decoration: none;">
+          &nbsp; &nbsp; (BibTex)
+        </a>
+      </span>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+        Transport of intensity equation can facilitate wrapping free phase retrieval for digital holography. We compares its performance with traditional off-axis single- and dual-wavelength techniques. 
+      </span>
+    </font>
+  </div>
+</div>
+
 <!-- pub 4 -->
 <div class="publication">
   <div class="publication-image">
@@ -60,8 +99,8 @@ div.pub {
     </font>
     <br>
     <font size="3">
-      <span style="color: #B4B4B3;">
-        Haiyun Guo, <span style="color: #26577C;"><strong>Haowen Zhou</strong></span>, Partha P. Banerjee
+      <span style="color: #D8C4B6;">
+        Haiyun Guo, <span style="color: #213555;"><strong>Haowen Zhou</strong></span>, Partha P. Banerjee
       </span>
     </font>
     <br>
@@ -100,8 +139,8 @@ div.pub {
     </font>
     <br>
     <font size="3">
-      <span style="color: #B4B4B3;">
-        <span style="color: #26577C;"><strong>Haowen Zhou</strong></span>, Xiaomeng Sui, Liangcai Cao, Partha P. Banerjee
+      <span style="color: #D8C4B6;">
+        <span style="color: #213555;"><strong>Haowen Zhou</strong></span>, Xiaomeng Sui, Liangcai Cao, Partha P. Banerjee
       </span>
     </font>
     <br>
@@ -140,8 +179,8 @@ div.pub {
     </font>
     <br>
     <font size="3">
-      <span style="color: #B4B4B3;">
-        Behzad Bordbar, <span style="color: #26577C;"><strong>Haowen Zhou</strong></span>, Partha P. Banerjee
+      <span style="color: #D8C4B6;">
+        Behzad Bordbar, <span style="color: #213555;"><strong>Haowen Zhou</strong></span>, Partha P. Banerjee
       </span>
     </font>
     <br>
@@ -180,8 +219,8 @@ div.pub {
     </font>
     <br>
     <font size="3">
-      <span style="color: #B4B4B3;">
-        Qun Li*, Jiabin Wu, Liang Huang, Junfeng Gao, <span style="color: #26577C;"><strong>Haowen Zhou</strong></span>, Yijie Shi, Qinhe Pan, Gang Zhang, Yu Du, Wenxi Liang
+      <span style="color: #D8C4B6;">
+        Qun Li*, Jiabin Wu, Liang Huang, Junfeng Gao, <span style="color: #213555;"><strong>Haowen Zhou</strong></span>, Yijie Shi, Qinhe Pan, Gang Zhang, Yu Du, Wenxi Liang
       </span>
     </font>
     <br>
