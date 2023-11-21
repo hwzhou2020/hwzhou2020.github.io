@@ -108,10 +108,10 @@ doi = {10.1364/AO.58.00G197}},
 
 <div class="publication">
   <div class="publication-image">
-    <img src="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Sulfur.png" alt="Sulfur" width="100" height="100">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Sulfur.png" alt="Sulfur" width="100" height="100">
   </div>
   <div class="publication-details">
-    <font size="3">
+    <font size="4">
       <span style="color: #191717;">
         <strong>
           Sulfur dioxide gas-sensitive materials based on zeolitic imidazolate framework-derived carbon nanotubes
@@ -130,7 +130,7 @@ doi = {10.1364/AO.58.00G197}},
         <a href="https://doi.org/10.1039/C8TA02036A">
           J. Mater. Chem. A, 2018
         </a>
-        <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Sulfur%20dioxide%20gas-sensitive.txt">
+        <a href="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Sulfur%20dioxide%20gas-sensitive.txt">
           BibTex
         </a>
       </span>
