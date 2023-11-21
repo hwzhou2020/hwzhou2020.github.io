@@ -13,7 +13,7 @@ div.pub {
 
 .publication {
   display: grid; /* Use grid display for layout */
-  grid-template-columns: 220px 1fr; /* Two columns: 250px for image, 1fr for text */
+  grid-template-columns: 150px 1fr; /* Two columns: 150px for image, 1fr for text */
   align-items: flex-start; /* Align items to the top */
   gap: 10px; /* Add some gap between image and text */
   margin-bottom: 45px;
@@ -38,33 +38,12 @@ div.pub {
   flex-grow: 1; /* Expand to fill available space */
 }
 
-
-/* Apply your other CSS styles for fonts, colors, links, etc. as needed */
-
-
 </style>
 </head>
 <body>
 
 
-<!-- 4. Single-shot digital phase-shifting Moir\'{e} patterns for 3D topography ([link](10.1364/AO.404424) )
 
-
-```
-@article{Guo:21,
-author = {Haiyun Guo and Haowen Zhou and Partha P. Banerjee},
-journal = {Appl. Opt.},
-number = {4},
-pages = {A84--A92},
-publisher = {Optica Publishing Group},
-title = {Single-shot digital phase-shifting Moir\'{e} patterns for 3D topography},
-volume = {60},
-month = {Feb},
-year = {2021},
-url = {https://opg.optica.org/ao/abstract.cfm?URI=ao-60-4-A84},
-doi = {10.1364/AO.404424},
-}
-```
 
 <!-- pub 4 -->
 <div class="publication">
@@ -225,7 +204,15 @@ doi = {10.1364/AO.404424},
   </div>
 </div>
 
-Updated Nov. 21, 2023
+
+<font size="2">
+  <br>
+  <span style="color: gray;">
+    Updated on Nov. 21, 2023
+  </span>
+</font>
+
+
 
 
 <!-- {% if author.googlescholar %}
