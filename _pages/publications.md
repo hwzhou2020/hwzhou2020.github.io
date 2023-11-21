@@ -42,6 +42,45 @@ div.pub {
 </head>
 <body>
 
+
+<!-- pub 11 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/FPM-INR.mp4" alt="FPM-INR" width="150" height="150">
+  </div>
+  <div class="publication-details">
+    <font size="4">
+      <span style="color: #191717;">
+        <strong>
+          FPM-INR: Fourier ptychographic microscopy image stack reconstruction using implicit neural representations
+        </strong>
+      </span>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+        <span style="color: #213555;"><strong>Haowen Zhou*,</strong></span> Brandon Y. Feng*, Haiyun Guo, Siyu Lin, Mingshu Liang, Christopher A. Metzler, Changhuei Yang
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a href=" " style="text-decoration: none;">
+        <span style="color: #4F709C;">Optica, 2023</span>
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/FPM-INR.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #4F709C;">(BibTex)</span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+        Fourier ptychographic microscope faces challenges with long image stack reconstruction time and huge data volumes. We designed physics-based neural signal representations to tackle these challenges and facilitates remote diagnosis, and efficient data packaging.
+      </span>
+    </font>
+  </div>
+</div>
+
+
 <!-- pub 10 -->
 <div class="publication">
   <div class="publication-image">
