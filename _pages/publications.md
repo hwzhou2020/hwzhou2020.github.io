@@ -6,11 +6,29 @@ author_profile: true
 ---
 
 
-4. 
+4. Single-shot digital phase-shifting Moir\'{e} patterns for 3D topography ([link](10.1364/AO.404424) )
+
+
+```
+@article{Guo:21,
+author = {Haiyun Guo and Haowen Zhou and Partha P. Banerjee},
+journal = {Appl. Opt.},
+number = {4},
+pages = {A84--A92},
+publisher = {Optica Publishing Group},
+title = {Single-shot digital phase-shifting Moir\'{e} patterns for 3D topography},
+volume = {60},
+month = {Feb},
+year = {2021},
+url = {https://opg.optica.org/ao/abstract.cfm?URI=ao-60-4-A84},
+doi = {10.1364/AO.404424},
+}
+```
 
 
 3. 3D object recognition through processing of 2D holograms ([link](10.1364/AO.58.00G197))
 
+```
 @article{Zhou:19,
 author = {Haowen Zhou and Xiaomeng Sui and Liangcai Cao and Partha P. Banerjee},
 journal = {Appl. Opt.},
@@ -25,9 +43,9 @@ year = {2019},
 url = {https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G177},
 doi = {10.1364/AO.58.00G177},
 }
+```
 
-
-2. 3D object recognition through processing of 2D holograms ([link](10.1364/AO.58.00G197) )
+2. 3D object recognition through processing of 2D holograms ([link](10.1364/AO.58.00G197))
 
 ```
 @article{Bordbar:19,
@@ -44,7 +62,7 @@ url = {https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G197},
 doi = {10.1364/AO.58.00G197}},
 ```
 
-1. Sulfur dioxide gas-sensitive materials based on zeolitic imidazolate framework-derived carbon nanotubes ( [link](https://doi.org/10.1039/C8TA02036A) )
+1. Sulfur dioxide gas-sensitive materials based on zeolitic imidazolate framework-derived carbon nanotubes ([link](https://doi.org/10.1039/C8TA02036A))
 
 <!-- We demonstrate the synthesis of gas-sensing materials for sulfur dioxide, namely, carbon nanotube networks based on zinc-doped zeolitic imidazolate frameworks (ZIF-67) (bimetallic MOFs). The particles synthesized via bimetal co-doping of cobalt and zinc and the pyrolysis process possess a porous polyhedral morphology with abundant interconnecting carbon nanotubes (CNTs) on the surface, which results in significant sensitivity, cross-selectivity and durability towards SO2 at room temperature. -->
 
@@ -59,7 +77,8 @@ issue  ="25",
 pages  ="12115-12124",
 publisher  ="The Royal Society of Chemistry",
 doi  ="10.1039/C8TA02036A",
-url  ="http://dx.doi.org/10.1039/C8TA02036A"},
+url  ="http://dx.doi.org/10.1039/C8TA02036A",
+}
 ```
 
 <!-- {% if author.googlescholar %}
