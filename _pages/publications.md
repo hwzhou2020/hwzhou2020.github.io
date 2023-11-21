@@ -11,18 +11,6 @@ div.pub {
   line-height: 120%;
 }
 
-<!-- .title-text {
-    color: #186F65 ; /* Dark Green */
-    font-size: 4; /* Font size of 4 */
-}
-
-.author-text {
-    color: gray ; /* Dark Green */
-    font-size: 3; /* Font size of 4 */
-} -->
-
-
-
 .publication {
   display: flex;
   align-items: flex-start; /* Vertically align content to the top */
@@ -30,7 +18,14 @@ div.pub {
 
 .publication-image {
   margin-right: 10px;
+  width: 250px; /* Set a fixed width for the image container */
 }
+
+.publication-image img {
+  height: auto; /* Maintain the aspect ratio */
+  width: 100%; /* Ensure the image fills the container horizontally */
+}
+
 
 .publication-details {
   flex-grow: 1; /* Expand to fill available space */
