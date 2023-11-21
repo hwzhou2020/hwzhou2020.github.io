@@ -1,0 +1,13 @@
+@article{10.1117/1.OE.61.7.073102,
+author = {Haowen Zhou and Cheng Shen and Mingshu Liang and Changhuei Yang},
+title = {Analysis of postreconstruction digital refocusing in Fourier ptychographic microscopy},
+volume = {61},
+journal = {Optical Engineering},
+number = {7},
+publisher = {SPIE},
+pages = {073102},
+keywords = {Fourier ptychography, phase retrieval, digital refocusing, Image processing, Microscopy, Phase retrieval, Digital imaging, Wavefronts, Imaging systems, Optical engineering, Image quality, Image segmentation, Stars},
+year = {2022},
+doi = {10.1117/1.OE.61.7.073102},
+URL = {https://doi.org/10.1117/1.OE.61.7.073102}
+}

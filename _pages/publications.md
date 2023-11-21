@@ -42,6 +42,158 @@ div.pub {
 </head>
 <body>
 
+<!-- pub 10 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Automatic_detection.png" alt="Automatic_detection" width="150" height="150">
+  </div>
+  <div class="publication-details">
+    <font size="4">
+      <span style="color: #191717;">
+        <strong>
+          Automatic detection of circulating tumor cells and cancer associated fibroblasts using deep learning
+        </strong>
+      </span>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+        Cheng Shen, Siddarth Rawal, Rebecca Brown, <span style="color: #213555;"><strong>Haowen Zhou,</strong></span> Ashutosh Agarwal, Mark A. Watson, Richard J. Cote, Changhuei Yang
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a href="https://doi.org/10.1038/s41598-023-32955-0" style="text-decoration: none;">
+        <span style="color: #4F709C;">Sci. Rep., 2022</span>
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Automatic_detection.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #4F709C;">(BibTex)</span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+        We build a fluorescent microscope with all-in-focus feature for circulating tumor cells and cancer-associated fibroblasts detections. The system outperforms the commercialized microscope systems and achieves high sensitivity and specificity in cell counting.
+      </span>
+    </font>
+  </div>
+</div>
+
+
+<!-- pub 9 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Anlysis_of.png" alt="Anlysis_of" width="150" height="150">
+  </div>
+  <div class="publication-details">
+    <font size="4">
+      <span style="color: #191717;">
+        <strong>
+          Analysis of postreconstruction digital refocusing in Fourier ptychographic microscopy
+        </strong>
+      </span>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+         <span style="color: #213555;"><strong>Haowen Zhou,</strong></span> Cheng Shen, Mingshu Liang, Changhuei Yang
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a href="https://doi.org/10.1117/1.OE.61.7.073102" style="text-decoration: none;">
+        <span style="color: #4F709C;">Opt. Eng., 2022</span>
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Anlysis_of.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #4F709C;">(BibTex)</span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+        We applied a thorough analysis in digital refocusing mechanism for Fourier ptychographic microscopy theoretically and experimentally. It explains why a simple propagation physical model cannot succeed in a post-reconstrution manner.
+      </span>
+    </font>
+  </div>
+</div>
+
+
+<!-- pub 8 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Dual_wave.png" alt="Dual_wave" width="150" height="150">
+  </div>
+  <div class="publication-details">
+    <font size="4">
+      <span style="color: #191717;">
+        <strong>
+          A review of the dual-wavelength technique for phase imaging and 3D topography
+        </strong>
+      </span>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+         <span style="color: #213555;"><strong>Haowen Zhou,</strong></span> Mallik Hussain, Partha P. Banerjee
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a href="https://www.light-am.com/article/pdf/preview/LAM2021090033.pdf" style="text-decoration: none;">
+        <span style="color: #4F709C;">Light Adv. Manuf., 2022</span>
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Dual_wave.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #4F709C;">(BibTex)</span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+        Transport of phase equation is a twin equation with transport of intensity equation, derived from the Helmholtz equation. The two equations can demonstrate the entire complex optical field and help amplitude-phase imaging.  
+      </span>
+    </font>
+  </div>
+</div>
+
+
+<!-- pub 7 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Non_recursive.png" alt="Non_recursive" width="150" height="150">
+  </div>
+  <div class="publication-details">
+    <font size="4">
+      <span style="color: #191717;">
+        <strong>
+          Use of structured light in 3D reconstruction of transparent objects
+        </strong>
+      </span>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+         <span style="color: #213555;"><strong>Haowen Zhou,</strong></span> Haiyun Guo, Partha P. Banerjee
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-61-5-B190" style="text-decoration: none;">
+        <span style="color: #4F709C;">Appl. Opt., 2022</span>
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Non_recursive.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #4F709C;">(BibTex)</span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+        Transport of phase equation is a twin equation with transport of intensity equation, derived from the Helmholtz equation. The two equations can demonstrate the entire complex optical field and help amplitude-phase imaging.  
+      </span>
+    </font>
+  </div>
+</div>
+
+
 <!-- pub 6 -->
 <div class="publication">
   <div class="publication-image">
@@ -58,7 +210,7 @@ div.pub {
     <br>
     <font size="3">
       <span style="color: #A4907C;">
-        Haiyun Guo, <span style="color: #213555;"><strong>Haowen Zhou</strong></span>, Partha P. Banerjee
+        Haiyun Guo, <span style="color: #213555;"><strong>Haowen Zhou,</strong></span> Partha P. Banerjee
       </span>
     </font>
     <br>
@@ -96,7 +248,7 @@ div.pub {
     <br>
     <font size="3">
       <span style="color: #A4907C;">
-        <span style="color: #213555;"><strong>Haowen Zhou</strong></span>, Elena Stoykova, Mallik Hussain, Partha P. Banerjee
+        <span style="color: #213555;"><strong>Haowen Zhou,</strong></span> Elena Stoykova, Mallik Hussain, Partha P. Banerjee
       </span>
     </font>
     <br>
@@ -133,7 +285,7 @@ div.pub {
     <br>
     <font size="3">
       <span style="color: #A4907C;">
-        Haiyun Guo, <span style="color: #213555;"><strong>Haowen Zhou</strong></span>, Partha P. Banerjee
+        Haiyun Guo, <span style="color: #213555;"><strong>Haowen Zhou,</strong></span> Partha P. Banerjee
       </span>
     </font>
     <br>
@@ -171,7 +323,7 @@ div.pub {
     <br>
     <font size="3">
       <span style="color: #A4907C;">
-        <span style="color: #213555;"><strong>Haowen Zhou</strong></span>, Xiaomeng Sui, Liangcai Cao, Partha P. Banerjee
+        <span style="color: #213555;"><strong>Haowen Zhou,</strong></span> Xiaomeng Sui, Liangcai Cao, Partha P. Banerjee
       </span>
     </font>
     <br>
@@ -209,7 +361,7 @@ div.pub {
     <br>
     <font size="3">
       <span style="color: #A4907C;">
-        Behzad Bordbar, <span style="color: #213555;"><strong>Haowen Zhou</strong></span>, Partha P. Banerjee
+        Behzad Bordbar, <span style="color: #213555;"><strong>Haowen Zhou,</strong></span> Partha P. Banerjee
       </span>
     </font>
     <br>
@@ -247,7 +399,7 @@ div.pub {
     <br>
     <font size="3">
       <span style="color: #A4907C;">
-        Qun Li*, Jiabin Wu, Liang Huang, Junfeng Gao, <span style="color: #213555;"><strong>Haowen Zhou</strong></span>, Yijie Shi, Qinhe Pan, Gang Zhang, Yu Du, Wenxi Liang
+        Qun Li*, Jiabin Wu*, Liang Huang, Junfeng Gao, <span style="color: #213555;"><strong>Haowen Zhou,</strong></span> Yijie Shi, Qinhe Pan, Gang Zhang, Yu Du, Wenxi Liang
       </span>
     </font>
     <br>
