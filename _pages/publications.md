@@ -18,12 +18,15 @@ div.pub {
 
 .publication-image {
   margin-right: 10px;
-  height: 250px; /* Set a fixed width for the image container */
+  width: 250px; /* Set a fixed width for the image container */
+  height: 250px; /* Set a fixed height for the image container */
+  overflow: hidden; /* Hide any overflowing content within the container */
 }
 
 .publication-image img {
-  height: 100%; /* Maintain the aspect ratio */
-  width: 100%; 
+  width: 100%; /* Ensure the image fills the container horizontally */
+  height: 100%; /* Ensure the image fills the container vertically */
+  object-fit: cover; /* Maintain aspect ratio and crop if necessary */
 }
 
 
