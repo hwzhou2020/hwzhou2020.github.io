@@ -11,7 +11,7 @@ div.pub {
   line-height: 120%;
 }
 
-.title-text {
+<!-- .title-text {
     color: #186F65 ; /* Dark Green */
     font-size: 4; /* Font size of 4 */
 }
@@ -19,7 +19,7 @@ div.pub {
 .author-text {
     color: gray ; /* Dark Green */
     font-size: 3; /* Font size of 4 */
-}
+} -->
 
 
 .publication {
@@ -108,7 +108,7 @@ doi = {10.1364/AO.58.00G197}},
 
 <div class="publication">
   <div class="publication-image">
-    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Sulfur.png" alt="Sulfur" width="100" height="100">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Sulfur.png" alt="Sulfur" width="250" height="250">
   </div>
   <div class="publication-details">
     <font size="4">
@@ -138,7 +138,7 @@ doi = {10.1364/AO.58.00G197}},
     <br>
     <font size="3">
       <span style="color: gray;">
-        We demonstrate the synthesis of gas-sensing materials for sulfur dioxide, namely, carbon nanotube networks based on zinc-doped zeolitic imidazolate frameworks (ZIF-67). The particles synthesized via bimetal co-doping of cobalt and zinc and the pyrolysis process possess a porous polyhedral morphology with abundant interconnecting carbon nanotubes (CNTs) on the surface, which results in significant sensitivity, cross-selectivity and durability towards SO2 at room temperature.
+        We demonstrate the synthesis of gas-sensing materials for sulfur dioxide (ZIF-67), which results in significant sensitivity, cross-selectivity and durability towards SO2 at room temperature.
       </span>
     </font>
   </div>
