@@ -59,21 +59,19 @@ div.pub {
       </span>
     </font>
     <br>
-    <font size="3" style="font-family: 'Font', Calibri Light;">
+    <font size="3">
       <span style="color: #D8C4B6;">
         <span style="color: #213555;"><strong>Haowen Zhou</strong></span>, Elena Stoykova, Mallik Hussain, Partha P. Banerjee
       </span>
     </font>
     <br>
-    <font size="3">
-      <span style="color: #4F709C;">
-        <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-60-4-A73" style="text-decoration: none;">
-          Appl. Opt., 2021
-        </a>
-        <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Performance_analysis.txt" style="text-decoration: none;">
-          &nbsp; &nbsp; (BibTex)
-        </a>
-      </span>
+    <font size="3" style="font-family: 'Font', Calibri Light;">
+      <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-60-4-A73" style="text-decoration: none;">
+        <span style="color: #4F709C;">Appl. Opt., 2021</span>
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Performance_analysis.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #4F709C;">(BibTex)</span>
+      </a>
     </font>
     <br>
     <font size="3">
@@ -104,15 +102,13 @@ div.pub {
       </span>
     </font>
     <br>
-    <font size="3">
-      <span style="color: #4F709C;">
+    <font size="3" style="font-family: 'Font', Calibri Light;">
         <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-60-4-A84" style="text-decoration: none;">
-          Appl. Opt., 2021
+          <span style="color: #4F709C;">Appl. Opt., 2021</span>
         </a>
         <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Single_shot.txt" style="text-decoration: none;">
-          &nbsp; &nbsp; (BibTex)
+          &nbsp; &nbsp;  <span style="color: #4F709C;">(BibTex)</span>
         </a>
-      </span>
     </font>
     <br>
     <font size="3">
@@ -144,15 +140,13 @@ div.pub {
       </span>
     </font>
     <br>
-    <font size="3">
-      <span style="color: #4F709C;">
-        <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G177" style="text-decoration: none;">
-          Appl. Opt., 2019
-        </a>
-        <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Digital_correlation.txt" style="text-decoration: none;">
-          &nbsp; &nbsp; (BibTex)
-        </a>
-      </span>
+    <font size="3" style="font-family: 'Font', Calibri Light;">
+      <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G177" style="text-decoration: none;">
+        <span style="color: #4F709C;">Appl. Opt., 2019</span>
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Digital_correlation.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #4F709C;">(BibTex)</span>
+      </a>
     </font>
     <br>
     <font size="3">
@@ -184,15 +178,13 @@ div.pub {
       </span>
     </font>
     <br>
-    <font size="3">
-      <span style="color: #4F709C;">
-        <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G197" style="text-decoration: none;">
-          Appl. Opt., 2019
-        </a>
-        <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/3D_object.txt" style="text-decoration: none;">
-          &nbsp; &nbsp; (BibTex)
-        </a>
-      </span>
+    <font size="3" style="font-family: 'Font', Calibri Light;">
+      <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G197" style="text-decoration: none;">
+        <span style="color: #4F709C;">Appl. Opt., 2019</span>
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/3D_object.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #4F709C;">(BibTex)</span>
+      </a>      
     </font>
     <br>
     <font size="3">
@@ -224,15 +216,13 @@ div.pub {
       </span>
     </font>
     <br>
-    <font size="3">
-      <span style="color: #818FB4;">
-        <a href="https://doi.org/10.1039/C8TA02036A" style="text-decoration: none;">
-          J. Mater. Chem. A, 2018
-        </a>
-        <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Sulfur_dioxide_gas-sensitive.txt" style="text-decoration: none;">
-          &nbsp; &nbsp; (BibTex)
-        </a>
-      </span>
+    <font size="3" style="font-family: 'Font', Calibri Light;">
+      <a href="https://doi.org/10.1039/C8TA02036A" style="text-decoration: none;">
+        <span style="color: #4F709C;"> J. Mater. Chem. A, 2018 </span>
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Sulfur_dioxide_gas-sensitive.txt" style="text-decoration: none;">
+        &nbsp; &nbsp; <span style="color: #4F709C;">(BibTex)</span>
+      </a>
     </font>
     <br>
     <font size="3">
