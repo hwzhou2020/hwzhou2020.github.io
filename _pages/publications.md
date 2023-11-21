@@ -12,9 +12,9 @@ div.pub {
 }
 
 .publication {
-  display: flex;
+  display: inline-block;
   width: 100%; /* Make the container full-width */
-  align-items: flex-start; /* Vertically align content to the top */
+  vertical-align: top; /* Vertically align content to the top */
   margin-bottom: 20px;
 }
 
@@ -36,7 +36,6 @@ div.pub {
   vertical-align: top;
   flex-grow: 1; /* Expand to fill available space */
 }
-
 
 
 /* Apply your other CSS styles for fonts, colors, links, etc. as needed */
