@@ -46,7 +46,7 @@ div.pub {
 <!-- pub 11 -->
 <div class="publication">
   <div class="publication-image">
-    <video src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/FPM-INR.mp4" alt="FPM-INR" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/FPM-INR.png" width="150" height="150">
   </div>
   <div class="publication-details">
     <font size="4">
