@@ -81,12 +81,7 @@ url = {https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G177},
 doi = {10.1364/AO.58.00G177},
 }
 ```
-
-2. 3D object recognition through processing of 2D holograms ([link](10.1364/AO.58.00G197))
-
-```
-
-``` -->
+ -->
 
 
 <!-- pub 2 -->
@@ -126,11 +121,9 @@ doi = {10.1364/AO.58.00G177},
       </span>
     </font>
   </div>
+  <br>
+  <br>
 </div>
-
-
-<br>
-<br>
 
 
 <!-- pub 1 -->
@@ -170,6 +163,8 @@ doi = {10.1364/AO.58.00G177},
       </span>
     </font>
   </div>
+  <br>
+  <br>
 </div>
 
 
