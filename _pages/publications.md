@@ -73,7 +73,7 @@ div.pub {
     <br>
     <font size="3">
       <span style="color: gray;">
-        We build a fluorescent microscope with all-in-focus feature for circulating tumor cells and cancer-associated fibroblasts detections. The system outperforms the commercialized microscope systems and achieves high sensitivity and specificity in cell counting.
+        We build an all-in-focus fluorescent microscope for circulating tumor cells and cancer-associated fibroblasts detections. The system outperforms the commercialized microscope systems and achieves high performances in cell counting.
       </span>
     </font>
   </div>
@@ -83,7 +83,7 @@ div.pub {
 <!-- pub 9 -->
 <div class="publication">
   <div class="publication-image">
-    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Anlysis_of.png" alt="Anlysis_of" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Analysis_of.png" alt="Anlysis_of" width="150" height="150">
   </div>
   <div class="publication-details">
     <font size="4">
@@ -104,14 +104,14 @@ div.pub {
       <a href="https://doi.org/10.1117/1.OE.61.7.073102" style="text-decoration: none;">
         <span style="color: #4F709C;">Opt. Eng., 2022</span>
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Anlysis_of.txt" style="text-decoration: none;">
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Analysis_of.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #4F709C;">(BibTex)</span>
       </a>
     </font>
     <br>
     <font size="3">
       <span style="color: gray;">
-        We applied a thorough analysis in digital refocusing mechanism for Fourier ptychographic microscopy theoretically and experimentally. It explains why a simple propagation physical model cannot succeed in a post-reconstrution manner.
+        We applied a thorough analysis in digital refocusing mechanism for Fourier ptychographic microscopy. It explains why a simple propagation physical model cannot succeed in a post-reconstrution manner.
       </span>
     </font>
   </div>
