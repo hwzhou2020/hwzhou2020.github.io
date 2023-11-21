@@ -42,7 +42,42 @@ div.pub {
 </head>
 <body>
 
-
+<!-- pub 6 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Use_of.png" alt="Use_of" width="150" height="150">
+  </div>
+  <div class="publication-details">
+    <font size="4">
+      <span style="color: #191717;">
+        <strong>
+          Use of structured light in 3D reconstruction of transparent objects
+        </strong>
+      </span>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+        Haiyun Guo, <span style="color: #213555;"><strong>Haowen Zhou</strong></span>, Partha P. Banerjee
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-61-5-B314" style="text-decoration: none;">
+        <span style="color: #4F709C;">Appl. Opt., 2022</span>
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Use_of.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #4F709C;">(BibTex)</span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+        A simple concept of light refraction due to a change of refractive index and curvature of the interface provides a straightforward way to reconstruct transparent phase objects with projected structured light. 
+      </span>
+    </font>
+  </div>
+</div>
 
 
 <!-- pub 5 -->
@@ -60,12 +95,12 @@ div.pub {
     </font>
     <br>
     <font size="3">
-      <span style="color: #D8C4B6;">
+      <span style="color: #A4907C;">
         <span style="color: #213555;"><strong>Haowen Zhou</strong></span>, Elena Stoykova, Mallik Hussain, Partha P. Banerjee
       </span>
     </font>
     <br>
-    <font size="3" style="font-family: 'Font', Calibri Light;">
+    <font size="3" style="font-family: 'Font', Calibri;">
       <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-60-4-A73" style="text-decoration: none;">
         <span style="color: #4F709C;">Appl. Opt., 2021</span>
       </a>
@@ -97,12 +132,12 @@ div.pub {
     </font>
     <br>
     <font size="3">
-      <span style="color: #D8C4B6;">
+      <span style="color: #A4907C;">
         Haiyun Guo, <span style="color: #213555;"><strong>Haowen Zhou</strong></span>, Partha P. Banerjee
       </span>
     </font>
     <br>
-    <font size="3" style="font-family: 'Font', Calibri Light;">
+    <font size="3" style="font-family: 'Font', Calibri;">
         <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-60-4-A84" style="text-decoration: none;">
           <span style="color: #4F709C;">Appl. Opt., 2021</span>
         </a>
@@ -135,12 +170,12 @@ div.pub {
     </font>
     <br>
     <font size="3">
-      <span style="color: #D8C4B6;">
+      <span style="color: #A4907C;">
         <span style="color: #213555;"><strong>Haowen Zhou</strong></span>, Xiaomeng Sui, Liangcai Cao, Partha P. Banerjee
       </span>
     </font>
     <br>
-    <font size="3" style="font-family: 'Font', Calibri Light;">
+    <font size="3" style="font-family: 'Font', Calibri;">
       <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G177" style="text-decoration: none;">
         <span style="color: #4F709C;">Appl. Opt., 2019</span>
       </a>
@@ -173,12 +208,12 @@ div.pub {
     </font>
     <br>
     <font size="3">
-      <span style="color: #D8C4B6;">
+      <span style="color: #A4907C;">
         Behzad Bordbar, <span style="color: #213555;"><strong>Haowen Zhou</strong></span>, Partha P. Banerjee
       </span>
     </font>
     <br>
-    <font size="3" style="font-family: 'Font', Calibri Light;">
+    <font size="3" style="font-family: 'Font', Calibri;">
       <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G197" style="text-decoration: none;">
         <span style="color: #4F709C;">Appl. Opt., 2019</span>
       </a>
@@ -211,12 +246,12 @@ div.pub {
     </font>
     <br>
     <font size="3">
-      <span style="color: #D8C4B6;">
+      <span style="color: #A4907C;">
         Qun Li*, Jiabin Wu, Liang Huang, Junfeng Gao, <span style="color: #213555;"><strong>Haowen Zhou</strong></span>, Yijie Shi, Qinhe Pan, Gang Zhang, Yu Du, Wenxi Liang
       </span>
     </font>
     <br>
-    <font size="3" style="font-family: 'Font', Calibri Light;">
+    <font size="3" style="font-family: 'Font', Calibri;">
       <a href="https://doi.org/10.1039/C8TA02036A" style="text-decoration: none;">
         <span style="color: #4F709C;"> J. Mater. Chem. A, 2018 </span>
       </a>
