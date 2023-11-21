@@ -23,7 +23,7 @@ div.pub {
 
 .publication-image img {
   height: 100%; /* Maintain the aspect ratio */
-  width: autp; /* Ensure the image fills the container horizontally */
+  width: auto; /* Ensure the image fills the container horizontally */
 }
 
 
