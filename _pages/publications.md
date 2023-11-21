@@ -12,7 +12,10 @@ div.pub {
 }
 
 .publication {
-  display: flex;
+  <!-- display: flex; -->
+  width: 400px; /* Set a fixed width for the container */
+  height: 300px; /* Set a fixed height for the container */
+  border: 1px solid #ccc; /* Optional: Add a border for visualization */
   align-items: flex-start; /* Vertically align content to the top */
 }
 
