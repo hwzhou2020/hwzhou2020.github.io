@@ -12,10 +12,8 @@ div.pub {
 }
 
 .publication {
-  <!-- display: flex; -->
-  width: 400px; /* Set a fixed width for the container */
-  height: 300px; /* Set a fixed height for the container */
-  border: 1px solid #ccc; /* Optional: Add a border for visualization */
+  display: flex;
+  width: 100%; /* Make the container full-width */
   align-items: flex-start; /* Vertically align content to the top */
 }
 
@@ -32,11 +30,9 @@ div.pub {
   object-fit: cover; /* Maintain aspect ratio and crop if necessary */
 }
 
-
 .publication-details {
   flex-grow: 1; /* Expand to fill available space */
 }
-
 
 /* Apply your other CSS styles for fonts, colors, links, etc. as needed */
 
