@@ -16,10 +16,10 @@ redirect_from:
       }
 
       .publication {
-        display: grid; /* Use grid display for layout */
-        grid-template-columns: 150px 1fr; /* Two columns: 150px for image, 1fr for text */
+        <!-- display: grid; /* Use grid display for layout */
+        grid-template-columns: 150px 1fr; /* Two columns: 150px for image, 1fr for text */ -->
         align-items: flex-start; /* Align items to the top */
-        gap: 10px; /* Add some gap between image and text */
+        <!-- gap: 10px; /* Add some gap between image and text */ -->
         margin-bottom: 5px;
       }
 
@@ -132,9 +132,9 @@ redirect_from:
 
 <!-- pub 11 -->
 <div class="publication">
-  <div class="publication-image">
+  <!-- <div class="publication-image">
     <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/FPM-INR.png" width="150" height="150">
-  </div>
+  </div> -->
   <div class="publication-details">
     <font size="4">
       <span style="color: #191717;">
