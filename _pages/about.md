@@ -8,42 +8,41 @@ redirect_from:
   - /about.html
 ---
 <html>
-<head>
-<link href='https://fonts.googleapis.com/css?family=Noto Sans' rel='stylesheet'>
-<style>
-div.pub {
-  line-height: 120%;
-}
+  <head>
+    <link href='https://fonts.googleapis.com/css?family=Noto Sans' rel='stylesheet'>
+    <style>
+      div.pub {
+        line-height: 120%;
+      }
 
-.publication {
-  display: grid; /* Use grid display for layout */
-  grid-template-columns: 150px 1fr; /* Two columns: 150px for image, 1fr for text */
-  align-items: flex-start; /* Align items to the top */
-  gap: 10px; /* Add some gap between image and text */
-  margin-bottom: 5px;
-}
+      .publication {
+        display: grid; /* Use grid display for layout */
+        grid-template-columns: 150px 1fr; /* Two columns: 150px for image, 1fr for text */
+        align-items: flex-start; /* Align items to the top */
+        gap: 10px; /* Add some gap between image and text */
+        margin-bottom: 5px;
+      }
 
-.publication-image {
-  margin-right: 10px;
-  width: 150px; /* Set a fixed width for the image container */
-  height: 150px; /* Set a fixed height for the image container */
-  overflow: hidden; /* Hide any overflowing content within the container */
-}
+      .publication-image {
+        margin-right: 10px;
+        width: 150px; /* Set a fixed width for the image container */
+        height: 150px; /* Set a fixed height for the image container */
+        overflow: hidden; /* Hide any overflowing content within the container */
+      }
 
-.publication-image img {
-  width: 100%; /* Ensure the image fills the container horizontally */
-  height: 100%; /* Ensure the image fills the container vertically */
-  object-fit: cover; /* Maintain aspect ratio and crop if necessary */
-}
+      .publication-image img {
+        width: 100%; /* Ensure the image fills the container horizontally */
+        height: 100%; /* Ensure the image fills the container vertically */
+        object-fit: cover; /* Maintain aspect ratio and crop if necessary */
+      }
 
-.publication-details {
-  display: inline-block;
-  vertical-align: top;
-  flex-grow: 1; /* Expand to fill available space */
-}
-
-</style>
-</head>
+      .publication-details {
+        display: inline-block;
+        vertical-align: top;
+        flex-grow: 1; /* Expand to fill available space */
+      }
+  </style>
+  </head>
 <body>
 
 <p align="justify">
@@ -155,7 +154,7 @@ div.pub {
     <br>
     <font size="3">
       <span style="color: gray;">
-        Fourier ptychographic microscope images the biological samples with high-resolution and large field-of-view simultaneously. However, this microscope faces challenges with long image stack reconstruction time and huge data volumes. The authors designed physics-based neural signal representations to tackle these challenges and showed potential in facilitating remote diagnosis, digital pathology, and efficient clinical data packaging..
+        Fourier ptychographic microscope images the biological samples with high-resolution and large field-of-view simultaneously. However, this microscope faces challenges with long image stack reconstruction time and huge data volumes. The authors designed physics-based neural signal representations to tackle these challenges and showed potential in facilitating remote diagnosis, digital pathology, and efficient clinical data packaging.
       </span>
     </font>
   </div>
