@@ -45,7 +45,7 @@ div.pub {
 </head>
 <body>
 
-<font size="3">
+<font size="4" style="font-family: 'Intro', Noto Sans;">
   I am a third year graduate student in the Department of Electrical Engineering at Caltech, supervised by 
   <a href="https://biophot.caltech.edu/" style="text-decoration: none;">
     <span style="color: #2D9596;"> Prof. Changhuei Yang.</span>
@@ -57,14 +57,9 @@ div.pub {
     <br>
     (b) Deep learning enabled methods for digital pathology.
   </p> 
-</font>
-
-<font size="3">
-    I am particularly interested in exploring how microscope systems, algorithms, and scientific applications interconnect.
-</font>
-<br>
-<br>
-<font size="3">
+  I am particularly interested in exploring how microscope systems, algorithms, and scientific applications interconnect.
+  <br>
+  <br>
   In 2021, I joined Caltech EE program and was sponsored by Sensing to Intelligence (S2I) Fellowship as a member of 
   <a href="https://s2i.caltech.edu/people/fellows" style="text-decoration: none;">
     <span style="color: #9AD0C2;">Naren and Vinita Gupta Fellows (2022).</span>
@@ -158,9 +153,8 @@ div.pub {
       </span>
     </font>
   </div>
-  <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/FPM-INR-Cover.jpg">
 </div>
-
+<img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/FPM-INR-Cover.jpg">
 
 <br>
 <font size="6">
