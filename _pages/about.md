@@ -9,6 +9,7 @@ redirect_from:
 ---
 <html>
 <head>
+<link href='https://fonts.googleapis.com/css?family=Noto Sans' rel='stylesheet'>
 <style>
 div.pub {
   line-height: 120%;
@@ -19,7 +20,7 @@ div.pub {
   grid-template-columns: 150px 1fr; /* Two columns: 150px for image, 1fr for text */
   align-items: flex-start; /* Align items to the top */
   gap: 10px; /* Add some gap between image and text */
-  margin-bottom: 45px;
+  margin-bottom: 5px;
 }
 
 .publication-image {
@@ -45,7 +46,7 @@ div.pub {
 </head>
 <body>
 
-<font size="4" style="font-family: 'Intro', Noto Sans;">
+<font size="4" style="font-family: Noto Sans;">
   I am a third year graduate student in the Department of Electrical Engineering at Caltech, supervised by 
   <a href="https://biophot.caltech.edu/" style="text-decoration: none;">
     <span style="color: #2D9596;"> Prof. Changhuei Yang.</span>
@@ -97,8 +98,7 @@ div.pub {
 
 <br>
 <br>
-<br>
-<font size="6">
+<font size="5">
   <strong>
     Selected Publications
   </strong>
@@ -157,7 +157,8 @@ div.pub {
 <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/FPM-INR-Cover.jpg">
 
 <br>
-<font size="6">
+<br>
+<font size="5">
   <strong>
     Teaching
   </strong>

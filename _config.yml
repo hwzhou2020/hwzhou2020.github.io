@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Haowen Zhou"
   avatar           : "profile.png"
-  bio              : "G3 Student @ Caltech EE"
+  bio              : "Caltech EE"
   location         : "Pasadena, CA"
-  employer         : "Caltech"
+  employer         : # "Caltech"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=feZDslgAAAAJ&hl=en"
   email            : "hzhou7@caltech.edu"
