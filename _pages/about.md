@@ -48,18 +48,20 @@ div.pub {
 
 <p align="justify">
   <font size="3" style="font-family: Noto Sans;">
-    I am a third year graduate student in the Department of Electrical Engineering at Caltech, supervised by 
+    I am a third-year graduate student in the Department of Electrical Engineering at Caltech, supervised by 
     <a href="https://biophot.caltech.edu/" style="text-decoration: none;">
       <span style="color: #EC8F5E;"> Prof. Changhuei Yang.</span>
     </a>
-    My current research involves two directions. 
+    My current research interests include: 
     <br>
     <p style="margin-left: 25px;">
-      (a) Computational microscopy with model-based and/or learning-based methods for biological and clinical applications; 
+      (a) <span style="color: #872341;"><strong>Computational microscopy</strong></span> with model-based or learning-based methods; 
       <br>
-      (b) Deep learning enabled methods for digital pathology.
+      (b) <span style="color: #872341;"><strong>Label-free microscopy</strong></span>, particular phase imaging, in clinical and biological applications;
+      <br>
+      (c) Vision-based deep learning methods for <span style="color: #872341;"><strong>digital pathology</strong></span>.
     </p> 
-    I am particularly interested in exploring how microscope systems, algorithms, and scientific applications interconnect.
+    My aspiration is to become an engineer-scientist who advances scientific discovery through innovative engineering designs.
     <br>
     <br>
     In 2021, I joined Caltech EE program and was sponsored by Sensing to Intelligence (S2I) Fellowship as a member of 
@@ -68,15 +70,15 @@ div.pub {
     </a>
     <br>
     <br>
-    Prior to Caltech, I received M.S. degree (Class of 2021) in Electro-Optics and Photonics at University of Dayton, Ohio, US, with full sponsor from 
+    Before coming to Caltech, I earned M.S. degree (Class of 2021) in Electro-Optics and Photonics at University of Dayton, Ohio, US, with full sponsorship from 
     <a href="https://udayton.edu/engineering/departments/electrooptics_grad/_resources/newsletters/2020-spring-newsletter.pdf" style="text-decoration: none;">
       <span style="color: #2D9596;">Dean's Fellowship (2019).</span>
     </a>
-    At Dayton, I was working on digital holography and phase retrieval, supervised by 
+    At Dayton, I focused on digital holography and phase retrieval, under the guidance of 
     <a href="https://udayton.edu/directory/engineering/electrical_and_computer/banerjee_partha.php" style="text-decoration: none;">
       <span style="color: #EC8F5E;">Prof. Partha P. Banerjee.</span>
     </a> 
-    In 2020-2021, I also served as the president of 
+    From 2020 to 2021, I also served as the president of 
     <a href="https://www.optica.org/about/" style="text-decoration: none;">
       <span style="color: #2D9596;">Optica</span>
     </a> 
@@ -91,14 +93,13 @@ div.pub {
     <a href="https://english.hust.edu.cn/" style="text-decoration: none;">
       <span style="color: #2D9596;">Huazhong University of Science and Technology (HUST)</span>
     </a> 
-    , Wuhan, China. In my undergraduate times, I worked on ultrafast dynamics and was supervised by 
+    , Wuhan, China. During my undergraduate years, I worked on ultrafast dynamics and was supervised by 
     <a href="http://lud.wnlo.hust.edu.cn/index_en.htm" style="text-decoration: none;">
       <span style="color: #EC8F5E;">Prof. Wenxi Liang.</span>
     </a> 
   </font>
 </p>
 
-<br>
 <br>
 <font size="5">
   <strong>
@@ -171,4 +172,12 @@ div.pub {
 <br>
 <font size="3">
   Caltech EE151 - Electromagnetic Engineering (Spring 2023)
+  <br>
+</font>
+<font size="3">
+  <p style="margin-left: 25px;">
+    <span style="color: gray;">
+      Foundations of circuit theory-electric fields, magnetic fields, transmission lines, and Maxwell's equations, with engineering applications.
+    </span>
+  </p>
 </font>
