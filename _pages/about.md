@@ -45,10 +45,10 @@ div.pub {
 </head>
 <body>
 
-<font size="4">
+<font size="3">
   I am a third year graduate student in the Department of Electrical Engineering at Caltech, supervised by 
   <a href="https://biophot.caltech.edu/" style="text-decoration: none;">
-    <span style="color: #435585;"> Prof. Changhuei Yang.</span>
+    <span style="color: #2D9596;"> Prof. Changhuei Yang.</span>
   </a>
   My current research involves two directions. 
   <br>
@@ -58,48 +58,45 @@ div.pub {
     (b) Deep learning enabled methods for digital pathology.
   </p> 
 </font>
-<br>
-<br>
-<font size="4">
+
+<font size="3">
     I am particularly interested in exploring how microscope systems, algorithms, and scientific applications interconnect.
 </font>
 <br>
 <br>
 <font size="3">
-  I joined Caltech EE program in 2021. At Caltech, I was sponsored by Sensing to Intelligence (S2I) Fellowship as a member of 
+  In 2021, I joined Caltech EE program and was sponsored by Sensing to Intelligence (S2I) Fellowship as a member of 
   <a href="https://s2i.caltech.edu/people/fellows" style="text-decoration: none;">
-    <span style="color: #435585;">Naren and Vinita Gupta Fellows (2022).</span>
+    <span style="color: #9AD0C2;">Naren and Vinita Gupta Fellows (2022).</span>
   </a>
+  <br>
   <br>
   Prior to Caltech, I received M.S. degree (Class of 2021) in Electro-Optics and Photonics at University of Dayton, Ohio, US, with full sponsor from 
   <a href="https://udayton.edu/engineering/departments/electrooptics_grad/_resources/newsletters/2020-spring-newsletter.pdf" style="text-decoration: none;">
-    <span style="color: #435585;">Dean's Fellowship (2019).</span>
+    <span style="color: #9AD0C2;">Dean's Fellowship (2019).</span>
   </a>
   At Dayton, I was working on digital holography and phase retrieval, supervised by 
   <a href="https://udayton.edu/directory/engineering/electrical_and_computer/banerjee_partha.php" style="text-decoration: none;">
-    <span style="color: #435585;">Prof. Partha P. Banerjee.</span>
+    <span style="color: #2D9596;">Prof. Partha P. Banerjee.</span>
   </a> 
   In 2020-2021, I also served as the president of 
   <a href="https://www.optica.org/about/" style="text-decoration: none;">
-    <span style="color: #435585;">Optica</span>
+    <span style="color: #9AD0C2;">Optica</span>
   </a> 
   and 
   <a href="http://spie.org" style="text-decoration: none;">
-    <span style="color: #435585;">SPIE</span>
+    <span style="color: #9AD0C2;">SPIE</span>
   </a> 
   student chapter at University Dayton, contributing to the optics and photonics community.
   <br>
-  In 2019, I received B.E. degree in Optoelectronic Information Science and Engineering from 
-  <a href="https://ses.hust.edu.cn/English.htm" style="text-decoration: none;">
-    <span style="color: #435585;">School of Engineering Sciences (SES) </span>
-  </a> 
-  at 
+  <br>
+  In 2019, I received B.E. degree in Optics from 
   <a href="https://english.hust.edu.cn/" style="text-decoration: none;">
-    <span style="color: #435585;">Huazhong University of Science and Technology (HUST)</span>
+    <span style="color: #9AD0C2;">Huazhong University of Science and Technology (HUST)</span>
   </a> 
   , Wuhan, China. In my undergraduate times, I worked on ultrafast dynamics and was supervised by 
   <a href="http://lud.wnlo.hust.edu.cn/index_en.htm" style="text-decoration: none;">
-    <span style="color: #435585;">Prof. Wenxi Liang.</span>
+    <span style="color: #2D9596;">Prof. Wenxi Liang.</span>
   </a> 
 </font>
 
@@ -111,14 +108,14 @@ div.pub {
     Selected Publications
   </strong>
 </font>
-
+<br>
 <font size="4">
   Full publication list 
   <a href="https://hwzhou2020.github.io/publications/" style="text-decoration: none;">
     <span style="color: #435585;">here</span>
   </a>
 </font>
-
+<br>
 <br>
 <!-- pub 11 -->
 <div class="publication">
@@ -157,14 +154,14 @@ div.pub {
     <br>
     <font size="3">
       <span style="color: gray;">
-        Fourier ptychographic microscope faces challenges with long image stack reconstruction time and huge data volumes. We designed physics-based neural signal representations to tackle these challenges and facilitates remote diagnosis, and efficient data packaging.
+        Fourier ptychographic microscope images the biological samples with high-resolution and large field-of-view simultaneously. However, this microscope faces challenges with long image stack reconstruction time and huge data volumes. The authors designed physics-based neural signal representations to tackle these challenges and showed potential in facilitating remote diagnosis, digital pathology, and efficient clinical data packaging..
       </span>
     </font>
   </div>
+  <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/FPM-INR-Cover.jpg">
 </div>
 
-<br>
-<br>
+
 <br>
 <font size="6">
   <strong>
