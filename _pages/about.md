@@ -56,7 +56,7 @@ redirect_from:
     <p style="margin-left: 25px;">
       (a) <span style="color: #872341;"><strong>Computational microscopy</strong></span> with model-based or learning-based methods; 
       <br>
-      (b) <span style="color: #872341;"><strong>Label-free microscopy</strong></span>, particular phase imaging, in clinical and biological applications;
+      (b) <span style="color: #872341;"><strong>Label-free microscopy</strong></span>, particularly phase imaging, in clinical and biological applications;
       <br>
       (c) Vision-based deep learning methods for <span style="color: #872341;"><strong>digital pathology</strong></span>.
     </p> 
