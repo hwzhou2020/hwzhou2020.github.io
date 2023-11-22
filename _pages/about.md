@@ -54,15 +54,15 @@ redirect_from:
     My current research interests include: 
     <br>
     <p style="margin-left: 25px;">
-      (a) <span style="color: #872341;"><strong>Computational microscopy</strong></span> with model-based or learning-based methods; 
+      (a) <span style="color: #872341;">Computational microscopy</span> with model-based or learning-based methods; 
       <br>
-      (b) <span style="color: #872341;"><strong>Label-free microscopy</strong></span>, particularly phase imaging, in clinical and biological applications;
+      (b) <span style="color: #872341;">Label-free microscopy</span>, particularly phase imaging, in clinical and biological applications;
       <br>
-      (c) Vision-based deep learning methods for <span style="color: #872341;"><strong>digital pathology</strong></span>.
+      (c) Vision-based deep learning methods for <span style="color: #872341;">digital pathology</span>.
     </p> 
     My aspiration is to become an engineer-scientist who advances scientific discovery through innovative engineering designs.
     <br>
-    <br>
+    <!-- <br>
     In 2021, I joined Caltech EE program and was sponsored by Sensing to Intelligence (S2I) Fellowship as a member of 
     <a href="https://s2i.caltech.edu/people/fellows" style="text-decoration: none;">
       <span style="color: #2D9596;">Naren and Vinita Gupta Fellows (2022).</span>
@@ -95,7 +95,7 @@ redirect_from:
     , Wuhan, China. During my undergraduate years, I worked on ultrafast dynamics and was supervised by 
     <a href="http://lud.wnlo.hust.edu.cn/index_en.htm" style="text-decoration: none;">
       <span style="color: #EC8F5E;">Prof. Wenxi Liang.</span>
-    </a> 
+    </a>  -->
   </font>
 </p>
 
