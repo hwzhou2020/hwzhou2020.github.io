@@ -102,6 +102,19 @@ redirect_from:
 <br>
 <font size="5">
   <strong>
+    News
+  </strong>
+</font>
+<br>
+<font size="3" style="font-family: Noto Sans;">
+  11/21/2023 - My personal homepage is online!
+  <br>
+  06/30/2021 - I joined Caltech Biophotonics Lab! 
+</font>
+
+<br>
+<font size="5">
+  <strong>
     Selected Publications
   </strong>
 </font>
@@ -181,5 +194,10 @@ redirect_from:
   </p>
 </font>
 
-
+<br>
+<font size="5">
+  <strong>
+    Vistor Map
+  </strong>
+</font>
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=552rn9jpev6&amp;m=7&amp;c=186f65&amp;cr1=b5cb99&amp;f=arial&amp;l=49" async="async"></script>
