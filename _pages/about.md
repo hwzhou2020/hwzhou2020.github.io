@@ -61,7 +61,6 @@ redirect_from:
       (c) Vision-based deep learning methods for <span style="color: #872341;">digital pathology</span>.
     </p> 
     My aspiration is to become an engineer-scientist who advances scientific discovery through innovative engineering designs.
-    <br>
     <!-- <br>
     In 2021, I joined Caltech EE program and was sponsored by Sensing to Intelligence (S2I) Fellowship as a member of 
     <a href="https://s2i.caltech.edu/people/fellows" style="text-decoration: none;">
@@ -195,11 +194,11 @@ redirect_from:
   </p>
 </font>
 
-<br>
+<!-- <br>
 <font size="5">
   <strong>
     Vistor Map
   </strong>
 </font>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ecf4d6&w=a&t=tt&d=_uUi94cpmcNCyRUHW_7GZIypCW8NCGmk_sE5ee3tpvc&co=265073&ct=ffffff&cmo=2d9596&cmn=9ad0c2'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ecf4d6&w=a&t=tt&d=_uUi94cpmcNCyRUHW_7GZIypCW8NCGmk_sE5ee3tpvc&co=265073&ct=ffffff&cmo=2d9596&cmn=9ad0c2'></script> -->
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=552rn9jpev6&amp;m=7&amp;c=186f65&amp;cr1=b5cb99&amp;f=arial&amp;l=49" async="async"></script> -->
