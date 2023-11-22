@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -46,7 +46,7 @@ div.pub {
 </head>
 <body>
 
-<font size="4" style="font-family: Noto Sans;">
+<font size="3" style="font-family: Noto Sans;">
   I am a third year graduate student in the Department of Electrical Engineering at Caltech, supervised by 
   <a href="https://biophot.caltech.edu/" style="text-decoration: none;">
     <span style="color: #2D9596;"> Prof. Changhuei Yang.</span>
@@ -63,13 +63,13 @@ div.pub {
   <br>
   In 2021, I joined Caltech EE program and was sponsored by Sensing to Intelligence (S2I) Fellowship as a member of 
   <a href="https://s2i.caltech.edu/people/fellows" style="text-decoration: none;">
-    <span style="color: #9AD0C2;">Naren and Vinita Gupta Fellows (2022).</span>
+    <span style="color: #265073;">Naren and Vinita Gupta Fellows (2022).</span>
   </a>
   <br>
   <br>
   Prior to Caltech, I received M.S. degree (Class of 2021) in Electro-Optics and Photonics at University of Dayton, Ohio, US, with full sponsor from 
   <a href="https://udayton.edu/engineering/departments/electrooptics_grad/_resources/newsletters/2020-spring-newsletter.pdf" style="text-decoration: none;">
-    <span style="color: #9AD0C2;">Dean's Fellowship (2019).</span>
+    <span style="color: #265073;">Dean's Fellowship (2019).</span>
   </a>
   At Dayton, I was working on digital holography and phase retrieval, supervised by 
   <a href="https://udayton.edu/directory/engineering/electrical_and_computer/banerjee_partha.php" style="text-decoration: none;">
@@ -77,18 +77,18 @@ div.pub {
   </a> 
   In 2020-2021, I also served as the president of 
   <a href="https://www.optica.org/about/" style="text-decoration: none;">
-    <span style="color: #9AD0C2;">Optica</span>
+    <span style="color: #265073;">Optica</span>
   </a> 
   and 
   <a href="http://spie.org" style="text-decoration: none;">
-    <span style="color: #9AD0C2;">SPIE</span>
+    <span style="color: #265073;">SPIE</span>
   </a> 
   student chapter at University Dayton, contributing to the optics and photonics community.
   <br>
   <br>
   In 2019, I received B.E. degree in Optics from 
   <a href="https://english.hust.edu.cn/" style="text-decoration: none;">
-    <span style="color: #9AD0C2;">Huazhong University of Science and Technology (HUST)</span>
+    <span style="color: #265073;">Huazhong University of Science and Technology (HUST)</span>
   </a> 
   , Wuhan, China. In my undergraduate times, I worked on ultrafast dynamics and was supervised by 
   <a href="http://lud.wnlo.hust.edu.cn/index_en.htm" style="text-decoration: none;">
@@ -164,6 +164,6 @@ div.pub {
   </strong>
 </font>
 <br>
-<font size="4">
+<font size="3">
   Caltech EE151 - Electromagnetic Engineering (Spring 2023)
 </font>
