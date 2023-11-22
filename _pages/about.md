@@ -53,9 +53,8 @@ div.pub {
   My current research involves two directions. 
   <br>
   <p style="margin-left: 25px;">
-    (a) Computational microscopy with model-based and/or learning-based methods for biological and clinical applications;
-  </p>
-  <p style="margin-left: 25px;">
+    (a) Computational microscopy with model-based and/or learning-based methods for biological and clinical applications; 
+    <br>
     (b) Deep learning enabled methods for digital pathology.
   </p> 
 </font>
@@ -64,32 +63,63 @@ div.pub {
 <font size="4">
     I am particularly interested in exploring how microscope systems, algorithms, and scientific applications interconnect.
 </font>
+<br>
+<br>
+<font size="3">
+  I joined Caltech EE program in 2021. At Caltech, I was sponsored by Sensing to Intelligence (S2I) Fellowship as a member of 
+  <a href="https://s2i.caltech.edu/people/fellows" style="text-decoration: none;">
+    <span style="color: #435585;">Naren and Vinita Gupta Fellows (2022).</span>
+  </a>
+  <br>
+  Prior to Caltech, I received M.S. degree (Class of 2021) in Electro-Optics and Photonics at University of Dayton, Ohio, US, with full sponsor from 
+  <a href="https://udayton.edu/engineering/departments/electrooptics_grad/_resources/newsletters/2020-spring-newsletter.pdf" style="text-decoration: none;">
+    <span style="color: #435585;">Dean's Fellowship (2019).</span>
+  </a>
+  At Dayton, I was working on digital holography and phase retrieval, supervised by 
+  <a href="https://udayton.edu/directory/engineering/electrical_and_computer/banerjee_partha.php" style="text-decoration: none;">
+    <span style="color: #435585;">Prof. Partha P. Banerjee.</span>
+  </a> 
+  In 2020-2021, I also served as the president of 
+  <a href="https://www.optica.org/about/" style="text-decoration: none;">
+    <span style="color: #435585;">Optica</span>
+  </a> 
+  and 
+  <a href="http://spie.org" style="text-decoration: none;">
+    <span style="color: #435585;">SPIE</span>
+  </a> 
+  student chapter at University Dayton, contributing to the optics and photonics community.
+  <br>
+  In 2019, I received B.E. degree in Optoelectronic Information Science and Engineering from 
+  <a href="https://ses.hust.edu.cn/English.htm" style="text-decoration: none;">
+    <span style="color: #435585;">School of Engineering Sciences (SES) </span>
+  </a> 
+  at 
+  <a href="https://english.hust.edu.cn/" style="text-decoration: none;">
+    <span style="color: #435585;">Huazhong University of Science and Technology (HUST)</span>
+  </a> 
+  , Wuhan, China. In my undergraduate times, I worked on ultrafast dynamics and was supervised by 
+  <a href="http://lud.wnlo.hust.edu.cn/index_en.htm" style="text-decoration: none;">
+    <span style="color: #435585;">Prof. Wenxi Liang.</span>
+  </a> 
+</font>
 
+<br>
+<br>
+<br>
+<font size="6">
+  <strong>
+    Selected Publications
+  </strong>
+</font>
 
+<font size="4">
+  Full publication list 
+  <a href="https://hwzhou2020.github.io/publications/" style="text-decoration: none;">
+    <span style="color: #435585;">here</span>
+  </a>
+</font>
 
-Education and Selected Fellowships
-------
-
-**California Insitute of Technology (2021 - )**
-- [Naren and Vinita Gupta Fellows (2022)](https://s2i.caltech.edu/people/fellows)
-
-**University of Dayton (2019 - 2021)**
-- [Dean's Fellow (2019)](https://udayton.edu/engineering/departments/electrooptics_grad/_resources/newsletters/2020-spring-newsletter.pdf)
-
-
-**Huazhong University of Science and technology (2015 - 2019)**
-- National Endeavor Scholarship Award of China (2016)
-
-
-Selected Publications
-------
-
-Full publication list at 
-<a href="https://hwzhou2020.github.io/publications/" style="text-decoration: none;">
-  <span style="color: #435585;">here</span>
-</a>
-
-
+<br>
 <!-- pub 11 -->
 <div class="publication">
   <div class="publication-image">
@@ -133,7 +163,15 @@ Full publication list at
   </div>
 </div>
 
-
-Teaching
-======
-Caltech EE151 - Electromagnetic Engineering (Spring 2023)
+<br>
+<br>
+<br>
+<font size="6">
+  <strong>
+    Teaching
+  </strong>
+</font>
+<br>
+<font size="4">
+  Caltech EE151 - Electromagnetic Engineering (Spring 2023)
+</font>
