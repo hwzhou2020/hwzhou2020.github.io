@@ -63,7 +63,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a href=" " style="text-decoration: none;">
+      <a href="https://doi.org/10.1364/OPTICA.505283" style="text-decoration: none;">
         <span style="color: #B2533E;">Optica, 2023</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/FPM-INR.txt" style="text-decoration: none;">
