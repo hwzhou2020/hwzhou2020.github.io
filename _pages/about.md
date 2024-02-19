@@ -47,14 +47,14 @@ redirect_from:
 
 <p align="justify">
   <font size="3" style="font-family: Noto Sans;">
-    I am a third-year graduate student in the Department of Electrical Engineering at Caltech, supervised by 
+    I am a PhD candidate in the Department of Electrical Engineering at Caltech, supervised by 
     <a href="https://biophot.caltech.edu/" style="text-decoration: none;">
       <span style="color: #EC8F5E;"> Prof. Changhuei Yang.</span>
     </a>
     My current research interests include: 
     <br>
     <p style="margin-left: 25px;">
-      (a) <span style="color: #872341;">Computational microscopy</span> with model-based or learning-based methods; 
+      (a) <span style="color: #872341;">Computational microscopy</span> with model-based or learning-assisted methods; 
       <br>
       (b) <span style="color: #872341;">Label-free microscopy</span>, particularly phase imaging, in clinical and biological applications;
       <br>
@@ -106,6 +106,8 @@ redirect_from:
 </font>
 <br>
 <font size="3" style="font-family: Noto Sans;">
+  02/14/2023 - I passed by candidacy exam!
+  <br>
   11/21/2023 - My personal homepage is online!
   <br>
   06/30/2021 - I joined Caltech Biophotonics Lab! 
