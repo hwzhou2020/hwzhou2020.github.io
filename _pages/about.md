@@ -54,11 +54,11 @@ redirect_from:
     My current research interests include: 
     <br>
     <p style="margin-left: 25px;">
-      (a) <span style="color: #872341;">Computational microscopy</span> with model-based or learning-assisted methods; 
+      (a) <span style="color: #872341;">Computational microscopy</span> with model-based methods; 
       <br>
-      (b) <span style="color: #872341;">Label-free microscopy</span>, particularly phase imaging, in clinical and biological applications;
+      (b) <span style="color: #872341;">Physics-based neural network</span> for microscopic imaging systems;
       <br>
-      (c) Vision-based deep learning methods for <span style="color: #872341;">digital pathology</span>.
+      (c) Vision-based learning-assisted methods with imaging system co-designs for <span style="color: #872341;">digital pathology</span>.
     </p> 
     My aspiration is to become an engineer-scientist who advances scientific discovery through innovative engineering designs.
     <!-- <br>
@@ -106,7 +106,7 @@ redirect_from:
 </font>
 <br>
 <font size="3" style="font-family: Noto Sans;">
-  02/14/2023 - I passed by candidacy exam!
+  02/14/2024 - I passed by candidacy exam!
   <br>
   11/21/2023 - My personal homepage is online!
   <br>
