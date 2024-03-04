@@ -106,6 +106,12 @@ redirect_from:
 </font>
 <br>
 <font size="3" style="font-family: Noto Sans;">
+  03/04/2024 - My new paper on "AI-guided histopathology predicts brain metastasis in lung cancer patients" is online today. Check my publication list <a href="https://hwzhou2020.github.io/publications/" style="text-decoration: none;">
+    <strong>
+      <span style="color: #FFFFFF;">here</span>
+    </strong>
+    </a>!
+  <br>
   02/14/2024 - I passed by candidacy exam!
   <br>
   11/21/2023 - My personal homepage is online!

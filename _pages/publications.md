@@ -42,6 +42,49 @@ author_profile: true
 <body>
 
 
+<!-- pub 12 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/AI_NSCLC.png" width="150" height="150">
+  </div>
+  <div class="publication-details">
+    <font size="4">
+      <span style="color: #191717;">
+        <strong>
+          AI-guided histopathology predicts brain metastasis in lung cancer patients
+        </strong>
+      </span>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+        <span style="color: #213555;"><strong>Haowen Zhou*,</strong></span> Mark Watson*, Cory T. Bernadt, Steven (Siyu) Lin, Chieh-yu Lin, Jon H. Ritter, Alexander Wein, Simon Mahler, Sid Rawal, Ramaswamy Govindan, Changhuei Yang, Richard J. Cote
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a href=" https://doi.org/10.1002/path.6263" style="text-decoration: none;">
+        <span style="color: #B2533E;">Journal of Pathology, 2024</span>
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/AI_NSCLC.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
+      </a>
+      <a href="https://github.com/hwzhou2020/NSCLC_ResNet" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #186F65;">[Code]</span>
+      </a>
+      <a href="https://doi.org/10.22002/dw66e-mbs82" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #FCE09B;">{Data}</span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+        Brain metastases can occur in nearly half of patients with early and locally advanced (stage I–III) non-small cell lung cancer (NSCLC). There are no reliable histopathologic or molecular means to identify those who are likely to develop brain metastases. We sought to determine if deep learning could be applied to routine H&E-stained primary tumor tissue sections from stage I–III NSCLC patients to predict the development of brain metastasis.
+      </span>
+    </font>
+  </div>
+</div>
+
 <!-- pub 11 -->
 <div class="publication">
   <div class="publication-image">
@@ -468,7 +511,7 @@ author_profile: true
 <font size="2">
   <br>
   <span style="color: gray;">
-    Updated on Nov. 22, 2023
+    Updated on Mar. 04, 2024
   </span>
 </font>
 
