@@ -106,6 +106,12 @@ redirect_from:
 </font>
 <br>
 <font size="3" style="font-family: Noto Sans;">
+  03/06/2024 - The new paper "AI-guided histopathology predicts brain metastasis in lung cancer patients" has been featured on the Caltech homepage. <a href="https://www.caltech.edu/about/news/using-ai-to-predict-the-spread-of-lung-cancer/" style="text-decoration: none;">
+    <strong>
+      <span style="color: #186F65;">News</span>
+    </strong>
+    </a>
+  <br>
   03/04/2024 - My new paper on "AI-guided histopathology predicts brain metastasis in lung cancer patients" is online today. Check my publication list <a href="https://hwzhou2020.github.io/publications/" style="text-decoration: none;">
     <strong>
       <span style="color: #000000;">here</span>
