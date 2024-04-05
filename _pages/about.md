@@ -56,7 +56,7 @@ redirect_from:
     <p style="margin-left: 25px;">
       (a) <span style="color: #872341;">Computational microscopy</span> with model-based methods; 
       <br>
-      (b) <span style="color: #872341;">Physics-based neural network</span> for microscopic imaging systems;
+      (b) <span style="color: #872341;">Physics-based neural network</span> for microscopic image reconstruction;
       <br>
       (c) Vision-based learning-assisted methods with imaging system co-designs for <span style="color: #872341;">digital pathology</span>.
     </p> 
@@ -197,7 +197,19 @@ redirect_from:
 </font>
 <br>
 <font size="3">
-  Caltech EE151 - Electromagnetic Engineering (TA for Spring 2023)
+  Caltech EE151 - Electromagnetic Engineering (Head TA for Spring 2024)
+  <br>
+</font>
+<font size="3">
+  <p style="margin-left: 25px;">
+    <span style="color: gray;">
+      Foundations of circuit theory-electric fields, magnetic fields, transmission lines, and Maxwell's equations, with engineering applications.
+    </span>
+  </p>
+</font>
+
+<font size="3">
+  Caltech EE151 - Electromagnetic Engineering (Head TA for Spring 2023)
   <br>
 </font>
 <font size="3">
