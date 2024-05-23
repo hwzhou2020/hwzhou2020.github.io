@@ -47,7 +47,7 @@ redirect_from:
 
 <p align="justify">
   <font size="3" style="font-family: Noto Sans;">
-    I am a PhD candidate in the Department of Electrical Engineering at Caltech, supervised by 
+    I am a PhD candidate in the Department of Electrical Engineering at Caltech, advised by 
     <a href="https://biophot.caltech.edu/" style="text-decoration: none;">
       <span style="color: #EC8F5E;"> Prof. Changhuei Yang.</span>
     </a>
