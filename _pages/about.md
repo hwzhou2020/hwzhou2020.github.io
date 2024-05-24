@@ -111,8 +111,7 @@ redirect_from:
     <strong>
       <span style="color: #186F65;">[Webpage]</span>
     </strong>
-    </a>
-  <br> 
+    </a> 
   <a href="/files/Haowen Zhou PR24.pdf" style="text-decoration: none;">
     <strong>
       <span style="color: #B2533E;">[PDF]</span>
@@ -180,7 +179,7 @@ redirect_from:
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a>
+      <a style="text-decoration: none;">
       <span style="color: #B2533E;">Optica, 2023</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/FPM-INR.txt" style="text-decoration: none;">

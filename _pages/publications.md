@@ -65,7 +65,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a>
+      <a style="text-decoration: none;">
         <span style="color: #B2533E;">Journal of Pathology, 2024</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/AI_NSCLC.txt" style="text-decoration: none;">
@@ -110,7 +110,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a>
+      <a style="text-decoration: none;">
         <span style="color: #B2533E;">Optica, 2023</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/FPM-INR.txt" style="text-decoration: none;">
@@ -156,7 +156,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a>
+      <a style="text-decoration: none;">
         <span style="color: #B2533E;">Sci. Rep., 2022</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Automatic_detection.txt" style="text-decoration: none;">
@@ -196,7 +196,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a>
+      <a style="text-decoration: none;">
         <span style="color: #B2533E;">Opt. Eng., 2022</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Analysis_of.txt" style="text-decoration: none;">
@@ -236,7 +236,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a>
+      <a style="text-decoration: none;">
         <span style="color: #B2533E;">Light Adv. Manuf., 2022</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Dual_wave.txt" style="text-decoration: none;">
@@ -276,7 +276,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a> 
+      <a style="text-decoration: none;"> 
         <span style="color: #B2533E;">Appl. Opt., 2022</span>
       </a>
       <a> &nbsp; &nbsp;
@@ -319,7 +319,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a>
+      <a style="text-decoration: none;">
         <span style="color: #B2533E;">Appl. Opt., 2022</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Use_of.txt" style="text-decoration: none;">
@@ -359,7 +359,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a>
+      <a style="text-decoration: none;">
         <span style="color: #B2533E;">Appl. Opt., 2021</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Performance_analysis.txt" style="text-decoration: none;">
@@ -398,7 +398,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-        <a>
+        <a style="text-decoration: none;">
           <span style="color: #B2533E;">Appl. Opt., 2021</span>
         </a>
         <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Single_shot.txt" style="text-decoration: none;">
@@ -438,7 +438,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a>
+      <a style="text-decoration: none;">
         <span style="color: #B2533E;">Appl. Opt., 2019</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Digital_correlation.txt" style="text-decoration: none;">
@@ -478,7 +478,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a>
+      <a style="text-decoration: none;">
         <span style="color: #B2533E;">Appl. Opt., 2019</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/3D_object.txt" style="text-decoration: none;">
@@ -518,7 +518,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a>
+      <a style="text-decoration: none;">
         <span style="color: #B2533E;"> J. Mater. Chem. A, 2018 </span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Sulfur_dioxide_gas-sensitive.txt" style="text-decoration: none;">
