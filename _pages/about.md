@@ -106,6 +106,19 @@ redirect_from:
 </font>
 <br>
 <font size="3" style="font-family: Noto Sans;">
+
+  05/24/2024 - I am awarded <strong> SPIE Optics and Photonics Scholarship </strong>. <a href="https://spie.org/membership/student-hub/scholarships/optics-and-photonics-education-scholarships/current-winners#_=_" style="text-decoration: none;">
+    <strong>
+      <span style="color: #186F65;">[Webpage]</span>
+    </strong>
+    </a>
+  <br> 
+  <a href="/files/Haowen Zhou PR24.pdf" style="text-decoration: none;">
+    <strong>
+      <span style="color: #B2533E;">[PDF]</span>
+    </strong>
+    </a>
+  <br> 
   03/06/2024 - The new paper "AI-guided histopathology predicts brain metastasis in lung cancer patients" has been featured on the Caltech homepage. <a href="https://www.caltech.edu/about/news/using-ai-to-predict-the-spread-of-lung-cancer/" style="text-decoration: none;">
     <strong>
       <span style="color: #186F65;">News</span>
@@ -114,15 +127,15 @@ redirect_from:
   <br>
   03/04/2024 - My new paper on "AI-guided histopathology predicts brain metastasis in lung cancer patients" is online today. Check my publication list <a href="https://hwzhou2020.github.io/publications/" style="text-decoration: none;">
     <strong>
-      <span style="color: #000000;">here</span>
+      <span style="color: #186F65;">here</span>
     </strong>
     </a>!
   <br>
-  02/14/2024 - I passed by candidacy exam!
+  02/14/2024 - I pass my candidacy exam!
   <br>
   11/21/2023 - My personal homepage is online!
   <br>
-  06/30/2021 - I joined Caltech Biophotonics Lab! 
+  06/30/2021 - I join Caltech Biophotonics Lab! 
 </font>
 
 <br>
@@ -151,11 +164,13 @@ redirect_from:
   </div> -->
   <div class="publication-details">
     <font size="4">
-      <span style="color: #191717;">
-        <strong>
-          FPM-INR: Fourier ptychographic microscopy image stack reconstruction using implicit neural representations
-        </strong>
-      </span>
+      <a href="https://doi.org/10.1364/OPTICA.505283" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            FPM-INR: Fourier ptychographic microscopy image stack reconstruction using implicit neural representations
+          </strong>
+        </span>
+      </a>
     </font>
     <br>
     <font size="3">
@@ -165,8 +180,8 @@ redirect_from:
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a href="https://doi.org/10.1364/OPTICA.505283" style="text-decoration: none;">
-        <span style="color: #B2533E;">Optica, 2023</span>
+      <a>
+      <span style="color: #B2533E;">Optica, 2023</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/FPM-INR.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>

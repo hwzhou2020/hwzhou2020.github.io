@@ -49,11 +49,13 @@ author_profile: true
   </div>
   <div class="publication-details">
     <font size="4">
-      <span style="color: #191717;">
-        <strong>
-          AI-guided histopathology predicts brain metastasis in lung cancer patients
-        </strong>
-      </span>
+      <a href=" https://doi.org/10.1002/path.6263" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            12. AI-guided histopathology predicts brain metastasis in lung cancer patients
+          </strong>
+        </span>
+      </a>
     </font>
     <br>
     <font size="3">
@@ -63,7 +65,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a href=" https://doi.org/10.1002/path.6263" style="text-decoration: none;">
+      <a>
         <span style="color: #B2533E;">Journal of Pathology, 2024</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/AI_NSCLC.txt" style="text-decoration: none;">
@@ -92,11 +94,13 @@ author_profile: true
   </div>
   <div class="publication-details">
     <font size="4">
-      <span style="color: #191717;">
-        <strong>
-          FPM-INR: Fourier ptychographic microscopy image stack reconstruction using implicit neural representations
-        </strong>
-      </span>
+      <a href="https://doi.org/10.1364/OPTICA.505283" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            11. FPM-INR: Fourier ptychographic microscopy image stack reconstruction using implicit neural representations
+          </strong>
+        </span>
+      </a>
     </font>
     <br>
     <font size="3">
@@ -106,7 +110,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a href="https://doi.org/10.1364/OPTICA.505283" style="text-decoration: none;">
+      <a>
         <span style="color: #B2533E;">Optica, 2023</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/FPM-INR.txt" style="text-decoration: none;">
@@ -136,11 +140,13 @@ author_profile: true
   </div>
   <div class="publication-details">
     <font size="4">
-      <span style="color: #191717;">
-        <strong>
-          Automatic detection of circulating tumor cells and cancer associated fibroblasts using deep learning
-        </strong>
-      </span>
+      <a href="https://doi.org/10.1038/s41598-023-32955-0" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            10. Automatic detection of circulating tumor cells and cancer associated fibroblasts using deep learning
+          </strong>
+        </span>
+      </a>
     </font>
     <br>
     <font size="3">
@@ -150,7 +156,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a href="https://doi.org/10.1038/s41598-023-32955-0" style="text-decoration: none;">
+      <a>
         <span style="color: #B2533E;">Sci. Rep., 2022</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Automatic_detection.txt" style="text-decoration: none;">
@@ -174,11 +180,13 @@ author_profile: true
   </div>
   <div class="publication-details">
     <font size="4">
-      <span style="color: #191717;">
-        <strong>
-          Analysis of postreconstruction digital refocusing in Fourier ptychographic microscopy
-        </strong>
-      </span>
+      <a href="https://doi.org/10.1117/1.OE.61.7.073102" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            9. Analysis of postreconstruction digital refocusing in Fourier ptychographic microscopy
+          </strong>
+        </span>
+      </a>
     </font>
     <br>
     <font size="3">
@@ -188,7 +196,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a href="https://doi.org/10.1117/1.OE.61.7.073102" style="text-decoration: none;">
+      <a>
         <span style="color: #B2533E;">Opt. Eng., 2022</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Analysis_of.txt" style="text-decoration: none;">
@@ -212,11 +220,13 @@ author_profile: true
   </div>
   <div class="publication-details">
     <font size="4">
-      <span style="color: #191717;">
-        <strong>
-          A review of the dual-wavelength technique for phase imaging and 3D topography
-        </strong>
-      </span>
+      <a href="https://www.light-am.com/article/pdf/preview/LAM2021090033.pdf" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            8. A review of the dual-wavelength technique for phase imaging and 3D topography
+          </strong>
+        </span>
+      </a>
     </font>
     <br>
     <font size="3">
@@ -226,7 +236,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a href="https://www.light-am.com/article/pdf/preview/LAM2021090033.pdf" style="text-decoration: none;">
+      <a>
         <span style="color: #B2533E;">Light Adv. Manuf., 2022</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Dual_wave.txt" style="text-decoration: none;">
@@ -250,11 +260,13 @@ author_profile: true
   </div>
   <div class="publication-details">
     <font size="4">
-      <span style="color: #191717;">
-        <strong>
-          Use of structured light in 3D reconstruction of transparent objects
-        </strong>
-      </span>
+      <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-61-5-B190" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            7. Non-recursive transport of intensity phase retrieval with the transport of phase
+          </strong>
+        </span>
+      </a>
     </font>
     <br>
     <font size="3">
@@ -264,8 +276,11 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-61-5-B190" style="text-decoration: none;">
+      <a> 
         <span style="color: #B2533E;">Appl. Opt., 2022</span>
+      </a>
+      <a> &nbsp; &nbsp;
+        <span style="color: #186F65;"><strong>Editor's Pick</strong> </span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Non_recursive.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
@@ -288,11 +303,13 @@ author_profile: true
   </div>
   <div class="publication-details">
     <font size="4">
-      <span style="color: #191717;">
-        <strong>
-          Use of structured light in 3D reconstruction of transparent objects
-        </strong>
-      </span>
+      <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-61-5-B314" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            6. Use of structured light in 3D reconstruction of transparent objects
+          </strong>
+        </span>
+      </a>
     </font>
     <br>
     <font size="3">
@@ -302,7 +319,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-61-5-B314" style="text-decoration: none;">
+      <a>
         <span style="color: #B2533E;">Appl. Opt., 2022</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Use_of.txt" style="text-decoration: none;">
@@ -326,11 +343,13 @@ author_profile: true
   </div>
   <div class="publication-details">
     <font size="4">
-      <span style="color: #191717;">
-        <strong>
-          Performance analysis of phase retrieval using transport of intensity with digital holography [Invited]
-        </strong>
-      </span>
+      <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-60-4-A73" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            5. Performance analysis of phase retrieval using transport of intensity with digital holography [Invited]
+          </strong>
+        </span>
+      </a>
     </font>
     <br>
     <font size="3">
@@ -340,7 +359,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-60-4-A73" style="text-decoration: none;">
+      <a>
         <span style="color: #B2533E;">Appl. Opt., 2021</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Performance_analysis.txt" style="text-decoration: none;">
@@ -363,11 +382,13 @@ author_profile: true
   </div>
   <div class="publication-details">
     <font size="4">
-      <span style="color: #191717;">
-        <strong>
-          Single-shot digital phase-shifting Moiré patterns for 3D topography
-        </strong>
-      </span>
+      <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-60-4-A84" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            4. Single-shot digital phase-shifting Moiré patterns for 3D topography
+          </strong>
+        </span>
+      </a>
     </font>
     <br>
     <font size="3">
@@ -377,7 +398,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-        <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-60-4-A84" style="text-decoration: none;">
+        <a>
           <span style="color: #B2533E;">Appl. Opt., 2021</span>
         </a>
         <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Single_shot.txt" style="text-decoration: none;">
@@ -401,11 +422,13 @@ author_profile: true
   </div>
   <div class="publication-details">
     <font size="4">
-      <span style="color: #191717;">
-        <strong>
-          Digital correlation of computer-generated holograms for 3D face recognition
-        </strong>
-      </span>
+      <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G177" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            3. Digital correlation of computer-generated holograms for 3D face recognition
+          </strong>
+        </span>
+      </a>
     </font>
     <br>
     <font size="3">
@@ -415,7 +438,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G177" style="text-decoration: none;">
+      <a>
         <span style="color: #B2533E;">Appl. Opt., 2019</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Digital_correlation.txt" style="text-decoration: none;">
@@ -439,11 +462,13 @@ author_profile: true
   </div>
   <div class="publication-details">
     <font size="4">
-      <span style="color: #191717;">
-        <strong>
-          3D object recognition through processing of 2D holograms
-        </strong>
-      </span>
+      <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G197" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            2. 3D object recognition through processing of 2D holograms
+          </strong>
+        </span>
+        </a>
     </font>
     <br>
     <font size="3">
@@ -453,7 +478,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a href="https://opg.optica.org/ao/abstract.cfm?URI=ao-58-34-G197" style="text-decoration: none;">
+      <a>
         <span style="color: #B2533E;">Appl. Opt., 2019</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/3D_object.txt" style="text-decoration: none;">
@@ -477,11 +502,13 @@ author_profile: true
   </div>
   <div class="publication-details">
     <font size="4">
-      <span style="color: #191717;">
-        <strong>
-          Sulfur dioxide gas-sensitive materials based on zeolitic imidazolate framework-derived carbon nanotubes
-        </strong>
-      </span>
+      <a href="https://doi.org/10.1039/C8TA02036A" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            1. Sulfur dioxide gas-sensitive materials based on zeolitic imidazolate framework-derived carbon nanotubes
+          </strong>
+        </span>
+      </a>
     </font>
     <br>
     <font size="3">
@@ -491,7 +518,7 @@ author_profile: true
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
-      <a href="https://doi.org/10.1039/C8TA02036A" style="text-decoration: none;">
+      <a>
         <span style="color: #B2533E;"> J. Mater. Chem. A, 2018 </span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Sulfur_dioxide_gas-sensitive.txt" style="text-decoration: none;">
@@ -511,7 +538,7 @@ author_profile: true
 <font size="2">
   <br>
   <span style="color: gray;">
-    Updated on Apr. 04, 2024
+    Updated on May. 24, 2024
   </span>
 </font>
 
