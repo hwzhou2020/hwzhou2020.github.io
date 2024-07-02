@@ -60,7 +60,7 @@ author_profile: true
     <br>
     <font size="3">
       <span style="color: #A4907C;">
-        Siyuan Yin, Ruizhi Cao, Mingshu Liang, Cheng Shen, <span style="color: #213555;"><strong>Haowen Zhou*,</strong></span> Oumeng Zhang, Changhuei Yang
+        Siyuan Yin, Ruizhi Cao, Mingshu Liang, Cheng Shen, <span style="color: #213555;"><strong>Haowen Zhou,</strong></span> Oumeng Zhang, Changhuei Yang
       </span>
     </font>
     <br>
