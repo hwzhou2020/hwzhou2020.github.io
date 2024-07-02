@@ -67,6 +67,8 @@ author_profile: true
     <font size="3" style="font-family: 'Font', Calibri;">
       <a style="text-decoration: none;">
         <span style="color: #B2533E;">Optics Express, 2024</span>
+        &nbsp; &nbsp;
+        <span style="color: #186F65;"><strong>Editor's Pick</strong> </span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Can_DL.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
@@ -115,6 +117,12 @@ author_profile: true
       </a>
       <a href="https://doi.org/10.22002/dw66e-mbs82" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #FCE09B;">{Data}</span>
+      </a>
+      <a href="https://www.caltech.edu/about/news/using-ai-to-predict-the-spread-of-lung-cancer/" style="text-decoration: none;">
+      &nbsp; &nbsp;
+      <strong>
+        <span style="color: #B2533E;">News</span>
+      </strong>
       </a>
     </font>
     <br>
@@ -317,8 +325,8 @@ author_profile: true
     <font size="3" style="font-family: 'Font', Calibri;">
       <a style="text-decoration: none;"> 
         <span style="color: #B2533E;">Appl. Opt., 2022</span>
-      </a>
-      <a> &nbsp; &nbsp;
+        <a href="https://udayton.edu/blogs/engineering/2022/22-03-07-eop-digital-holography.php" style="text-decoration: none;">
+        &nbsp; &nbsp;
         <span style="color: #186F65;"><strong>Editor's Pick</strong> </span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Non_recursive.txt" style="text-decoration: none;">
