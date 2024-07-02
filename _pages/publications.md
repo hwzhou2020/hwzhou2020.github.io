@@ -70,6 +70,7 @@ author_profile: true
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Can_DL.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
+      </a>
     </font>
     <br>
     <font size="3">
