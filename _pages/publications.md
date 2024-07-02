@@ -42,6 +42,44 @@ author_profile: true
 <body>
 
 
+<!-- pub 13 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Can_DL.png" width="150" height="150">
+  </div>
+  <div class="publication-details">
+    <font size="4">
+      <a href="https://doi.org/10.1364/OE.527986" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            13. Can deep neural networks work with amplitude and phase input of defocused images?
+          </strong>
+        </span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+        Siyuan Yin, Ruizhi Cao, Mingshu Liang, Cheng Shen, <span style="color: #213555;"><strong>Haowen Zhou*,</strong></span> Oumeng Zhang, Changhuei Yang
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a style="text-decoration: none;">
+        <span style="color: #B2533E;">Optics Express, 2024</span>
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Can_DL.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+        We assess the feasibility of employing neural networks to directly process full amplitude and phase data from a defocus plane without digital refocusing. Our specific focus lies in understanding the tolerance for defocus in image classification neural networks when amplitude and phase are taken as inputs.
+      </span>
+    </font>
+  </div>
+</div>
+
 <!-- pub 12 -->
 <div class="publication">
   <div class="publication-image">
@@ -538,7 +576,7 @@ author_profile: true
 <font size="2">
   <br>
   <span style="color: gray;">
-    Updated on May. 24, 2024
+    Updated on July 02, 2024
   </span>
 </font>
 

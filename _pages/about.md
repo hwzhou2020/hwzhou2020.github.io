@@ -116,7 +116,12 @@ redirect_from:
     <strong>
       <span style="color: #B2533E;">[PDF]</span>
     </strong>
-    </a>
+  </a>
+  <a href="https://www.ee.caltech.edu/news/haowen-zhou-awarded-spie-optics-and-photonics-scholarship" style="text-decoration: none;">
+    <strong>
+      <span style="color: #186F65;">[News]</span>
+    </strong>
+  </a>
   <br> 
   03/06/2024 - The new paper "AI-guided histopathology predicts brain metastasis in lung cancer patients" has been featured on the Caltech homepage. <a href="https://www.caltech.edu/about/news/using-ai-to-predict-the-spread-of-lung-cancer/" style="text-decoration: none;">
     <strong>
@@ -130,11 +135,11 @@ redirect_from:
     </strong>
     </a>!
   <br>
-  02/14/2024 - I pass my candidacy exam!
+  02/14/2024 - I passed my candidacy exam!
   <br>
   11/21/2023 - My personal homepage is online!
   <br>
-  06/30/2021 - I join Caltech Biophotonics Lab! 
+  06/30/2021 - I joined Caltech Biophotonics Lab! 
 </font>
 
 <br>
