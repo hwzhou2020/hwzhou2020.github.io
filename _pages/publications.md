@@ -325,7 +325,8 @@ author_profile: true
     <font size="3" style="font-family: 'Font', Calibri;">
       <a style="text-decoration: none;"> 
         <span style="color: #B2533E;">Appl. Opt., 2022</span>
-        <a href="https://udayton.edu/blogs/engineering/2022/22-03-07-eop-digital-holography.php" style="text-decoration: none;">
+      </a>
+      <a href="https://udayton.edu/blogs/engineering/2022/22-03-07-eop-digital-holography.php" style="text-decoration: none;">
         &nbsp; &nbsp;
         <span style="color: #186F65;"><strong>Editor's Pick</strong> </span>
       </a>
