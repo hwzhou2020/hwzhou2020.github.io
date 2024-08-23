@@ -39,13 +39,63 @@ author_profile: true
   }
 </style>
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J4XRR1S1L4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J4XRR1S1L4');
+</script>
 <body>
+
+
+<!-- pub 14 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/CFAST.png" width="150" height="150">
+  </div>
+  <div class="publication-details">
+    <font size="4">
+      <a href="https://doi.org/10.1073/pnas.2403122121" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            14. Investigating 3D microbial community dynamics of the rhizosphere using quantitative phase and fluorescence microscopy
+          </strong>
+        </span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+        Oumeng Zhang*, Reinaldo E Alcalde, <span style="color: #213555;"><strong>Haowen Zhou,</strong></span> Siyuan Yin, Dianne K Newman, Changhuei Yang
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a style="text-decoration: none;">
+        <span style="color: #B2533E;">Proceedings of the National Academy of Sciences (PNAS), 2024</span>
+        &nbsp; &nbsp;
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/CFAST.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+        we introduce complex-field and fluorescence microscopy using the aperture scanning technique (CFAST), an innovative imaging system merging three-dimensional (3D) fluorescence with quantitative phase imaging. CFAST’s exceptional depth of field enables efficient 3D volume scanning, reducing bleaching risks associated with traditional fluorescence imaging. Its noninvasive approach facilitates observing interactions and gene expression within and among bacterial taxa, even those not yet genetically tractable.
+      </span>
+    </font>
+  </div>
+</div>
 
 
 <!-- pub 13 -->
 <div class="publication">
   <div class="publication-image">
-    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Can_DL.png" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Can_DL_2.png" width="150" height="150">
   </div>
   <div class="publication-details">
     <font size="4">
@@ -586,7 +636,7 @@ author_profile: true
 <font size="2">
   <br>
   <span style="color: gray;">
-    Updated on July 02, 2024
+    Updated on Aug. 22, 2024
   </span>
 </font>
 

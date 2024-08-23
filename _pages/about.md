@@ -43,6 +43,15 @@ redirect_from:
       }
   </style>
   </head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-J4XRR1S1L4"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-J4XRR1S1L4');
+  </script>
 <body>
 
 <p align="justify">
@@ -107,6 +116,12 @@ redirect_from:
 <br>
 <font size="3" style="font-family: Noto Sans;">
 
+  08/06/2024 - Our new paper titled "Investigating 3D microbial community dynamics of the rhizosphere using quantitative phase and fluorescence microscopy" is online at <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2403122121" style="text-decoration: none;">
+    <strong>
+      <span style="color: #B2533E;">PNAS</span>
+    </strong>
+  </a>. 
+  <br>
   05/24/2024 - I am awarded <strong> SPIE Optics and Photonics Scholarship </strong>. <a href="https://spie.org/membership/student-hub/scholarships/optics-and-photonics-education-scholarships/current-winners#_=_" style="text-decoration: none;">
     <strong>
       <span style="color: #186F65;">[Webpage]</span>
