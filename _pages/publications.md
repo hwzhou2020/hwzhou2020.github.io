@@ -85,7 +85,7 @@ author_profile: true
     <br>
     <font size="3">
       <span style="color: gray;">
-        we introduce complex-field and fluorescence microscopy using the aperture scanning technique (CFAST), an innovative imaging system merging three-dimensional (3D) fluorescence with quantitative phase imaging. CFAST’s exceptional depth of field enables efficient 3D volume scanning, reducing bleaching risks associated with traditional fluorescence imaging. Its noninvasive approach facilitates observing interactions and gene expression within and among bacterial taxa, even those not yet genetically tractable.
+        We introduce complex-field and fluorescence microscopy using the aperture scanning technique (CFAST), an innovative imaging system merging three-dimensional (3D) fluorescence with quantitative phase imaging. CFAST’s exceptional depth of field enables efficient 3D volume scanning, reducing bleaching risks associated with traditional fluorescence imaging. Its noninvasive approach facilitates observing interactions and gene expression within and among bacterial taxa, even those not yet genetically tractable.
       </span>
     </font>
   </div>
