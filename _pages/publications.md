@@ -69,7 +69,7 @@ author_profile: true
     <br>
     <font size="3">
       <span style="color: #A4907C;">
-        Oumeng Zhang*, Reinaldo E Alcalde, <span style="color: #213555;"><strong>Haowen Zhou,</strong></span> Siyuan Yin, Dianne K Newman, Changhuei Yang
+        Oumeng Zhang*, Reinaldo E Alcalde*, <span style="color: #213555;"><strong>Haowen Zhou,</strong></span> Siyuan Yin, Dianne K Newman, Changhuei Yang
       </span>
     </font>
     <br>
