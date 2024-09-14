@@ -125,6 +125,11 @@ redirect_from:
       <span style="color: #B2533E;">PNAS</span>
     </strong>
   </a>. 
+  <a href="https://www.science.org/doi/10.1126/science.adt0513" style="text-decoration: none;">
+    <strong>
+      <span style="color: #186F65;">[Science.org News]</span>
+    </strong>
+  </a>
   <br>
   05/24/2024 - I am awarded <strong> SPIE Optics and Photonics Scholarship </strong>. <a href="https://spie.org/membership/student-hub/scholarships/optics-and-photonics-education-scholarships/current-winners#_=_" style="text-decoration: none;">
     <strong>

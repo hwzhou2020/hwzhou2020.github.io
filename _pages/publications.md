@@ -51,6 +51,49 @@ author_profile: true
 <body>
 
 
+<!-- pub 15 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/WSI-APIC.png" width="150" height="150">
+  </div>
+  <div class="publication-details">
+    <font size="4">
+      <a href="https://doi.org/10.1364/BOE.538148" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            15. Efficient, gigapixel-scale, aberration-free whole slide scanner using angular ptychographic imaging with closed-form solution
+          </strong>
+        </span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+        Shi Zhao*, <span style="color: #213555;"><strong>Haowen Zhou*,</strong></span> Siyu Lin, Ruizhi Cao, Changhuei Yang
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a style="text-decoration: none;">
+        <span style="color: #B2533E;">Biomendical Optics Express, 2024</span>
+        &nbsp; &nbsp;
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/WSI-APIC.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
+      </a>
+      <a href="https://github.com/Magishe/WSI-APIC" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #186F65;">[Code & Data]</span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+        We report a whole slide imaging system based on angular ptychographic imaging with a closed-form solution (WSI-APIC), which offers efficient, tens-of-gigapixels, large-FOV, aberration-free imaging. We customize the optical system design for pathology slide scanning and boost the algorithm with GPU-acceleration. 
+      </span>
+    </font>
+  </div>
+</div>
+
 <!-- pub 14 -->
 <div class="publication">
   <div class="publication-image">
@@ -636,7 +679,7 @@ author_profile: true
 <font size="2">
   <br>
   <span style="color: gray;">
-    Updated on Aug. 22, 2024
+    Updated on Sept. 14, 2024
   </span>
 </font>
 
