@@ -120,6 +120,13 @@ redirect_from:
 <br>
 <font size="3" style="font-family: Noto Sans;">
 
+  12/03/2024 - I am awarded Schmidt Academy for Software Engineering Graduate Research Fellowship. The support will start on Jan. 1st, 2025 for contributions to the algorithm and software development towards computational microscopy, specifically Fourier Ptychographic Microscopy. 
+  <a href="https://sase.caltech.edu/people/gra-fellows.html" style="text-decoration: none;">
+    <strong>
+      <span style="color: #186F65;">[Schmidt Academy GRA Fellows]</span>
+    </strong>
+  </a>
+  <br>
   08/06/2024 - Our new paper titled "Investigating 3D microbial community dynamics of the rhizosphere using quantitative phase and fluorescence microscopy" is online at <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2403122121" style="text-decoration: none;">
     <strong>
       <span style="color: #B2533E;">PNAS</span>
