@@ -247,7 +247,7 @@ redirect_from:
     </font>
   </div>
 </div>
-<img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/SVF_Cover.jpg">
+<img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/SVF_cover.jpg">
 
 <br>
 <br>
