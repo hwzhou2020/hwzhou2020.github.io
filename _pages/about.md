@@ -74,40 +74,6 @@ redirect_from:
       (c) Vision-based learning-assisted methods with imaging system co-designs for <span style="color: #872341;">digital pathology</span>.
     </p> 
     My aspiration is to become an engineer-scientist who advances scientific discovery through innovative engineering designs.
-    <!-- <br>
-    In 2021, I joined Caltech EE program and was sponsored by Sensing to Intelligence (S2I) Fellowship as a member of 
-    <a href="https://s2i.caltech.edu/people/fellows" style="text-decoration: none;">
-      <span style="color: #2D9596;">Naren and Vinita Gupta Fellows (2022).</span>
-    </a>
-    <br>
-    <br>
-    Before coming to Caltech, I earned M.S. degree (Class of 2021) in Electro-Optics and Photonics at University of Dayton, Ohio, US, with full sponsorship from 
-    <a href="https://udayton.edu/engineering/departments/electrooptics_grad/_resources/newsletters/2020-spring-newsletter.pdf" style="text-decoration: none;">
-      <span style="color: #2D9596;">Dean's Fellowship (2019).</span>
-    </a>
-    At Dayton, I focused on digital holography and phase retrieval, under the guidance of 
-    <a href="https://udayton.edu/directory/engineering/electrical_and_computer/banerjee_partha.php" style="text-decoration: none;">
-      <span style="color: #EC8F5E;">Prof. Partha P. Banerjee.</span>
-    </a> 
-    From 2020 to 2021, I also served as the president of 
-    <a href="https://www.optica.org/about/" style="text-decoration: none;">
-      <span style="color: #2D9596;">Optica</span>
-    </a> 
-    and 
-    <a href="http://spie.org" style="text-decoration: none;">
-      <span style="color: #2D9596;">SPIE</span>
-    </a> 
-    student chapter at University Dayton, contributing to the optics and photonics community.
-    <br>
-    <br>
-    In 2019, I received B.E. degree in Optics from 
-    <a href="https://english.hust.edu.cn/" style="text-decoration: none;">
-      <span style="color: #2D9596;">Huazhong University of Science and Technology (HUST)</span>
-    </a> 
-    , Wuhan, China. During my undergraduate years, I worked on ultrafast dynamics and was supervised by 
-    <a href="http://lud.wnlo.hust.edu.cn/index_en.htm" style="text-decoration: none;">
-      <span style="color: #EC8F5E;">Prof. Wenxi Liang.</span>
-    </a>  -->
   </font>
 </p>
 
@@ -239,8 +205,53 @@ redirect_from:
 <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/FPM-INR-Cover.jpg">
 
 <br>
+
+<!-- pub 17 -->
+<div class="publication">
+  <!-- <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/FPM-INR.png" width="150" height="150">
+  </div> -->
+  <div class="publication-details">
+    <font size="4">
+      <a href="https://arxiv.org/pdf/2405.10463" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            Single-shot volumetric fluorescence imaging with neural fields
+          </strong>
+        </span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+        Oumeng Zhang*, <span style="color: #213555;"><strong>Haowen Zhou*,</strong></span> Brandon Y Feng, Elin M Larsson, Reinaldo E Alcalde, Siyuan Yin, Catherine Deng, Changhuei Yang
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a style="text-decoration: none;">
+      <span style="color: #B2533E;">arXiv, 2024</span>
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/svf.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
+      </a>
+      <a href="https://hwzhou2020.github.io/SVF-Web/" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #186F65;">[Project Page]</span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+        Single-shot volumetric fluorescence (SVF) imaging captures biological processes with high temporal resolution and a large field of view, unlike traditional methods requiring multiple axial plane scans. Existing SVF methods often face limitations due to large, complex point spread functions (PSFs), affecting signal-to-noise ratio, resolution, and field of view. The paper introduces the QuadraPol PSF combined with neural fields, using a compact custom polarizer and a polarization camera to detect fluorescence and encode the 3D scene within a compact PSF without depth ambiguity. This approach, coupled with a novel reconstruction algorithm, significantly reduces acquisition time by approximately 20 times and captures a 100 mm³ volume in one shot, demonstrated through imaging bacterial colonies and plant root morphology.
+      </span>
+    </font>
+  </div>
+</div>
+<img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/SVF-Cover.jpg">
+
 <br>
-<font size="5">
+<br>
+<!-- <font size="5">
   <strong>
     Teaching
   </strong>
@@ -268,7 +279,7 @@ redirect_from:
       Foundations of circuit theory-electric fields, magnetic fields, transmission lines, and Maxwell's equations, with engineering applications.
     </span>
   </p>
-</font>
+</font> -->
 
 <!-- <br> -->
 
