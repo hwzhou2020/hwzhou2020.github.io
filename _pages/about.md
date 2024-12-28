@@ -232,7 +232,7 @@ redirect_from:
       <a style="text-decoration: none;">
       <span style="color: #B2533E;">arXiv, 2024</span>
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/svf.txt" style="text-decoration: none;">
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/SVF.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
       <a href="https://hwzhou2020.github.io/SVF-Web/" style="text-decoration: none;">
@@ -247,7 +247,7 @@ redirect_from:
     </font>
   </div>
 </div>
-<img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/SVF-Cover.jpg">
+<img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/SVF_Cover.jpg">
 
 <br>
 <br>
