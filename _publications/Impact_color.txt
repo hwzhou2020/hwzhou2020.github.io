@@ -1,0 +1,10 @@
+@article{article,
+author = {Lin, Siyu and Zhou, Haowen and Watson, Mark and Govindan, Ramaswamy and Cote, Richard and Yang, Changhuei},
+year = {2025},
+month = {01},
+pages = {2369},
+title = {Impact of stain variation and color normalization for prognostic predictions in pathology},
+volume = {15},
+journal = {Scientific Reports},
+doi = {10.1038/s41598-024-83267-w}
+}

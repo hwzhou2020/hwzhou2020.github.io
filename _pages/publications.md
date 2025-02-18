@@ -51,7 +51,90 @@ author_profile: true
 <body>
 
 
-<!-- pub 15 -->
+<!-- pub 18 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/SVF.png" width="150" height="150">
+  </div>
+  <div class="publication-details">
+    <font size="4">
+      <a href="https://arxiv.org/pdf/2405.10463" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            18. Single-shot volumetric fluorescence imaging with neural fields
+          </strong>
+        </span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+        Oumeng Zhang*, <span style="color: #213555;"><strong>Haowen Zhou*,</strong></span> Brandon Y Feng, Elin M Larsson, Reinaldo E Alcalde, Siyuan Yin, Catherine Deng, Changhuei Yang
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a style="text-decoration: none;">
+        <span style="color: #B2533E;">Advanced Photonics (In press), 2025</span>
+        &nbsp; &nbsp;
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/SVF.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
+      </a>
+      <a href="https://hwzhou2020.github.io/SVF-Web/" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #186F65;">[Project Page]</span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+        Single-shot volumetric fluorescence imaging captures biological processes with high temporal resolution and a large field of view, unlike traditional methods requiring multiple axial plane scans. Existing SVF methods often face limitations due to large, complex point spread functions, affecting signal-to-noise ratio, resolution, and field of view. The paper introduces the QuadraPol PSF combined with neural fields, using a compact custom polarizer and a polarization camera to detect fluorescence and encode the 3D scene within a compact PSF without depth ambiguity. This approach, coupled with a novel reconstruction algorithm, significantly reduces acquisition time by approximately 20 times and captures a 100 mm³ volume in one shot, demonstrated through imaging bacterial colonies and plant root morphology. 
+      </span>
+    </font>
+  </div>
+</div>
+
+<!-- pub 17 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Impact_color.png" width="150" height="150">
+  </div>
+  <div class="publication-details">
+    <font size="4">
+      <a href="https://doi.org/10.1038/s41598-024-83267-w" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            17. Impact of stain variation and color normalization for prognostic predictions in pathology
+          </strong>
+        </span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+        Siyu Lin, <span style="color: #213555;"><strong>Haowen Zhou,</strong></span> Mark Watson, Ramaswamy Govindan, Richard J. Cote, Changhuei Yang
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a style="text-decoration: none;">
+        <span style="color: #B2533E;">Scientific Reports, 2025</span>
+        &nbsp; &nbsp;
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Impact_color.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+        We show that a well-trained DNN model trained on one batch of histological slides failed to generalize to another batch prepared at a different time from the same tissue blocks, even when stain normalization methods were applied. The impact of color consistenct will affect the generalization issues in deep learning for digital pathology studies. 
+      </span>
+    </font>
+  </div>
+</div>
+
+<!-- pub 16 -->
 <div class="publication">
   <div class="publication-image">
     <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/WSI-APIC.png" width="150" height="150">
@@ -61,7 +144,7 @@ author_profile: true
       <a href="https://doi.org/10.1364/BOE.538148" style="text-decoration: none;">
         <span style="color: #191717;">
           <strong>
-            15. Efficient, gigapixel-scale, aberration-free whole slide scanner using angular ptychographic imaging with closed-form solution
+            16. Efficient, gigapixel-scale, aberration-free whole slide scanner using angular ptychographic imaging with closed-form solution
           </strong>
         </span>
       </a>
@@ -94,7 +177,7 @@ author_profile: true
   </div>
 </div>
 
-<!-- pub 14 -->
+<!-- pub 15 -->
 <div class="publication">
   <div class="publication-image">
     <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/CFAST.png" width="150" height="150">
@@ -104,7 +187,7 @@ author_profile: true
       <a href="https://doi.org/10.1073/pnas.2403122121" style="text-decoration: none;">
         <span style="color: #191717;">
           <strong>
-            14. Investigating 3D microbial community dynamics of the rhizosphere using quantitative phase and fluorescence microscopy
+            15. Investigating 3D microbial community dynamics of the rhizosphere using quantitative phase and fluorescence microscopy
           </strong>
         </span>
       </a>
@@ -129,6 +212,47 @@ author_profile: true
     <font size="3">
       <span style="color: gray;">
         We introduce complex-field and fluorescence microscopy using the aperture scanning technique (CFAST), an innovative imaging system merging three-dimensional (3D) fluorescence with quantitative phase imaging. CFAST’s exceptional depth of field enables efficient 3D volume scanning, reducing bleaching risks associated with traditional fluorescence imaging. Its noninvasive approach facilitates observing interactions and gene expression within and among bacterial taxa, even those not yet genetically tractable.
+      </span>
+    </font>
+  </div>
+</div>
+
+
+<!-- pub 14 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Length_scale.png" width="150" height="150">
+  </div>
+  <div class="publication-details">
+    <font size="4">
+      <a href="https://doi.org/10.1038/s41598-024-73428-2" style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            14. Length-scale study in deep learning prediction for non-small cell lung cancer brain metastasis
+          </strong>
+        </span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+        <span style="color: #213555;"><strong>Haowen Zhou,</strong></span> Siyu Lin, Mark Watson, Cory T. Bernadt, Oumeng Zhang, Ling Liao, Ramaswamy Govindan, Richard J. Cote, Changhuei Yang
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a style="text-decoration: none;">
+        <span style="color: #B2533E;">Scientific Reports, 2024</span>
+        &nbsp; &nbsp;
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Length_scale.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+        As deep neural network (DNN) architectures grow in size and complexity, their explainability decreases, posing challenges in interpreting pathology features for broader clinical insights into physiological diseases. To better assess the interpretability of digital microscopic images and guide future microscopic system design, we developed a novel method to study the predictive feature length-scale that underpins a DNN’s predictive power.
       </span>
     </font>
   </div>

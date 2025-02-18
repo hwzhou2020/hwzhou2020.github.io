@@ -67,11 +67,9 @@ redirect_from:
     My current research interests include: 
     <br>
     <p style="margin-left: 25px;">
-      (a) <span style="color: #872341;">Computational microscopy</span> with model-based methods; 
+      (a) Computational microscopy for label-free imaging; 
       <br>
-      (b) <span style="color: #872341;">Physics-based neural network</span> for microscopic image reconstruction;
-      <br>
-      (c) Vision-based learning-assisted methods with imaging system co-designs for <span style="color: #872341;">digital pathology</span>.
+      (b) Hardware and software co-deisgn for biomedical applications.
     </p> 
     My aspiration is to become an engineer-scientist who advances scientific discovery through innovative engineering designs.
   </font>
@@ -86,7 +84,7 @@ redirect_from:
 <br>
 <font size="3" style="font-family: Noto Sans;">
 
-  12/03/2024 - I am awarded Schmidt Academy for Software Engineering Graduate Research Fellowship. The support will start on Jan. 1st, 2025 for contributions to the algorithm and software development towards computational microscopy, specifically Fourier Ptychographic Microscopy. 
+  12/03/2024 - I am awarded Schmidt Academy for Software Engineering Graduate Research Fellowship. The support will start on Jan. 2025 for contributions to the algorithm and software development towards computational microscopy, specifically Fourier Ptychographic Microscopy. 
   <a href="https://sase.caltech.edu/people/gra-fellows.html" style="text-decoration: none;">
     <strong>
       <span style="color: #186F65;">[Schmidt Academy GRA Fellows]</span>
@@ -230,13 +228,16 @@ redirect_from:
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
       <a style="text-decoration: none;">
-      <span style="color: #B2533E;">arXiv, 2024</span>
+      <span style="color: #B2533E;">Advanced Photonics (In press), 2025</span>
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/SVF.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
       <a href="https://hwzhou2020.github.io/SVF-Web/" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #186F65;">[Project Page]</span>
+      </a>
+      <a href="https://osf.io/4a5ws/" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #FCE09B;">{Data}</span>
       </a>
     </font>
     <br>

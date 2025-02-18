@@ -1,0 +1,10 @@
+@article{zhou2024length,
+  title={Length-scale study in deep learning prediction for non-small cell lung cancer brain metastasis},
+  author={Zhou*, Haowen and Lin*, Siyu and Watson, Mark and Bernadt, Cory T and Zhang, Oumeng and Liao, Ling and Govindan, Ramaswamy and Cote, Richard J and Yang, Changhuei},
+  journal={Scientific Reports},
+  volume={14},
+  number={1},
+  pages={22328},
+  year={2024},
+  publisher={Nature Publishing Group UK}
+}
