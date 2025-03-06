@@ -58,7 +58,7 @@ author_profile: true
   </div>
   <div class="publication-details">
     <font size="4">
-      <a href="https://arxiv.org/pdf/2405.10463" style="text-decoration: none;">
+      <a href="https://doi.org/10.1117/1.AP.7.2.026001" style="text-decoration: none;">
         <span style="color: #191717;">
           <strong>
             18. Single-shot volumetric fluorescence imaging with neural fields
@@ -75,7 +75,7 @@ author_profile: true
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
       <a style="text-decoration: none;">
-        <span style="color: #B2533E;">Advanced Photonics (In press), 2025</span>
+        <span style="color: #B2533E;">Advanced Photonics, 2025</span>
         &nbsp; &nbsp;
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/SVF.txt" style="text-decoration: none;">
@@ -88,7 +88,7 @@ author_profile: true
     <br>
     <font size="3">
       <span style="color: gray;">
-        Single-shot volumetric fluorescence imaging captures biological processes with high temporal resolution and a large field of view, unlike traditional methods requiring multiple axial plane scans. Existing SVF methods often face limitations due to large, complex point spread functions, affecting signal-to-noise ratio, resolution, and field of view. The paper introduces the QuadraPol PSF combined with neural fields, using a compact custom polarizer and a polarization camera to detect fluorescence and encode the 3D scene within a compact PSF without depth ambiguity. This approach, coupled with a novel reconstruction algorithm, significantly reduces acquisition time by approximately 20 times and captures a 100 mm³ volume in one shot, demonstrated through imaging bacterial colonies and plant root morphology. 
+        Single-shot volumetric fluorescence imaging captures biological processes with high temporal resolution and a large field of view, unlike traditional methods requiring multiple axial plane scans. The paper introduces a QuadraPol PSF combined with neural fields, using a compact custom polarizer and a polarization camera to detect fluorescence and encode the 3D scene within a compact PSF without depth ambiguity. This approach significantly reduces acquisition time by approximately 20 times and captures a 100 mm³ volume in one shot, demonstrated through imaging bacterial colonies and plant root morphology. 
       </span>
     </font>
   </div>
@@ -800,12 +800,12 @@ author_profile: true
 </div>
 
 
-<font size="2">
+<!-- <font size="2">
   <br>
   <span style="color: gray;">
     Updated on Sept. 14, 2024
   </span>
-</font>
+</font> -->
 
 
 

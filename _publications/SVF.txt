@@ -1,8 +1,10 @@
-@misc{zhang2024singleshot,
-      title={Single-shot volumetric fluorescence imaging with neural fields},
-      author={Oumeng Zhang and Haowen Zhou and Brandon Y. Feng and Elin M. Larsson and Reinaldo E. Alcalde and Siyuan Yin and Catherine Deng and Changhuei Yang},
-      year={2024},
-      eprint={2405.10463},
-      archivePrefix={arXiv},
-      primaryClass={physics.optics}
-  }
+@article{zhang2025single,
+  title={Single-shot volumetric fluorescence imaging with neural fields},
+  author={Zhang, Oumeng and Zhou, Haowen and Feng, Brandon Y and Larsson, Elin M and Alcalde, Reinaldo E and Yin, Siyuan and Deng, Catherine and Yang, Changhuei},
+  journal={Advanced Photonics},
+  volume={7},
+  number={2},
+  pages={026001--026001},
+  year={2025},
+  publisher={Society of Photo-Optical Instrumentation Engineers}
+}
