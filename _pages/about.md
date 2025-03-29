@@ -67,9 +67,9 @@ redirect_from:
     My current research interests include: 
     <br>
     <p style="margin-left: 25px;">
-      (a) Computational microscopy for label-free imaging; 
+      (a) Computational microscopy - empowering imaging techqniues with algorithms; 
       <br>
-      (b) System and algorithm co-deisgn for biomedical applications.
+      (b) Synergizing microscopy, computation and artificial intelligence to advance life science.
     </p> 
     My aspiration is to become an engineer-scientist who advances scientific discovery through innovative engineering designs.
   </font>
