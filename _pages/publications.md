@@ -54,6 +54,47 @@ author_profile: true
 <!-- pub 18 -->
 <div class="publication">
   <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Dome.png" width="150" height="150">
+  </div>
+  <div class="publication-details">
+    <font size="4">
+      <a href="https://doi.org/10.1364/BOE.555541" 
+      style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            19. Dome-APIC illumination design for high space-bandwidth product analytic imaging
+          </strong>
+        </span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+        Siyu (Steven) Lin, <span style="color: #213555;"><strong>Haowen Zhou,</strong></span> Ruizhi Cao, Shi Zhao, Oumeng Zhang, Changhuei Yang
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a style="text-decoration: none;">
+        <span style="color: #B2533E;">Biomedical Optics Express, 2025</span>
+        &nbsp; &nbsp;
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Dome.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+        We introduce an illumination framework tailored for Angular Ptychographic Imaging with Close-form method (APIC) consisting of a distant annular LED ring and an LED dome that enables the reconstruction of a larger area with an extended synthetic numerical aperture, consequently enhancing resolution. 
+      </span>
+    </font>
+  </div>
+</div>
+
+<!-- pub 18 -->
+<div class="publication">
+  <div class="publication-image">
     <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/SVF.png" width="150" height="150">
   </div>
   <div class="publication-details">
