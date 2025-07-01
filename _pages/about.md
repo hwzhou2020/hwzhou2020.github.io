@@ -84,6 +84,14 @@ redirect_from:
 <br>
 <font size="3" style="font-family: Noto Sans;">
 
+  06/04/2025 - I delivered an invited talk in ESE Seminar Series at Washington University in St. Louis, titled "Empowering microsopes with physics-based computation" <a href="https://happenings.wustl.edu/event/ese-seminar-series-haowen-zhou" style="text-decoration: none;">
+    <strong>
+      <span style="color: #B2533E;">[Talk page]</span>
+    </strong>
+  </a>
+  <br>
+  04/30/2025 - I delivered an invited talk in Computer Vision Seminar Series at University of Maryland, College Park, titled "Syngergizing microscopy and computation to advance life science research" <!-- https://talks.cs.umd.edu/talks/4206 -->
+  <br>
   02/25/2025 - Check out our new paper "Single-shot volumetric fluorescence imaging with neural fields" on Advanced Photonics <a href="https://doi.org/10.1117/1.AP.7.2.026001" style="text-decoration: none;">
     <strong>
       <span style="color: #B2533E;">[paper link]</span>
