@@ -312,7 +312,7 @@ redirect_from:
     </font>
   </div>
 </div>
-<img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/Jpath-cover.avif">
+<img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/Jpath-cover.jpg">
 
 <br>
 <br>
