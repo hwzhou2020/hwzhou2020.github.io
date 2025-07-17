@@ -172,11 +172,8 @@ redirect_from:
 <br>
 
 
-<!-- pub 18 -->
+<!-- pub 19 -->
 <div class="publication">
-  <!-- <div class="publication-image">
-    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/FPM-INR.png" width="150" height="150">
-  </div> -->
   <div class="publication-details">
     <font size="4">
       <a href="https://arxiv.org/abs/2507.10867" style="text-decoration: none;">
@@ -223,9 +220,6 @@ redirect_from:
 
 <!-- pub 18 -->
 <div class="publication">
-  <!-- <div class="publication-image">
-    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/FPM-INR.png" width="150" height="150">
-  </div> -->
   <div class="publication-details">
     <font size="4">
       <a href="https://arxiv.org/abs/2504.16247" style="text-decoration: none;">
