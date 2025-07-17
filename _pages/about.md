@@ -163,10 +163,10 @@ redirect_from:
   Full publication list 
   <a href="https://hwzhou2020.github.io/publications/" style="text-decoration: none;">
     <strong>
-      <span style="color: #435585;">here</span>
+      <span style="color: #435585;">here. </span>
     </strong>
   </a>
-  Clicke
+  Clicking paper titles will direct to the preprint or paper page.
 </font>
 <br>
 <br>
