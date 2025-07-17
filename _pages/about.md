@@ -201,7 +201,7 @@ redirect_from:
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/DAbI.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
-      <a href="https://mrdongzhenyu.github.io/DAbI-Web/" style="text-decoration: none;">
+      <a href="https://hwzhou2020.github.io/DAbI-Web/" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #186F65;">[Project Page & Code]</span>
       </a>
       <a href="https://osf.io/dvztc/" style="text-decoration: none;">
@@ -394,7 +394,7 @@ redirect_from:
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
       <a href="https://hwzhou2020.github.io/FPM-INR-Web/" style="text-decoration: none;">
-        &nbsp; &nbsp;  <span style="color: #186F65;">[Project Page]</span>
+        &nbsp; &nbsp;  <span style="color: #186F65;">[Project Page & Code]</span>
       </a>
       <a href="https://doi.org/10.22002/7aer7-qhf77" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #FCE09B;">{Data}</span>
