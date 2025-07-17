@@ -1,0 +1,9 @@
+@misc{zhou2025digitaldefocusaberrationinterference,
+      title={Digital defocus aberration interference for automated optical microscopy}, 
+      author={Haowen Zhou and Shi Zhao and Yujie Fan and Zhenyu Dong and Oumeng Zhang and Viviana Gradinaru and Changhuei Yang},
+      year={2025},
+      eprint={2507.10867},
+      archivePrefix={arXiv},
+      primaryClass={physics.optics},
+      url={https://arxiv.org/abs/2507.10867}, 
+}
