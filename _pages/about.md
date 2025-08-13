@@ -85,6 +85,7 @@ redirect_from:
 <font size="3" style="font-family: Noto Sans;">
 
   07/29/2025 - I gave an invited talk at Rice University on "Physics-based computational microscopy to advamce life science research".
+  <br>
   06/04/2025 - I delivered an invited talk in ESE Seminar Series at Washington University in St. Louis, titled "Empowering microsopes with physics-based computation" <a href="https://happenings.wustl.edu/event/ese-seminar-series-haowen-zhou" style="text-decoration: none;">
     <strong>
       <span style="color: #B2533E;">[Talk page]</span>
