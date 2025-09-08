@@ -72,6 +72,9 @@ redirect_from:
       (b) Synergizing microscopy, computation and artificial intelligence to advance life science.
     </p> 
     My aspiration is to become an engineer-scientist who advances scientific discovery through innovative engineering designs.
+    <br>
+    <br>
+    I am currently on the 2025-2026 job market.
   </font>
 </p>
 
@@ -84,6 +87,8 @@ redirect_from:
 <br>
 <font size="3" style="font-family: Noto Sans;">
 
+  08/19/2025 - I presented my work on neural fields for computational microscopy at Optica Imaging Congress, Seattle.
+  <br>
   07/29/2025 - I gave an invited talk at Rice University on "Physics-based computational microscopy to advance life science research".
   <br>
   06/04/2025 - I delivered an invited talk in ESE Seminar Series at Washington University in St. Louis, titled "Empowering microsopes with physics-based computation" <a href="https://happenings.wustl.edu/event/ese-seminar-series-haowen-zhou" style="text-decoration: none;">
@@ -217,6 +222,8 @@ redirect_from:
   </div>
 </div>
 <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/DAbI_cover.png">
+
+<br>
 <br>
 <br>
 
@@ -265,6 +272,7 @@ redirect_from:
 
 <br>
 <br>
+<br>
 
 <!-- pub 17 -->
 <div class="publication">
@@ -309,6 +317,7 @@ redirect_from:
 </div>
 <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/SVF_cover.jpg">
 
+<br>
 <br>
 <br>
 
@@ -362,6 +371,7 @@ redirect_from:
 
 <br>
 <br>
+<br>
 
 <!-- pub 11 -->
 <div class="publication">
@@ -406,6 +416,7 @@ redirect_from:
 </div>
 <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/FPM-INR-Cover.jpg">
 
+<br>
 <br>
 <br>
 
