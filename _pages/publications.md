@@ -80,6 +80,9 @@ author_profile: true
 </script>
 <body>
 
+<strong>Click titles to access papers.</strong>
+Note: Not all papers are publicly available. Publisher subscriptions may needed.
+<br>
 
 <!-- pub 18 -->
 <div class="publication">

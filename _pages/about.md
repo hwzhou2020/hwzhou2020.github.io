@@ -9,6 +9,12 @@ redirect_from:
 ---
 <html>
   <head>
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Haowen Zhou - PhD Candidate in Electrical Engineering at Caltech, specializing in computational microscopy">
+    <meta name="keywords" content="computational microscopy, computational imaging, optical imaging, neural fields, AI, digital pathology, 3D imaging, Caltech, electrical engineering, Fourier ptychographic microscopy, machine learning, biomedical imagin, phase imaging, neural radiance fields, AI for health, optical microscopy, Changhuei Yang">
+    <meta name="author" content="Haowen Zhou">
+    <meta name="robots" content="index, follow">
+    
     <link href='https://fonts.googleapis.com/css?family=Noto Sans' rel='stylesheet'>
     <style>
       /* Typography & Readability Improvements */
@@ -227,11 +233,11 @@ redirect_from:
   <p>
     I am a PhD candidate in the Department of Electrical Engineering at Caltech, advised by 
     <a href="https://biophot.caltech.edu/">Prof. Changhuei Yang</a>.
-    My current research interests include:
+    My current research focuses on:
   </p>
   <ul>
     <li>Computational microscopy - empowering imaging techniques with algorithms</li>
-    <li>Synergizing microscopy, computation and artificial intelligence to advance life science</li>
+    <li>Synergizing microscopy, computation and artificial intelligence to advance life science research</li>
   </ul>
   <p>
     My aspiration is to become an engineer-scientist who advances scientific discovery through innovative engineering designs.
@@ -347,7 +353,7 @@ redirect_from:
   </div>
 </div>
 
-<br>
+
 
 <!-- pub 18 -->
 <div class="publication">
@@ -373,9 +379,6 @@ redirect_from:
   </div>
 </div>
 
-<br>
-<br>
-<br>
 
 <!-- pub 17 -->
 <div class="publication">
@@ -401,9 +404,6 @@ redirect_from:
   </div>
 </div>
 
-<br>
-<br>
-<br>
 
 <div class="publication">
   <div class="publication-details">
@@ -429,9 +429,6 @@ redirect_from:
   </div>
 </div>
 
-<br>
-<br>
-<br>
 
 <!-- pub 11 -->
 <div class="publication">
@@ -458,8 +455,7 @@ redirect_from:
 </div>
 
 <br>
-<br>
-<br>
+
 
 <!-- <font size="5">
   <strong>
