@@ -168,7 +168,6 @@ redirect_from:
         display: none;
       }
 
-
       /* Mobile Optimization */
       @media (max-width: 768px) {
         .publication {
@@ -328,7 +327,6 @@ redirect_from:
   </p>
   
 
-
 <!-- pub 19 -->
 <div class="publication">
   <div class="publication-details">
@@ -354,8 +352,6 @@ redirect_from:
   </div>
 </div>
 
-
-
 <!-- pub 18 -->
 <div class="publication">
   <div class="publication-details">
@@ -379,7 +375,6 @@ redirect_from:
     <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/AFP_cover.png" alt="AFP cover image" loading="lazy">
   </div>
 </div>
-
 
 <!-- pub 17 -->
 <div class="publication">
@@ -405,7 +400,6 @@ redirect_from:
   </div>
 </div>
 
-
 <div class="publication">
   <div class="publication-details">
     <div class="publication-title">
@@ -429,7 +423,6 @@ redirect_from:
     <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/Jpath-cover.jpg" alt="AI NSCLC cover image" loading="lazy">
   </div>
 </div>
-
 
 <!-- pub 11 -->
 <div class="publication">
@@ -455,56 +448,18 @@ redirect_from:
   </div>
 </div>
 
-<br>
-
-
-<!-- <font size="5">
-  <strong>
-    Teaching
-  </strong>
-</font>
-<br>
-<font size="3">
-  Caltech EE151 - Electromagnetic Engineering (Head TA for Spring 2024)
-  <br>
-</font>
-<font size="3">
-  <p style="margin-left: 25px;">
-    <span style="color: gray;">
-      Foundations of circuit theory-electric fields, magnetic fields, transmission lines, and Maxwell's equations, with engineering applications.
-    </span>
-  </p>
-</font>
-
-<!-- <font size="3">
-  Caltech EE151 - Electromagnetic Engineering (Head TA for Spring 2023)
-  <br>
-</font>
-<font size="3">
-  <p style="margin-left: 25px;">
-    <span style="color: gray;">
-      Foundations of circuit theory-electric fields, magnetic fields, transmission lines, and Maxwell's equations, with engineering applications.
-    </span>
-  </p>
-</font> -->
-
-<!-- <br> -->
-
 <div class="clustermaps-widget">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ecf4d6&w=a&t=tt&d=_uUi94cpmcNCyRUHW_7GZIypCW8NCGmk_sE5ee3tpvc&co=265073&ct=ffffff&cmo=2d9596&cmn=9ad0c2'></script> 
 </div>
-
 
 <!-- https://clustrmaps.com/site/1bxh8 --> 
 
 </section> <!-- End publications-section -->
 
-<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=552rn9jpev6&amp;m=7&amp;c=186f65&amp;cr1=b5cb99&amp;f=arial&amp;l=49" async="async"></script> -->
-
 <script>
 // News Section Expand/Collapse Functionality
-function initNewsSection() {
-  console.log('Initializing news section...');
+document.addEventListener('DOMContentLoaded', function() {
+  console.log('DOM loaded, initializing news section...');
   
   const expandButton = document.getElementById('expandNews');
   const allNewsItems = document.querySelectorAll('.news-item');
@@ -568,23 +523,7 @@ function initNewsSection() {
   });
   
   console.log('News section initialized successfully');
-}
-
-// Try multiple initialization methods
-if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', initNewsSection);
-} else {
-  initNewsSection();
-}
-
-// Fallback - try again after a short delay
-setTimeout(function() {
-  const button = document.getElementById('expandNews');
-  if (button && !button.onclick) {
-    console.log('Fallback initialization...');
-    initNewsSection();
-  }
-}, 1000);
+});
 </script>
 
 </body>

@@ -44,6 +44,8 @@ This is the personal academic homepage of Haowen Zhou, a PhD candidate in Electr
 5. **Accessibility**: Focus indicators and screen reader support
 6. **Loading Optimization**: Lazy loading for images
 7. **News Management**: Automatic top-5 display with expand functionality
+8. **HTML Conversion**: Converted homepage from Markdown to HTML for better JavaScript compatibility
+9. **SEO Optimization**: Comprehensive meta tags for search engine visibility
 
 ## Local Development
 
@@ -58,7 +60,7 @@ To run this website locally:
 ## Content Management
 
 ### **Adding News**
-Simply add new news items at the top of the news section in `_pages/about.md`:
+Simply add new news items at the top of the news section in `_pages/about.html`:
 ```html
 <div class="news-item">
   <span class="news-date">MM/DD/YYYY</span> - Your news content here
@@ -70,6 +72,11 @@ Add publications to `_pages/publications.md` using the established format with i
 
 ### **Updating Profile**
 Modify `_config.yml` for basic information, social links, and site configuration.
+
+### **Homepage Structure**
+- **Main Content**: `_pages/about.html` (converted from Markdown for better JavaScript compatibility)
+- **News Management**: Automatic top-5 display with expand/collapse functionality
+- **Publication Display**: Card-based layout with rectangular images at bottom
 
 ## Research Focus
 
