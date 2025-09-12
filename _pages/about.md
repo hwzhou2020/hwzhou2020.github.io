@@ -11,7 +11,7 @@ redirect_from:
   <head>
     <!-- SEO Meta Tags -->
     <meta name="description" content="Haowen Zhou - PhD Candidate in Electrical Engineering at Caltech, specializing in computational microscopy">
-    <meta name="keywords" content="computational microscopy, computational imaging, optical imaging, neural fields, AI, digital pathology, 3D imaging, Caltech, electrical engineering, Fourier ptychographic microscopy, machine learning, biomedical imagin, phase imaging, neural radiance fields, AI for health, optical microscopy, Changhuei Yang">
+    <meta name="keywords" content="Haowen Zhou, computational microscopy, computational imaging, optical imaging, neural fields, AI, digital pathology, 3D imaging, Caltech, electrical engineering, Fourier ptychographic microscopy, machine learning, biomedical imagin, phase imaging, neural radiance fields, AI for health, optical microscopy, Changhuei Yang">
     <meta name="author" content="Haowen Zhou">
     <meta name="robots" content="index, follow">
     
