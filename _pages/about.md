@@ -163,6 +163,11 @@ redirect_from:
         display: none;
       }
 
+      /* Hide news items beyond the first 5 by default */
+      .news-section .news-item:nth-child(n+6) {
+        display: none;
+      }
+
 
       /* Mobile Optimization */
       @media (max-width: 768px) {
@@ -543,14 +548,8 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
   
-  // Initial setup - hide items beyond first 5
-  allNewsItems.forEach((item, index) => {
-    if (index >= 5) {
-      item.style.display = 'none';
-      item.classList.add('hidden');
-      console.log('Initially hiding item', index);
-    }
-  });
+  // Initial setup - CSS already hides items beyond first 5
+  console.log('CSS should already be hiding items beyond first 5');
   
   // Show/hide button based on total number of news items
   if (allNewsItems.length <= 5) {
