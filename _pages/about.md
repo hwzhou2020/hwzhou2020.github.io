@@ -543,8 +543,14 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
   
-  // Initial setup - show only top 5
-  updateNewsVisibility();
+  // Initial setup - hide items beyond first 5
+  allNewsItems.forEach((item, index) => {
+    if (index >= 5) {
+      item.style.display = 'none';
+      item.classList.add('hidden');
+      console.log('Initially hiding item', index);
+    }
+  });
   
   // Show/hide button based on total number of news items
   if (allNewsItems.length <= 5) {
