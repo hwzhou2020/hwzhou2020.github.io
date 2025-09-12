@@ -157,6 +157,11 @@ redirect_from:
         display: none;
       }
 
+      /* Fallback: Hide news items beyond the first 5 by default */
+      .news-section .news-item:nth-of-type(n+6) {
+        display: none;
+      }
+
       /* Mobile Optimization */
       @media (max-width: 768px) {
         .publication {
@@ -343,8 +348,6 @@ redirect_from:
 </div>
 
 <br>
-<br>
-<br>
 
 <!-- pub 18 -->
 <div class="publication">
@@ -503,9 +506,15 @@ redirect_from:
 
 <script>
 // News Section Expand/Collapse Functionality
-document.addEventListener('DOMContentLoaded', function() {
+function initNewsSection() {
   const expandButton = document.getElementById('expandNews');
   const allNewsItems = document.querySelectorAll('.news-item');
+  
+  if (!expandButton || allNewsItems.length === 0) {
+    console.log('News section elements not found');
+    return;
+  }
+  
   let isExpanded = false;
   
   // Function to hide/show news items based on expansion state
@@ -514,12 +523,15 @@ document.addEventListener('DOMContentLoaded', function() {
       if (isExpanded) {
         // Show all items when expanded
         item.classList.remove('hidden');
+        item.style.display = 'block';
       } else {
         // Show only first 5 items when collapsed
         if (index < 5) {
           item.classList.remove('hidden');
+          item.style.display = 'block';
         } else {
           item.classList.add('hidden');
+          item.style.display = 'none';
         }
       }
     });
@@ -538,5 +550,12 @@ document.addEventListener('DOMContentLoaded', function() {
     updateNewsVisibility();
     expandButton.textContent = isExpanded ? 'Show Less News' : 'Show More News';
   });
-});
+}
+
+// Initialize when DOM is ready
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initNewsSection);
+} else {
+  initNewsSection();
+}
 </script>
