@@ -151,6 +151,11 @@ redirect_from:
       .expand-button:hover {
         background: #B2533E;
       }
+      
+      .expand-button:active {
+        background: #8B3A2F;
+        transform: translateY(1px);
+      }
 
       .news-item.hidden {
         display: none;
@@ -158,7 +163,12 @@ redirect_from:
 
       /* Hide news items beyond the first 5 by default */
       .news-section .news-item:nth-child(n+6) {
-        display: none;
+        display: none !important;
+      }
+      
+      /* Additional fallback for news items beyond 5th */
+      .news-item:nth-of-type(n+6) {
+        display: none !important;
       }
 
       /* Mobile Optimization */
@@ -448,73 +458,94 @@ redirect_from:
 
 </section> <!-- End publications-section -->
 
-<script>
+<script type="text/javascript">
 // News Section Expand/Collapse Functionality
-document.addEventListener('DOMContentLoaded', function() {
-  console.log('DOM loaded, initializing news section...');
+(function() {
+  'use strict';
   
-  const expandButton = document.getElementById('expandNews');
-  const allNewsItems = document.querySelectorAll('.news-item');
-  
-  console.log('Found button:', expandButton);
-  console.log('Found news items:', allNewsItems.length);
-  
-  if (!expandButton) {
-    console.error('Expand button not found!');
-    return;
-  }
-  
-  if (allNewsItems.length === 0) {
-    console.error('No news items found!');
-    return;
-  }
-  
-  let isExpanded = false;
-  
-  // Function to hide/show news items based on expansion state
-  function updateNewsVisibility() {
-    console.log('Updating visibility, expanded:', isExpanded);
-    allNewsItems.forEach((item, index) => {
-      if (isExpanded) {
-        // Show all items when expanded
-        item.style.display = 'block';
-        item.classList.remove('hidden');
-        console.log('Showing item', index);
-      } else {
-        // Show only first 5 items when collapsed
-        if (index < 5) {
+  function initNewsSection() {
+    console.log('Initializing news section...');
+    
+    var expandButton = document.getElementById('expandNews');
+    var allNewsItems = document.querySelectorAll('.news-item');
+    
+    console.log('Found button:', expandButton);
+    console.log('Found news items:', allNewsItems.length);
+    
+    if (!expandButton) {
+      console.error('Expand button not found!');
+      return;
+    }
+    
+    if (allNewsItems.length === 0) {
+      console.error('No news items found!');
+      return;
+    }
+    
+    var isExpanded = false;
+    
+    // Function to hide/show news items based on expansion state
+    function updateNewsVisibility() {
+      console.log('Updating visibility, expanded:', isExpanded);
+      for (var i = 0; i < allNewsItems.length; i++) {
+        var item = allNewsItems[i];
+        if (isExpanded) {
+          // Show all items when expanded
           item.style.display = 'block';
           item.classList.remove('hidden');
-          console.log('Showing item', index);
+          console.log('Showing item', i);
         } else {
-          item.style.display = 'none';
-          item.classList.add('hidden');
-          console.log('Hiding item', index);
+          // Show only first 5 items when collapsed
+          if (i < 5) {
+            item.style.display = 'block';
+            item.classList.remove('hidden');
+            console.log('Showing item', i);
+          } else {
+            item.style.display = 'none';
+            item.classList.add('hidden');
+            console.log('Hiding item', i);
+          }
         }
       }
+    }
+    
+    // Show/hide button based on total number of news items
+    if (allNewsItems.length <= 5) {
+      expandButton.style.display = 'none';
+      console.log('Hiding button - not enough news items');
+    }
+    
+    // Add click event listener
+    expandButton.addEventListener('click', function(e) {
+      e.preventDefault();
+      console.log('Button clicked! Current state:', isExpanded);
+      isExpanded = !isExpanded;
+      console.log('New state:', isExpanded);
+      updateNewsVisibility();
+      expandButton.textContent = isExpanded ? 'Show Less News' : 'Show More News';
+      console.log('Button text updated to:', expandButton.textContent);
     });
+    
+    // Mark as initialized
+    expandButton.setAttribute('data-initialized', 'true');
+    console.log('News section initialized successfully');
   }
   
-  // Initial setup - CSS already hides items beyond first 5
-  console.log('CSS should already be hiding items beyond first 5');
-  
-  // Show/hide button based on total number of news items
-  if (allNewsItems.length <= 5) {
-    expandButton.style.display = 'none';
-    console.log('Hiding button - not enough news items');
+  // Initialize when DOM is ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initNewsSection);
+  } else {
+    initNewsSection();
   }
   
-  expandButton.addEventListener('click', function(e) {
-    e.preventDefault();
-    console.log('Button clicked! Current state:', isExpanded);
-    isExpanded = !isExpanded;
-    console.log('New state:', isExpanded);
-    updateNewsVisibility();
-    expandButton.textContent = isExpanded ? 'Show Less News' : 'Show More News';
-    console.log('Button text updated to:', expandButton.textContent);
-  });
-  
-  console.log('News section initialized successfully');
-});
+  // Fallback initialization after a short delay
+  setTimeout(function() {
+    var button = document.getElementById('expandNews');
+    if (button && !button.hasAttribute('data-initialized')) {
+      console.log('Fallback initialization triggered');
+      initNewsSection();
+    }
+  }, 1000);
+})();
 </script>
 
