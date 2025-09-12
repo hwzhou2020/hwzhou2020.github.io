@@ -43,10 +43,6 @@ redirect_from:
 
       /* Publication Layout Improvements */
       .publication {
-        display: grid;
-        grid-template-columns: 150px 1fr;
-        align-items: flex-start;
-        gap: 20px;
         margin-bottom: 30px;
         padding: 20px;
         background: #f8f9fa;
@@ -61,22 +57,17 @@ redirect_from:
       }
 
       .publication-image {
-        width: 150px;
-        height: 150px;
+        width: 100%;
         overflow: hidden;
         border-radius: 6px;
         box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        margin-top: 15px;
       }
 
       .publication-image img {
         width: 100%;
-        height: 100%;
-        object-fit: cover;
-        transition: transform 0.3s ease;
-      }
-
-      .publication-image img:hover {
-        transform: scale(1.05);
+        height: auto;
+        display: block;
       }
 
       .publication-details {
@@ -144,15 +135,7 @@ redirect_from:
       /* Mobile Optimization */
       @media (max-width: 768px) {
         .publication {
-          grid-template-columns: 1fr;
-          gap: 15px;
           padding: 15px;
-        }
-
-        .publication-image {
-          width: 100%;
-          height: 200px;
-          justify-self: center;
         }
 
         body {
@@ -187,103 +170,11 @@ redirect_from:
         loading: lazy;
       }
 
-      /* Search and Sort Controls */
-      .publications-controls {
-        display: flex;
-        gap: 20px;
-        margin-bottom: 20px;
-        flex-wrap: wrap;
-        align-items: center;
-      }
-
-      .search-box {
-        position: relative;
-        flex: 1;
-        min-width: 250px;
-      }
-
-      .search-box input {
-        width: 100%;
-        padding: 10px 40px 10px 12px;
-        border: 2px solid #e2e8f0;
-        border-radius: 6px;
-        font-size: 14px;
-        transition: border-color 0.2s ease;
-      }
-
-      .search-box input:focus {
-        outline: none;
-        border-color: #EC8F5E;
-        box-shadow: 0 0 0 3px rgba(236, 143, 94, 0.1);
-      }
-
-      .search-box button {
-        position: absolute;
-        right: 8px;
-        top: 50%;
-        transform: translateY(-50%);
-        background: none;
-        border: none;
-        font-size: 18px;
-        color: #a0aec0;
-        cursor: pointer;
-        padding: 4px;
-        border-radius: 4px;
-        transition: color 0.2s ease;
-      }
-
-      .search-box button:hover {
-        color: #718096;
-      }
-
-      .sort-controls {
-        display: flex;
-        align-items: center;
-        gap: 8px;
-      }
-
-      .sort-controls label {
-        font-weight: 500;
-        color: #4a5568;
-      }
-
-      .sort-controls select {
-        padding: 8px 12px;
-        border: 2px solid #e2e8f0;
-        border-radius: 6px;
-        font-size: 14px;
-        background: white;
-        cursor: pointer;
-        transition: border-color 0.2s ease;
-      }
-
-      .sort-controls select:focus {
-        outline: none;
-        border-color: #EC8F5E;
-        box-shadow: 0 0 0 3px rgba(236, 143, 94, 0.1);
-      }
-
       .publications-note {
         font-size: 0.9em;
         color: #718096;
         margin-bottom: 20px;
         font-style: italic;
-      }
-
-      /* Mobile optimization for controls */
-      @media (max-width: 768px) {
-        .publications-controls {
-          flex-direction: column;
-          align-items: stretch;
-        }
-
-        .search-box {
-          min-width: auto;
-        }
-
-        .sort-controls {
-          justify-content: space-between;
-        }
       }
 
       .clustermaps-widget{
@@ -389,36 +280,16 @@ redirect_from:
 <section class="publications-section">
   <h2>Selected Publications</h2>
   
-  <div class="publications-controls">
-    <div class="search-box">
-      <input type="text" id="publicationSearch" placeholder="Search publications..." aria-label="Search publications">
-      <button type="button" id="clearSearch" aria-label="Clear search">×</button>
-    </div>
-    
-    <div class="sort-controls">
-      <label for="sortBy">Sort by:</label>
-      <select id="sortBy" aria-label="Sort publications">
-        <option value="date">Date (Newest First)</option>
-        <option value="date-old">Date (Oldest First)</option>
-        <option value="title">Title (A-Z)</option>
-        <option value="venue">Venue</option>
-      </select>
-    </div>
-  </div>
   
   <p class="publications-note">
     Full publication list <a href="https://hwzhou2020.github.io/publications/">here</a>. 
     Clicking paper titles will direct to the preprint or paper page.
   </p>
   
-  <div id="publicationsContainer">
 
 
 <!-- pub 19 -->
-<div class="publication" data-year="2025" data-venue="arXiv" data-title="Digital defocus aberration interference for automated optical microscopy">
-  <div class="publication-image">
-    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/DAbI_cover.png" alt="DAbI cover image" loading="lazy">
-  </div>
+<div class="publication">
   <div class="publication-details">
     <div class="publication-title">
       <a href="https://arxiv.org/abs/2507.10867">Digital defocus aberration interference for automated optical microscopy</a>
@@ -437,6 +308,9 @@ redirect_from:
       These digital fringes correlate directly with defocus through a physics-based relation. Based on this principle, we developed an automatic, efficient, and generalizable defocus detection method termed digital defocus aberration interference (DAbI).
     </div>
   </div>
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/DAbI_cover.png" alt="DAbI cover image" loading="lazy">
+  </div>
 </div>
 
 <br>
@@ -446,45 +320,26 @@ redirect_from:
 <!-- pub 18 -->
 <div class="publication">
   <div class="publication-details">
-    <font size="4">
-      <a href="https://arxiv.org/abs/2504.16247" style="text-decoration: none;">
-        <span style="color: #191717;">
-          <strong>
-            Analytic Fourier ptychotomography for volumetric refractive index imaging
-          </strong>
-        </span>
-      </a>
-    </font>
-    <br>
-    <font size="3">
-      <span style="color: #A4907C;">
-        Zhenyu Dong*, <span style="color: #213555;"><strong>Haowen Zhou*,</strong></span> Ruizhi Cao*, Oumeng Zhang, Shi Zhao, Panlang Lyu, Reinaldo E Alcalde, Changhuei Yang
-      </span>
-    </font>
-    <br>
-    <font size="3" style="font-family: 'Font', Calibri;">
-      <a style="text-decoration: none;">
-      <span style="color: #B2533E;">arXiv, 2025</span>
-      </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/AFP.txt" style="text-decoration: none;">
-        &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
-      </a>
-      <a href="https://mrdongzhenyu.github.io/AFP-Web/" style="text-decoration: none;">
-        &nbsp; &nbsp;  <span style="color: #186F65;">[Project Page & Code]</span>
-      </a>
-      <a href="https://osf.io/f7tqa/" style="text-decoration: none;">
-        &nbsp; &nbsp;  <span style="color: #FCE09B;">{Data}</span>
-      </a>
-    </font>
-    <br>
-    <font size="3">
-      <span style="color: gray;">
-        We propose Fourier Ptychotomography (AFP), a new computational microscopy technique that analytically reconstructs aberration-free, complex-valued 3D RI distributions without iterative optimization or axial scanning. AFP incorporates a new concept named finite sample thickness (FST) prior, thereby simplifying the inverse scattering problem into solving linear equations. 
-      </span>
-    </font>
+    <div class="publication-title">
+      <a href="https://arxiv.org/abs/2504.16247">Analytic Fourier ptychotomography for volumetric refractive index imaging</a>
+    </div>
+    <div class="publication-authors">
+      Zhenyu Dong*, <strong>Haowen Zhou*</strong>, Ruizhi Cao*, Oumeng Zhang, Shi Zhao, Panlang Lyu, Reinaldo E Alcalde, Changhuei Yang
+    </div>
+    <div class="publication-venue">arXiv, 2025</div>
+    <div class="publication-links">
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/AFP.txt">BibTex</a>
+      <a href="https://mrdongzhenyu.github.io/AFP-Web/">Project Page & Code</a>
+      <a href="https://osf.io/f7tqa/">Data</a>
+    </div>
+    <div class="publication-abstract">
+      We propose Fourier Ptychotomography (AFP), a new computational microscopy technique that analytically reconstructs aberration-free, complex-valued 3D RI distributions without iterative optimization or axial scanning. AFP incorporates a new concept named finite sample thickness (FST) prior, thereby simplifying the inverse scattering problem into solving linear equations.
+    </div>
+  </div>
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/AFP_cover.png" alt="AFP cover image" loading="lazy">
   </div>
 </div>
-<img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/AFP_cover.png">
 
 <br>
 <br>
@@ -493,45 +348,26 @@ redirect_from:
 <!-- pub 17 -->
 <div class="publication">
   <div class="publication-details">
-    <font size="4">
-      <a href="https://doi.org/10.1117/1.AP.7.2.026001" style="text-decoration: none;">
-        <span style="color: #191717;">
-          <strong>
-            Single-shot volumetric fluorescence imaging with neural fields
-          </strong>
-        </span>
-      </a>
-    </font>
-    <br>
-    <font size="3">
-      <span style="color: #A4907C;">
-        Oumeng Zhang*, <span style="color: #213555;"><strong>Haowen Zhou*,</strong></span> Brandon Y Feng, Elin M Larsson, Reinaldo E Alcalde, Siyuan Yin, Catherine Deng, Changhuei Yang
-      </span>
-    </font>
-    <br>
-    <font size="3" style="font-family: 'Font', Calibri;">
-      <a style="text-decoration: none;">
-      <span style="color: #B2533E;">Advanced Photonics, 2025</span>
-      </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/SVF.txt" style="text-decoration: none;">
-        &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
-      </a>
-      <a href="https://hwzhou2020.github.io/SVF-Web/" style="text-decoration: none;">
-        &nbsp; &nbsp;  <span style="color: #186F65;">[Project Page & Code]</span>
-      </a>
-      <a href="https://osf.io/4a5ws/" style="text-decoration: none;">
-        &nbsp; &nbsp;  <span style="color: #FCE09B;">{Data}</span>
-      </a>
-    </font>
-    <br>
-    <font size="3">
-      <span style="color: gray;">
-        Single-shot volumetric fluorescence (SVF) imaging captures biological processes with high temporal resolution and a large field of view, unlike traditional methods requiring multiple axial plane scans. Existing SVF methods often face limitations due to large, complex point spread functions (PSFs), affecting signal-to-noise ratio, resolution, and field of view. The paper introduces a QuadraPol PSF combined with neural fields, using a compact custom polarizer and a polarization camera to detect fluorescence and encode the 3D scene within a compact PSF without depth ambiguity. 
-      </span>
-    </font>
+    <div class="publication-title">
+      <a href="https://doi.org/10.1117/1.AP.7.2.026001">Single-shot volumetric fluorescence imaging with neural fields</a>
+    </div>
+    <div class="publication-authors">
+      Oumeng Zhang*, <strong>Haowen Zhou*</strong>, Brandon Y Feng, Elin M Larsson, Reinaldo E Alcalde, Siyuan Yin, Catherine Deng, Changhuei Yang
+    </div>
+    <div class="publication-venue">Advanced Photonics, 2025</div>
+    <div class="publication-links">
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/SVF.txt">BibTex</a>
+      <a href="https://hwzhou2020.github.io/SVF-Web/">Project Page & Code</a>
+      <a href="https://osf.io/4a5ws/">Data</a>
+    </div>
+    <div class="publication-abstract">
+      Single-shot volumetric fluorescence (SVF) imaging captures biological processes with high temporal resolution and a large field of view, unlike traditional methods requiring multiple axial plane scans. Existing SVF methods often face limitations due to large, complex point spread functions (PSFs), affecting signal-to-noise ratio, resolution, and field of view. The paper introduces a QuadraPol PSF combined with neural fields, using a compact custom polarizer and a polarization camera to detect fluorescence and encode the 3D scene within a compact PSF without depth ambiguity.
+    </div>
+  </div>
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/SVF_cover.jpg" alt="SVF cover image" loading="lazy">
   </div>
 </div>
-<img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/SVF_cover.jpg">
 
 <br>
 <br>
@@ -539,51 +375,27 @@ redirect_from:
 
 <div class="publication">
   <div class="publication-details">
-    <font size="4">
-      <a href=" https://doi.org/10.1002/path.6263" style="text-decoration: none;">
-        <span style="color: #191717;">
-          <strong>
-            AI-guided histopathology predicts brain metastasis in lung cancer patients
-          </strong>
-        </span>
-      </a>
-    </font>
-    <br>
-    <font size="3">
-      <span style="color: #A4907C;">
-        <span style="color: #213555;"><strong>Haowen Zhou*,</strong></span> Mark Watson*, Cory T. Bernadt, Steven (Siyu) Lin, Chieh-yu Lin, Jon H. Ritter, Alexander Wein, Simon Mahler, Sid Rawal, Ramaswamy Govindan, Changhuei Yang, Richard J. Cote
-      </span>
-    </font>
-    <br>
-    <font size="3" style="font-family: 'Font', Calibri;">
-      <a style="text-decoration: none;">
-        <span style="color: #B2533E;">Journal of Pathology, 2024</span>
-      </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/AI_NSCLC.txt" style="text-decoration: none;">
-        &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
-      </a>
-      <a href="https://github.com/hwzhou2020/NSCLC_ResNet" style="text-decoration: none;">
-        &nbsp; &nbsp;  <span style="color: #186F65;">[Code]</span>
-      </a>
-      <a href="https://doi.org/10.22002/dw66e-mbs82" style="text-decoration: none;">
-        &nbsp; &nbsp;  <span style="color: #FCE09B;">{Data}</span>
-      </a>
-      <a href="https://www.caltech.edu/about/news/using-ai-to-predict-the-spread-of-lung-cancer/" style="text-decoration: none;">
-      &nbsp; &nbsp;
-      <strong>
-        <span style="color: #B2533E;">News</span>
-      </strong>
-      </a>
-    </font>
-    <br>
-    <font size="3">
-      <span style="color: gray;">
-        Brain metastases can occur in nearly half of patients with early and locally advanced (stage I–III) non-small cell lung cancer (NSCLC). There are no reliable histopathologic or molecular means to identify those who are likely to develop brain metastases. We sought to determine if deep learning could be applied to routine H&E-stained primary tumor tissue sections from stage I–III NSCLC patients to predict the development of brain metastasis.
-      </span>
-    </font>
+    <div class="publication-title">
+      <a href="https://doi.org/10.1002/path.6263">AI-guided histopathology predicts brain metastasis in lung cancer patients</a>
+    </div>
+    <div class="publication-authors">
+      <strong>Haowen Zhou*</strong>, Mark Watson*, Cory T. Bernadt, Steven (Siyu) Lin, Chieh-yu Lin, Jon H. Ritter, Alexander Wein, Simon Mahler, Sid Rawal, Ramaswamy Govindan, Changhuei Yang, Richard J. Cote
+    </div>
+    <div class="publication-venue">Journal of Pathology, 2024</div>
+    <div class="publication-links">
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/AI_NSCLC.txt">BibTex</a>
+      <a href="https://github.com/hwzhou2020/NSCLC_ResNet">Code</a>
+      <a href="https://doi.org/10.22002/dw66e-mbs82">Data</a>
+      <a href="https://www.caltech.edu/about/news/using-ai-to-predict-the-spread-of-lung-cancer/">News</a>
+    </div>
+    <div class="publication-abstract">
+      Brain metastases can occur in nearly half of patients with early and locally advanced (stage I–III) non-small cell lung cancer (NSCLC). There are no reliable histopathologic or molecular means to identify those who are likely to develop brain metastases. We sought to determine if deep learning could be applied to routine H&E-stained primary tumor tissue sections from stage I–III NSCLC patients to predict the development of brain metastasis.
+    </div>
+  </div>
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/Jpath-cover.jpg" alt="AI NSCLC cover image" loading="lazy">
   </div>
 </div>
-<img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/Jpath-cover.jpg">
 
 <br>
 <br>
@@ -592,45 +404,26 @@ redirect_from:
 <!-- pub 11 -->
 <div class="publication">
   <div class="publication-details">
-    <font size="4">
-      <a href="https://doi.org/10.1364/OPTICA.505283" style="text-decoration: none;">
-        <span style="color: #191717;">
-          <strong>
-            FPM-INR: Fourier ptychographic microscopy image stack reconstruction using implicit neural representations
-          </strong>
-        </span>
-      </a>
-    </font>
-    <br>
-    <font size="3">
-      <span style="color: #A4907C;">
-        <span style="color: #213555;"><strong>Haowen Zhou*,</strong></span> Brandon Y. Feng*, Haiyun Guo, Siyu Lin, Mingshu Liang, Christopher A. Metzler, Changhuei Yang
-      </span>
-    </font>
-    <br>
-    <font size="3" style="font-family: 'Font', Calibri;">
-      <a style="text-decoration: none;">
-      <span style="color: #B2533E;">Optica, 2023</span>
-      </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/FPM-INR.txt" style="text-decoration: none;">
-        &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
-      </a>
-      <a href="https://hwzhou2020.github.io/FPM-INR-Web/" style="text-decoration: none;">
-        &nbsp; &nbsp;  <span style="color: #186F65;">[Project Page & Code]</span>
-      </a>
-      <a href="https://doi.org/10.22002/7aer7-qhf77" style="text-decoration: none;">
-        &nbsp; &nbsp;  <span style="color: #FCE09B;">{Data}</span>
-      </a>
-    </font>
-    <br>
-    <font size="3">
-      <span style="color: gray;">
-        Fourier ptychographic microscope images the biological samples with high-resolution and large field-of-view simultaneously. However, this microscope faces challenges with long image stack reconstruction time and huge data volumes. We designed physics-based neural signal representations to tackle these challenges and showed potential in facilitating remote diagnosis, digital pathology, and efficient clinical data packaging.
-      </span>
-    </font>
+    <div class="publication-title">
+      <a href="https://doi.org/10.1364/OPTICA.505283">FPM-INR: Fourier ptychographic microscopy image stack reconstruction using implicit neural representations</a>
+    </div>
+    <div class="publication-authors">
+      <strong>Haowen Zhou*</strong>, Brandon Y. Feng*, Haiyun Guo, Siyu Lin, Mingshu Liang, Christopher A. Metzler, Changhuei Yang
+    </div>
+    <div class="publication-venue">Optica, 2023</div>
+    <div class="publication-links">
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/FPM-INR.txt">BibTex</a>
+      <a href="https://hwzhou2020.github.io/FPM-INR-Web/">Project Page & Code</a>
+      <a href="https://doi.org/10.22002/7aer7-qhf77">Data</a>
+    </div>
+    <div class="publication-abstract">
+      Fourier ptychographic microscope images the biological samples with high-resolution and large field-of-view simultaneously. However, this microscope faces challenges with long image stack reconstruction time and huge data volumes. We designed physics-based neural signal representations to tackle these challenges and showed potential in facilitating remote diagnosis, digital pathology, and efficient clinical data packaging.
+    </div>
+  </div>
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/FPM-INR-Cover.jpg" alt="FPM-INR cover image" loading="lazy">
   </div>
 </div>
-<img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/FPM-INR-Cover.jpg">
 
 <br>
 <br>
@@ -675,87 +468,6 @@ redirect_from:
 
 <!-- https://clustrmaps.com/site/1bxh8 --> 
 
-  </div> <!-- End publicationsContainer -->
 </section> <!-- End publications-section -->
-
-<script>
-// Publication Search and Sort Functionality
-document.addEventListener('DOMContentLoaded', function() {
-  const searchInput = document.getElementById('publicationSearch');
-  const sortSelect = document.getElementById('sortBy');
-  const clearButton = document.getElementById('clearSearch');
-  const publicationsContainer = document.getElementById('publicationsContainer');
-  
-  let publications = Array.from(document.querySelectorAll('.publication'));
-  
-  // Search functionality
-  function filterPublications() {
-    const searchTerm = searchInput.value.toLowerCase();
-    const filteredPublications = publications.filter(pub => {
-      const title = pub.dataset.title.toLowerCase();
-      const venue = pub.dataset.venue.toLowerCase();
-      const year = pub.dataset.year;
-      const authors = pub.querySelector('.publication-authors').textContent.toLowerCase();
-      const abstract = pub.querySelector('.publication-abstract').textContent.toLowerCase();
-      
-      return title.includes(searchTerm) || 
-             venue.includes(searchTerm) || 
-             year.includes(searchTerm) || 
-             authors.includes(searchTerm) || 
-             abstract.includes(searchTerm);
-    });
-    
-    displayPublications(filteredPublications);
-  }
-  
-  // Sort functionality
-  function sortPublications() {
-    const sortBy = sortSelect.value;
-    let sortedPublications = [...publications];
-    
-    switch(sortBy) {
-      case 'date':
-        sortedPublications.sort((a, b) => parseInt(b.dataset.year) - parseInt(a.dataset.year));
-        break;
-      case 'date-old':
-        sortedPublications.sort((a, b) => parseInt(a.dataset.year) - parseInt(b.dataset.year));
-        break;
-      case 'title':
-        sortedPublications.sort((a, b) => a.dataset.title.localeCompare(b.dataset.title));
-        break;
-      case 'venue':
-        sortedPublications.sort((a, b) => a.dataset.venue.localeCompare(b.dataset.venue));
-        break;
-    }
-    
-    displayPublications(sortedPublications);
-  }
-  
-  // Display publications
-  function displayPublications(pubs) {
-    publicationsContainer.innerHTML = '';
-    pubs.forEach(pub => {
-      publicationsContainer.appendChild(pub);
-    });
-  }
-  
-  // Event listeners
-  searchInput.addEventListener('input', filterPublications);
-  sortSelect.addEventListener('change', sortPublications);
-  
-  clearButton.addEventListener('click', function() {
-    searchInput.value = '';
-    filterPublications();
-  });
-  
-  // Keyboard accessibility
-  searchInput.addEventListener('keydown', function(e) {
-    if (e.key === 'Escape') {
-      searchInput.value = '';
-      filterPublications();
-    }
-  });
-});
-</script>
 
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=552rn9jpev6&amp;m=7&amp;c=186f65&amp;cr1=b5cb99&amp;f=arial&amp;l=49" async="async"></script> -->
