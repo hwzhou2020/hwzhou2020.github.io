@@ -163,10 +163,6 @@ redirect_from:
         display: none;
       }
 
-      /* Fallback: Hide news items beyond the first 5 by default */
-      .news-section .news-item:nth-of-type(n+6) {
-        display: none !important;
-      }
 
       /* Mobile Optimization */
       @media (max-width: 768px) {
@@ -502,12 +498,22 @@ redirect_from:
 
 <script>
 // News Section Expand/Collapse Functionality
-function initNewsSection() {
+document.addEventListener('DOMContentLoaded', function() {
+  console.log('DOM loaded, initializing news section...');
+  
   const expandButton = document.getElementById('expandNews');
   const allNewsItems = document.querySelectorAll('.news-item');
   
-  if (!expandButton || allNewsItems.length === 0) {
-    console.log('News section elements not found');
+  console.log('Found button:', expandButton);
+  console.log('Found news items:', allNewsItems.length);
+  
+  if (!expandButton) {
+    console.error('Expand button not found!');
+    return;
+  }
+  
+  if (allNewsItems.length === 0) {
+    console.error('No news items found!');
     return;
   }
   
@@ -515,19 +521,23 @@ function initNewsSection() {
   
   // Function to hide/show news items based on expansion state
   function updateNewsVisibility() {
+    console.log('Updating visibility, expanded:', isExpanded);
     allNewsItems.forEach((item, index) => {
       if (isExpanded) {
         // Show all items when expanded
+        item.style.display = 'block';
         item.classList.remove('hidden');
-        item.style.setProperty('display', 'block', 'important');
+        console.log('Showing item', index);
       } else {
         // Show only first 5 items when collapsed
         if (index < 5) {
+          item.style.display = 'block';
           item.classList.remove('hidden');
-          item.style.setProperty('display', 'block', 'important');
+          console.log('Showing item', index);
         } else {
+          item.style.display = 'none';
           item.classList.add('hidden');
-          item.style.setProperty('display', 'none', 'important');
+          console.log('Hiding item', index);
         }
       }
     });
@@ -539,22 +549,19 @@ function initNewsSection() {
   // Show/hide button based on total number of news items
   if (allNewsItems.length <= 5) {
     expandButton.style.display = 'none';
+    console.log('Hiding button - not enough news items');
   }
   
-  expandButton.addEventListener('click', function() {
-    console.log('Button clicked, current state:', isExpanded);
+  expandButton.addEventListener('click', function(e) {
+    e.preventDefault();
+    console.log('Button clicked! Current state:', isExpanded);
     isExpanded = !isExpanded;
     console.log('New state:', isExpanded);
     updateNewsVisibility();
     expandButton.textContent = isExpanded ? 'Show Less News' : 'Show More News';
     console.log('Button text updated to:', expandButton.textContent);
   });
-}
-
-// Initialize when DOM is ready
-if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', initNewsSection);
-} else {
-  initNewsSection();
-}
+  
+  console.log('News section initialized successfully');
+});
 </script>
