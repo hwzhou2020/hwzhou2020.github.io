@@ -132,6 +132,31 @@ redirect_from:
         color: #2d3748;
       }
 
+      /* News Section Controls */
+      .news-controls {
+        text-align: right;
+        margin-top: 15px;
+      }
+
+      .expand-button {
+        background: #EC8F5E;
+        color: white;
+        border: none;
+        padding: 8px 16px;
+        border-radius: 6px;
+        font-size: 0.9em;
+        cursor: pointer;
+        transition: background-color 0.2s ease;
+      }
+
+      .expand-button:hover {
+        background: #B2533E;
+      }
+
+      .news-item.hidden {
+        display: none;
+      }
+
       /* Mobile Optimization */
       @media (max-width: 768px) {
         .publication {
@@ -219,7 +244,7 @@ redirect_from:
   </div>
   
   <div class="news-item">
-    <span class="news-date">07/29/2025</span> - I gave an invited talk at Rice University on "Physics-based computational microscopy to advance life science research".
+    <span class="news-date">07/29/2025</span> - I gave an invited talk at Rice University, Houston, on "Physics-based computational microscopy to advance life science research".
   </div>
   
   <div class="news-item">
@@ -274,6 +299,10 @@ redirect_from:
   
   <div class="news-item">
     <span class="news-date">06/30/2021</span> - I joined Caltech Biophotonics Lab!
+  </div>
+  
+  <div class="news-controls">
+    <button class="expand-button" id="expandNews">Show More News</button>
   </div>
 </section>
 
@@ -471,3 +500,43 @@ redirect_from:
 </section> <!-- End publications-section -->
 
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=552rn9jpev6&amp;m=7&amp;c=186f65&amp;cr1=b5cb99&amp;f=arial&amp;l=49" async="async"></script> -->
+
+<script>
+// News Section Expand/Collapse Functionality
+document.addEventListener('DOMContentLoaded', function() {
+  const expandButton = document.getElementById('expandNews');
+  const allNewsItems = document.querySelectorAll('.news-item');
+  let isExpanded = false;
+  
+  // Function to hide/show news items based on expansion state
+  function updateNewsVisibility() {
+    allNewsItems.forEach((item, index) => {
+      if (isExpanded) {
+        // Show all items when expanded
+        item.classList.remove('hidden');
+      } else {
+        // Show only first 5 items when collapsed
+        if (index < 5) {
+          item.classList.remove('hidden');
+        } else {
+          item.classList.add('hidden');
+        }
+      }
+    });
+  }
+  
+  // Initial setup - show only top 5
+  updateNewsVisibility();
+  
+  // Show/hide button based on total number of news items
+  if (allNewsItems.length <= 5) {
+    expandButton.style.display = 'none';
+  }
+  
+  expandButton.addEventListener('click', function() {
+    isExpanded = !isExpanded;
+    updateNewsVisibility();
+    expandButton.textContent = isExpanded ? 'Show Less News' : 'Show More News';
+  });
+});
+</script>

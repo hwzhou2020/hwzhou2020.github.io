@@ -1,34 +1,91 @@
-This GitHub page site: [Haowen Zhou's Homepage](https://hwzhou2020.github.io/)
+# Haowen Zhou's Academic Homepage
 
+**Live Website**: [https://hwzhou2020.github.io/](https://hwzhou2020.github.io/)
 
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+This is the personal academic homepage of Haowen Zhou, a PhD candidate in Electrical Engineering at Caltech, advised by Prof. Changhuei Yang. The website showcases research in computational microscopy, neural fields, AI, digital pathology, and 3D imaging.
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+## Website Features
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+### 🎨 **Modern Design & Styling**
+- **Typography**: Clean, readable fonts with improved line spacing
+- **Color Scheme**: Professional academic color palette with orange accents
+- **Responsive Design**: Optimized for desktop, tablet, and mobile devices
+- **Contemporary Layout**: Card-based publication display with hover effects
 
-# Instructions
+### 📰 **Smart News Section**
+- **Auto-Management**: Automatically shows the 5 most recent news items
+- **Expandable**: "Show More News" button to reveal complete news history
+- **Easy Updates**: Simply add new news items at the top - no manual configuration needed
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+### 📚 **Enhanced Publications**
+- **Selected Publications**: Curated list on homepage with rectangular image layout
+- **Full Publications**: Complete list on dedicated publications page with grid layout
+- **Interactive Elements**: Hover effects and smooth transitions
+- **Mobile Optimized**: Responsive image sizing and layout
 
-See more info at https://academicpages.github.io/
+### 🔗 **Professional Links**
+- **Social Profiles**: LinkedIn, ORCID, Google Scholar integration
+- **Research Links**: GitHub, project pages, and data repositories
+- **Contact Information**: Email and institutional affiliation
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+## Technical Details
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+### **Built With**
+- **Jekyll**: Static site generator
+- **GitHub Pages**: Hosting platform
+- **Minimal Mistakes Theme**: Base template (heavily customized)
+- **Custom CSS/JavaScript**: Enhanced styling and functionality
 
-# Changelog -- bugfixes and enhancements
+### **Key Improvements Made**
+1. **Typography & Readability**: Modern font stack and improved spacing
+2. **Color Scheme**: Professional academic color palette
+3. **Publication Layout**: Card-based design with variable image sizing
+4. **Mobile Optimization**: Responsive design for all screen sizes
+5. **Accessibility**: Focus indicators and screen reader support
+6. **Loading Optimization**: Lazy loading for images
+7. **News Management**: Automatic top-5 display with expand functionality
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+## Local Development
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+To run this website locally:
+
+1. **Prerequisites**: Install Ruby, Bundler, and Node.js
+2. **Clone**: `git clone https://github.com/hwzhou2020/hwzhou2020.github.io.git`
+3. **Install**: `bundle install`
+4. **Serve**: `bundle exec jekyll serve`
+5. **View**: Open `http://localhost:4000`
+
+## Content Management
+
+### **Adding News**
+Simply add new news items at the top of the news section in `_pages/about.md`:
+```html
+<div class="news-item">
+  <span class="news-date">MM/DD/YYYY</span> - Your news content here
+</div>
+```
+
+### **Adding Publications**
+Add publications to `_pages/publications.md` using the established format with images and metadata.
+
+### **Updating Profile**
+Modify `_config.yml` for basic information, social links, and site configuration.
+
+## Research Focus
+
+- **Computational Microscopy**: Empowering imaging techniques with algorithms
+- **Neural Fields**: Physics-based neural representations for microscopy
+- **AI in Healthcare**: Digital pathology and medical imaging
+- **3D Imaging**: Volumetric reconstruction and analysis
+- **Fourier Ptychographic Microscopy**: High-resolution, large field-of-view imaging
+
+## Contact
+
+- **Email**: hzhou7@caltech.edu
+- **Institution**: California Institute of Technology
+- **Department**: Electrical Engineering
+- **Lab**: [Biophotonics Lab](https://biophot.caltech.edu/)
+
+---
+
+*This website is built using the Minimal Mistakes Jekyll theme, customized for academic use with modern styling and enhanced functionality.*
