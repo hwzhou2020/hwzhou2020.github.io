@@ -81,7 +81,8 @@ author_profile: true
 <body>
 
 <strong>Click titles to access papers.</strong>
-Note: Not all papers are publicly available. Publisher subscriptions may needed.
+<br>
+Note: Not all papers are publicly available. Publisher subscriptions may be needed.
 <br>
 
 <!-- pub 18 -->
