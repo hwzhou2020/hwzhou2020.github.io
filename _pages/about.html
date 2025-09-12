@@ -9,6 +9,105 @@ redirect_from:
 ---
 
 <link href='https://fonts.googleapis.com/css?family=Noto Sans' rel='stylesheet'>
+
+<script>
+function toggleNews() {
+  console.log('=== toggleNews called ===');
+  
+  try {
+    var items = document.querySelectorAll('.news-item');
+    var button = document.getElementById('expandNews');
+    
+    console.log('Items found:', items.length);
+    console.log('Button found:', !!button);
+    
+    if (!button) {
+      console.error('Button not found!');
+      return;
+    }
+    
+    if (items.length === 0) {
+      console.error('No news items found!');
+      return;
+    }
+    
+    var isExpanded = button.textContent.indexOf('Less') > -1;
+    console.log('Button text:', button.textContent);
+    console.log('Currently expanded:', isExpanded);
+    
+    for (var i = 0; i < items.length; i++) {
+      console.log('Processing item', i, 'display:', items[i].style.display);
+      if (i < 5) {
+        items[i].style.setProperty('display', 'block', 'important');
+        console.log('Showing item', i);
+      } else {
+        var newDisplay = isExpanded ? 'none' : 'block';
+        items[i].style.setProperty('display', newDisplay, 'important');
+        console.log('Item', i, 'set to:', newDisplay);
+      }
+    }
+    
+    button.textContent = isExpanded ? 'Show More News' : 'Show Less News';
+    console.log('Button text changed to:', button.textContent);
+    console.log('=== toggleNews completed ===');
+    
+  } catch (error) {
+    console.error('Error in toggleNews:', error);
+  }
+}
+
+// Test function to check if everything is loaded
+function testNewsSetup() {
+  console.log('=== Testing news setup ===');
+  var items = document.querySelectorAll('.news-item');
+  var button = document.getElementById('expandNews');
+  
+  console.log('News items found:', items.length);
+  console.log('Button found:', !!button);
+  
+  if (items.length > 0) {
+    console.log('First item display:', items[0].style.display);
+    console.log('First item computed style:', window.getComputedStyle(items[0]).display);
+  }
+  
+  if (items.length > 5) {
+    console.log('6th item display:', items[5].style.display);
+    console.log('6th item computed style:', window.getComputedStyle(items[5]).display);
+  }
+  
+  console.log('=== Test completed ===');
+}
+
+// Initialize news section
+function initializeNewsSection() {
+  console.log('=== Initializing news section ===');
+  var items = document.querySelectorAll('.news-item');
+  var button = document.getElementById('expandNews');
+  
+  if (items.length <= 5) {
+    if (button) {
+      button.style.display = 'none';
+      console.log('Hiding button - not enough news items');
+    }
+    return;
+  }
+  
+  // Hide items beyond 5th
+  for (var i = 5; i < items.length; i++) {
+    items[i].style.setProperty('display', 'none', 'important');
+    console.log('Initially hiding item', i);
+  }
+  
+  console.log('=== News section initialized ===');
+}
+
+// Run initialization when page loads
+window.addEventListener('load', function() {
+  testNewsSetup();
+  initializeNewsSection();
+});
+</script>
+
 <style>
       /* Typography & Readability Improvements */
       body {
@@ -163,13 +262,14 @@ redirect_from:
 
       /* Hide news items beyond the first 5 by default */
       .news-section .news-item:nth-child(n+6) {
-        display: none !important;
+        display: none;
       }
       
       /* Additional fallback for news items beyond 5th */
       .news-item:nth-of-type(n+6) {
-        display: none !important;
+        display: none;
       }
+      
 
       /* Mobile Optimization */
       @media (max-width: 768px) {
@@ -315,7 +415,7 @@ redirect_from:
   </div>
   
   <div class="news-controls">
-    <button class="expand-button" id="expandNews">Show More News</button>
+    <button class="expand-button" id="expandNews" onclick="toggleNews()">Show More News</button>
   </div>
 </section>
 
@@ -457,95 +557,4 @@ redirect_from:
 <!-- https://clustrmaps.com/site/1bxh8 --> 
 
 </section> <!-- End publications-section -->
-
-<script type="text/javascript">
-// News Section Expand/Collapse Functionality
-(function() {
-  'use strict';
-  
-  function initNewsSection() {
-    console.log('Initializing news section...');
-    
-    var expandButton = document.getElementById('expandNews');
-    var allNewsItems = document.querySelectorAll('.news-item');
-    
-    console.log('Found button:', expandButton);
-    console.log('Found news items:', allNewsItems.length);
-    
-    if (!expandButton) {
-      console.error('Expand button not found!');
-      return;
-    }
-    
-    if (allNewsItems.length === 0) {
-      console.error('No news items found!');
-      return;
-    }
-    
-    var isExpanded = false;
-    
-    // Function to hide/show news items based on expansion state
-    function updateNewsVisibility() {
-      console.log('Updating visibility, expanded:', isExpanded);
-      for (var i = 0; i < allNewsItems.length; i++) {
-        var item = allNewsItems[i];
-        if (isExpanded) {
-          // Show all items when expanded
-          item.style.display = 'block';
-          item.classList.remove('hidden');
-          console.log('Showing item', i);
-        } else {
-          // Show only first 5 items when collapsed
-          if (i < 5) {
-            item.style.display = 'block';
-            item.classList.remove('hidden');
-            console.log('Showing item', i);
-          } else {
-            item.style.display = 'none';
-            item.classList.add('hidden');
-            console.log('Hiding item', i);
-          }
-        }
-      }
-    }
-    
-    // Show/hide button based on total number of news items
-    if (allNewsItems.length <= 5) {
-      expandButton.style.display = 'none';
-      console.log('Hiding button - not enough news items');
-    }
-    
-    // Add click event listener
-    expandButton.addEventListener('click', function(e) {
-      e.preventDefault();
-      console.log('Button clicked! Current state:', isExpanded);
-      isExpanded = !isExpanded;
-      console.log('New state:', isExpanded);
-      updateNewsVisibility();
-      expandButton.textContent = isExpanded ? 'Show Less News' : 'Show More News';
-      console.log('Button text updated to:', expandButton.textContent);
-    });
-    
-    // Mark as initialized
-    expandButton.setAttribute('data-initialized', 'true');
-    console.log('News section initialized successfully');
-  }
-  
-  // Initialize when DOM is ready
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initNewsSection);
-  } else {
-    initNewsSection();
-  }
-  
-  // Fallback initialization after a short delay
-  setTimeout(function() {
-    var button = document.getElementById('expandNews');
-    if (button && !button.hasAttribute('data-initialized')) {
-      console.log('Fallback initialization triggered');
-      initNewsSection();
-    }
-  }, 1000);
-})();
-</script>
 
