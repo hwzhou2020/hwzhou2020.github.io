@@ -503,8 +503,8 @@ redirect_from:
 
 <script>
 // News Section Expand/Collapse Functionality
-document.addEventListener('DOMContentLoaded', function() {
-  console.log('DOM loaded, initializing news section...');
+function initNewsSection() {
+  console.log('Initializing news section...');
   
   const expandButton = document.getElementById('expandNews');
   const allNewsItems = document.querySelectorAll('.news-item');
@@ -568,5 +568,24 @@ document.addEventListener('DOMContentLoaded', function() {
   });
   
   console.log('News section initialized successfully');
-});
+}
+
+// Try multiple initialization methods
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initNewsSection);
+} else {
+  initNewsSection();
+}
+
+// Fallback - try again after a short delay
+setTimeout(function() {
+  const button = document.getElementById('expandNews');
+  if (button && !button.onclick) {
+    console.log('Fallback initialization...');
+    initNewsSection();
+  }
+}, 1000);
 </script>
+
+</body>
+</html>
