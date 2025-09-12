@@ -165,7 +165,7 @@ redirect_from:
 
       /* Fallback: Hide news items beyond the first 5 by default */
       .news-section .news-item:nth-of-type(n+6) {
-        display: none;
+        display: none !important;
       }
 
       /* Mobile Optimization */
@@ -519,15 +519,15 @@ function initNewsSection() {
       if (isExpanded) {
         // Show all items when expanded
         item.classList.remove('hidden');
-        item.style.display = 'block';
+        item.style.setProperty('display', 'block', 'important');
       } else {
         // Show only first 5 items when collapsed
         if (index < 5) {
           item.classList.remove('hidden');
-          item.style.display = 'block';
+          item.style.setProperty('display', 'block', 'important');
         } else {
           item.classList.add('hidden');
-          item.style.display = 'none';
+          item.style.setProperty('display', 'none', 'important');
         }
       }
     });
@@ -542,9 +542,12 @@ function initNewsSection() {
   }
   
   expandButton.addEventListener('click', function() {
+    console.log('Button clicked, current state:', isExpanded);
     isExpanded = !isExpanded;
+    console.log('New state:', isExpanded);
     updateNewsVisibility();
     expandButton.textContent = isExpanded ? 'Show Less News' : 'Show More News';
+    console.log('Button text updated to:', expandButton.textContent);
   });
 }
 
