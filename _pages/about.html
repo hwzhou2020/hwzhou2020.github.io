@@ -12,100 +12,53 @@ redirect_from:
 
 <script>
 function toggleNews() {
-  console.log('=== toggleNews called ===');
-  
   try {
     var items = document.querySelectorAll('.news-item');
     var button = document.getElementById('expandNews');
-    
-    console.log('Items found:', items.length);
-    console.log('Button found:', !!button);
-    
-    if (!button) {
-      console.error('Button not found!');
+
+    if (!button || items.length === 0) {
       return;
     }
-    
-    if (items.length === 0) {
-      console.error('No news items found!');
-      return;
-    }
-    
-    var isExpanded = button.textContent.indexOf('Less') > -1;
-    console.log('Button text:', button.textContent);
-    console.log('Currently expanded:', isExpanded);
-    
+
+    var isExpanded = button.getAttribute('data-expanded') === 'true';
+
     for (var i = 0; i < items.length; i++) {
-      console.log('Processing item', i, 'display:', items[i].style.display);
       if (i < 5) {
         items[i].style.setProperty('display', 'block', 'important');
-        console.log('Showing item', i);
       } else {
-        var newDisplay = isExpanded ? 'none' : 'block';
-        items[i].style.setProperty('display', newDisplay, 'important');
-        console.log('Item', i, 'set to:', newDisplay);
+        items[i].style.setProperty('display', isExpanded ? 'none' : 'block', 'important');
       }
     }
-    
+
+    button.setAttribute('data-expanded', isExpanded ? 'false' : 'true');
     button.textContent = isExpanded ? 'Show More News' : 'Show Less News';
-    console.log('Button text changed to:', button.textContent);
-    console.log('=== toggleNews completed ===');
-    
   } catch (error) {
     console.error('Error in toggleNews:', error);
   }
 }
 
-// Test function to check if everything is loaded
-function testNewsSetup() {
-  console.log('=== Testing news setup ===');
-  var items = document.querySelectorAll('.news-item');
-  var button = document.getElementById('expandNews');
-  
-  console.log('News items found:', items.length);
-  console.log('Button found:', !!button);
-  
-  if (items.length > 0) {
-    console.log('First item display:', items[0].style.display);
-    console.log('First item computed style:', window.getComputedStyle(items[0]).display);
-  }
-  
-  if (items.length > 5) {
-    console.log('6th item display:', items[5].style.display);
-    console.log('6th item computed style:', window.getComputedStyle(items[5]).display);
-  }
-  
-  console.log('=== Test completed ===');
-}
-
-// Initialize news section
 function initializeNewsSection() {
-  console.log('=== Initializing news section ===');
   var items = document.querySelectorAll('.news-item');
   var button = document.getElementById('expandNews');
-  
-  if (items.length <= 5) {
-    if (button) {
-      button.style.display = 'none';
-      console.log('Hiding button - not enough news items');
-    }
+
+  if (!button) {
     return;
   }
-  
-  // Hide items beyond 5th
+
+  if (items.length <= 5) {
+    button.style.display = 'none';
+    return;
+  }
+
+  button.setAttribute('data-expanded', 'false');
+  button.textContent = 'Show More News';
+
   for (var i = 5; i < items.length; i++) {
     items[i].style.setProperty('display', 'none', 'important');
-    console.log('Initially hiding item', i);
   }
-  
-  console.log('=== News section initialized ===');
 }
 
-// Run initialization when page loads
-window.addEventListener('load', function() {
-  testNewsSetup();
-  initializeNewsSection();
-});
+window.addEventListener('load', initializeNewsSection);
 </script>
 
 <style>
@@ -518,7 +471,7 @@ window.addEventListener('load', function() {
       <a href="https://www.caltech.edu/about/news/using-ai-to-predict-the-spread-of-lung-cancer/">News</a>
     </div>
     <div class="publication-abstract">
-      Brain metastases can occur in nearly half of patients with early and locally advanced (stage I–III) non-small cell lung cancer (NSCLC). There are no reliable histopathologic or molecular means to identify those who are likely to develop brain metastases. We sought to determine if deep learning could be applied to routine H&E-stained primary tumor tissue sections from stage I–III NSCLC patients to predict the development of brain metastasis.
+      Brain metastases can occur in nearly half of patients with early and locally advanced (stage I&ndash;III) non-small cell lung cancer (NSCLC). There are no reliable histopathologic or molecular means to identify those who are likely to develop brain metastases. We sought to determine if deep learning could be applied to routine H&E-stained primary tumor tissue sections from stage I&ndash;III NSCLC patients to predict the development of brain metastasis.
     </div>
   </div>
   <div class="publication-image">
