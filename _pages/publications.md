@@ -85,7 +85,51 @@ author_profile: true
 Note: Not all papers are publicly available. Publisher subscriptions may be needed.
 <br>
 
-<!-- pub 18 -->
+<!-- pub 20 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/NVP.png" width="150" height="150">
+  </div>
+  <div class="publication-details">
+    <font size="4">
+      <a href="https://www.semanticscholar.org/paper/Recover-Biological-Structure-from-Sparse-View-with-He-Zhou/8ec36ca416598ee6677224eacfb005600db72375" 
+      style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            20. Recover biological structure from sparse-view diffraction images with neural volumetric prior
+          </strong>
+        </span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+        Renzhi He, <span style="color: #213555;"><strong>Haowen Zhou,</strong></span> Yi Xue
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a style="text-decoration: none;">
+        <span style="color: #B2533E;">ICCV, 2025</span>
+        &nbsp; &nbsp;
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/NVP.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
+      </a>
+      <a href="https://xue-lab-cobi.github.io/Sparse-View-FDT/" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #186F65;">[Project Page]</span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+         We develop Neural Volumetric Prior (NVP) for high-fidelity volumetric reconstruction of semi-transparent biological samples from sparse-view microscopic images. NVP integrates explicit and implicit neural representations and incorporates the physical prior of diffractive optics.
+      </span>
+    </font>
+  </div>
+</div>
+
+<!-- pub 19 -->
 <div class="publication">
   <div class="publication-image">
     <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Dome.png" width="150" height="150">

@@ -1,0 +1,8 @@
+@InProceedings{He_2025_ICCV,
+          author    = {He, Renzhi and Zhou, Haowen and Chen, Yubei and Xue, Yi},
+          title     = {Recover Biological Structure from Sparse-View Diffraction Images with Neural Volumetric Prior},
+          booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+          month     = {October},
+          year      = {2025},
+          pages     = {27771-27782}
+      }
