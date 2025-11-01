@@ -4,8 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<html>
-<head>
 <style>
   div.pub {
     line-height: 120%;
@@ -68,17 +66,6 @@ author_profile: true
     }
   }
 </style>
-</head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-J4XRR1S1L4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-J4XRR1S1L4');
-</script>
-<body>
 
 <strong>Click titles to access papers.</strong>
 <br>
