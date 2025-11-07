@@ -51,6 +51,32 @@ author_profile: true
     flex-grow: 1;
   }
 
+  .back-to-top {
+    position: fixed;
+    right: 24px;
+    bottom: 24px;
+    background: #EC8F5E;
+    color: #fff;
+    padding: 10px 16px;
+    border-radius: 999px;
+    font-weight: 600;
+    text-decoration: none;
+    box-shadow: 0 6px 14px rgba(0,0,0,0.15);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    z-index: 10;
+  }
+
+  .back-to-top:hover {
+    transform: translateY(-2px);
+  }
+
+  .back-to-top.show {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
   .publication-year-heading {
     margin: 50px 0 15px;
     font-size: 1.5em;
@@ -104,8 +130,15 @@ author_profile: true
       width: 100%;
       text-align: center;
     }
+
+    .back-to-top {
+      right: 16px;
+      bottom: 16px;
+    }
   }
 </style>
+
+<div id="pub-top"></div>
 
 <strong>Click titles to access papers.</strong>
 <br>
@@ -1076,3 +1109,22 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+
+<a href="#pub-top" class="back-to-top" id="backToTop">↑ Back to Top</a>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var backToTop = document.getElementById('backToTop');
+    if (!backToTop) {
+      return;
+    }
+
+    window.addEventListener('scroll', function() {
+      if (window.scrollY > 400) {
+        backToTop.classList.add('show');
+      } else {
+        backToTop.classList.remove('show');
+      }
+    });
+  });
+</script>
