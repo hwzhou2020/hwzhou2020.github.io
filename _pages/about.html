@@ -54,7 +54,43 @@ function initializeNewsSection() {
   timeline.classList.remove('news-expanded');
 }
 
-window.addEventListener('load', initializeNewsSection);
+function initializePublicationTabs() {
+  var tabs = document.querySelectorAll('.publication-tab');
+  var panels = document.querySelectorAll('.publication-panel');
+
+  if (!tabs.length || !panels.length) {
+    return;
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      var targetId = 'tab-' + tab.getAttribute('data-tab');
+      var targetPanel = document.getElementById(targetId);
+
+      if (!targetPanel || tab.classList.contains('active')) {
+        return;
+      }
+
+      tabs.forEach(function(t) {
+        t.classList.remove('active');
+        t.setAttribute('aria-selected', 'false');
+      });
+
+      panels.forEach(function(panel) {
+        panel.classList.remove('active');
+      });
+
+      tab.classList.add('active');
+      tab.setAttribute('aria-selected', 'true');
+      targetPanel.classList.add('active');
+    });
+  });
+}
+
+window.addEventListener('load', function() {
+  initializeNewsSection();
+  initializePublicationTabs();
+});
 </script>
 
 <style>
@@ -163,6 +199,59 @@ window.addEventListener('load', initializeNewsSection);
         font-size: 0.9em;
         color: #718096;
         line-height: 1.6;
+      }
+
+      .publication-tabs {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin: 20px 0 25px;
+      }
+
+      .publication-tab {
+        border: 1px solid #EC8F5E;
+        border-radius: 999px;
+        padding: 8px 18px;
+        background: #fff;
+        color: #B2533E;
+        font-weight: 600;
+        cursor: pointer;
+        transition: background 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+      }
+
+      .publication-tab.active {
+        background: #EC8F5E;
+        color: #fff;
+        box-shadow: 0 6px 16px rgba(236,143,94,0.35);
+      }
+
+      .publication-tab:focus {
+        outline: none;
+        box-shadow: 0 0 0 3px rgba(236,143,94,0.4);
+      }
+
+      .publication-panels {
+        position: relative;
+      }
+
+      .publication-panel {
+        display: none;
+        animation: fadeIn 0.3s ease;
+      }
+
+      .publication-panel.active {
+        display: block;
+      }
+
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(10px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
       }
 
       /* News Section Styling */
@@ -323,6 +412,11 @@ window.addEventListener('load', initializeNewsSection);
           padding: 15px;
         }
 
+        .publication-tab {
+          flex: 1 1 100%;
+          text-align: center;
+        }
+
         .news-timeline {
           padding-left: 20px;
         }
@@ -362,11 +456,6 @@ window.addEventListener('load', initializeNewsSection);
       a:focus {
         outline: 2px solid #EC8F5E;
         outline-offset: 2px;
-      }
-
-      /* Loading Optimization */
-      .publication-image img {
-        loading: lazy;
       }
 
       .publications-note {
@@ -625,126 +714,149 @@ window.addEventListener('load', initializeNewsSection);
   </p>
   
 
-<!-- pub 19 -->
-<div class="publication">
-  <div class="publication-details">
-    <div class="publication-title">
-      <a href="https://arxiv.org/abs/2507.10867">Digital defocus aberration interference for automated optical microscopy</a>
-    </div>
-    <div class="publication-authors">
-      <strong>Haowen Zhou*</strong>, Shi Zhao*, Yujie Fan, Zhenyu Dong, Oumeng Zhang, Viviana Gradinaru, Changhuei Yang
-    </div>
-    <div class="publication-venue">arXiv, 2025</div>
-    <div class="publication-links">
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/DAbI.txt">BibTex</a>
-      <a href="https://hwzhou2020.github.io/DAbI-Web/">Project Page & Code</a>
-      <a href="https://osf.io/dvztc/">Data</a>
-    </div>
-    <div class="publication-abstract">
-      We recently discovered a phenomenon that the digitally summed Fourier spectrum of two images acquired from two-angle illumination exhibits interference-like fringe modulation when the sample is out-of-focus.
-      These digital fringes correlate directly with defocus through a physics-based relation. Based on this principle, we developed an automatic, efficient, and generalizable defocus detection method termed digital defocus aberration interference (DAbI).
-    </div>
-  </div>
-  <div class="publication-image">
-    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/DAbI_cover.png" alt="DAbI cover image" loading="lazy">
-  </div>
-</div>
 
-<!-- pub 18 -->
-<div class="publication">
-  <div class="publication-details">
-    <div class="publication-title">
-      <a href="https://arxiv.org/abs/2504.16247">Analytic Fourier ptychotomography for volumetric refractive index imaging</a>
-    </div>
-    <div class="publication-authors">
-      Zhenyu Dong*, <strong>Haowen Zhou*</strong>, Ruizhi Cao*, Oumeng Zhang, Shi Zhao, Panlang Lyu, Reinaldo E Alcalde, Changhuei Yang
-    </div>
-    <div class="publication-venue">Nat. Commun. (In Press)</div>
-    <div class="publication-links">
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/AFP.txt">BibTex</a>
-      <a href="https://mrdongzhenyu.github.io/AFP-Web/">Project Page & Code</a>
-      <a href="https://osf.io/f7tqa/">Data</a>
-    </div>
-    <div class="publication-abstract">
-      We propose Analytic Fourier Ptychotomography (AFP), a new computational microscopy technique that analytically reconstructs aberration-free, complex-valued 3D RI distributions without iterative optimization or axial scanning. AFP incorporates a new concept named finite sample thickness (FST) prior, thereby simplifying the inverse scattering problem into solving linear equations.
-    </div>
-  </div>
-  <div class="publication-image">
-    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/AFP_cover.png" alt="AFP cover image" loading="lazy">
-  </div>
-</div>
 
-<!-- pub 17 -->
-<div class="publication">
-  <div class="publication-details">
-    <div class="publication-title">
-      <a href="https://doi.org/10.1117/1.AP.7.2.026001">Single-shot volumetric fluorescence imaging with neural fields</a>
-    </div>
-    <div class="publication-authors">
-      Oumeng Zhang*, <strong>Haowen Zhou*</strong>, Brandon Y Feng, Elin M Larsson, Reinaldo E Alcalde, Siyuan Yin, Catherine Deng, Changhuei Yang
-    </div>
-    <div class="publication-venue">Advanced Photonics, 2025</div>
-    <div class="publication-links">
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/SVF.txt">BibTex</a>
-      <a href="https://hwzhou2020.github.io/SVF-Web/">Project Page & Code</a>
-      <a href="https://osf.io/4a5ws/">Data</a>
-    </div>
-    <div class="publication-abstract">
-      Single-shot volumetric fluorescence (SVF) imaging captures biological processes with high temporal resolution and a large field of view, unlike traditional methods requiring multiple axial plane scans. Existing SVF methods often face limitations due to large, complex point spread functions (PSFs), affecting signal-to-noise ratio, resolution, and field of view. The paper introduces a QuadraPol PSF combined with neural fields, using a compact custom polarizer and a polarization camera to detect fluorescence and encode the 3D scene within a compact PSF without depth ambiguity.
-    </div>
+  <div class="publication-tabs" role="tablist">
+    <button class="publication-tab active" data-tab="microscopy" role="tab" aria-controls="tab-microscopy" aria-selected="true">
+      Computational Microscopy
+    </button>
+    <button class="publication-tab" data-tab="neural" role="tab" aria-controls="tab-neural" aria-selected="false">
+      Neural Fields &amp; Reconstruction
+    </button>
+    <button class="publication-tab" data-tab="pathology" role="tab" aria-controls="tab-pathology" aria-selected="false">
+      AI for Pathology
+    </button>
   </div>
-  <div class="publication-image">
-    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/SVF_cover.jpg" alt="SVF cover image" loading="lazy">
-  </div>
-</div>
 
-<div class="publication">
-  <div class="publication-details">
-    <div class="publication-title">
-      <a href="https://doi.org/10.1002/path.6263">AI-guided histopathology predicts brain metastasis in lung cancer patients</a>
-    </div>
-    <div class="publication-authors">
-      <strong>Haowen Zhou*</strong>, Mark Watson*, Cory T. Bernadt, Steven (Siyu) Lin, Chieh-yu Lin, Jon H. Ritter, Alexander Wein, Simon Mahler, Sid Rawal, Ramaswamy Govindan, Changhuei Yang, Richard J. Cote
-    </div>
-    <div class="publication-venue">Journal of Pathology, 2024</div>
-    <div class="publication-links">
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/AI_NSCLC.txt">BibTex</a>
-      <a href="https://github.com/hwzhou2020/NSCLC_ResNet">Code</a>
-      <a href="https://doi.org/10.22002/dw66e-mbs82">Data</a>
-      <a href="https://www.caltech.edu/about/news/using-ai-to-predict-the-spread-of-lung-cancer/">News</a>
-    </div>
-    <div class="publication-abstract">
-      Brain metastases can occur in nearly half of patients with early and locally advanced (stage I&ndash;III) non-small cell lung cancer (NSCLC). There are no reliable histopathologic or molecular means to identify those who are likely to develop brain metastases. We sought to determine if deep learning could be applied to routine H&E-stained primary tumor tissue sections from stage I&ndash;III NSCLC patients to predict the development of brain metastasis.
-    </div>
-  </div>
-  <div class="publication-image">
-    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/Jpath-cover.jpg" alt="AI NSCLC cover image" loading="lazy">
-  </div>
-</div>
+  <div class="publication-panels">
+    <div class="publication-panel active" id="tab-microscopy" role="tabpanel" aria-labelledby="tab-microscopy">
+      <!-- pub 19 -->
+      <div class="publication">
+        <div class="publication-details">
+          <div class="publication-title">
+            <a href="https://arxiv.org/abs/2507.10867">Digital defocus aberration interference for automated optical microscopy</a>
+          </div>
+          <div class="publication-authors">
+            <strong>Haowen Zhou*</strong>, Shi Zhao*, Yujie Fan, Zhenyu Dong, Oumeng Zhang, Viviana Gradinaru, Changhuei Yang
+          </div>
+          <div class="publication-venue">arXiv, 2025</div>
+          <div class="publication-links">
+            <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/DAbI.txt">BibTex</a>
+            <a href="https://hwzhou2020.github.io/DAbI-Web/">Project Page &amp; Code</a>
+            <a href="https://osf.io/dvztc/">Data</a>
+          </div>
+          <div class="publication-abstract">
+            We recently discovered a phenomenon that the digitally summed Fourier spectrum of two images acquired from two-angle illumination exhibits interference-like fringe modulation when the sample is out-of-focus.
+            These digital fringes correlate directly with defocus through a physics-based relation. Based on this principle, we developed an automatic, efficient, and generalizable defocus detection method termed digital defocus aberration interference (DAbI).
+          </div>
+        </div>
+        <div class="publication-image">
+          <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/DAbI_cover.png" alt="DAbI cover image" loading="lazy">
+        </div>
+      </div>
 
-<!-- pub 11 -->
-<div class="publication">
-  <div class="publication-details">
-    <div class="publication-title">
-      <a href="https://doi.org/10.1364/OPTICA.505283">FPM-INR: Fourier ptychographic microscopy image stack reconstruction using implicit neural representations</a>
+      <!-- pub 18 -->
+      <div class="publication">
+        <div class="publication-details">
+          <div class="publication-title">
+            <a href="https://arxiv.org/abs/2504.16247">Analytic Fourier ptychotomography for volumetric refractive index imaging</a>
+          </div>
+          <div class="publication-authors">
+            Zhenyu Dong*, <strong>Haowen Zhou*</strong>, Ruizhi Cao*, Oumeng Zhang, Shi Zhao, Panlang Lyu, Reinaldo E Alcalde, Changhuei Yang
+          </div>
+          <div class="publication-venue">Nat. Commun. (In Press)</div>
+          <div class="publication-links">
+            <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/AFP.txt">BibTex</a>
+            <a href="https://mrdongzhenyu.github.io/AFP-Web/">Project Page &amp; Code</a>
+            <a href="https://osf.io/f7tqa/">Data</a>
+          </div>
+          <div class="publication-abstract">
+            We propose Analytic Fourier Ptychotomography (AFP), a new computational microscopy technique that analytically reconstructs aberration-free, complex-valued 3D RI distributions without iterative optimization or axial scanning. AFP incorporates a new concept named finite sample thickness (FST) prior, thereby simplifying the inverse scattering problem into solving linear equations.
+          </div>
+        </div>
+        <div class="publication-image">
+          <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/AFP_cover.png" alt="AFP cover image" loading="lazy">
+        </div>
+      </div>
     </div>
-    <div class="publication-authors">
-      <strong>Haowen Zhou*</strong>, Brandon Y. Feng*, Haiyun Guo, Siyu Lin, Mingshu Liang, Christopher A. Metzler, Changhuei Yang
+
+    <div class="publication-panel" id="tab-neural" role="tabpanel" aria-labelledby="tab-neural">
+      <!-- pub 17 -->
+      <div class="publication">
+        <div class="publication-details">
+          <div class="publication-title">
+            <a href="https://doi.org/10.1117/1.AP.7.2.026001">Single-shot volumetric fluorescence imaging with neural fields</a>
+          </div>
+          <div class="publication-authors">
+            Oumeng Zhang*, <strong>Haowen Zhou*</strong>, Brandon Y Feng, Elin M Larsson, Reinaldo E Alcalde, Siyuan Yin, Catherine Deng, Changhuei Yang
+          </div>
+          <div class="publication-venue">Advanced Photonics, 2025</div>
+          <div class="publication-links">
+            <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/SVF.txt">BibTex</a>
+            <a href="https://hwzhou2020.github.io/SVF-Web/">Project Page &amp; Code</a>
+            <a href="https://osf.io/4a5ws/">Data</a>
+          </div>
+          <div class="publication-abstract">
+            Single-shot volumetric fluorescence (SVF) imaging captures biological processes with high temporal resolution and a large field of view, unlike traditional methods requiring multiple axial plane scans. Existing SVF methods often face limitations due to large, complex point spread functions (PSFs), affecting signal-to-noise ratio, resolution, and field of view. The paper introduces a QuadraPol PSF combined with neural fields, using a compact custom polarizer and a polarization camera to detect fluorescence and encode the 3D scene within a compact PSF without depth ambiguity.
+          </div>
+        </div>
+        <div class="publication-image">
+          <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/SVF_cover.jpg" alt="SVF cover image" loading="lazy">
+        </div>
+      </div>
+
+      <!-- pub 11 -->
+      <div class="publication">
+        <div class="publication-details">
+          <div class="publication-title">
+            <a href="https://doi.org/10.1364/OPTICA.505283">FPM-INR: Fourier ptychographic microscopy image stack reconstruction using implicit neural representations</a>
+          </div>
+          <div class="publication-authors">
+            <strong>Haowen Zhou*</strong>, Brandon Y. Feng*, Haiyun Guo, Siyu Lin, Mingshu Liang, Christopher A. Metzler, Changhuei Yang
+          </div>
+          <div class="publication-venue">Optica, 2023</div>
+          <div class="publication-links">
+            <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/FPM-INR.txt">BibTex</a>
+            <a href="https://hwzhou2020.github.io/FPM-INR-Web/">Project Page &amp; Code</a>
+            <a href="https://doi.org/10.22002/7aer7-qhf77">Data</a>
+          </div>
+          <div class="publication-abstract">
+            Fourier ptychographic microscope images the biological samples with high-resolution and large field-of-view simultaneously. However, this microscope faces challenges with long image stack reconstruction time and huge data volumes. We designed physics-based neural signal representations to tackle these challenges and showed potential in facilitating remote diagnosis, digital pathology, and efficient clinical data packaging.
+          </div>
+        </div>
+        <div class="publication-image">
+          <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/FPM-INR-Cover.jpg" alt="FPM-INR cover image" loading="lazy">
+        </div>
+      </div>
     </div>
-    <div class="publication-venue">Optica, 2023</div>
-    <div class="publication-links">
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/FPM-INR.txt">BibTex</a>
-      <a href="https://hwzhou2020.github.io/FPM-INR-Web/">Project Page & Code</a>
-      <a href="https://doi.org/10.22002/7aer7-qhf77">Data</a>
-    </div>
-    <div class="publication-abstract">
-      Fourier ptychographic microscope images the biological samples with high-resolution and large field-of-view simultaneously. However, this microscope faces challenges with long image stack reconstruction time and huge data volumes. We designed physics-based neural signal representations to tackle these challenges and showed potential in facilitating remote diagnosis, digital pathology, and efficient clinical data packaging.
+
+    <div class="publication-panel" id="tab-pathology" role="tabpanel" aria-labelledby="tab-pathology">
+      <div class="publication">
+        <div class="publication-details">
+          <div class="publication-title">
+            <a href="https://doi.org/10.1002/path.6263">AI-guided histopathology predicts brain metastasis in lung cancer patients</a>
+          </div>
+          <div class="publication-authors">
+            <strong>Haowen Zhou*</strong>, Mark Watson*, Cory T. Bernadt, Steven (Siyu) Lin, Chieh-yu Lin, Jon H. Ritter, Alexander Wein, Simon Mahler, Sid Rawal, Ramaswamy Govindan, Changhuei Yang, Richard J. Cote
+          </div>
+          <div class="publication-venue">Journal of Pathology, 2024</div>
+          <div class="publication-links">
+            <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/AI_NSCLC.txt">BibTex</a>
+            <a href="https://github.com/hwzhou2020/NSCLC_ResNet">Code</a>
+            <a href="https://doi.org/10.22002/dw66e-mbs82">Data</a>
+            <a href="https://www.caltech.edu/about/news/using-ai-to-predict-the-spread-of-lung-cancer/">News</a>
+          </div>
+          <div class="publication-abstract">
+            Brain metastases can occur in nearly half of patients with early and locally advanced (stage I&ndash;III) non-small cell lung cancer (NSCLC). There are no reliable histopathologic or molecular means to identify those who are likely to develop brain metastases. We sought to determine if deep learning could be applied to routine H&amp;E-stained primary tumor tissue sections from stage I&ndash;III NSCLC patients to predict the development of brain metastasis.
+          </div>
+        </div>
+        <div class="publication-image">
+          <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/Jpath-cover.jpg" alt="AI NSCLC cover image" loading="lazy">
+        </div>
+      </div>
     </div>
   </div>
-  <div class="publication-image">
-    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/FPM-INR-Cover.jpg" alt="FPM-INR cover image" loading="lazy">
-  </div>
-</div>
+
 
 <div class="clustermaps-widget">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ecf4d6&w=a&t=tt&d=_uUi94cpmcNCyRUHW_7GZIypCW8NCGmk_sE5ee3tpvc&co=265073&ct=ffffff&cmo=2d9596&cmn=9ad0c2'></script> 
