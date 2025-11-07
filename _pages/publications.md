@@ -72,6 +72,92 @@ author_profile: true
 Note: Not all papers are publicly available. Publisher subscriptions may be needed.
 <br>
 
+<!-- pub 22 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/AFP.png" width="150" height="150">
+  </div><div class="publication-details">
+    <font size="4">
+      <a href="https://arxiv.org/abs/2504.16247" 
+      style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            22. Analytic Fourier ptychotomography for volumetric refractive index imaging
+          </strong>
+        </span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+        Zhenyu Dong*, <span style="color: #213555;"><strong>Haowen Zhou*,</strong></span>, Ruizhi Cao*, Oumeng Zhang, Shi Zhao, Panlang Lyu, Reinaldo E Alcalde, Changhuei Yang
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a style="text-decoration: none;">
+        <span style="color: #B2533E;">Nature Communications (In Press)</span>
+        &nbsp; &nbsp;
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/AFP.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
+      </a>
+      <a href="https://mrdongzhenyu.github.io/AFP-Web/" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #186F65;">[Project Page]</span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+         We propose Analytic Fourier Ptychotomography (AFP), a computational microscopy technique that analytically reconstructs aberration-free, complex-valued 3D RI distributions without iterative optimization or axial scanning. 
+      </span>
+    </font>
+  </div>
+</div>
+
+<!-- pub 21 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/HMFPM.png" width="150" height="150">
+  </div><div class="publication-details">
+    <font size="4">
+      <a href="https://arxiv.org/abs/2509.05549" 
+      style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            21. Hybrid-illumination multiplexed Fourier ptychographic microscopy with robust aberration correction
+          </strong>
+        </span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+        Shi Zhao, <span style="color: #213555;"><strong>Haowen Zhou,</strong></span>, Changhuei Yang
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a style="text-decoration: none;">
+        <span style="color: #B2533E;">Journal of Physics: Photonics (In Press)</span>
+        &nbsp; &nbsp;
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/HMFPM.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
+      </a>
+      <a href="https://github.com/Magishe/HMFPM" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #186F65;">[GitHub]</span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+         We proposed Hybrid-illumination Multiplexed Fourier Ptychographic Microscopy (HMFPM), an advanced computational imaging framework, that integrates the advantages of multiplexed FPM and analytic reconstruction methods.
+      </span>
+    </font>
+  </div>
+</div>
+
 <!-- pub 20 -->
 <div class="publication">
   <div class="publication-image">
