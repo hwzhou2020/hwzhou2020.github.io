@@ -55,6 +55,8 @@ author_profile: true
     position: fixed;
     right: 24px;
     bottom: 24px;
+    display: inline-flex;
+    align-items: center;
     background: #EC8F5E;
     color: #fff;
     padding: 10px 16px;
@@ -1110,21 +1112,34 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
   {% include archive-single.html %}
 {% endfor %} -->
 
-<a href="#pub-top" class="back-to-top" id="backToTop">↑ Back to Top</a>
-
 <script>
-  document.addEventListener('DOMContentLoaded', function() {
-    var backToTop = document.getElementById('backToTop');
+  (function() {
+    var targetId = 'backToTop';
+    var existing = document.getElementById(targetId);
+    var backToTop = existing;
+
     if (!backToTop) {
-      return;
+      backToTop = document.createElement('a');
+      backToTop.id = targetId;
+      backToTop.href = '#pub-top';
+      backToTop.className = 'back-to-top';
+      backToTop.textContent = '↑ Back to Top';
+      document.body.appendChild(backToTop);
     }
 
-    window.addEventListener('scroll', function() {
-      if (window.scrollY > 400) {
+    function scrollPosition() {
+      return window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    }
+
+    function toggleBackToTop() {
+      if (scrollPosition() > 400) {
         backToTop.classList.add('show');
       } else {
         backToTop.classList.remove('show');
       }
-    });
-  });
+    }
+
+    window.addEventListener('scroll', toggleBackToTop, { passive: true });
+    toggleBackToTop();
+  })();
 </script>
