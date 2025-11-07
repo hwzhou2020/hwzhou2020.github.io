@@ -51,6 +51,37 @@ author_profile: true
     flex-grow: 1;
   }
 
+  .publication-year-heading {
+    margin: 50px 0 15px;
+    font-size: 1.5em;
+    color: #1a365d;
+    border-bottom: 2px solid #EC8F5E;
+    padding-bottom: 6px;
+    scroll-margin-top: 90px;
+  }
+
+  .publication-index {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 25px 0 35px;
+  }
+
+  .publication-index a {
+    padding: 8px 16px;
+    border-radius: 999px;
+    border: 1px solid #EC8F5E;
+    color: #B2533E;
+    font-weight: 600;
+    background: #fff5ef;
+    transition: background 0.2s ease, color 0.2s ease;
+  }
+
+  .publication-index a:hover {
+    background: #EC8F5E;
+    color: #fff;
+  }
+
   /* Mobile Optimization */
   @media (max-width: 768px) {
     .publication {
@@ -64,6 +95,15 @@ author_profile: true
       height: 200px;
       justify-self: center;
     }
+
+    .publication-index {
+      flex-direction: column;
+    }
+
+    .publication-index a {
+      width: 100%;
+      text-align: center;
+    }
   }
 </style>
 
@@ -71,6 +111,19 @@ author_profile: true
 <br>
 Note: Not all papers are publicly available. Publisher subscriptions may be needed.
 <br>
+
+<div class="publication-index">
+  <a href="#in-press">In Press / ArXiv</a>
+  <a href="#y2025">2025</a>
+  <a href="#y2024">2024</a>
+  <a href="#y2023">2023</a>
+  <a href="#y2022">2022</a>
+  <a href="#y2021">2021</a>
+  <a href="#y2019">2019</a>
+  <a href="#y2018">2018</a>
+</div>
+
+<h2 id="in-press" class="publication-year-heading">In Press &amp; ArXiv</h2>
 
 <!-- pub 22 -->
 <div class="publication">
@@ -157,6 +210,8 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
     </font>
   </div>
 </div>
+
+<h2 id="y2025" class="publication-year-heading">2025</h2>
 
 <!-- pub 20 -->
 <div class="publication">
@@ -325,6 +380,8 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
     </font>
   </div>
 </div>
+
+<h2 id="y2024" class="publication-year-heading">2024</h2>
 
 <!-- pub 16 -->
 <div class="publication">
@@ -543,6 +600,8 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
   </div>
 </div>
 
+<h2 id="y2023" class="publication-year-heading">2023</h2>
+
 <!-- pub 11 -->
 <div class="publication">
   <div class="publication-image">
@@ -588,6 +647,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
   </div>
 </div>
 
+<h2 id="y2022" class="publication-year-heading">2022</h2>
 
 <!-- pub 10 -->
 <div class="publication">
@@ -792,6 +852,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
   </div>
 </div>
 
+<h2 id="y2021" class="publication-year-heading">2021</h2>
 
 <!-- pub 5 -->
 <div class="publication">
@@ -872,6 +933,8 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
 </div>
 
 
+<h2 id="y2019" class="publication-year-heading">2019</h2>
+
 <!-- pub 3 -->
 <div class="publication">
   <div class="publication-image">
@@ -951,6 +1014,8 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
   </div>
 </div>
 
+
+<h2 id="y2018" class="publication-year-heading">2018</h2>
 
 <!-- pub 1 -->
 <div class="publication">
