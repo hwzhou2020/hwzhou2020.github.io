@@ -13,35 +13,34 @@ redirect_from:
 <script>
 function toggleNews() {
   try {
-    var items = document.querySelectorAll('.news-item');
     var button = document.getElementById('expandNews');
+    var timeline = document.getElementById('news-timeline');
 
-    if (!button || items.length === 0) {
+    if (!button || !timeline) {
       return;
     }
 
-    var isExpanded = button.getAttribute('data-expanded') === 'true';
-
-    for (var i = 0; i < items.length; i++) {
-      if (i < 5) {
-        items[i].style.setProperty('display', 'block', 'important');
-      } else {
-        items[i].style.setProperty('display', isExpanded ? 'none' : 'block', 'important');
-      }
+    var isExpanded = timeline.classList.contains('news-expanded');
+    if (isExpanded) {
+      timeline.classList.remove('news-expanded');
+      button.setAttribute('data-expanded', 'false');
+      button.textContent = 'View Archive';
+    } else {
+      timeline.classList.add('news-expanded');
+      button.setAttribute('data-expanded', 'true');
+      button.textContent = 'Hide Archive';
     }
-
-    button.setAttribute('data-expanded', isExpanded ? 'false' : 'true');
-    button.textContent = isExpanded ? 'Show More News' : 'Show Less News';
   } catch (error) {
     console.error('Error in toggleNews:', error);
   }
 }
 
 function initializeNewsSection() {
-  var items = document.querySelectorAll('.news-item');
   var button = document.getElementById('expandNews');
+  var timeline = document.getElementById('news-timeline');
+  var items = timeline ? timeline.querySelectorAll('.news-item') : [];
 
-  if (!button) {
+  if (!button || !timeline) {
     return;
   }
 
@@ -51,11 +50,8 @@ function initializeNewsSection() {
   }
 
   button.setAttribute('data-expanded', 'false');
-  button.textContent = 'Show More News';
-
-  for (var i = 5; i < items.length; i++) {
-    items[i].style.setProperty('display', 'none', 'important');
-  }
+  button.textContent = 'View Archive';
+  timeline.classList.remove('news-expanded');
 }
 
 window.addEventListener('load', initializeNewsSection);
@@ -170,17 +166,122 @@ window.addEventListener('load', initializeNewsSection);
       }
 
       /* News Section Styling */
-      .news-item {
-        margin-bottom: 15px;
-        padding: 12px;
-        background: #f7fafc;
-        border-left: 3px solid #186F65;
-        border-radius: 4px;
+      .news-timeline {
+        position: relative;
+        margin: 30px 0;
+        padding-left: 50px;
       }
 
-      .news-date {
+      .news-timeline::before {
+        content: "";
+        position: absolute;
+        left: 24px;
+        top: 0;
+        bottom: 0;
+        width: 2px;
+        background: #e2e8f0;
+      }
+
+      .news-item {
+        position: relative;
+        margin-bottom: 25px;
+        padding-left: 10px;
+      }
+
+      .news-badge {
+        position: absolute;
+        left: -50px;
+        top: 0;
+        text-align: right;
+        width: 70px;
+      }
+
+      .news-badge span {
+        display: inline-block;
         font-weight: 600;
+        color: #1a365d;
+        background: #edf2f7;
+        padding: 4px 10px;
+        border-radius: 999px;
+        font-size: 0.85em;
+      }
+
+      .news-card {
+        background: #ffffff;
+        border-radius: 10px;
+        border: 1px solid #ececec;
+        padding: 14px 18px;
+        box-shadow: 0 6px 18px rgba(0,0,0,0.04);
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+      }
+
+      .news-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 10px 24px rgba(0,0,0,0.08);
+      }
+
+      .news-timeline .news-item:nth-of-type(even) .news-card {
+        background: #fff9f4;
+      }
+
+      .news-card-content {
+        display: flex;
+        gap: 16px;
+        align-items: flex-start;
+      }
+
+      .news-icon {
+        width: 36px;
+        height: 36px;
+        border-radius: 50%;
+        background: #186F65;
+        color: #fff;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 700;
+        letter-spacing: 0.5px;
+      }
+
+      .news-item[data-type="publication"] .news-icon {
+        background: #B2533E;
+      }
+
+      .news-item[data-type="award"] .news-icon {
+        background: #EC8F5E;
+      }
+
+      .news-item[data-type="milestone"] .news-icon {
+        background: #186F65;
+      }
+
+      .news-icon::after {
+        content: "N";
+      }
+
+      .news-item[data-type="talk"] .news-icon::after {
+        content: "T";
+      }
+
+      .news-item[data-type="award"] .news-icon::after {
+        content: "A";
+      }
+
+      .news-item[data-type="publication"] .news-icon::after {
+        content: "P";
+      }
+
+      .news-item[data-type="milestone"] .news-icon::after {
+        content: "M";
+      }
+
+      .news-text p {
+        margin: 0;
         color: #2d3748;
+      }
+
+      .news-text a {
+        font-weight: 600;
       }
 
       /* News Section Controls */
@@ -189,37 +290,29 @@ window.addEventListener('load', initializeNewsSection);
         margin-top: 15px;
       }
 
-      .expand-button {
-        background: #EC8F5E;
-        color: white;
-        border: none;
-        padding: 8px 16px;
-        border-radius: 6px;
-        font-size: 0.9em;
-        cursor: pointer;
-        transition: background-color 0.2s ease;
+      .news-archive-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        font-weight: 600;
+        color: #EC8F5E;
+        text-decoration: none;
+        border-bottom: 1px solid transparent;
+        transition: color 0.2s ease, border-color 0.2s ease;
       }
 
-      .expand-button:hover {
-        background: #B2533E;
-      }
-      
-      .expand-button:active {
-        background: #8B3A2F;
-        transform: translateY(1px);
+      .news-archive-link:hover {
+        color: #B2533E;
+        border-color: #B2533E;
       }
 
-      .news-item.hidden {
-        display: none;
+      .news-archive-link[data-expanded="true"] {
+        color: #B2533E;
+        border-color: #B2533E;
       }
 
       /* Hide news items beyond the first 5 by default */
-      .news-section .news-item:nth-child(n+6) {
-        display: none;
-      }
-      
-      /* Additional fallback for news items beyond 5th */
-      .news-item:nth-of-type(n+6) {
+      .news-timeline:not(.news-expanded) .news-item:nth-of-type(n+6) {
         display: none;
       }
       
@@ -228,6 +321,20 @@ window.addEventListener('load', initializeNewsSection);
       @media (max-width: 768px) {
         .publication {
           padding: 15px;
+        }
+
+        .news-timeline {
+          padding-left: 20px;
+        }
+
+        .news-badge {
+          position: static;
+          text-align: left;
+          margin-bottom: 6px;
+        }
+
+        .news-card-content {
+          flex-direction: column;
         }
 
         body {
@@ -305,74 +412,206 @@ window.addEventListener('load', initializeNewsSection);
 <section class="news-section">
   <h2>News</h2>
 
-  <div class="news-item">
-    <span class="news-date">11/05/2025</span> - I gave an invited talk on Fourier ptychographic microscopy at International Webinar on Image & Graphics Technologies (hosted by Chinese Society for Image & Graphics), Online.
-  </div>
-  
-  <div class="news-item">
-    <span class="news-date">08/19/2025</span> - I presented my work on neural fields for computational microscopy at Optica Imaging Congress, Seattle.
-  </div>
-  
-  <div class="news-item">
-    <span class="news-date">07/29/2025</span> - I gave an invited talk at Rice University, Houston, on "Physics-based computational microscopy to advance life science research".
-  </div>
-  
-  <div class="news-item">
-    <span class="news-date">06/04/2025</span> - I delivered an invited talk in ESE Seminar Series at Washington University in St. Louis, titled "Empowering microscopes with physics-based computation" 
-    <a href="https://happenings.wustl.edu/event/ese-seminar-series-haowen-zhou">[Talk page]</a>
-  </div>
-  
-  <div class="news-item">
-    <span class="news-date">04/30/2025</span> - I delivered an invited talk in Computer Vision Seminar Series at University of Maryland, College Park, titled "Synergizing microscopy and computation to advance life science research"
-  </div>
-  
-  <div class="news-item">
-    <span class="news-date">02/25/2025</span> - Check out our new paper "Single-shot volumetric fluorescence imaging with neural fields" on Advanced Photonics 
-    <a href="https://doi.org/10.1117/1.AP.7.2.026001">[paper link]</a>
-  </div>
-  
-  <div class="news-item">
-    <span class="news-date">12/03/2024</span> - I am awarded Schmidt Academy for Software Engineering Graduate Research Fellowship. The support will start on Jan. 2025 for contributions to the algorithm and software development towards computational microscopy, specifically Fourier Ptychographic Microscopy. 
-    <a href="https://sase.caltech.edu/people/gra-fellows.html">[Schmidt Academy GRA Fellows]</a>
-  </div>
-  
-  <div class="news-item">
-    <span class="news-date">08/06/2024</span> - Our new paper titled "Investigating 3D microbial community dynamics of the rhizosphere using quantitative phase and fluorescence microscopy" is online at 
-    <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2403122121">PNAS</a>. 
-    <a href="https://www.science.org/doi/10.1126/science.adt0513">[Science.org News]</a>
-  </div>
-  
-  <div class="news-item">
-    <span class="news-date">05/24/2024</span> - I am awarded <strong>SPIE Optics and Photonics Scholarship</strong>. 
-    <a href="https://spie.org/membership/student-hub/scholarships/optics-and-photonics-education-scholarships/current-winners#_=_">[Webpage]</a> 
-    <a href="/files/Haowen Zhou PR24.pdf">[PDF]</a>
-    <a href="https://www.ee.caltech.edu/news/haowen-zhou-awarded-spie-optics-and-photonics-scholarship">[News]</a>
-  </div>
-  
-  <div class="news-item">
-    <span class="news-date">03/06/2024</span> - The new paper "AI-guided histopathology predicts brain metastasis in lung cancer patients" has been featured on the Caltech homepage. 
-    <a href="https://www.caltech.edu/about/news/using-ai-to-predict-the-spread-of-lung-cancer/">[News]</a>
-  </div>
-  
-  <div class="news-item">
-    <span class="news-date">03/04/2024</span> - My new paper on "AI-guided histopathology predicts brain metastasis in lung cancer patients" is online today. Check my publication list 
-    <a href="https://hwzhou2020.github.io/publications/">here</a>!
-  </div>
-  
-  <div class="news-item">
-    <span class="news-date">02/14/2024</span> - I passed my candidacy exam!
-  </div>
-  
-  <div class="news-item">
-    <span class="news-date">11/21/2023</span> - My personal homepage is online!
-  </div>
-  
-  <div class="news-item">
-    <span class="news-date">06/30/2021</span> - I joined Caltech Biophotonics Lab!
+  <div class="news-timeline" id="news-timeline">
+    <div class="news-item" data-type="talk">
+      <div class="news-badge">
+        <span>11/05/2025</span>
+      </div>
+      <div class="news-card">
+        <div class="news-card-content">
+          <div class="news-icon" aria-hidden="true"></div>
+          <div class="news-text">
+            <p>I gave an invited talk on Fourier ptychographic microscopy at the International Webinar on Image & Graphics Technologies (Chinese Society for Image & Graphics, online).</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="news-item" data-type="talk">
+      <div class="news-badge">
+        <span>08/19/2025</span>
+      </div>
+      <div class="news-card">
+        <div class="news-card-content">
+          <div class="news-icon" aria-hidden="true"></div>
+          <div class="news-text">
+            <p>I presented neural-field driven computational microscopy at the Optica Imaging Congress in Seattle.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="news-item" data-type="talk">
+      <div class="news-badge">
+        <span>07/29/2025</span>
+      </div>
+      <div class="news-card">
+        <div class="news-card-content">
+          <div class="news-icon" aria-hidden="true"></div>
+          <div class="news-text">
+            <p>Invited talk at Rice University (Houston) titled “Physics-based computational microscopy to advance life science research”.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="news-item" data-type="talk">
+      <div class="news-badge">
+        <span>06/04/2025</span>
+      </div>
+      <div class="news-card">
+        <div class="news-card-content">
+          <div class="news-icon" aria-hidden="true"></div>
+          <div class="news-text">
+            <p>ESE Seminar Series (Washington University in St. Louis): “Empowering microscopes with physics-based computation.” <a href="https://happenings.wustl.edu/event/ese-seminar-series-haowen-zhou">Talk page</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="news-item" data-type="talk">
+      <div class="news-badge">
+        <span>04/30/2025</span>
+      </div>
+      <div class="news-card">
+        <div class="news-card-content">
+          <div class="news-icon" aria-hidden="true"></div>
+          <div class="news-text">
+            <p>Computer Vision Seminar Series (University of Maryland, College Park): “Synergizing microscopy and computation to advance life science research.”</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="news-item" data-type="publication">
+      <div class="news-badge">
+        <span>02/25/2025</span>
+      </div>
+      <div class="news-card">
+        <div class="news-card-content">
+          <div class="news-icon" aria-hidden="true"></div>
+          <div class="news-text">
+            <p>Our paper “Single-shot volumetric fluorescence imaging with neural fields” is online at Advanced Photonics. <a href="https://doi.org/10.1117/1.AP.7.2.026001">Paper link</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="news-item" data-type="award">
+      <div class="news-badge">
+        <span>12/03/2024</span>
+      </div>
+      <div class="news-card">
+        <div class="news-card-content">
+          <div class="news-icon" aria-hidden="true"></div>
+          <div class="news-text">
+            <p>Awarded the Schmidt Academy for Software Engineering Graduate Research Fellowship supporting Fourier Ptychographic Microscopy software. <a href="https://sase.caltech.edu/people/gra-fellows.html">Schmidt Academy GRA Fellows</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="news-item" data-type="publication">
+      <div class="news-badge">
+        <span>08/06/2024</span>
+      </div>
+      <div class="news-card">
+        <div class="news-card-content">
+          <div class="news-icon" aria-hidden="true"></div>
+          <div class="news-text">
+            <p>PNAS publishes “Investigating 3D microbial community dynamics of the rhizosphere using quantitative phase and fluorescence microscopy.” <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2403122121">Paper</a> · <a href="https://www.science.org/doi/10.1126/science.adt0513">Science.org news</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="news-item" data-type="award">
+      <div class="news-badge">
+        <span>05/24/2024</span>
+      </div>
+      <div class="news-card">
+        <div class="news-card-content">
+          <div class="news-icon" aria-hidden="true"></div>
+          <div class="news-text">
+            <p>Recipient of the <strong>SPIE Optics and Photonics Scholarship</strong>. <a href="https://spie.org/membership/student-hub/scholarships/optics-and-photonics-education-scholarships/current-winners#_=_">Webpage</a> · <a href="/files/Haowen Zhou PR24.pdf">PDF</a> · <a href="https://www.ee.caltech.edu/news/haowen-zhou-awarded-spie-optics-and-photonics-scholarship">EE News</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="news-item" data-type="publication">
+      <div class="news-badge">
+        <span>03/06/2024</span>
+      </div>
+      <div class="news-card">
+        <div class="news-card-content">
+          <div class="news-icon" aria-hidden="true"></div>
+          <div class="news-text">
+            <p>“AI-guided histopathology predicts brain metastasis in lung cancer patients” is featured on the Caltech homepage. <a href="https://www.caltech.edu/about/news/using-ai-to-predict-the-spread-of-lung-cancer/">News</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="news-item" data-type="publication">
+      <div class="news-badge">
+        <span>03/04/2024</span>
+      </div>
+      <div class="news-card">
+        <div class="news-card-content">
+          <div class="news-icon" aria-hidden="true"></div>
+          <div class="news-text">
+            <p>“AI-guided histopathology predicts brain metastasis in lung cancer patients” is now online. Full list <a href="https://hwzhou2020.github.io/publications/">here</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="news-item" data-type="milestone">
+      <div class="news-badge">
+        <span>02/14/2024</span>
+      </div>
+      <div class="news-card">
+        <div class="news-card-content">
+          <div class="news-icon" aria-hidden="true"></div>
+          <div class="news-text">
+            <p>I passed my candidacy exam.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="news-item" data-type="milestone">
+      <div class="news-badge">
+        <span>11/21/2023</span>
+      </div>
+      <div class="news-card">
+        <div class="news-card-content">
+          <div class="news-icon" aria-hidden="true"></div>
+          <div class="news-text">
+            <p>Launched this personal homepage.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="news-item" data-type="milestone">
+      <div class="news-badge">
+        <span>06/30/2021</span>
+      </div>
+      <div class="news-card">
+        <div class="news-card-content">
+          <div class="news-icon" aria-hidden="true"></div>
+          <div class="news-text">
+            <p>I joined the Caltech Biophotonics Lab.</p>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
   
   <div class="news-controls">
-    <button class="expand-button" id="expandNews" onclick="toggleNews()">Show More News</button>
+    <a href="#news-timeline" class="news-archive-link" id="expandNews" role="button" onclick="toggleNews(); return false;">View Archive</a>
   </div>
 </section>
 
@@ -514,4 +753,3 @@ window.addEventListener('load', initializeNewsSection);
 <!-- https://clustrmaps.com/site/1bxh8 --> 
 
 </section> <!-- End publications-section -->
-
