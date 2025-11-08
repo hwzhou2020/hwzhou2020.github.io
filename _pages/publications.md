@@ -240,7 +240,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
     <br>
     <font size="3">
       <span style="color: gray;">
-         We proposed Hybrid-illumination Multiplexed Fourier Ptychographic Microscopy (HMFPM), an advanced computational imaging framework, that integrates the advantages of multiplexed FPM and analytic reconstruction methods.
+         We propose Hybrid-illumination Multiplexed Fourier Ptychographic Microscopy (HMFPM), an advanced computational imaging framework, that integrates the advantages of multiplexed FPM and analytic reconstruction methods.
       </span>
     </font>
   </div>
