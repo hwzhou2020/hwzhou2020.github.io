@@ -160,6 +160,50 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
 
 <h2 id="in-press" class="publication-year-heading">In Press &amp; ArXiv</h2>
 
+<!-- pub 23 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/DAbI.png" width="150" height="150">
+  </div><div class="publication-details">
+    <font size="4">
+      <a href="https://arxiv.org/abs/2507.10867" 
+      style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            23. Digital defocus aberration interference for automated optical microscopy
+          </strong>
+        </span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+        <span style="color: #213555;"><strong>Haowen Zhou*,</strong></span>, Shi Zhao*, Yujie Fan, Zhenyu Dong, Oumeng Zhang, Viviana Gradinaru, Changhuei Yang
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a style="text-decoration: none;">
+        <span style="color: #B2533E;">ArXiv, 2025</span>
+        &nbsp; &nbsp;
+      </a>
+      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/DAbI.txt" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
+      </a>
+      <a href="https://hwzhou2020.github.io/DAbI-Web/" style="text-decoration: none;">
+        &nbsp; &nbsp;  <span style="color: #186F65;">[Project Page]</span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: gray;">
+         We recently discovered a phenomenon that the digitally summed Fourier spectrum of two images acquired from two-angle illumination exhibits interference-like fringe modulation when the sample is out-of-focus.
+         These digital fringes correlate directly with defocus through a physics-based relation. Based on this principle, we developed an automatic, efficient, and generalizable defocus detection method termed digital defocus aberration interference (DAbI).
+      </span>
+    </font>
+  </div>
+</div>
+
 <!-- pub 22 -->
 <div class="publication">
   <div class="publication-image">
@@ -203,13 +247,16 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
   </div>
 </div>
 
+
+<h2 id="y2025" class="publication-year-heading">2025</h2>
+
 <!-- pub 21 -->
 <div class="publication">
   <div class="publication-image">
     <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/HMFPM.png" width="150" height="150">
   </div><div class="publication-details">
     <font size="4">
-      <a href="https://arxiv.org/abs/2509.05549" 
+      <a href="https://iopscience.iop.org/article/10.1088/2515-7647/ae1cff" 
       style="text-decoration: none;">
         <span style="color: #191717;">
           <strong>
@@ -227,7 +274,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
       <a style="text-decoration: none;">
-        <span style="color: #B2533E;">Journal of Physics: Photonics (In Press)</span>
+        <span style="color: #B2533E;">Journal of Physics: Photonics, 2025</span>
         &nbsp; &nbsp;
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/HMFPM.txt" style="text-decoration: none;">
@@ -245,8 +292,6 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
     </font>
   </div>
 </div>
-
-<h2 id="y2025" class="publication-year-heading">2025</h2>
 
 <!-- pub 20 -->
 <div class="publication">
