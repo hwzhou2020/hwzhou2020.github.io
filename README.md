@@ -12,10 +12,11 @@ This is the personal academic homepage of Haowen Zhou, a PhD candidate in Electr
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
 - **Contemporary Layout**: Card-based publication display with hover effects
 
-### 📰 **Smart News Section**
+### 📰 **Smart News Timeline**
 - **Auto-Management**: Automatically shows the 5 most recent news items
-- **Expandable**: "Show More News" button to reveal complete news history
-- **Easy Updates**: Simply add new news items at the top - no manual configuration needed
+- **Timeline View**: Vertical timeline with date badges and icon-coded entries for talks, publications, awards, and milestones
+- **Archive Toggle**: “View Archive” link reveals or hides older news in-place
+- **Easy Updates**: Simply add new news items at the top—no manual configuration needed
 
 ### 📚 **Enhanced Publications**
 - **Selected Publications**: Curated list on homepage with rectangular image layout
