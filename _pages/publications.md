@@ -178,7 +178,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
     <br>
     <font size="3">
       <span style="color: #A4907C;">
-        <span style="color: #213555;"><strong>Haowen Zhou*,</strong></span>, Shi Zhao*, Yujie Fan, Zhenyu Dong, Oumeng Zhang, Viviana Gradinaru, Changhuei Yang
+        <span style="color: #213555;"><strong>Haowen Zhou*,</strong></span> Shi Zhao*, Yujie Fan, Zhenyu Dong, Oumeng Zhang, Viviana Gradinaru, Changhuei Yang
       </span>
     </font>
     <br>
@@ -222,7 +222,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
     <br>
     <font size="3">
       <span style="color: #A4907C;">
-        Zhenyu Dong*, <span style="color: #213555;"><strong>Haowen Zhou*,</strong></span>, Ruizhi Cao*, Oumeng Zhang, Shi Zhao, Panlang Lyu, Reinaldo E Alcalde, Changhuei Yang
+        Zhenyu Dong*, <span style="color: #213555;"><strong>Haowen Zhou*,</strong></span> Ruizhi Cao*, Oumeng Zhang, Shi Zhao, Panlang Lyu, Reinaldo E Alcalde, Changhuei Yang
       </span>
     </font>
     <br>
@@ -268,7 +268,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
     <br>
     <font size="3">
       <span style="color: #A4907C;">
-        Shi Zhao, <span style="color: #213555;"><strong>Haowen Zhou,</strong></span>, Changhuei Yang
+        Shi Zhao, <span style="color: #213555;"><strong>Haowen Zhou,</strong></span> Changhuei Yang
       </span>
     </font>
     <br>
