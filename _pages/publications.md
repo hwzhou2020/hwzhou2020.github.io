@@ -210,11 +210,11 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
     <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/AFP.png" width="150" height="150">
   </div><div class="publication-details">
     <font size="4">
-      <a href="https://arxiv.org/abs/2504.16247" 
+      <a href="https://www.nature.com/articles/s41467-025-67460-7" 
       style="text-decoration: none;">
         <span style="color: #191717;">
           <strong>
-            22. Analytic Fourier ptychotomography for volumetric refractive index imaging
+            22. Analytic Fourier ptychotomography for aberration-free and high-resolution volumetric refractive index imaging
           </strong>
         </span>
       </a>
@@ -228,7 +228,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
       <a style="text-decoration: none;">
-        <span style="color: #B2533E;">Nature Communications (In Press)</span>
+        <span style="color: #B2533E;">Nature Communications</span>
         &nbsp; &nbsp;
       </a>
       <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/AFP.txt" style="text-decoration: none;">
