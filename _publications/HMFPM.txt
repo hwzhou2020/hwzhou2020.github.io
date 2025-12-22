@@ -1,9 +1,10 @@
-@misc{zhao2025hybridilluminationmultiplexedfourierptychographic,
-      title={Hybrid-illumination multiplexed Fourier ptychographic microscopy with robust aberration correction}, 
-      author={Shi Zhao and Haowen Zhou and Changhuei Yang},
-      year={2025},
-      eprint={2509.05549},
-      archivePrefix={arXiv},
-      primaryClass={physics.optics},
-      url={https://arxiv.org/abs/2509.05549}, 
+@article{zhao2025hybrid,
+  title={Hybrid-illumination multiplexed Fourier ptychographic microscopy with robust aberration correction},
+  author={Zhao, Shi and Zhou, Haowen and Yang, Changhuei},
+  journal={Journal of Physics: Photonics},
+  volume={8},
+  number={1},
+  pages={015009},
+  year={2025},
+  publisher={IOP Publishing}
 }

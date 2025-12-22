@@ -204,6 +204,10 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
   </div>
 </div>
 
+
+
+<h2 id="y2025" class="publication-year-heading">2025</h2>
+
 <!-- pub 22 -->
 <div class="publication">
   <div class="publication-image">
@@ -247,8 +251,6 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
   </div>
 </div>
 
-
-<h2 id="y2025" class="publication-year-heading">2025</h2>
 
 <!-- pub 21 -->
 <div class="publication">

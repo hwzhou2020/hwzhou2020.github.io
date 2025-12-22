@@ -1,9 +1,7 @@
-@misc{dong2025analyticfourierptychotomographyvolumetric,
-      title={Analytic Fourier ptychotomography for volumetric refractive index imaging}, 
-      author={Zhenyu Dong and Haowen Zhou and Ruizhi Cao and Oumeng Zhang and Shi Zhao and Panlang Lyu and Reinaldo Alcalde and Changhuei Yang},
-      year={2025},
-      eprint={2504.16247},
-      archivePrefix={arXiv},
-      primaryClass={physics.optics},
-      url={https://arxiv.org/abs/2504.16247}, 
+@article{dong2025analytic,
+  title={Analytic Fourier ptychotomography for aberration-free and high-resolution volumetric refractive index imaging},
+  author={Dong, Zhenyu and Zhou, Haowen and Cao, Ruizhi and Zhang, Oumeng and Zhao, Shi and Lyu, Panlang and Alcalde, Reinaldo and Yang, Changhuei},
+  journal={Nature Communications},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
 }
