@@ -187,7 +187,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
         <span style="color: #B2533E;">ArXiv, 2025</span>
         &nbsp; &nbsp;
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/DAbI.txt" style="text-decoration: none;">
+      <a href="/publications/DAbI.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
       <a href="https://hwzhou2020.github.io/DAbI-Web/" style="text-decoration: none;">
@@ -235,7 +235,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
         <span style="color: #B2533E;">Nature Communications</span>
         &nbsp; &nbsp;
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/AFP.txt" style="text-decoration: none;">
+      <a href="/publications/AFP.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
       <a href="https://mrdongzhenyu.github.io/AFP-Web/" style="text-decoration: none;">
@@ -279,7 +279,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
         <span style="color: #B2533E;">Journal of Physics: Photonics, 2025</span>
         &nbsp; &nbsp;
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/HMFPM.txt" style="text-decoration: none;">
+      <a href="/publications/HMFPM.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
       <a href="https://github.com/Magishe/HMFPM" style="text-decoration: none;">
@@ -323,7 +323,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
         <span style="color: #B2533E;">ICCV, 2025</span>
         &nbsp; &nbsp;
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/NVP.txt" style="text-decoration: none;">
+      <a href="/publications/NVP.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
       <a href="https://xue-lab-cobi.github.io/Sparse-View-FDT/" style="text-decoration: none;">
@@ -367,7 +367,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
         <span style="color: #B2533E;">Biomedical Optics Express, 2025</span>
         &nbsp; &nbsp;
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Dome.txt" style="text-decoration: none;">
+      <a href="/publications/Dome.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
     </font>
@@ -407,7 +407,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
         <span style="color: #B2533E;">Advanced Photonics, 2025</span>
         &nbsp; &nbsp;
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/SVF.txt" style="text-decoration: none;">
+      <a href="/publications/SVF.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
       <a href="https://hwzhou2020.github.io/SVF-Web/" style="text-decoration: none;">
@@ -450,7 +450,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
         <span style="color: #B2533E;">Scientific Reports, 2025</span>
         &nbsp; &nbsp;
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Impact_color.txt" style="text-decoration: none;">
+      <a href="/publications/Impact_color.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
     </font>
@@ -492,7 +492,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
         <span style="color: #B2533E;">Biomendical Optics Express, 2024</span>
         &nbsp; &nbsp;
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/WSI-APIC.txt" style="text-decoration: none;">
+      <a href="/publications/WSI-APIC.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
       <a href="https://github.com/Magishe/WSI-APIC" style="text-decoration: none;">
@@ -535,7 +535,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
         <span style="color: #B2533E;">Proceedings of the National Academy of Sciences (PNAS), 2024</span>
         &nbsp; &nbsp;
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/CFAST.txt" style="text-decoration: none;">
+      <a href="/publications/CFAST.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
     </font>
@@ -576,7 +576,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
         <span style="color: #B2533E;">Scientific Reports, 2024</span>
         &nbsp; &nbsp;
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Length_scale.txt" style="text-decoration: none;">
+      <a href="/publications/Length_scale.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
     </font>
@@ -618,7 +618,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
         &nbsp; &nbsp;
         <span style="color: #186F65;"><strong>Editor's Pick</strong> </span>
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Can_DL.txt" style="text-decoration: none;">
+      <a href="/publications/Can_DL.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
     </font>
@@ -657,7 +657,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
       <a style="text-decoration: none;">
         <span style="color: #B2533E;">Journal of Pathology, 2024</span>
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/AI_NSCLC.txt" style="text-decoration: none;">
+      <a href="/publications/AI_NSCLC.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
       <a href="https://github.com/hwzhou2020/NSCLC_ResNet" style="text-decoration: none;">
@@ -710,7 +710,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
       <a style="text-decoration: none;">
         <span style="color: #B2533E;">Optica, 2023</span>
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/FPM-INR.txt" style="text-decoration: none;">
+      <a href="/publications/FPM-INR.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
       <a href="https://hwzhou2020.github.io/FPM-INR-Web/" style="text-decoration: none;">
@@ -757,7 +757,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
       <a style="text-decoration: none;">
         <span style="color: #B2533E;">Sci. Rep., 2022</span>
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Automatic_detection.txt" style="text-decoration: none;">
+      <a href="/publications/Automatic_detection.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
     </font>
@@ -797,7 +797,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
       <a style="text-decoration: none;">
         <span style="color: #B2533E;">Opt. Eng., 2022</span>
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Analysis_of.txt" style="text-decoration: none;">
+      <a href="/publications/Analysis_of.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
     </font>
@@ -837,7 +837,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
       <a style="text-decoration: none;">
         <span style="color: #B2533E;">Light Adv. Manuf., 2022</span>
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Dual_wave.txt" style="text-decoration: none;">
+      <a href="/publications/Dual_wave.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
     </font>
@@ -881,7 +881,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
         &nbsp; &nbsp;
         <span style="color: #186F65;"><strong>Editor's Pick</strong> </span>
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Non_recursive.txt" style="text-decoration: none;">
+      <a href="/publications/Non_recursive.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
     </font>
@@ -921,7 +921,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
       <a style="text-decoration: none;">
         <span style="color: #B2533E;">Appl. Opt., 2022</span>
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Use_of.txt" style="text-decoration: none;">
+      <a href="/publications/Use_of.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
     </font>
@@ -962,7 +962,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
       <a style="text-decoration: none;">
         <span style="color: #B2533E;">Appl. Opt., 2021</span>
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Performance_analysis.txt" style="text-decoration: none;">
+      <a href="/publications/Performance_analysis.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
     </font>
@@ -1001,7 +1001,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
         <a style="text-decoration: none;">
           <span style="color: #B2533E;">Appl. Opt., 2021</span>
         </a>
-        <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Single_shot.txt" style="text-decoration: none;">
+        <a href="/publications/Single_shot.txt" style="text-decoration: none;">
           &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
         </a>
     </font>
@@ -1043,7 +1043,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
       <a style="text-decoration: none;">
         <span style="color: #B2533E;">Appl. Opt., 2019</span>
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Digital_correlation.txt" style="text-decoration: none;">
+      <a href="/publications/Digital_correlation.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>
     </font>
@@ -1083,7 +1083,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
       <a style="text-decoration: none;">
         <span style="color: #B2533E;">Appl. Opt., 2019</span>
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/3D_object.txt" style="text-decoration: none;">
+      <a href="/publications/3D_object.txt" style="text-decoration: none;">
         &nbsp; &nbsp;  <span style="color: #B5CB99;">(BibTex)</span>
       </a>      
     </font>
@@ -1125,7 +1125,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
       <a style="text-decoration: none;">
         <span style="color: #B2533E;"> J. Mater. Chem. A, 2018 </span>
       </a>
-      <a href="https://github.com/hwzhou2020/hwzhou2020.github.io/blob/master/_publications/Sulfur_dioxide_gas-sensitive.txt" style="text-decoration: none;">
+      <a href="/publications/Sulfur_dioxide_gas-sensitive.txt" style="text-decoration: none;">
         &nbsp; &nbsp; <span style="color: #B5CB99;">(BibTex)</span>
       </a>
     </font>
