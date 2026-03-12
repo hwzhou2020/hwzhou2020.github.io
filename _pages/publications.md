@@ -184,7 +184,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
       <a style="text-decoration: none;">
-        <span style="color: #B2533E;">ArXiv, 2025</span>
+        <span style="color: #B2533E;">Nature Communications (In Press), 2026</span>
         &nbsp; &nbsp;
       </a>
       <a href="/publications/DAbI.txt" style="text-decoration: none;">
@@ -197,7 +197,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
     <br>
     <font size="3">
       <span style="color: gray;">
-         We recently discovered a phenomenon that the digitally summed Fourier spectrum of two images acquired from two-angle illumination exhibits interference-like fringe modulation when the sample is out-of-focus.
+         We recently observed a phenomenon that the digitally summed Fourier spectrum of two images acquired from two-angle illumination exhibits interference-like fringe modulation when the sample is out-of-focus.
          These digital fringes correlate directly with defocus through a physics-based relation. Based on this principle, we developed an automatic, efficient, and generalizable defocus detection method termed digital defocus aberration interference (DAbI).
       </span>
     </font>
