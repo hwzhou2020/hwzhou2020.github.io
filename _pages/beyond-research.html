@@ -1,3 +1,6 @@
+<!-- Run the command line when adding new photos -->
+<!-- python3 scripts/extract_gallery_exif.py -->
+
 ---
 layout: archive
 title: "Beyond Research"
@@ -269,15 +272,18 @@ author_profile: true
       {% assign name_parts = basename | split: " -- " %}
       {% assign species = name_parts[0] %}
       {% assign location = name_parts[1] %}
+      {% assign exif = site.data.gallery_exif[image.name] %}
       <div class="photo-item">
         <a href="{{ image.path }}">
-          <img src="{{ image.path }}" alt="{{ species }}" loading="lazy" crossorigin="anonymous">
+          <img src="{{ image.path }}" alt="{{ species }}" loading="lazy">
           <div class="photo-overlay">
             <span class="overlay-species">{{ species }}</span>
             {% if location and location != "" %}
             <span class="overlay-location">📍 {{ location }}</span>
             {% endif %}
-            <span class="overlay-camera" data-src="{{ image.path }}"></span>
+            {% if exif %}
+            <span class="overlay-camera">{% if exif.model %}{{ exif.model }}{% endif %}{% if exif.lens %}<br>{{ exif.lens }}{% endif %}{% if exif.focal or exif.aperture or exif.shutter or exif.iso %}<br>{% if exif.focal %}{{ exif.focal }}mm{% endif %}{% if exif.aperture %}  f/{{ exif.aperture }}{% endif %}{% if exif.shutter %}  {{ exif.shutter }}{% endif %}{% if exif.iso %}  ISO {{ exif.iso }}{% endif %}{% endif %}</span>
+            {% endif %}
           </div>
         </a>
         <button class="photo-heart" data-key="{{ image.name }}" aria-label="Like">♡</button>
@@ -289,45 +295,8 @@ author_profile: true
   {% endif %}
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/exifr/dist/lite.umd.js"></script>
 <script>
 (function () {
-  function formatShutter(s) {
-    if (!s) return null;
-    if (s >= 1) return s + 's';
-    return '1/' + Math.round(1 / s) + 's';
-  }
-
-  async function buildCameraLabel(src, el) {
-    try {
-      var tags = await exifr.parse(src, ['Model', 'LensModel', 'FocalLength', 'FNumber', 'ExposureTime', 'ISO']);
-      if (!tags) { el.style.display = 'none'; return; }
-
-      var lines = [];
-      if (tags.Model)    lines.push(tags.Model);
-      if (tags.LensModel) lines.push(tags.LensModel);
-
-      var settings = [];
-      if (tags.FocalLength != null) settings.push(Math.round(tags.FocalLength) + 'mm');
-      if (tags.FNumber    != null) settings.push('f/' + (Math.round(tags.FNumber * 10) / 10));
-      if (tags.ExposureTime != null) settings.push(formatShutter(tags.ExposureTime));
-      if (tags.ISO        != null) settings.push('ISO ' + tags.ISO);
-      if (settings.length) lines.push(settings.join('  '));
-
-      if (lines.length) {
-        el.innerHTML = lines.join('<br>');
-      } else {
-        el.style.display = 'none';
-      }
-    } catch (e) {
-      el.style.display = 'none';
-    }
-  }
-
-  document.querySelectorAll('.overlay-camera[data-src]').forEach(function (el) {
-    buildCameraLabel(el.dataset.src, el);
-  });
-
   // Heart likes (persisted in localStorage)
   var LIKES_KEY = 'gallery_likes';
   function getLikes() {
