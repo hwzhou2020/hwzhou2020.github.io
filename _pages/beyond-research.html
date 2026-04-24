@@ -105,6 +105,48 @@ author_profile: true
     transform: scale(1.06);
   }
 
+  .photo-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.82) 0%, rgba(0,0,0,0.35) 65%, transparent 100%);
+    color: #fff;
+    padding: 28px 10px 10px;
+    opacity: 0;
+    transform: translateY(6px);
+    transition: opacity 0.25s ease, transform 0.25s ease;
+    pointer-events: none;
+  }
+
+  .photo-item:hover .photo-overlay {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .overlay-species {
+    display: block;
+    font-weight: 700;
+    font-size: 0.82em;
+    letter-spacing: 0.02em;
+    margin-bottom: 2px;
+  }
+
+  .overlay-location {
+    display: block;
+    font-size: 0.74em;
+    opacity: 0.88;
+    margin-bottom: 4px;
+  }
+
+  .overlay-camera {
+    display: block;
+    font-size: 0.68em;
+    opacity: 0.72;
+    line-height: 1.5;
+    font-family: monospace;
+  }
+
   .gallery-empty {
     grid-column: 1 / -1;
     text-align: center;
@@ -183,9 +225,20 @@ author_profile: true
     {% for image in gallery_images %}
       {% assign ext = image.extname | downcase %}
       {% if ext == ".jpg" or ext == ".jpeg" or ext == ".png" or ext == ".gif" or ext == ".webp" %}
+      {% assign basename = image.name | remove: image.extname %}
+      {% assign name_parts = basename | split: " -- " %}
+      {% assign species = name_parts[0] %}
+      {% assign location = name_parts[1] %}
       <div class="photo-item">
         <a href="{{ image.path }}">
-          <img src="{{ image.path }}" alt="{{ image.name | remove: image.extname }}" loading="lazy">
+          <img src="{{ image.path }}" alt="{{ species }}" loading="lazy" crossorigin="anonymous">
+          <div class="photo-overlay">
+            <span class="overlay-species">{{ species }}</span>
+            {% if location and location != "" %}
+            <span class="overlay-location">📍 {{ location }}</span>
+            {% endif %}
+            <span class="overlay-camera" data-src="{{ image.path }}"></span>
+          </div>
         </a>
       </div>
       {% endif %}
@@ -194,3 +247,52 @@ author_profile: true
     <p class="gallery-empty">Photos coming soon.</p>
   {% endif %}
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/exif-js@2.3.0/exif.js"></script>
+<script>
+(function () {
+  function formatShutter(s) {
+    if (!s) return null;
+    if (s >= 1) return s + 's';
+    return '1/' + Math.round(1 / s) + 's';
+  }
+
+  function buildCameraLabel(img, el) {
+    EXIF.getData(img, function () {
+      var model      = EXIF.getTag(this, 'Model')          || '';
+      var lens       = EXIF.getTag(this, 'LensModel')      || '';
+      var focal      = EXIF.getTag(this, 'FocalLength');
+      var aperture   = EXIF.getTag(this, 'FNumber');
+      var shutter    = EXIF.getTag(this, 'ExposureTime');
+      var iso        = EXIF.getTag(this, 'ISOSpeedRatings');
+
+      var lines = [];
+      if (model) lines.push(model);
+      if (lens)  lines.push(lens);
+
+      var settings = [];
+      if (focal)   settings.push(focal + 'mm');
+      if (aperture) settings.push('f/' + (Math.round(aperture * 10) / 10));
+      if (shutter) settings.push(formatShutter(shutter));
+      if (iso)     settings.push('ISO ' + iso);
+      if (settings.length) lines.push(settings.join('  '));
+
+      if (lines.length) {
+        el.innerHTML = lines.join('<br>');
+      } else {
+        el.style.display = 'none';
+      }
+    });
+  }
+
+  document.querySelectorAll('.photo-item img').forEach(function (img) {
+    var el = img.parentElement.querySelector('.overlay-camera');
+    if (!el) return;
+    if (img.complete) {
+      buildCameraLabel(img, el);
+    } else {
+      img.addEventListener('load', function () { buildCameraLabel(img, el); });
+    }
+  });
+})();
+</script>
