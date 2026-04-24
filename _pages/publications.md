@@ -148,7 +148,8 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
 <br>
 
 <div class="publication-index">
-  <a href="#in-press">In Press / ArXiv</a>
+  <!-- <a href="#in-press">In Press / ArXiv</a> -->
+  <a href="#y2026">2025</a>
   <a href="#y2025">2025</a>
   <a href="#y2024">2024</a>
   <a href="#y2023">2023</a>
@@ -158,7 +159,9 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
   <a href="#y2018">2018</a>
 </div>
 
-<h2 id="in-press" class="publication-year-heading">In Press &amp; ArXiv</h2>
+<!-- <h2 id="in-press" class="publication-year-heading">In Press &amp; ArXiv</h2> -->
+
+<h2 id="y2025" class="publication-year-heading">2026</h2>
 
 <!-- pub 23 -->
 <div class="publication">
@@ -166,7 +169,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
     <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/DAbI.png" width="150" height="150">
   </div><div class="publication-details">
     <font size="4">
-      <a href="https://arxiv.org/abs/2507.10867" 
+      <a href="https://doi.org/10.1038/s41467-026-72287-x" 
       style="text-decoration: none;">
         <span style="color: #191717;">
           <strong>
@@ -184,7 +187,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
       <a style="text-decoration: none;">
-        <span style="color: #B2533E;">Nature Communications (In Press), 2026</span>
+        <span style="color: #B2533E;">Nature Communications, 2026</span>
         &nbsp; &nbsp;
       </a>
       <a href="/publications/DAbI.txt" style="text-decoration: none;">
