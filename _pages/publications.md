@@ -149,7 +149,7 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
 
 <div class="publication-index">
   <!-- <a href="#in-press">In Press / ArXiv</a> -->
-  <a href="#y2026">2025</a>
+  <a href="#y2026">2026</a>
   <a href="#y2025">2025</a>
   <a href="#y2024">2024</a>
   <a href="#y2023">2023</a>
