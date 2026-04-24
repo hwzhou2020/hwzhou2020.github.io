@@ -289,7 +289,7 @@ author_profile: true
   {% endif %}
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/exif-js@2.3.0/exif.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/exifr/dist/lite.umd.js"></script>
 <script>
 (function () {
   function formatShutter(s) {
@@ -298,24 +298,20 @@ author_profile: true
     return '1/' + Math.round(1 / s) + 's';
   }
 
-  function buildCameraLabel(img, el) {
-    EXIF.getData(img, function () {
-      var model      = EXIF.getTag(this, 'Model')          || '';
-      var lens       = EXIF.getTag(this, 'LensModel')      || '';
-      var focal      = EXIF.getTag(this, 'FocalLength');
-      var aperture   = EXIF.getTag(this, 'FNumber');
-      var shutter    = EXIF.getTag(this, 'ExposureTime');
-      var iso        = EXIF.getTag(this, 'ISOSpeedRatings');
+  async function buildCameraLabel(src, el) {
+    try {
+      var tags = await exifr.parse(src, ['Model', 'LensModel', 'FocalLength', 'FNumber', 'ExposureTime', 'ISO']);
+      if (!tags) { el.style.display = 'none'; return; }
 
       var lines = [];
-      if (model) lines.push(model);
-      if (lens)  lines.push(lens);
+      if (tags.Model)    lines.push(tags.Model);
+      if (tags.LensModel) lines.push(tags.LensModel);
 
       var settings = [];
-      if (focal)   settings.push(focal + 'mm');
-      if (aperture) settings.push('f/' + (Math.round(aperture * 10) / 10));
-      if (shutter) settings.push(formatShutter(shutter));
-      if (iso)     settings.push('ISO ' + iso);
+      if (tags.FocalLength != null) settings.push(Math.round(tags.FocalLength) + 'mm');
+      if (tags.FNumber    != null) settings.push('f/' + (Math.round(tags.FNumber * 10) / 10));
+      if (tags.ExposureTime != null) settings.push(formatShutter(tags.ExposureTime));
+      if (tags.ISO        != null) settings.push('ISO ' + tags.ISO);
       if (settings.length) lines.push(settings.join('  '));
 
       if (lines.length) {
@@ -323,17 +319,13 @@ author_profile: true
       } else {
         el.style.display = 'none';
       }
-    });
+    } catch (e) {
+      el.style.display = 'none';
+    }
   }
 
-  document.querySelectorAll('.photo-item img').forEach(function (img) {
-    var el = img.parentElement.querySelector('.overlay-camera');
-    if (!el) return;
-    if (img.complete) {
-      buildCameraLabel(img, el);
-    } else {
-      img.addEventListener('load', function () { buildCameraLabel(img, el); });
-    }
+  document.querySelectorAll('.overlay-camera[data-src]').forEach(function (el) {
+    buildCameraLabel(el.dataset.src, el);
   });
 
   // Heart likes (persisted in localStorage)
