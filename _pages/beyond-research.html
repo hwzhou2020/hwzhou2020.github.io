@@ -295,8 +295,8 @@ author_profile: true
             <span class="overlay-camera">{% if exif.model %}{{ exif.model }}{% endif %}{% if exif.lens %}<br>{{ exif.lens }}{% endif %}{% if exif.focal or exif.aperture or exif.shutter or exif.iso %}<br>{% if exif.focal %}{{ exif.focal }}mm{% endif %}{% if exif.aperture %}  f/{{ exif.aperture }}{% endif %}{% if exif.shutter %}  {{ exif.shutter }}{% endif %}{% if exif.iso %}  ISO {{ exif.iso }}{% endif %}{% endif %}</span>
             {% endif %}
           </div>
+          <button class="photo-heart" data-key="{{ image.name }}" aria-label="Like"><span class="heart-icon">♡</span><span class="heart-count"></span></button>
         </a>
-        <button class="photo-heart" data-key="{{ image.name }}" aria-label="Like"><span class="heart-icon">♡</span><span class="heart-count"></span></button>
       </div>
       {% endif %}
     {% endfor %}
@@ -328,6 +328,7 @@ author_profile: true
     }
 
     btn.addEventListener('click', function (e) {
+      e.preventDefault();
       e.stopPropagation();
       var nowLiked = !btn.classList.contains('liked');
       btn.classList.toggle('liked', nowLiked);
