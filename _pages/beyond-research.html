@@ -9,6 +9,7 @@ author_profile: true
 
 <!-- Run the command line when adding new photos -->
 <!-- python3 scripts/extract_gallery_exif.py -->
+<!-- This updates EXIF metadata and assigns random initial like seeds to new photos. -->
 
 <style>
   body {
@@ -284,6 +285,7 @@ author_profile: true
       {% assign species = name_parts[0] %}
       {% assign location = name_parts[1] %}
       {% assign exif = site.data.gallery_exif[image.name] %}
+      {% assign like_seed = site.data.gallery_like_seeds[image.name] | default: 0 %}
       <div class="photo-item">
         <a href="{{ image.path }}" aria-label="Open {{ species }}">
           <img src="{{ image.path }}" alt="{{ species }}" loading="lazy">
@@ -301,6 +303,7 @@ author_profile: true
           type="button"
           class="photo-heart"
           data-counter="{{ image.name | slugify }}"
+          data-seed="{{ like_seed }}"
           aria-label="Like {{ species }}"
         ><span class="heart-icon">♥</span><span class="heart-count"></span></button>
       </div>
@@ -320,30 +323,39 @@ author_profile: true
     countEl.textContent = value > 0 ? String(value) : '';
   }
 
+  function extractCounterValue(data) {
+    if (typeof data.count === 'number') { return data.count; }
+    if (typeof data.value === 'number') { return data.value; }
+    if (data.data && typeof data.data.count === 'number') { return data.data.count; }
+    if (data.data && typeof data.data.value === 'number') { return data.data.value; }
+    return 0;
+  }
+
   function counterUrl(counterName, action) {
     var path = [COUNTER_API_BASE, encodeURIComponent(COUNTER_NAMESPACE), encodeURIComponent(counterName)].join('/');
-    return action ? path + '/' + action : path;
+    var endpoint = action ? path + '/' + action : path + '/';
+    return endpoint + '?ts=' + Date.now();
   }
 
   function readCounter(counterName) {
-    return fetch(counterUrl(counterName), { method: 'GET' })
+    return fetch(counterUrl(counterName), { method: 'GET', cache: 'no-store' })
       .then(function (response) {
         if (!response.ok) { throw new Error('Failed to load counter'); }
         return response.json();
       })
       .then(function (data) {
-        return typeof data.value === 'number' ? data.value : 0;
+        return extractCounterValue(data);
       });
   }
 
   function incrementCounter(counterName) {
-    return fetch(counterUrl(counterName, 'up'), { method: 'GET' })
+    return fetch(counterUrl(counterName, 'up'), { method: 'GET', cache: 'no-store' })
       .then(function (response) {
         if (!response.ok) { throw new Error('Failed to increment counter'); }
         return response.json();
       })
       .then(function (data) {
-        return typeof data.value === 'number' ? data.value : 0;
+        return extractCounterValue(data);
       });
   }
 
@@ -351,6 +363,7 @@ author_profile: true
     var counterName = btn.dataset.counter;
     var countEl = btn.querySelector('.heart-count');
     var state = {
+      seed: Number(btn.dataset.seed || 0),
       baseCount: 0,
       pending: 0,
       queue: Promise.resolve()
@@ -368,9 +381,10 @@ author_profile: true
     state.queue = readCounter(counterName)
       .then(function (value) {
         state.baseCount = value;
-        renderCount(countEl, state.baseCount + state.pending);
+        renderCount(countEl, state.seed + state.baseCount + state.pending);
       })
       .catch(function (error) {
+        renderCount(countEl, state.seed + state.baseCount + state.pending);
         console.error('Error loading counter for', counterName, error);
       });
 
@@ -379,7 +393,7 @@ author_profile: true
       e.stopPropagation();
 
       state.pending += 1;
-      renderCount(countEl, state.baseCount + state.pending);
+      renderCount(countEl, state.seed + state.baseCount + state.pending);
       flashButton();
 
       state.queue = state.queue
@@ -388,12 +402,12 @@ author_profile: true
           return incrementCounter(counterName)
             .then(function (value) {
               state.pending = Math.max(0, state.pending - 1);
-              state.baseCount = value;
-              renderCount(countEl, state.baseCount + state.pending);
+              state.baseCount = Math.max(state.baseCount + 1, value);
+              renderCount(countEl, state.seed + state.baseCount + state.pending);
             })
             .catch(function (error) {
               state.pending = Math.max(0, state.pending - 1);
-              renderCount(countEl, state.baseCount + state.pending);
+              renderCount(countEl, state.seed + state.baseCount + state.pending);
               console.error('Error incrementing counter for', counterName, error);
             });
         });

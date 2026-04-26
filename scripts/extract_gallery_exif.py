@@ -1,13 +1,19 @@
 #!/usr/bin/env python3
 """
 Extract EXIF metadata from photo_gallery/ and write _data/gallery_exif.json.
+Also maintain _data/gallery_like_seeds.json with one-time random initial like
+counts for new photos.
 Run this whenever you add new photos:  python3 scripts/extract_gallery_exif.py
 """
-import struct, json, os
+import json
+import os
+import random
+import struct
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PHOTO_DIR = os.path.join(REPO_ROOT, 'photo_gallery')
 OUT_PATH  = os.path.join(REPO_ROOT, '_data', 'gallery_exif.json')
+SEED_PATH = os.path.join(REPO_ROOT, '_data', 'gallery_like_seeds.json')
 
 
 def _read_rational(data, offset, bo):
@@ -97,9 +103,34 @@ def format_shutter(s):
     return '1/' + str(round(1 / s))
 
 
+def load_json(path):
+    if not os.path.exists(path):
+        return {}
+    with open(path, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+
+def save_json(path, data):
+    with open(path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+
 def main():
-    result = {}
-    for fname in sorted(os.listdir(PHOTO_DIR)):
+    exif_result = {}
+    existing_seeds = load_json(SEED_PATH)
+    seed_result = {}
+    photo_files = sorted(
+        fname for fname in os.listdir(PHOTO_DIR)
+        if fname.lower().endswith(('.jpg', '.jpeg', '.png', '.gif', '.webp'))
+    )
+
+    for fname in photo_files:
+        if fname in existing_seeds:
+            seed_result[fname] = existing_seeds[fname]
+        else:
+            seed_result[fname] = random.randint(1, 100)
+            print(f'  seed: {fname} -> {seed_result[fname]}')
+
         if not fname.lower().endswith(('.jpg', '.jpeg')):
             continue
         tags = extract_exif(os.path.join(PHOTO_DIR, fname))
@@ -117,12 +148,13 @@ def main():
         if et is not None:        entry['shutter']  = format_shutter(et)
         iso = tags.get('ISO')
         if iso is not None:       entry['iso']      = iso
-        result[fname] = entry
+        exif_result[fname] = entry
         print(f'  ok: {fname}')
 
-    with open(OUT_PATH, 'w', encoding='utf-8') as f:
-        json.dump(result, f, indent=2, ensure_ascii=False)
-    print(f'\nWrote {len(result)} entries → {OUT_PATH}')
+    save_json(OUT_PATH, exif_result)
+    save_json(SEED_PATH, seed_result)
+    print(f'\nWrote {len(exif_result)} EXIF entries → {OUT_PATH}')
+    print(f'Wrote {len(seed_result)} like seeds → {SEED_PATH}')
 
 
 if __name__ == '__main__':

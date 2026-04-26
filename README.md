@@ -27,7 +27,11 @@ Edit `_config.yml` to change name, tagline, email, social links, and SEO metadat
 - `_sass` and `assets/css`: house style overrides and animations
 
 ### Photo gallery likes
-The photo gallery in `_pages/beyond-research.html` uses CounterAPI V1 public counters to track heart clicks across visitors. This works on a static GitHub Pages site without a custom backend, but the counters are public and subject to the provider's per-path rate limits.
+The photo gallery in `_pages/beyond-research.html` uses two layers for heart counts:
+- `_data/gallery_like_seeds.json` stores one-time initial like counts for each photo. New photos get a random seed from 1 to 100 when you run `python3 scripts/extract_gallery_exif.py`.
+- CounterAPI V1 public counters track additional heart clicks across visitors after publish.
+
+This works on a static GitHub Pages site without a custom backend, but the live counters are public and subject to the provider's per-path rate limits.
 
 
 ## Contact
