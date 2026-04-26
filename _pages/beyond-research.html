@@ -273,7 +273,7 @@ author_profile: true
   </div>
 </div>
 
-<h2>Photo Gallery</h2>
+<h2>Wildlife Photo Gallery</h2>
 
 <div class="photo-grid">
   {% assign gallery_images = site.static_files | where_exp: "file", "file.path contains 'photo_gallery'" | sort: "name" %}
@@ -287,10 +287,8 @@ author_profile: true
       {% assign location = name_parts[1] %}
       {% assign exif = site.data.gallery_exif[image.name] %}
       {% assign like_meta = site.data.gallery_like_meta[image.name] %}
-      {% assign like_seed = site.data.gallery_like_seeds[image.name] | default: 0 %}
       {% assign like_counter = image.name | slugify %}
       {% if like_meta %}
-        {% assign like_seed = like_meta.seed | default: like_seed %}
         {% assign like_counter = like_meta.counter | default: like_counter %}
       {% endif %}
       <div class="photo-item">
@@ -310,9 +308,8 @@ author_profile: true
           type="button"
           class="photo-heart"
           data-counter="{{ like_counter }}"
-          data-seed="{{ like_seed }}"
           aria-label="Like {{ species }}"
-        ><span class="heart-icon">♥</span><span class="heart-count">{{ like_seed }}</span></button>
+        ><span class="heart-icon">♥</span><span class="heart-count"></span></button>
       </div>
       {% endif %}
     {% endfor %}
@@ -325,6 +322,64 @@ author_profile: true
 (function () {
   var COUNTER_API_BASE = 'https://api.counterapi.dev/v1';
   var COUNTER_NAMESPACE = '{{ site.repository | slugify }}-gallery-likes';
+  var LOCAL_LIKES_STORAGE_KEY = 'gallery-likes-cache-v2';
+
+  function getLikesStorage() {
+    try {
+      if (!window.localStorage) { return null; }
+      var probeKey = '__gallery_likes_probe__';
+      window.localStorage.setItem(probeKey, '1');
+      window.localStorage.removeItem(probeKey);
+      return window.localStorage;
+    } catch (error) {
+      return null;
+    }
+  }
+
+  var likesStorage = getLikesStorage();
+
+  function loadStoredLikes() {
+    if (!likesStorage) { return {}; }
+    try {
+      var raw = likesStorage.getItem(LOCAL_LIKES_STORAGE_KEY);
+      if (!raw) { return {}; }
+      var parsed = JSON.parse(raw);
+      return parsed && typeof parsed === 'object' ? parsed : {};
+    } catch (error) {
+      return {};
+    }
+  }
+
+  var storedLikes = loadStoredLikes();
+
+  function readStoredEntry(counterName) {
+    var entry = storedLikes[counterName];
+    if (!entry || typeof entry !== 'object') {
+      return { total: 0, pending: 0 };
+    }
+
+    var total = typeof entry.total === 'number' && entry.total >= 0 ? entry.total : 0;
+    var pending = typeof entry.pending === 'number' && entry.pending >= 0 ? Math.floor(entry.pending) : 0;
+    return {
+      total: Math.max(0, total),
+      pending: pending
+    };
+  }
+
+  function persistStoredEntry(counterName, total, pending) {
+    if (!likesStorage) { return; }
+
+    storedLikes[counterName] = {
+      total: Math.max(0, total),
+      pending: Math.max(0, Math.floor(pending || 0))
+    };
+
+    try {
+      likesStorage.setItem(LOCAL_LIKES_STORAGE_KEY, JSON.stringify(storedLikes));
+    } catch (error) {
+      console.error('Error caching likes for', counterName, error);
+    }
+  }
 
   function renderCount(countEl, value) {
     countEl.textContent = value > 0 ? String(value) : '';
@@ -369,16 +424,20 @@ author_profile: true
   document.querySelectorAll('.photo-heart').forEach(function (btn) {
     var counterName = btn.dataset.counter;
     var countEl = btn.querySelector('.heart-count');
+    var storedEntry = readStoredEntry(counterName);
     var state = {
-      seed: Number(btn.dataset.seed || 0),
       baseCount: 0,
-      displayCount: Number(btn.dataset.seed || 0),
-      pending: 0,
+      displayCount: storedEntry.total,
+      pending: storedEntry.pending,
       queue: Promise.resolve()
     };
 
     function syncDisplay() {
       renderCount(countEl, state.displayCount);
+    }
+
+    function persistState() {
+      persistStoredEntry(counterName, state.displayCount, state.pending);
     }
 
     function flashButton() {
@@ -390,15 +449,45 @@ author_profile: true
       }, 320);
     }
 
+    function flushPendingLikes() {
+      if (state.pending <= 0) {
+        persistState();
+        return Promise.resolve();
+      }
+
+      return incrementCounter(counterName)
+        .then(function (value) {
+          state.pending = Math.max(0, state.pending - 1);
+          state.baseCount = Math.max(state.baseCount + 1, value);
+          state.displayCount = Math.max(state.displayCount, state.baseCount + state.pending);
+          syncDisplay();
+          persistState();
+          return flushPendingLikes();
+        })
+        .catch(function (error) {
+          syncDisplay();
+          persistState();
+          console.error('Error incrementing counter for', counterName, error);
+          throw error;
+        });
+    }
+
+    syncDisplay();
+    persistState();
+
     state.queue = readCounter(counterName)
       .then(function (value) {
         state.baseCount = value;
-        state.displayCount = Math.max(state.displayCount, state.seed + state.baseCount + state.pending);
+        state.displayCount = Math.max(state.displayCount, state.baseCount + state.pending);
         syncDisplay();
+        persistState();
+        return flushPendingLikes();
       })
       .catch(function (error) {
         syncDisplay();
+        persistState();
         console.error('Error loading counter for', counterName, error);
+        return flushPendingLikes().catch(function () {});
       });
 
     btn.addEventListener('click', function (e) {
@@ -408,24 +497,12 @@ author_profile: true
       state.pending += 1;
       state.displayCount += 1;
       syncDisplay();
+      persistState();
       flashButton();
 
       state.queue = state.queue
         .catch(function () {})
-        .then(function () {
-          return incrementCounter(counterName)
-            .then(function (value) {
-              state.pending = Math.max(0, state.pending - 1);
-              state.baseCount = Math.max(state.baseCount + 1, value);
-              state.displayCount = Math.max(state.displayCount, state.seed + state.baseCount + state.pending);
-              syncDisplay();
-            })
-            .catch(function (error) {
-              state.pending = Math.max(0, state.pending - 1);
-              syncDisplay();
-              console.error('Error incrementing counter for', counterName, error);
-            });
-        });
+        .then(flushPendingLikes);
     });
   });
 })();
