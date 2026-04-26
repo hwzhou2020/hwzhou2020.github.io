@@ -1,19 +1,22 @@
 #!/usr/bin/env python3
 """
 Extract EXIF metadata from photo_gallery/ and write _data/gallery_exif.json.
-Also maintain _data/gallery_like_seeds.json with one-time random initial like
-counts for new photos.
+Also maintain gallery like metadata with one-time random initial like counts
+for new photos while preserving stable counter IDs across photo renames.
 Run this whenever you add new photos:  python3 scripts/extract_gallery_exif.py
 """
+import hashlib
 import json
 import os
 import random
+import re
 import struct
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PHOTO_DIR = os.path.join(REPO_ROOT, 'photo_gallery')
 OUT_PATH  = os.path.join(REPO_ROOT, '_data', 'gallery_exif.json')
 SEED_PATH = os.path.join(REPO_ROOT, '_data', 'gallery_like_seeds.json')
+LIKE_META_PATH = os.path.join(REPO_ROOT, '_data', 'gallery_like_meta.json')
 
 
 def _read_rational(data, offset, bo):
@@ -115,25 +118,111 @@ def save_json(path, data):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
+def fingerprint_file(path):
+    digest = hashlib.sha1()
+    with open(path, 'rb') as f:
+        while True:
+            chunk = f.read(1024 * 1024)
+            if not chunk:
+                break
+            digest.update(chunk)
+    return digest.hexdigest()
+
+
+def slugify_counter_name(name):
+    slug = re.sub(r'[^0-9A-Za-z]+', '-', name).strip('-').lower()
+    return slug or 'photo'
+
+
+def normalize_like_meta_entry(entry):
+    if not isinstance(entry, dict):
+        return None
+    seed = entry.get('seed')
+    counter = entry.get('counter')
+    fingerprint = entry.get('fingerprint')
+    if not isinstance(seed, int) or seed < 0:
+        return None
+    if not isinstance(counter, str) or not counter:
+        return None
+    if fingerprint is not None and not isinstance(fingerprint, str):
+        fingerprint = None
+    return {
+        'seed': seed,
+        'counter': counter,
+        'fingerprint': fingerprint,
+    }
+
+
 def main():
     exif_result = {}
+    existing_like_meta = {}
+    raw_like_meta = load_json(LIKE_META_PATH)
+    if isinstance(raw_like_meta, dict):
+        for name, entry in raw_like_meta.items():
+            meta = normalize_like_meta_entry(entry)
+            if meta is not None:
+                existing_like_meta[name] = meta
+
     existing_seeds = load_json(SEED_PATH)
+    if not isinstance(existing_seeds, dict):
+        existing_seeds = {}
+    like_meta_result = {}
     seed_result = {}
     photo_files = sorted(
         fname for fname in os.listdir(PHOTO_DIR)
         if fname.lower().endswith(('.jpg', '.jpeg', '.png', '.gif', '.webp'))
     )
+    photo_records = []
 
     for fname in photo_files:
-        if fname in existing_seeds:
-            seed_result[fname] = existing_seeds[fname]
+        photo_path = os.path.join(PHOTO_DIR, fname)
+        photo_records.append({
+            'name': fname,
+            'path': photo_path,
+            'fingerprint': fingerprint_file(photo_path),
+            'existing_meta': existing_like_meta.get(fname),
+        })
+
+    matched_old_names = {
+        photo['name']
+        for photo in photo_records
+        if photo['existing_meta'] is not None
+    }
+    old_meta_by_fingerprint = {}
+    for old_name, meta in existing_like_meta.items():
+        if old_name in matched_old_names or not meta.get('fingerprint'):
+            continue
+        old_meta_by_fingerprint.setdefault(meta['fingerprint'], []).append(meta)
+
+    for photo in photo_records:
+        fname = photo['name']
+        prev_meta = photo['existing_meta']
+        if prev_meta is None:
+            matches = old_meta_by_fingerprint.get(photo['fingerprint'], [])
+            if matches:
+                prev_meta = matches.pop(0)
+
+        if prev_meta is not None:
+            seed = prev_meta['seed']
+            counter = prev_meta['counter']
+        elif fname in existing_seeds and isinstance(existing_seeds[fname], int):
+            seed = existing_seeds[fname]
+            counter = slugify_counter_name(fname)
         else:
-            seed_result[fname] = random.randint(1, 100)
-            print(f'  seed: {fname} -> {seed_result[fname]}')
+            seed = random.randint(1, 100)
+            counter = slugify_counter_name(fname)
+            print(f'  seed: {fname} -> {seed}')
+
+        seed_result[fname] = seed
+        like_meta_result[fname] = {
+            'counter': counter,
+            'seed': seed,
+            'fingerprint': photo['fingerprint'],
+        }
 
         if not fname.lower().endswith(('.jpg', '.jpeg')):
             continue
-        tags = extract_exif(os.path.join(PHOTO_DIR, fname))
+        tags = extract_exif(photo['path'])
         if not tags:
             print(f'  skip (no EXIF): {fname}')
             continue
@@ -152,8 +241,10 @@ def main():
         print(f'  ok: {fname}')
 
     save_json(OUT_PATH, exif_result)
+    save_json(LIKE_META_PATH, like_meta_result)
     save_json(SEED_PATH, seed_result)
     print(f'\nWrote {len(exif_result)} EXIF entries → {OUT_PATH}')
+    print(f'Wrote {len(like_meta_result)} like metadata entries → {LIKE_META_PATH}')
     print(f'Wrote {len(seed_result)} like seeds → {SEED_PATH}')
 
 

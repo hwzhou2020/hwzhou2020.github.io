@@ -1,0 +1,267 @@
+{
+  "Allen's Hummingbird.jpg": {
+    "counter": "allen-s-hummingbird-jpg",
+    "seed": 85,
+    "fingerprint": "6457ea6c71b340772aabe8bc46baf76bd2edefc8"
+  },
+  "America Robin.jpg": {
+    "counter": "america-robin-jpg",
+    "seed": 96,
+    "fingerprint": "5eff3d4e7cdf1ab8986839273f160c59edad5b1e"
+  },
+  "American Avocet.jpg": {
+    "counter": "american-avocet-jpg",
+    "seed": 55,
+    "fingerprint": "0ce84d83d214912f02f95180a852f45b83fd4f00"
+  },
+  "American Goldfinch.jpg": {
+    "counter": "american-goldfinch-jpg",
+    "seed": 95,
+    "fingerprint": "eb3d1cee317eb5d7164fc28ad87a3a8a859666ec"
+  },
+  "Baby Hummingbird.jpg": {
+    "counter": "baby-hummingbird-jpg",
+    "seed": 21,
+    "fingerprint": "7d7d0318a5f8a022953d069b62df61edc815632d"
+  },
+  "Baby Mallard.jpg": {
+    "counter": "baby-mallard-jpg",
+    "seed": 59,
+    "fingerprint": "678bccb710aecabaefe253b37257f6a5e638ecb9"
+  },
+  "Bewick's Wren.jpg": {
+    "counter": "bewick-s-wren-jpg",
+    "seed": 87,
+    "fingerprint": "3c529934305374f9d720d34aabda9c477fc2a5db"
+  },
+  "Black Phoebe.jpg": {
+    "counter": "black-phoebe-jpg",
+    "seed": 100,
+    "fingerprint": "7f7797a9408f74c55c3d02c545aa3ec3944dba08"
+  },
+  "Black-necked Stilt.jpg": {
+    "counter": "black-necked-stilt-jpg",
+    "seed": 54,
+    "fingerprint": "794e5c819054aae569fa14f74a15c6e3f4b9d43f"
+  },
+  "Bushtit.jpg": {
+    "counter": "bushtit-jpg",
+    "seed": 70,
+    "fingerprint": "420d2edc612246b9d529053e88e155ad11653342"
+  },
+  "California Blue Bird.jpg": {
+    "counter": "california-blue-bird-jpg",
+    "seed": 24,
+    "fingerprint": "bcfe815cb7dcf41c1c3e4b80f89f16cd1edf5726"
+  },
+  "California Brown Pelican.jpg": {
+    "counter": "california-brown-pelican-jpg",
+    "seed": 83,
+    "fingerprint": "9a3d818eba707c4de22ac27112b11dfc79eaba38"
+  },
+  "California Condor.jpg": {
+    "counter": "california-condor-jpg",
+    "seed": 21,
+    "fingerprint": "b22e7f4c2815e571f8ef7d80a64d4b9ea56af268"
+  },
+  "California Quail.jpg": {
+    "counter": "california-quail-jpg",
+    "seed": 81,
+    "fingerprint": "95bee924d3c6027fa078ccecb543d9d17198cb14"
+  },
+  "California Towhee.jpg": {
+    "counter": "california-towhee-jpg",
+    "seed": 83,
+    "fingerprint": "32208fd0bc392740f57214f91b14c8414b3dc756"
+  },
+  "Common Raven.jpg": {
+    "counter": "common-raven-jpg",
+    "seed": 22,
+    "fingerprint": "72243580a6eaf912d3db5ffaec8f854043bea0bc"
+  },
+  "Dark-Eyed Junco.jpg": {
+    "counter": "dark-eyed-junco-jpg",
+    "seed": 67,
+    "fingerprint": "b56dff48a5a726e66fdd24599a526931f24f56d8"
+  },
+  "Double-Crested Cormorant.jpg": {
+    "counter": "double-crested-cormorant-jpg",
+    "seed": 82,
+    "fingerprint": "9aa10a441535a59da7c3d68620f774893e47de77"
+  },
+  "Female Mallard.jpg": {
+    "counter": "female-mallard-jpg",
+    "seed": 99,
+    "fingerprint": "1f0c2926ef1e3bc0684e6d5dcdbc63658813b5c6"
+  },
+  "Female Vermilion Flycatcher.jpg": {
+    "counter": "female-vermilion-flycatcher-jpg",
+    "seed": 16,
+    "fingerprint": "e197ef21f5b97e8d6964a96d82e2fcf880673e5f"
+  },
+  "Fox Squirrel.jpg": {
+    "counter": "fox-squirrel-jpg",
+    "seed": 2,
+    "fingerprint": "c927748acc3c3c65156326503816e5e62ee0324f"
+  },
+  "Great Egrets.jpg": {
+    "counter": "great-egrets-jpg",
+    "seed": 66,
+    "fingerprint": "c8318d8fb915241c57874dfeb1d320f6422b3ed8"
+  },
+  "Great Horned Owl.jpg": {
+    "counter": "great-horned-owl-jpg",
+    "seed": 7,
+    "fingerprint": "e75e746f8ad5f7416358cf24efabd3024bcdd839"
+  },
+  "Great-tailed Grackle.jpg": {
+    "counter": "great-tailed-grackle-jpg",
+    "seed": 10,
+    "fingerprint": "385d7a6aa0772aa48a27003e43a9396d0a0d7c80"
+  },
+  "Grey Heron.jpg": {
+    "counter": "grey-heron-jpg",
+    "seed": 85,
+    "fingerprint": "62ba50dbbddc6ddbc6daceaa45b12256d9559253"
+  },
+  "Horned Lark.jpg": {
+    "counter": "horned-lark-jpg",
+    "seed": 66,
+    "fingerprint": "108bb1749bcb7aa4c543ffcd8c7f896a934a91d1"
+  },
+  "Indian Peafowl.jpg": {
+    "counter": "indian-peafowl-jpg",
+    "seed": 24,
+    "fingerprint": "5e648e9380219069a9ca461a951d1bd22f07aaf1"
+  },
+  "Island Fox.jpg": {
+    "counter": "island-fox-jpg",
+    "seed": 47,
+    "fingerprint": "ea28903fbd189ef6b19d63c8c1ab6eefe7ebb08e"
+  },
+  "Island Scrub-Jay.jpg": {
+    "counter": "island-scrub-jay-jpg",
+    "seed": 72,
+    "fingerprint": "3fd4f175b2b80f5a76217ba482f6fcdd1c3f2979"
+  },
+  "Juvenile California Gull.jpg": {
+    "counter": "juvenile-california-gull-jpg",
+    "seed": 37,
+    "fingerprint": "d5447d09d51a3cfb511ef73463028dba3fbcf656"
+  },
+  "Killdeer.jpg": {
+    "counter": "killdeer-jpg",
+    "seed": 54,
+    "fingerprint": "0f98c630e6e36b34f3015dd925a53ccc0d0c22c4"
+  },
+  "Little Blue Heron.jpg": {
+    "counter": "little-blue-heron-jpg",
+    "seed": 32,
+    "fingerprint": "c8371d96f3abd94f2f34846e8d37d6bbecfbdb97"
+  },
+  "Northern Mockingbird.jpg": {
+    "counter": "northern-mockingbird-jpg",
+    "seed": 77,
+    "fingerprint": "acfe2f0b7cd8c5d314c3c3d67adcbbf84d859abe"
+  },
+  "Oak Titmouse.jpg": {
+    "counter": "oak-titmouse-jpg",
+    "seed": 27,
+    "fingerprint": "b74818c3614e5046d2f3f3ad3fc06dca4ee1c19e"
+  },
+  "Red-Crowned Amazon.jpg": {
+    "counter": "red-crowned-amazon-jpg",
+    "seed": 83,
+    "fingerprint": "3b6cb6adabfa3de16bd8769a977c0c08ddbc2b2d"
+  },
+  "Red-Shouldered Hawk.jpg": {
+    "counter": "red-shouldered-hawk-jpg",
+    "seed": 8,
+    "fingerprint": "4ebabda46d3e3a39818ca49fe2a48cb11f5d974d"
+  },
+  "Red-Whiskered Bulbul.jpg": {
+    "counter": "red-whiskered-bulbul-jpg",
+    "seed": 52,
+    "fingerprint": "4787612b611fb1d5a0bb3b0c0f7c5eed9d4091f5"
+  },
+  "Red-tailed Hawk.jpg": {
+    "counter": "red-tailed-hawk-jpg",
+    "seed": 30,
+    "fingerprint": "d5cdc6d1b03bf33ee922c6dc5318a1324bc01e91"
+  },
+  "Red-winged Blackbird.jpg": {
+    "counter": "red-winged-blackbird-jpg",
+    "seed": 13,
+    "fingerprint": "c9b7cd363d27c50e115068a98e31832403988692"
+  },
+  "Reddish Egret.jpg": {
+    "counter": "reddish-egret-jpg",
+    "seed": 49,
+    "fingerprint": "a9f4029da030f7d9d2d5fd462f3cbd1fe0c787ae"
+  },
+  "Royal Tern Rival.jpg": {
+    "counter": "royal-tern-rival-jpg",
+    "seed": 43,
+    "fingerprint": "0538f68242e1a754c2fe1d3bc66a340cedb59aa8"
+  },
+  "Royal Tern.jpg": {
+    "counter": "royal-tern-jpg",
+    "seed": 30,
+    "fingerprint": "d925c9ef8e66b82f210b48a40c4a208fc3e3d0c8"
+  },
+  "Snowy Egret.jpg": {
+    "counter": "snowy-egret-jpg",
+    "seed": 51,
+    "fingerprint": "35730c9affc0ff0c0ccd9f6ab4c9eb0eb7bdded2"
+  },
+  "Spotted Towhee.jpg": {
+    "counter": "spotted-towhee-jpg",
+    "seed": 44,
+    "fingerprint": "6b14d8370af0642e91c4885572b7aac705b6bc4f"
+  },
+  "Tree Sparrow.jpg": {
+    "counter": "tree-sparrow-jpg",
+    "seed": 100,
+    "fingerprint": "cc4b3e6ed8cacd8c7bc942af89aeb0c98dbb0ef9"
+  },
+  "Tricolored Blackbird.jpg": {
+    "counter": "tricolored-blackbird-jpg",
+    "seed": 20,
+    "fingerprint": "4f41783b8c37ba087f5fa94c49b528d89024c1f7"
+  },
+  "Turkey Vulture.jpg": {
+    "counter": "turkey-vulture-jpg",
+    "seed": 1,
+    "fingerprint": "34e0c73aec6f88238381a5dda63c958b979cb2ec"
+  },
+  "Vermilion Flycatcher Nest.jpg": {
+    "counter": "vermilion-flycatcher-nest-jpg",
+    "seed": 100,
+    "fingerprint": "7e314e2d4250923545d3b2237b7381dcc9315a48"
+  },
+  "Vermilion Flycatcher.jpg": {
+    "counter": "vermilion-flycatcher-jpg",
+    "seed": 26,
+    "fingerprint": "d1fb3494c1d0b83f853bafca4151d0cc039170ab"
+  },
+  "Western Grebe.jpg": {
+    "counter": "western-grebe-jpg",
+    "seed": 49,
+    "fingerprint": "5e4087c20eaa275914fb37954920195f9653b0b4"
+  },
+  "White-Crowned Sparrow.jpg": {
+    "counter": "white-crowned-sparrow-jpg",
+    "seed": 30,
+    "fingerprint": "cc4f8205a334802d7d643038cb3dd8a9af7111e4"
+  },
+  "White-faced Ibis.jpg": {
+    "counter": "white-faced-ibis-jpg",
+    "seed": 98,
+    "fingerprint": "1cf34a4ae1455137a2f6d6948360485b86d5d307"
+  },
+  "Willet.jpg": {
+    "counter": "willet-jpg",
+    "seed": 81,
+    "fingerprint": "a70fe7c21711ab125a2252a5f31b5515bc21d7c2"
+  }
+}

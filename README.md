@@ -28,7 +28,8 @@ Edit `_config.yml` to change name, tagline, email, social links, and SEO metadat
 
 ### Photo gallery likes
 The photo gallery in `_pages/beyond-research.html` uses two layers for heart counts:
-- `_data/gallery_like_seeds.json` stores one-time initial like counts for each photo. New photos get a random seed from 1 to 100 when you run `python3 scripts/extract_gallery_exif.py`.
+- `_data/gallery_like_meta.json` stores the stable public counter key plus the one-time initial like seed for each photo. The extractor preserves that metadata across reruns and carries it forward if you rename a photo without changing the underlying image file.
+- `_data/gallery_like_seeds.json` is still generated as a simple filename-to-seed map for template fallback compatibility.
 - CounterAPI V1 public counters track additional heart clicks across visitors after publish.
 
 This works on a static GitHub Pages site without a custom backend, but the live counters are public and subject to the provider's per-path rate limits.

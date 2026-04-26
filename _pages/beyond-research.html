@@ -9,7 +9,7 @@ author_profile: true
 
 <!-- Run the command line when adding new photos -->
 <!-- python3 scripts/extract_gallery_exif.py -->
-<!-- This updates EXIF metadata and assigns random initial like seeds to new photos. -->
+<!-- This updates EXIF metadata and preserves stable like metadata for new or renamed photos. -->
 
 <style>
   body {
@@ -286,7 +286,13 @@ author_profile: true
       {% assign species = name_parts[0] %}
       {% assign location = name_parts[1] %}
       {% assign exif = site.data.gallery_exif[image.name] %}
+      {% assign like_meta = site.data.gallery_like_meta[image.name] %}
       {% assign like_seed = site.data.gallery_like_seeds[image.name] | default: 0 %}
+      {% assign like_counter = image.name | slugify %}
+      {% if like_meta %}
+        {% assign like_seed = like_meta.seed | default: like_seed %}
+        {% assign like_counter = like_meta.counter | default: like_counter %}
+      {% endif %}
       <div class="photo-item">
         <a href="{{ image.path }}" aria-label="Open {{ species }}">
           <img src="{{ image.path }}" alt="{{ species }}" loading="lazy">
@@ -303,7 +309,7 @@ author_profile: true
         <button
           type="button"
           class="photo-heart"
-          data-counter="{{ image.name | slugify }}"
+          data-counter="{{ like_counter }}"
           data-seed="{{ like_seed }}"
           aria-label="Like {{ species }}"
         ><span class="heart-icon">♥</span><span class="heart-count">{{ like_seed }}</span></button>
