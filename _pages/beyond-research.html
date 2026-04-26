@@ -171,6 +171,7 @@ author_profile: true
     gap: 3px;
     z-index: 2;
     padding: 0 7px;
+    pointer-events: auto;
     transition: background 0.18s ease, transform 0.15s ease;
   }
 
@@ -305,7 +306,7 @@ author_profile: true
           data-counter="{{ image.name | slugify }}"
           data-seed="{{ like_seed }}"
           aria-label="Like {{ species }}"
-        ><span class="heart-icon">♥</span><span class="heart-count"></span></button>
+        ><span class="heart-icon">♥</span><span class="heart-count">{{ like_seed }}</span></button>
       </div>
       {% endif %}
     {% endfor %}
@@ -365,9 +366,14 @@ author_profile: true
     var state = {
       seed: Number(btn.dataset.seed || 0),
       baseCount: 0,
+      displayCount: Number(btn.dataset.seed || 0),
       pending: 0,
       queue: Promise.resolve()
     };
+
+    function syncDisplay() {
+      renderCount(countEl, state.displayCount);
+    }
 
     function flashButton() {
       btn.classList.remove('pop', 'bumped');
@@ -381,10 +387,11 @@ author_profile: true
     state.queue = readCounter(counterName)
       .then(function (value) {
         state.baseCount = value;
-        renderCount(countEl, state.seed + state.baseCount + state.pending);
+        state.displayCount = Math.max(state.displayCount, state.seed + state.baseCount + state.pending);
+        syncDisplay();
       })
       .catch(function (error) {
-        renderCount(countEl, state.seed + state.baseCount + state.pending);
+        syncDisplay();
         console.error('Error loading counter for', counterName, error);
       });
 
@@ -393,7 +400,8 @@ author_profile: true
       e.stopPropagation();
 
       state.pending += 1;
-      renderCount(countEl, state.seed + state.baseCount + state.pending);
+      state.displayCount += 1;
+      syncDisplay();
       flashButton();
 
       state.queue = state.queue
@@ -403,11 +411,12 @@ author_profile: true
             .then(function (value) {
               state.pending = Math.max(0, state.pending - 1);
               state.baseCount = Math.max(state.baseCount + 1, value);
-              renderCount(countEl, state.seed + state.baseCount + state.pending);
+              state.displayCount = Math.max(state.displayCount, state.seed + state.baseCount + state.pending);
+              syncDisplay();
             })
             .catch(function (error) {
               state.pending = Math.max(0, state.pending - 1);
-              renderCount(countEl, state.seed + state.baseCount + state.pending);
+              syncDisplay();
               console.error('Error incrementing counter for', counterName, error);
             });
         });
