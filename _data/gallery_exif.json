@@ -7,6 +7,14 @@
     "shutter": "1/1250",
     "iso": 100
   },
+  "America Robin.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800",
+    "iso": 1600
+  },
   "American Avocet.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -38,6 +46,22 @@
     "aperture": 6.3,
     "shutter": "1/1250",
     "iso": 500
+  },
+  "Bewick's Wren.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800",
+    "iso": 4000
+  },
+  "Black Phoebe.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/4000",
+    "iso": 400
   },
   "Black-necked Stilt.jpg": {
     "model": "ILCE-7CM2",
@@ -87,6 +111,14 @@
     "shutter": "1/640",
     "iso": 1250
   },
+  "California Towhee.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1600",
+    "iso": 500
+  },
   "Common Raven.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -94,6 +126,22 @@
     "aperture": 6.3,
     "shutter": "1/4000",
     "iso": 3200
+  },
+  "Dark-Eyed Junco.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/640",
+    "iso": 5000
+  },
+  "Double-Crested Cormorant.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500",
+    "iso": 640
   },
   "Female Mallard.jpg": {
     "model": "ILCE-7CM2",
@@ -111,6 +159,22 @@
     "shutter": "1/2500",
     "iso": 800
   },
+  "Fox Squirrel.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/100",
+    "iso": 1600
+  },
+  "Great Egrets.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/4000",
+    "iso": 500
+  },
   "Great Horned Owl.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -119,6 +183,14 @@
     "shutter": "1/200",
     "iso": 2500
   },
+  "Great-tailed Grackle.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/200",
+    "iso": 320
+  },
   "Grey Heron.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -126,6 +198,14 @@
     "aperture": 5.6,
     "shutter": "1/4000",
     "iso": 400
+  },
+  "Horned Lark.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/640",
+    "iso": 125
   },
   "Indian Peafowl.jpg": {
     "model": "ILCE-7CM2",
@@ -142,6 +222,14 @@
     "aperture": 6.3,
     "shutter": "1/320",
     "iso": 800
+  },
+  "Island Scrub-Jay.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 463,
+    "aperture": 18.0,
+    "shutter": "1/800",
+    "iso": 12800
   },
   "Juvenile California Gull.jpg": {
     "model": "ILCE-7CM2",
@@ -167,6 +255,30 @@
     "shutter": "1/2000",
     "iso": 400
   },
+  "Northern Mockingbird.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 547,
+    "aperture": 6.3,
+    "shutter": "1/4000",
+    "iso": 400
+  },
+  "Oak Titmouse.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/320",
+    "iso": 3200
+  },
+  "Red-Crowned Amazon.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800",
+    "iso": 8000
+  },
   "Red-Shouldered Hawk.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -175,6 +287,14 @@
     "shutter": "1/2500",
     "iso": 1000
   },
+  "Red-Whiskered Bulbul.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1600",
+    "iso": 640
+  },
   "Red-tailed Hawk.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -182,6 +302,14 @@
     "aperture": 6.3,
     "shutter": "1/2000",
     "iso": 400
+  },
+  "Red-winged Blackbird.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/640",
+    "iso": 640
   },
   "Reddish Egret.jpg": {
     "model": "ILCE-7CM2",
@@ -215,6 +343,30 @@
     "shutter": "1/2000",
     "iso": 160
   },
+  "Spotted Towhee.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/60",
+    "iso": 160
+  },
+  "Tree Sparrow.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/4000",
+    "iso": 640
+  },
+  "Tricolored Blackbird.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/640",
+    "iso": 500
+  },
   "Turkey Vulture.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -238,6 +390,22 @@
     "aperture": 6.3,
     "shutter": "1/1600",
     "iso": 640
+  },
+  "Western Grebe.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200",
+    "iso": 640
+  },
+  "White-Crowned Sparrow.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/640",
+    "iso": 5000
   },
   "White-faced Ibis.jpg": {
     "model": "ILCE-7CM2",
