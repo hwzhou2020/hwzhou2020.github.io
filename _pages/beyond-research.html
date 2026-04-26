@@ -154,10 +154,10 @@ author_profile: true
     position: absolute;
     top: 8px;
     right: 8px;
-    width: 30px;
+    min-width: 30px;
     height: 30px;
     border: none;
-    border-radius: 50%;
+    border-radius: 15px;
     background: rgba(0,0,0,0.42);
     color: #fff;
     font-size: 15px;
@@ -166,8 +166,9 @@ author_profile: true
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 3px;
     z-index: 10;
-    padding: 0;
+    padding: 0 7px;
     transition: background 0.18s ease, transform 0.15s ease;
   }
 
@@ -177,7 +178,16 @@ author_profile: true
   }
 
   .photo-heart.liked {
-    color: #fc4f4f;
+    background: rgba(220, 50, 50, 0.82);
+    color: #fff;
+  }
+
+  .heart-count {
+    font-size: 11px;
+    font-weight: 700;
+    font-family: sans-serif;
+    line-height: 1;
+    min-width: 0;
   }
 
   @keyframes heart-pop {
@@ -286,7 +296,7 @@ author_profile: true
             {% endif %}
           </div>
         </a>
-        <button class="photo-heart" data-key="{{ image.name }}" aria-label="Like">♡</button>
+        <button class="photo-heart" data-key="{{ image.name }}" aria-label="Like"><span class="heart-icon">♡</span><span class="heart-count"></span></button>
       </div>
       {% endif %}
     {% endfor %}
@@ -309,13 +319,20 @@ author_profile: true
   var likes = getLikes();
   document.querySelectorAll('.photo-heart').forEach(function (btn) {
     var key = btn.dataset.key;
-    if (likes[key]) { btn.classList.add('liked'); btn.textContent = '♥'; }
+    var icon = btn.querySelector('.heart-icon');
+    var countEl = btn.querySelector('.heart-count');
+    if (likes[key]) {
+      btn.classList.add('liked');
+      icon.textContent = '♥';
+      countEl.textContent = '1';
+    }
 
     btn.addEventListener('click', function (e) {
       e.stopPropagation();
       var nowLiked = !btn.classList.contains('liked');
       btn.classList.toggle('liked', nowLiked);
-      btn.textContent = nowLiked ? '♥' : '♡';
+      icon.textContent = nowLiked ? '♥' : '♡';
+      countEl.textContent = nowLiked ? '1' : '';
       if (nowLiked) { likes[key] = true; } else { delete likes[key]; }
       saveLikes(likes);
       btn.classList.remove('pop');
