@@ -91,10 +91,10 @@ author_profile: true
   }
 
   .photo-item a {
+    position: absolute;
+    inset: 0;
     display: block;
-    width: 100%;
-    height: 100%;
-    pointer-events: none;
+    z-index: 1;
   }
 
   .photo-item img {
@@ -168,7 +168,7 @@ author_profile: true
     align-items: center;
     justify-content: center;
     gap: 3px;
-    z-index: 10;
+    z-index: 2;
     padding: 0 7px;
     transition: background 0.18s ease, transform 0.15s ease;
   }
@@ -178,7 +178,7 @@ author_profile: true
     transform: scale(1.12);
   }
 
-  .photo-heart.liked {
+  .photo-heart.bumped {
     background: rgba(220, 50, 50, 0.82);
     color: #fff;
   }
@@ -285,7 +285,7 @@ author_profile: true
       {% assign location = name_parts[1] %}
       {% assign exif = site.data.gallery_exif[image.name] %}
       <div class="photo-item">
-        <a href="{{ image.path }}" tabindex="-1">
+        <a href="{{ image.path }}" aria-label="Open {{ species }}">
           <img src="{{ image.path }}" alt="{{ species }}" loading="lazy">
           <div class="photo-overlay">
             <span class="overlay-species">{{ species }}</span>
@@ -297,7 +297,12 @@ author_profile: true
             {% endif %}
           </div>
         </a>
-        <button class="photo-heart" data-key="{{ image.name }}" aria-label="Like"><span class="heart-icon">♡</span><span class="heart-count"></span></button>
+        <button
+          type="button"
+          class="photo-heart"
+          data-counter="{{ image.name | slugify }}"
+          aria-label="Like {{ species }}"
+        ><span class="heart-icon">♥</span><span class="heart-count"></span></button>
       </div>
       {% endif %}
     {% endfor %}
@@ -308,46 +313,90 @@ author_profile: true
 
 <script>
 (function () {
-  // Heart likes (persisted in localStorage)
-  var LIKES_KEY = 'gallery_likes';
-  function getLikes() {
-    try { return JSON.parse(localStorage.getItem(LIKES_KEY) || '{}'); } catch(e) { return {}; }
-  }
-  function saveLikes(likes) {
-    try { localStorage.setItem(LIKES_KEY, JSON.stringify(likes)); } catch(e) {}
+  var COUNTER_API_BASE = 'https://api.counterapi.dev/v1';
+  var COUNTER_NAMESPACE = '{{ site.repository | slugify }}-gallery-likes';
+
+  function renderCount(countEl, value) {
+    countEl.textContent = value > 0 ? String(value) : '';
   }
 
-  var likes = getLikes();
+  function counterUrl(counterName, action) {
+    var path = [COUNTER_API_BASE, encodeURIComponent(COUNTER_NAMESPACE), encodeURIComponent(counterName)].join('/');
+    return action ? path + '/' + action : path;
+  }
+
+  function readCounter(counterName) {
+    return fetch(counterUrl(counterName), { method: 'GET' })
+      .then(function (response) {
+        if (!response.ok) { throw new Error('Failed to load counter'); }
+        return response.json();
+      })
+      .then(function (data) {
+        return typeof data.value === 'number' ? data.value : 0;
+      });
+  }
+
+  function incrementCounter(counterName) {
+    return fetch(counterUrl(counterName, 'up'), { method: 'GET' })
+      .then(function (response) {
+        if (!response.ok) { throw new Error('Failed to increment counter'); }
+        return response.json();
+      })
+      .then(function (data) {
+        return typeof data.value === 'number' ? data.value : 0;
+      });
+  }
+
   document.querySelectorAll('.photo-heart').forEach(function (btn) {
-    var key = btn.dataset.key;
-    var icon = btn.querySelector('.heart-icon');
+    var counterName = btn.dataset.counter;
     var countEl = btn.querySelector('.heart-count');
-    if (likes[key]) {
-      btn.classList.add('liked');
-      icon.textContent = '♥';
-      countEl.textContent = '1';
+    var state = {
+      baseCount: 0,
+      pending: 0,
+      queue: Promise.resolve()
+    };
+
+    function flashButton() {
+      btn.classList.remove('pop', 'bumped');
+      void btn.offsetWidth;
+      btn.classList.add('pop', 'bumped');
+      window.setTimeout(function () {
+        btn.classList.remove('bumped');
+      }, 320);
     }
 
+    state.queue = readCounter(counterName)
+      .then(function (value) {
+        state.baseCount = value;
+        renderCount(countEl, state.baseCount + state.pending);
+      })
+      .catch(function (error) {
+        console.error('Error loading counter for', counterName, error);
+      });
+
     btn.addEventListener('click', function (e) {
+      e.preventDefault();
       e.stopPropagation();
-      var nowLiked = !btn.classList.contains('liked');
-      btn.classList.toggle('liked', nowLiked);
-      icon.textContent = nowLiked ? '♥' : '♡';
-      countEl.textContent = nowLiked ? '1' : '';
-      if (nowLiked) { likes[key] = true; } else { delete likes[key]; }
-      saveLikes(likes);
-      btn.classList.remove('pop');
-      void btn.offsetWidth;
-      btn.classList.add('pop');
-    });
-  });
-  // Navigate to photo on card click (anchor has pointer-events:none)
-  document.querySelectorAll('.photo-item').forEach(function (item) {
-    var link = item.querySelector('a');
-    item.addEventListener('click', function (e) {
-      if (link && !e.target.closest('.photo-heart')) {
-        window.location.href = link.href;
-      }
+
+      state.pending += 1;
+      renderCount(countEl, state.baseCount + state.pending);
+      flashButton();
+
+      state.queue = state.queue
+        .catch(function () {})
+        .then(function () {
+          return incrementCounter(counterName)
+            .then(function (value) {
+              state.pending = Math.max(0, state.pending - 1);
+              state.baseCount = value;
+              renderCount(countEl, state.baseCount + state.pending);
+            })
+            .catch(function (error) {
+              state.pending = Math.max(0, state.pending - 1);
+              renderCount(countEl, state.baseCount + state.pending);
+              console.error('Error incrementing counter for', counterName, error);
+            });
+        });
     });
   });
 })();

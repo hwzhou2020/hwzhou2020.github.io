@@ -26,6 +26,9 @@ Edit `_config.yml` to change name, tagline, email, social links, and SEO metadat
 - `_pages/publications.md`: detailed publication grid
 - `_sass` and `assets/css`: house style overrides and animations
 
+### Photo gallery likes
+The photo gallery in `_pages/beyond-research.html` uses CounterAPI V1 public counters to track heart clicks across visitors. This works on a static GitHub Pages site without a custom backend, but the counters are public and subject to the provider's per-path rate limits.
+
 
 ## Contact
 - **Email**: hzhou7@caltech.edu
