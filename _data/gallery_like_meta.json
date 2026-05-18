@@ -39,6 +39,10 @@
     "counter": "black-necked-stilt-jpg",
     "fingerprint": "794e5c819054aae569fa14f74a15c6e3f4b9d43f"
   },
+  "Brewer's Blackbird.jpg": {
+    "counter": "brewer-s-blackbird-jpg",
+    "fingerprint": "44a0d3094bc15cc0c8b1e55d68f78c2d87e4d60f"
+  },
   "Bushtit.jpg": {
     "counter": "bushtit-jpg",
     "fingerprint": "420d2edc612246b9d529053e88e155ad11653342"
@@ -54,6 +58,10 @@
   "California Condor.jpg": {
     "counter": "california-condor-jpg",
     "fingerprint": "b22e7f4c2815e571f8ef7d80a64d4b9ea56af268"
+  },
+  "California Mountain Kingsnake.jpg": {
+    "counter": "california-mountain-kingsnake-jpg",
+    "fingerprint": "37fdc7f2db30a6a16afb96a5d4d2e23330a12f31"
   },
   "California Quail.jpg": {
     "counter": "california-quail-jpg",
@@ -119,6 +127,10 @@
     "counter": "island-scrub-jay-jpg",
     "fingerprint": "3fd4f175b2b80f5a76217ba482f6fcdd1c3f2979"
   },
+  "Juvenile California Condor.jpg": {
+    "counter": "juvenile-california-condor-jpg",
+    "fingerprint": "9315a817e57d4742be3b7553c16b88acbbb5bd44"
+  },
   "Juvenile California Gull.jpg": {
     "counter": "juvenile-california-gull-jpg",
     "fingerprint": "d5447d09d51a3cfb511ef73463028dba3fbcf656"
@@ -179,7 +191,11 @@
     "counter": "spotted-towhee-jpg",
     "fingerprint": "6b14d8370af0642e91c4885572b7aac705b6bc4f"
   },
-  "Tree Sparrow.jpg": {
+  "Steller's Jay.jpg": {
+    "counter": "steller-s-jay-jpg",
+    "fingerprint": "8cf85f1f3bd3874d813d90fe35b367672ed88e95"
+  },
+  "Tree Swallow.jpg": {
     "counter": "tree-sparrow-jpg",
     "fingerprint": "cc4b3e6ed8cacd8c7bc942af89aeb0c98dbb0ef9"
   },

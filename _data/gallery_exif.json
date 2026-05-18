@@ -79,6 +79,14 @@
     "shutter": "1/2000",
     "iso": 320
   },
+  "Brewer's Blackbird.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 478,
+    "aperture": 6.3,
+    "shutter": "1/2000",
+    "iso": 2500
+  },
   "Bushtit.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -110,6 +118,14 @@
     "aperture": 6.3,
     "shutter": "1/1000",
     "iso": 200
+  },
+  "California Mountain Kingsnake.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 200,
+    "aperture": 5.6,
+    "shutter": "1/2500",
+    "iso": 2000
   },
   "California Quail.jpg": {
     "model": "ILCE-7CM2",
@@ -239,6 +255,14 @@
     "shutter": "1/800",
     "iso": 12800
   },
+  "Juvenile California Condor.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 266,
+    "aperture": 5.6,
+    "shutter": "1/500",
+    "iso": 100
+  },
   "Juvenile California Gull.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -359,7 +383,15 @@
     "shutter": "1/60",
     "iso": 160
   },
-  "Tree Sparrow.jpg": {
+  "Steller's Jay.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 394,
+    "aperture": 6.3,
+    "shutter": "1/2000",
+    "iso": 6400
+  },
+  "Tree Swallow.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
     "focal": 600,
