@@ -39,6 +39,10 @@
     "counter": "black-necked-stilt-jpg",
     "fingerprint": "794e5c819054aae569fa14f74a15c6e3f4b9d43f"
   },
+  "Black-tailed Jackrabbit.jpg": {
+    "counter": "black-tailed-jackrabbit-jpg",
+    "fingerprint": "554b8ff8a95c5373920d61d1f926261acd6c1cf6"
+  },
   "Brewer's Blackbird.jpg": {
     "counter": "brewer-s-blackbird-jpg",
     "fingerprint": "44a0d3094bc15cc0c8b1e55d68f78c2d87e4d60f"
@@ -139,9 +143,21 @@
     "counter": "killdeer-jpg",
     "fingerprint": "0f98c630e6e36b34f3015dd925a53ccc0d0c22c4"
   },
+  "Lesser Goldfinch.jpg": {
+    "counter": "lesser-goldfinch-jpg",
+    "fingerprint": "515740c9f7a1a73177b203c0e4b1fbb1e70a5160"
+  },
   "Little Blue Heron.jpg": {
     "counter": "little-blue-heron-jpg",
     "fingerprint": "c8371d96f3abd94f2f34846e8d37d6bbecfbdb97"
+  },
+  "Nest of American Robin.jpg": {
+    "counter": "nest-of-american-robin-jpg",
+    "fingerprint": "23566f6672c30fbf9eb7927ad7aa6dd144752bce"
+  },
+  "Night Heron.jpg": {
+    "counter": "night-heron-jpg",
+    "fingerprint": "210686c22f472cae42d948163117d5d94a8853fc"
   },
   "Northern Mockingbird.jpg": {
     "counter": "northern-mockingbird-jpg",
@@ -150,6 +166,10 @@
   "Oak Titmouse.jpg": {
     "counter": "oak-titmouse-jpg",
     "fingerprint": "b74818c3614e5046d2f3f3ad3fc06dca4ee1c19e"
+  },
+  "Pacific-slope (Western) Flycatcher.jpg": {
+    "counter": "pacific-slope-western-flycatcher-jpg",
+    "fingerprint": "c9ae010ef62624fa3f46f2888670216988c22166"
   },
   "Red-Crowned Amazon.jpg": {
     "counter": "red-crowned-amazon-jpg",
@@ -186,6 +206,10 @@
   "Snowy Egret.jpg": {
     "counter": "snowy-egret-jpg",
     "fingerprint": "35730c9affc0ff0c0ccd9f6ab4c9eb0eb7bdded2"
+  },
+  "Song Sparrow.jpg": {
+    "counter": "song-sparrow-jpg",
+    "fingerprint": "135c7cf0d3ae27d053a311f2d94cca2dec9b717f"
   },
   "Spotted Towhee.jpg": {
     "counter": "spotted-towhee-jpg",

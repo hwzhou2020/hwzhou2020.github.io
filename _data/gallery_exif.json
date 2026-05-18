@@ -79,6 +79,14 @@
     "shutter": "1/2000",
     "iso": 320
   },
+  "Black-tailed Jackrabbit.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 411,
+    "aperture": 6.3,
+    "shutter": "1/2500",
+    "iso": 1000
+  },
   "Brewer's Blackbird.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -279,6 +287,14 @@
     "shutter": "1/2000",
     "iso": 800
   },
+  "Lesser Goldfinch.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200",
+    "iso": 1250
+  },
   "Little Blue Heron.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -286,6 +302,22 @@
     "aperture": 6.3,
     "shutter": "1/2000",
     "iso": 400
+  },
+  "Nest of American Robin.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 8.0,
+    "shutter": "1/80",
+    "iso": 100
+  },
+  "Night Heron.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200",
+    "iso": 800
   },
   "Northern Mockingbird.jpg": {
     "model": "ILCE-7CM2",
@@ -302,6 +334,14 @@
     "aperture": 6.3,
     "shutter": "1/320",
     "iso": 3200
+  },
+  "Pacific-slope (Western) Flycatcher.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800",
+    "iso": 1000
   },
   "Red-Crowned Amazon.jpg": {
     "model": "ILCE-7CM2",
@@ -374,6 +414,14 @@
     "aperture": 6.3,
     "shutter": "1/2000",
     "iso": 160
+  },
+  "Song Sparrow.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800",
+    "iso": 1600
   },
   "Spotted Towhee.jpg": {
     "model": "ILCE-7CM2",
