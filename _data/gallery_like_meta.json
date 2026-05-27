@@ -19,6 +19,10 @@
     "counter": "anna-s-hummingbird-jpg",
     "fingerprint": "b785dee20bf47d64be9e4c4120bc67bb6a2fc9d9"
   },
+  "Baby Barn Owl.jpg": {
+    "counter": "baby-barn-owl-jpg",
+    "fingerprint": "281d1bd677ecddead32a3d5f33f1ef01a0a6148d"
+  },
   "Baby Hummingbird.jpg": {
     "counter": "baby-hummingbird-jpg",
     "fingerprint": "7d7d0318a5f8a022953d069b62df61edc815632d"
@@ -111,6 +115,10 @@
     "counter": "great-tailed-grackle-jpg",
     "fingerprint": "385d7a6aa0772aa48a27003e43a9396d0a0d7c80"
   },
+  "Greater Roadrunner.jpg": {
+    "counter": "greater-roadrunner-jpg",
+    "fingerprint": "9d347f141dec4228f019b0f548fe0ef91bc1275b"
+  },
   "Grey Heron.jpg": {
     "counter": "grey-heron-jpg",
     "fingerprint": "62ba50dbbddc6ddbc6daceaa45b12256d9559253"
@@ -139,6 +147,14 @@
     "counter": "juvenile-california-gull-jpg",
     "fingerprint": "d5447d09d51a3cfb511ef73463028dba3fbcf656"
   },
+  "Juvenile Great Horned Owl.jpg": {
+    "counter": "juvenile-great-horned-owl-jpg",
+    "fingerprint": "abf0e8d2bdc17017f58c687f44c9b8e65d015532"
+  },
+  "Juvenile Yellow-Crowned Night Heron.jpg": {
+    "counter": "juvenile-yellow-crowned-night-heron-jpg",
+    "fingerprint": "5d8dc1240a9f77029136fd651d14f4a22c7c4e15"
+  },
   "Killdeer.jpg": {
     "counter": "killdeer-jpg",
     "fingerprint": "0f98c630e6e36b34f3015dd925a53ccc0d0c22c4"
@@ -150,6 +166,10 @@
   "Little Blue Heron.jpg": {
     "counter": "little-blue-heron-jpg",
     "fingerprint": "c8371d96f3abd94f2f34846e8d37d6bbecfbdb97"
+  },
+  "Monach Butterfly.jpg": {
+    "counter": "monach-butterfly-jpg",
+    "fingerprint": "86be550d6591d065dc47949f5621cde3715038ff"
   },
   "Nest of American Robin.jpg": {
     "counter": "nest-of-american-robin-jpg",
@@ -203,6 +223,10 @@
     "counter": "royal-tern-jpg",
     "fingerprint": "d925c9ef8e66b82f210b48a40c4a208fc3e3d0c8"
   },
+  "Ruddy Duck.jpg": {
+    "counter": "ruddy-duck-jpg",
+    "fingerprint": "6dd9b48e117f141766bebbea25388aa891fe2a9d"
+  },
   "Snowy Egret.jpg": {
     "counter": "snowy-egret-jpg",
     "fingerprint": "35730c9affc0ff0c0ccd9f6ab4c9eb0eb7bdded2"
@@ -243,6 +267,10 @@
     "counter": "western-grebe-jpg",
     "fingerprint": "5e4087c20eaa275914fb37954920195f9653b0b4"
   },
+  "White Pelican.jpg": {
+    "counter": "white-pelican-jpg",
+    "fingerprint": "5c799638a66b1a78e5f7cd5faab42eee8a050edd"
+  },
   "White-Crowned Sparrow.jpg": {
     "counter": "white-crowned-sparrow-jpg",
     "fingerprint": "cc4f8205a334802d7d643038cb3dd8a9af7111e4"
@@ -254,5 +282,9 @@
   "Willet.jpg": {
     "counter": "willet-jpg",
     "fingerprint": "a70fe7c21711ab125a2252a5f31b5515bc21d7c2"
+  },
+  "Yellow-Crowned Night Heron.jpg": {
+    "counter": "yellow-crowned-night-heron-jpg",
+    "fingerprint": "bbc93098e6ca0cedf684c4de94dc70410ba657d6"
   }
 }

@@ -39,6 +39,14 @@
     "shutter": "1/1600",
     "iso": 1600
   },
+  "Baby Barn Owl.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250",
+    "iso": 5000
+  },
   "Baby Hummingbird.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -223,6 +231,14 @@
     "shutter": "1/200",
     "iso": 320
   },
+  "Greater Roadrunner.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 241,
+    "aperture": 5.6,
+    "shutter": "1/3200",
+    "iso": 8000
+  },
   "Grey Heron.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -279,6 +295,22 @@
     "shutter": "1/4000",
     "iso": 500
   },
+  "Juvenile Great Horned Owl.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 541,
+    "aperture": 6.3,
+    "shutter": "1/1600",
+    "iso": 640
+  },
+  "Juvenile Yellow-Crowned Night Heron.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250",
+    "iso": 3200
+  },
   "Killdeer.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -302,6 +334,14 @@
     "aperture": 6.3,
     "shutter": "1/2000",
     "iso": 400
+  },
+  "Monach Butterfly.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 280,
+    "aperture": 5.6,
+    "shutter": "1/3200",
+    "iso": 1600
   },
   "Nest of American Robin.jpg": {
     "model": "ILCE-7CM2",
@@ -407,6 +447,14 @@
     "shutter": "1/4000",
     "iso": 1000
   },
+  "Ruddy Duck.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200",
+    "iso": 640
+  },
   "Snowy Egret.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -487,6 +535,14 @@
     "shutter": "1/3200",
     "iso": 640
   },
+  "White Pelican.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200",
+    "iso": 400
+  },
   "White-Crowned Sparrow.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -510,5 +566,13 @@
     "aperture": 6.3,
     "shutter": "1/4000",
     "iso": 640
+  },
+  "Yellow-Crowned Night Heron.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250",
+    "iso": 1250
   }
 }
