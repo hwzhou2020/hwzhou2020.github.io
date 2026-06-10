@@ -161,7 +161,38 @@ Note: Not all papers are publicly available. Publisher subscriptions may be need
 
 <!-- <h2 id="in-press" class="publication-year-heading">In Press &amp; ArXiv</h2> -->
 
-<h2 id="y2025" class="publication-year-heading">2026</h2>
+<h2 id="y2026" class="publication-year-heading">2026</h2>
+
+<!-- pub 23 -->
+<div class="publication">
+  <div class="publication-image">
+    <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/_publications/Thesis.png" width="150" height="150">
+  </div><div class="publication-details">
+    <font size="4">
+      <a href="https://thesis.caltech.edu/18618/" 
+      style="text-decoration: none;">
+        <span style="color: #191717;">
+          <strong>
+            Thesis: Synergizing Microscopy, Computation, and Artificial Intelligence to Advance Biomedical Research
+          </strong>
+        </span>
+      </a>
+    </font>
+    <br>
+    <font size="3">
+      <span style="color: #A4907C;">
+        <span style="color: #213555;"><strong>Haowen Zhou</strong></span> 
+      </span>
+    </font>
+    <br>
+    <font size="3" style="font-family: 'Font', Calibri;">
+      <a style="text-decoration: none;">
+        <span style="color: #B2533E;">PhD Thesis, Caltech 2026</span>
+        &nbsp; &nbsp;
+      </a>
+    </font>
+  </div>
+</div>
 
 <!-- pub 23 -->
 <div class="publication">
