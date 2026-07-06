@@ -320,6 +320,7 @@ window.addEventListener('load', function() {
       }
 
       .news-icon {
+        flex: 0 0 36px;
         width: 36px;
         height: 36px;
         border-radius: 50%;
@@ -328,8 +329,7 @@ window.addEventListener('load', function() {
         display: inline-flex;
         align-items: center;
         justify-content: center;
-        font-weight: 700;
-        letter-spacing: 0.5px;
+        flex-shrink: 0;
       }
 
       .news-item[data-type="publication"] .news-icon {
@@ -345,23 +345,31 @@ window.addEventListener('load', function() {
       }
 
       .news-icon::after {
-        content: "N";
+        display: block;
+        font-family: 'Font Awesome 5 Free';
+        font-size: 0.95rem;
+        font-weight: 900;
+        line-height: 1;
+        text-rendering: auto;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        content: "\f11e";
       }
 
       .news-item[data-type="talk"] .news-icon::after {
-        content: "T";
+        content: "\f3c9";
       }
 
       .news-item[data-type="award"] .news-icon::after {
-        content: "A";
+        content: "\f559";
       }
 
       .news-item[data-type="publication"] .news-icon::after {
-        content: "P";
+        content: "\f15c";
       }
 
       .news-item[data-type="milestone"] .news-icon::after {
-        content: "M";
+        content: "\f19d";
       }
 
       .news-text p {
@@ -482,7 +490,7 @@ window.addEventListener('load', function() {
 
 <div class="bio-section">
   <p>
-    I am an incoming postdoctoral scholar at Stanford University, coadvised by Profs. <a href="https://www.james-zou.com/">James Zou</a> and <a href="https://med.stanford.edu/jonliulab.html">Jonathan Liu</a>.
+    I am a postdoctoral scholar at Stanford University, coadvised by Profs. <a href="https://www.james-zou.com/">James Zou</a> and <a href="https://med.stanford.edu/jonliulab.html">Jonathan Liu</a>.
     Prior to Stanford, I completed my PhD at Department of Electrical Engineering at Caltech, advised by 
     Prof.  <a href="https://biophot.caltech.edu/">Changhuei Yang</a>.
     My PhD research focuses on computational microscopy and image-based AI analysis.   
@@ -498,6 +506,11 @@ window.addEventListener('load', function() {
   <p>
     My aspiration is to become an engineer-scientist who advances scientific discovery through innovative engineering design.
   </p>
+  <p>
+    <strong>
+            I welcome discussions on research, collaborations, and career opportunities in both academia and industry, particularly in the Bay Area.
+    </strong>
+  </p>
 </div>
 
 <section class="news-section">
@@ -505,6 +518,32 @@ window.addEventListener('load', function() {
 
   <div class="news-timeline" id="news-timeline">
 
+    <div class="news-item" data-type="milestone">
+      <div class="news-badge">
+        <span>07/01/2026</span>
+      </div>
+      <div class="news-card">
+        <div class="news-card-content">
+          <div class="news-icon" aria-hidden="true"></div>
+          <div class="news-text">
+            <p> I start my postdoctral traning at Stanford University.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="news-item" data-type="milestone">
+      <div class="news-badge">
+        <span>06/12/2026</span>
+      </div>
+      <div class="news-card">
+        <div class="news-card-content">
+          <div class="news-icon" aria-hidden="true"></div>
+          <div class="news-text">
+            <p> I graduate from Caltech.</p>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="news-item" data-type="milestone">
       <div class="news-badge">
         <span>06/04/2026</span>
@@ -544,7 +583,7 @@ window.addEventListener('load', function() {
         </div>
       </div>
     </div>
-    <div class="news-item" data-type="Award">
+    <div class="news-item" data-type="award">
       <div class="news-badge">
         <span>02/04/2026</span>
       </div>
@@ -557,7 +596,7 @@ window.addEventListener('load', function() {
         </div>
       </div>
     </div>
-    <div class="news-item" data-type="Award">
+    <div class="news-item" data-type="award">
       <div class="news-badge">
         <span>02/04/2026</span>
       </div>
