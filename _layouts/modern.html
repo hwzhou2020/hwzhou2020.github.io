@@ -1,0 +1,28 @@
+---
+layout: default
+---
+{% include base_path %}
+<main id="main" class="portfolio-main" role="main">
+  {% if page.permalink == "/" %}
+    {% comment %}Move the existing biography into the hero without rewriting its content.{% endcomment %}
+    {% assign bio_open = '<div class="bio-section">' %}
+    {% assign bio_tail = content | split: bio_open | last %}
+    {% assign bio_inner = bio_tail | split: '</div>' | first %}
+    {% capture bio_block %}{{ bio_open }}{{ bio_inner }}</div>{% endcapture %}
+    <header class="portfolio-hero">
+      <div class="modern-profile">{% include author-profile.html %}</div>
+      {{ bio_block }}
+    </header>
+    <article class="portfolio-content page__content">
+      {{ content | remove_first: bio_block }}
+    </article>
+  {% else %}
+    <header class="portfolio-profilebar">
+      {% include author-profile.html %}
+    </header>
+    <article class="portfolio-content archive">
+      <h1 class="page__title">{{ page.title }}</h1>
+      {{ content }}
+    </article>
+  {% endif %}
+</main>

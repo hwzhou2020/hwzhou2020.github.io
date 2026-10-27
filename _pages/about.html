@@ -1,4 +1,5 @@
 ---
+layout: modern
 permalink: /
 title: ""
 excerpt: "About me"
@@ -54,42 +55,8 @@ function initializeNewsSection() {
   timeline.classList.remove('news-expanded');
 }
 
-function initializePublicationTabs() {
-  var tabs = document.querySelectorAll('.publication-tab');
-  var panels = document.querySelectorAll('.publication-panel');
-
-  if (!tabs.length || !panels.length) {
-    return;
-  }
-
-  tabs.forEach(function(tab) {
-    tab.addEventListener('click', function() {
-      var targetId = 'tab-' + tab.getAttribute('data-tab');
-      var targetPanel = document.getElementById(targetId);
-
-      if (!targetPanel || tab.classList.contains('active')) {
-        return;
-      }
-
-      tabs.forEach(function(t) {
-        t.classList.remove('active');
-        t.setAttribute('aria-selected', 'false');
-      });
-
-      panels.forEach(function(panel) {
-        panel.classList.remove('active');
-      });
-
-      tab.classList.add('active');
-      tab.setAttribute('aria-selected', 'true');
-      targetPanel.classList.add('active');
-    });
-  });
-}
-
 window.addEventListener('load', function() {
   initializeNewsSection();
-  initializePublicationTabs();
 });
 </script>
 
@@ -309,9 +276,6 @@ window.addEventListener('load', function() {
         box-shadow: 0 10px 24px rgba(0,0,0,0.08);
       }
 
-      .news-timeline .news-item:nth-of-type(even) .news-card {
-        background: #fff9f4;
-      }
 
       .news-card-content {
         display: flex;
@@ -499,8 +463,8 @@ window.addEventListener('load', function() {
     I am currently broadly interested in:
   </p>
   <ul>
+    <li>Imaging science</li>
     <li>Agentic AI systems</li>
-    <li>Multimodal AI for biomedical applications</li>
     <li>AI + hardware orchestration</li>
   </ul>
   <p>
@@ -866,7 +830,7 @@ window.addEventListener('load', function() {
   </div>
 </section>
 
-<section class="publications-section">
+<section class="publications-section" id="selected-publications">
   <h2>Selected Publications</h2>
   
   
@@ -874,22 +838,18 @@ window.addEventListener('load', function() {
     Full publication list <a href="https://hwzhou2020.github.io/publications/">here</a>. 
   </p>
 
-  <div class="publication-tabs" role="tablist">
-    <button class="publication-tab active" data-tab="microscopy" role="tab" aria-controls="tab-microscopy" aria-selected="true">
-      Computational Microscopy
-    </button>
-    <button class="publication-tab" data-tab="neural" role="tab" aria-controls="tab-neural" aria-selected="false">
-      Neural Fields
-    </button>
-    <button class="publication-tab" data-tab="pathology" role="tab" aria-controls="tab-pathology" aria-selected="false">
-      AI for Pathology
-    </button>
+  <div class="selected-publications-toolbar">
+    <div class="publication-tabs" role="group" aria-label="Filter selected publications">
+      <button class="publication-filter active" data-topic="all" aria-pressed="true" aria-controls="selected-publications-grid">All papers</button>
+      <button class="publication-filter" data-topic="microscopy" aria-pressed="false" aria-controls="selected-publications-grid">Computational Microscopy</button>
+      <button class="publication-filter" data-topic="neural" aria-pressed="false" aria-controls="selected-publications-grid">Neural Fields</button>
+      <button class="publication-filter" data-topic="pathology" aria-pressed="false" aria-controls="selected-publications-grid">AI for Pathology</button>
+    </div>
+    <span class="selected-publication-count" id="selected-publication-count" role="status" aria-live="polite">5 papers</span>
   </div>
 
-  <div class="publication-panels">
-    <div class="publication-panel active" id="tab-microscopy" role="tabpanel" aria-labelledby="tab-microscopy">
-      <!-- pub 19 -->
-      <div class="publication">
+  <div class="selected-publications-grid" id="selected-publications-grid" data-filter="all">
+<div class="publication" data-topic="microscopy">
         <div class="publication-details">
           <div class="publication-title">
             <a href="https://doi.org/10.1038/s41467-026-72287-x">Digital defocus aberration interference for automated optical microscopy</a>
@@ -903,18 +863,20 @@ window.addEventListener('load', function() {
             <a href="https://hwzhou2020.github.io/DAbI-Web/">Project Page &amp; Code</a>
             <a href="https://osf.io/dvztc/">Data</a>
           </div>
-          <div class="publication-abstract">
+          <details class="publication-abstract">
+            <summary>Read abstract</summary>
+            <div class="publication-abstract-body">
             We recently discovered a phenomenon that the digitally summed Fourier spectrum of two images acquired from two-angle illumination exhibits interference-like fringe modulation when the sample is out-of-focus.
             These digital fringes correlate directly with defocus through a physics-based relation. Based on this principle, we developed an automatic, efficient, and generalizable defocus detection method termed digital defocus aberration interference (DAbI).
           </div>
+          </details>
         </div>
         <div class="publication-image">
           <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/DAbI_cover.png" alt="DAbI cover image" loading="lazy">
         </div>
       </div>
 
-      <!-- pub 18 -->
-      <div class="publication">
+<div class="publication" data-topic="microscopy">
         <div class="publication-details">
           <div class="publication-title">
             <a href="https://www.nature.com/articles/s41467-025-67460-7">Analytic Fourier ptychotomography for aberration-free and high-resolution volumetric refractive index imaging</a>
@@ -928,19 +890,19 @@ window.addEventListener('load', function() {
             <a href="https://mrdongzhenyu.github.io/AFP-Web/">Project Page &amp; Code</a>
             <a href="https://osf.io/f7tqa/">Data</a>
           </div>
-          <div class="publication-abstract">
+          <details class="publication-abstract">
+            <summary>Read abstract</summary>
+            <div class="publication-abstract-body">
             We propose Analytic Fourier Ptychotomography (AFP), a new computational microscopy technique that analytically reconstructs aberration-free, complex-valued 3D RI distributions without iterative optimization or axial scanning. AFP incorporates a new concept named finite sample thickness (FST) prior, thereby simplifying the inverse scattering problem into solving linear equations.
           </div>
+          </details>
         </div>
         <div class="publication-image">
           <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/AFP_cover.png" alt="AFP cover image" loading="lazy">
         </div>
       </div>
-    </div>
 
-    <div class="publication-panel" id="tab-neural" role="tabpanel" aria-labelledby="tab-neural">
-      <!-- pub 17 -->
-      <div class="publication">
+<div class="publication" data-topic="neural">
         <div class="publication-details">
           <div class="publication-title">
             <a href="https://doi.org/10.1117/1.AP.7.2.026001">Single-shot volumetric fluorescence imaging with neural fields</a>
@@ -954,17 +916,19 @@ window.addEventListener('load', function() {
             <a href="https://hwzhou2020.github.io/SVF-Web/">Project Page &amp; Code</a>
             <a href="https://osf.io/4a5ws/">Data</a>
           </div>
-          <div class="publication-abstract">
+          <details class="publication-abstract">
+            <summary>Read abstract</summary>
+            <div class="publication-abstract-body">
             Single-shot volumetric fluorescence (SVF) imaging captures biological processes with high temporal resolution and a large field of view, unlike traditional methods requiring multiple axial plane scans. Existing SVF methods often face limitations due to large, complex point spread functions (PSFs), affecting signal-to-noise ratio, resolution, and field of view. The paper introduces a QuadraPol PSF combined with neural fields, using a compact custom polarizer and a polarization camera to detect fluorescence and encode the 3D scene within a compact PSF without depth ambiguity.
           </div>
+          </details>
         </div>
         <div class="publication-image">
           <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/SVF_cover.jpg" alt="SVF cover image" loading="lazy">
         </div>
       </div>
 
-      <!-- pub 11 -->
-      <div class="publication">
+<div class="publication" data-topic="neural">
         <div class="publication-details">
           <div class="publication-title">
             <a href="https://doi.org/10.1364/OPTICA.505283">FPM-INR: Fourier ptychographic microscopy image stack reconstruction using implicit neural representations</a>
@@ -978,18 +942,19 @@ window.addEventListener('load', function() {
             <a href="https://hwzhou2020.github.io/FPM-INR-Web/">Project Page &amp; Code</a>
             <a href="https://doi.org/10.22002/7aer7-qhf77">Data</a>
           </div>
-          <div class="publication-abstract">
+          <details class="publication-abstract">
+            <summary>Read abstract</summary>
+            <div class="publication-abstract-body">
             Fourier ptychographic microscope images the biological samples with high-resolution and large field-of-view simultaneously. However, this microscope faces challenges with long image stack reconstruction time and huge data volumes. We designed physics-based neural signal representations to tackle these challenges and showed potential in facilitating remote diagnosis, digital pathology, and efficient clinical data packaging.
           </div>
+          </details>
         </div>
         <div class="publication-image">
           <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/FPM-INR-Cover.jpg" alt="FPM-INR cover image" loading="lazy">
         </div>
       </div>
-    </div>
 
-    <div class="publication-panel" id="tab-pathology" role="tabpanel" aria-labelledby="tab-pathology">
-      <div class="publication">
+<div class="publication" data-topic="pathology">
         <div class="publication-details">
           <div class="publication-title">
             <a href="https://doi.org/10.1002/path.6263">AI-guided histopathology predicts brain metastasis in lung cancer patients</a>
@@ -1004,17 +969,18 @@ window.addEventListener('load', function() {
             <a href="https://doi.org/10.22002/dw66e-mbs82">Data</a>
             <a href="https://www.caltech.edu/about/news/using-ai-to-predict-the-spread-of-lung-cancer/">News</a>
           </div>
-          <div class="publication-abstract">
+          <details class="publication-abstract">
+            <summary>Read abstract</summary>
+            <div class="publication-abstract-body">
             Brain metastases can occur in nearly half of patients with early and locally advanced (stage I&ndash;III) non-small cell lung cancer (NSCLC). There are no reliable histopathologic or molecular means to identify those who are likely to develop brain metastases. We sought to determine if deep learning could be applied to routine H&amp;E-stained primary tumor tissue sections from stage I&ndash;III NSCLC patients to predict the development of brain metastasis.
           </div>
+          </details>
         </div>
         <div class="publication-image">
           <img src="https://raw.githubusercontent.com/hwzhou2020/hwzhou2020.github.io/master/images/Jpath-cover.jpg" alt="AI NSCLC cover image" loading="lazy">
         </div>
       </div>
-    </div>
   </div>
-
 
 <div class="clustermaps-widget">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ecf4d6&w=a&t=tt&d=_uUi94cpmcNCyRUHW_7GZIypCW8NCGmk_sE5ee3tpvc&co=265073&ct=ffffff&cmo=2d9596&cmn=9ad0c2'></script> 
