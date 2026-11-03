@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', function () {
   var grid = document.querySelector('.selected-publications-grid');
   var filters = document.querySelectorAll('.publication-filter');
-  if (!grid || !filters.length) return;
+  if (!grid) return;
 
   filters.forEach(function (button) {
     button.addEventListener('click', function () {
