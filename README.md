@@ -26,11 +26,6 @@ Edit `_config.yml` to change name, tagline, email, social links, and SEO metadat
 - `_pages/publications.md`: detailed publication grid
 - `_sass` and `assets/css`: house style overrides and animations
 
-### Visitor analytics
-MapMyVisitors is installed in `_includes/analytics-providers/custom.html` and enabled by `analytics.provider: "custom"` in `_config.yml`. The shared layout loads it inside the page body on pages with analytics enabled. Its widget is hidden and takes up no space on the webpage.
-
-View visitor reports at [MapMyVisitors](https://mapmyvisitors.com/web/1c9ff). Hiding the widget does not restrict access to the provider's statistics page; manage report visibility in your MapMyVisitors account. Set `analytics: false` in a page's front matter to disable this tracker for that page. The existing homepage ClustrMaps widget is configured separately.
-
 ### Photo gallery likes
 The photo gallery in `_pages/beyond-research.html` uses three layers for heart counts:
 - `_data/gallery_like_meta.json` stores the stable public counter key for each photo. The extractor preserves that metadata across reruns and carries it forward if you rename a photo without changing the underlying image file.
