@@ -1,0 +1,13 @@
+{
+  "name": "Bushtit",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "Bushtit.jpg",
+  "description": "The Bushtit is a tiny, long-tailed songbird usually encountered as part of a busy flock. Groups move through shrubs and woodland edges, keeping in touch with soft calls while inspecting leaves and twigs for insects and spiders. Individuals often hang upside down to reach food beneath foliage. Their nests are equally distinctive: elongated, hanging pouches woven from plant material and spider silk. The flock's constant movement often makes a clear view brief but rewarding.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Bushtit"
+    }
+  ]
+}

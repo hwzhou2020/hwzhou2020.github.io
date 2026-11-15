@@ -1,0 +1,13 @@
+{
+  "name": "Brewer's Blackbird",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "Brewer's Blackbird.jpg",
+  "description": "Brewer's Blackbird is a social, ground-feeding bird of open landscapes and towns in western North America. In sunlight, males show blue and green iridescence across otherwise black feathers, together with a striking pale eye. Females are mostly brown and less glossy. These adaptable birds search lawns, fields, and sidewalks for insects, seeds, and other food, then gather on wires or in trees. Changing light can make the male's plumage look surprisingly different between photographs.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/brewers_blackbird"
+    }
+  ]
+}

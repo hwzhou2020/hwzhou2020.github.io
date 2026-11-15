@@ -1,0 +1,13 @@
+{
+  "name": "Red-Shouldered Hawk",
+  "category": "Birds",
+  "group": "Raptors & Owls",
+  "cover": "Red-Shouldered Hawk.jpg",
+  "description": "The Red-shouldered Hawk is a woodland raptor often associated with streams, wetlands, and well-treed neighborhoods. Adults have warm barred underparts and a strongly banded tail, while pale areas near the wingtips can show when light passes through the feathers. It hunts small mammals, amphibians, reptiles, and other prey, frequently watching from a perch. Its repeated, carrying calls are useful clues to its presence, especially when the bird is partly hidden among branches.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Red-shouldered_Hawk"
+    }
+  ]
+}

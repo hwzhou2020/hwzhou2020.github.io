@@ -1,0 +1,13 @@
+{
+  "name": "Ruddy Duck",
+  "category": "Birds",
+  "group": "Waterbirds",
+  "cover": "Ruddy Duck.jpg",
+  "description": "The Ruddy Duck is a compact diving duck with a broad bill and a stiff tail that it often holds at an angle. Breeding males have chestnut bodies, white cheeks, and bright blue bills; females and winter birds are more subdued. It dives for aquatic invertebrates and other food in wetlands and sheltered waters. Courtship includes a distinctive display in which the male beats its bill against its inflated neck, producing a patch of bubbles on the surface.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/ruddy_duck"
+    }
+  ]
+}

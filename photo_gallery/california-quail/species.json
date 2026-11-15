@@ -1,0 +1,13 @@
+{
+  "name": "California Quail",
+  "category": "Birds",
+  "group": "Other Birds",
+  "cover": "California Quail.jpg",
+  "description": "The California Quail is a ground-dwelling bird of scrub, chaparral, foothills, and nearby gardens. Its forward-curving head plume gives it an immediately recognizable silhouette. Groups called coveys move between feeding areas and protective cover, searching the ground for seeds, leaves, and small invertebrates. Nests are usually concealed at ground level. Watching a covey reveals a mixture of careful pauses, quick runs, and frequent calls as the birds maintain contact with one another.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/California_Quail/lifehistory"
+    }
+  ]
+}

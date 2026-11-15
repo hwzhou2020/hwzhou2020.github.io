@@ -1,0 +1,13 @@
+{
+  "name": "Snowy Plover",
+  "group": "Shorebirds & Gulls",
+  "description": "The Snowy Plover is a small, pale shorebird of sandy beaches and sparsely vegetated shores. Its compact body, short dark bill, and soft upperpart colors help it blend into the ground. It searches for small invertebrates with short runs and pauses, and places its nest in a simple scrape on an open surface. Habitat disturbance can affect both feeding and nesting birds. Its subtle markings reward careful viewing, especially when it rests among sand, shells, or small stones.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Snowy_Plover"
+    }
+  ],
+  "cover": "20260919-DSC02635.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Turkey Vulture",
+  "category": "Birds",
+  "group": "Raptors & Owls",
+  "cover": "Turkey Vulture.jpg",
+  "description": "The Turkey Vulture is a large scavenger often recognized in flight by wings held in a shallow V and a gently rocking glide. Adults have bare reddish heads, while young birds have darker heads. It searches broad landscapes for carrion, using a well-developed sense of smell as well as vision. Open country, woodland edges, and roadsides all provide feeding opportunities. By consuming dead animals, vultures play an important role in recycling nutrients within ecosystems.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Turkey_Vulture/lifehistory"
+    }
+  ]
+}

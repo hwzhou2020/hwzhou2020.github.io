@@ -1,0 +1,13 @@
+{
+  "name": "Mountain Chickadee",
+  "group": "Songbirds",
+  "description": "The Mountain Chickadee is a small, active bird of western coniferous forests. A pale eyebrow stripe helps distinguish it from similar chickadees, alongside its dark cap, pale cheeks, and dark throat patch. It searches twigs, needles, and cones for insects and seeds, sometimes hanging upside down to reach food. Birds often join mixed flocks outside the breeding season and store food for later use. Their repeated calls can reveal a feeding flock high in the trees.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Mountain_Chickadee/overview"
+    }
+  ],
+  "cover": "20260705-DSC01187.jpg"
+}

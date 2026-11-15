@@ -1,0 +1,13 @@
+{
+  "name": "African Penguin",
+  "group": "Waterbirds",
+  "description": "The African Penguin is a small penguin native to the coasts of southern Africa. Dense feathers insulate its body in cool seawater, while its wings function as flippers during underwater swimming. It hunts small schooling fish and returns to land to rest and breed. Black-and-white markings and individual patterns of spots on the chest help distinguish birds. Unlike the familiar image of penguins surrounded by Antarctic ice, this species inhabits a much warmer coastal setting.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "San Diego Zoo Wildlife Alliance",
+      "url": "https://animals.sandiegozoo.org/animals/african-penguin"
+    }
+  ],
+  "cover": "20261030-DSC04159.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Red-tailed Hawk",
+  "category": "Birds",
+  "group": "Raptors & Owls",
+  "cover": "20260830-DSC01972.jpg",
+  "description": "The Red-tailed Hawk is a broad-winged raptor commonly seen circling over open country or watching from roadside poles. It searches fields and other open areas for small mammals and a variety of additional prey. Adults usually show the reddish tail that gives the species its name, but plumage varies considerably and young birds have different tail patterns. Its combination of patient perch-hunting and effortless soaring makes it a familiar presence in many North American landscapes.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/red-tailed_hawk"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Willet",
+  "category": "Birds",
+  "group": "Shorebirds & Gulls",
+  "cover": "Willet.jpg",
+  "description": "The Willet is a substantial shorebird with long legs and a sturdy, fairly straight bill. Its subdued gray or mottled brown plumage can blend into beaches and mudflats, but flight reveals a bold black-and-white wing pattern. Willets feed along shorelines and in wetlands, taking a variety of small animals. Some breeding populations use inland grassland wetlands, while others nest near the coast. Their loud calls are often as useful for recognition as their appearance.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Willet"
+    }
+  ]
+}

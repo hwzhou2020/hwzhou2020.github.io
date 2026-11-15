@@ -1,0 +1,13 @@
+{
+  "name": "Wilson's Warbler",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "20260620-DSC09975.jpg",
+  "description": "Wilson's Warbler is a small, active songbird with bright yellow underparts and olive-yellow upperparts. Males typically have a distinctive black cap, while females vary in the amount of dark coloring on the crown. It searches dense shrubs and low foliage for insects, often moving quickly between perches or hovering briefly to take prey. Willow and alder thickets, streamside vegetation, and forest openings provide useful habitat. Its restless movements can make a clear view a brief but rewarding moment.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Wilsons_Warbler/overview"
+    }
+  ]
+}

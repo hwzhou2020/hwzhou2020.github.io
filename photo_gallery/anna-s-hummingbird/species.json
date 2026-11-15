@@ -1,0 +1,18 @@
+{
+  "name": "Anna's Hummingbird",
+  "category": "Birds",
+  "group": "Hummingbirds",
+  "cover": "20260415-DSC02598.jpg",
+  "description": "Anna's Hummingbird is a familiar resident of western gardens, coastal scrub, and open woodland. Adult males can flash an iridescent rose-pink head and throat, although the same feathers may appear dark when the light changes. The birds feed on nectar and small insects, moving between flowers with precise hovering flights. Males also perform dramatic aerial courtship displays. Unlike many hummingbirds that make long seasonal migrations, Anna's often remains in suitable parts of its range throughout the year.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Annas_Hummingbird"
+    }
+  ],
+  "photos": {
+    "Baby Hummingbird.jpg": {
+      "caption": "Baby Hummingbird"
+    }
+  }
+}

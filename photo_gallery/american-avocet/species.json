@@ -1,0 +1,13 @@
+{
+  "name": "American Avocet",
+  "category": "Birds",
+  "group": "Shorebirds & Gulls",
+  "cover": "American Avocet.jpg",
+  "description": "The American Avocet is a long-legged shorebird recognized by its slender, upturned bill and contrasting black-and-white wings. It feeds in shallow wetlands, sweeping its partly open bill through the water to capture small aquatic animals. Salt ponds, marshes, and mudflats provide important feeding habitat. Avocets often gather with other shorebirds and nest on sparsely vegetated ground near water, where their shallow nest scrapes can be difficult to distinguish from the surrounding surface.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/American_Avocet/lifehistory"
+    }
+  ]
+}

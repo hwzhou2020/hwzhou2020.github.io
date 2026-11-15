@@ -1,0 +1,13 @@
+{
+  "name": "Great Frigatebird",
+  "group": "Waterbirds",
+  "description": "The Great Frigatebird is a tropical seabird with exceptionally long wings, a deeply forked tail, and a light body built for extended flight. It searches the ocean surface for food and sometimes pursues other seabirds until they release their catch. Remote islands provide nesting places, often in trees or shrubs. Males display an inflatable red throat pouch during courtship. Its angular silhouette and effortless soaring are striking even when the bird is too distant for detailed plumage views.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Great_Frigatebird/lifehistory"
+    }
+  ],
+  "cover": "20261029-DSC03518.jpg"
+}

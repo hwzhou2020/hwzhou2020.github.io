@@ -1,0 +1,13 @@
+{
+  "name": "Snowy Egret",
+  "category": "Birds",
+  "group": "Waterbirds",
+  "cover": "Snowy Egret.jpg",
+  "description": "The Snowy Egret is a small white heron with a slender dark bill, black legs, and bright yellow feet. It feeds in shallow coastal and inland wetlands, sometimes using quick steps or foot movements to disturb small aquatic prey. Compared with the larger Great Egret, it often appears more animated while hunting. Fine breeding plumes once made it a target of the feather trade, and efforts to protect these birds helped advance early bird conservation.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/snowy_egret"
+    }
+  ]
+}

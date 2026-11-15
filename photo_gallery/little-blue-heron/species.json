@@ -1,0 +1,13 @@
+{
+  "name": "Little Blue Heron",
+  "category": "Birds",
+  "group": "Waterbirds",
+  "cover": "Little Blue Heron.jpg",
+  "description": "The Little Blue Heron changes appearance dramatically as it matures. Adults have a dark blue body and a purplish head and neck, while young birds are mostly white; birds in transition can look patchy. It feeds in shallow wetlands, stalking fish and other small aquatic animals with a patient, measured approach. Like many herons, it nests in colonies, often alongside other waterbirds. Its two-toned bill and relatively compact size are useful identification clues.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Little_Blue_Heron"
+    }
+  ]
+}

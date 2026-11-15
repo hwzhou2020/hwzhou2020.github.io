@@ -1,0 +1,13 @@
+{
+  "name": "Island Scrub-Jay",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "Island Scrub-Jay.jpg",
+  "description": "The Island Scrub-Jay lives only on Santa Cruz Island off the California coast. Larger than its mainland relatives, it has rich blue upperparts, a dark face, and pale underparts. It occupies oak woodland and chaparral, where it eats acorns, insects, and other available food. Jays hide acorns for later use, linking their feeding behavior to the island's oak habitat. Pairs maintain territories throughout the year, making this bird a distinctive part of the island's wildlife.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/island_scrub-jay"
+    }
+  ]
+}

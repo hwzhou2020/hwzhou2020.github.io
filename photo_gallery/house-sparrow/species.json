@@ -1,0 +1,13 @@
+{
+  "name": "House Sparrow",
+  "group": "Songbirds",
+  "description": "The House Sparrow is a small, robust songbird closely associated with people and buildings. Males have contrasting gray, brown, and black head markings, while females are more plainly patterned in brown and buff. It feeds on seeds, insects, and other available foods around gardens, farms, and towns. Native to Eurasia and parts of northern Africa, it has been introduced widely. Its busy social groups make differences in age, sex, and individual plumage easy to compare.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/House_Sparrow/overview"
+    }
+  ],
+  "cover": "20261030-DSC04240.jpg"
+}

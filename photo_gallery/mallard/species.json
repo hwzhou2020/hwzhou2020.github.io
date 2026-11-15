@@ -1,0 +1,21 @@
+{
+  "name": "Mallard",
+  "category": "Birds",
+  "group": "Waterbirds",
+  "cover": "20260415-DSC02778.jpg",
+  "photos": {
+    "Female Mallard.jpg": {
+      "caption": "Female Mallard"
+    },
+    "Baby Mallard.jpg": {
+      "caption": "Baby Mallard"
+    }
+  },
+  "description": "The Mallard is a familiar dabbling duck of ponds, lakes, marshes, and sheltered coastal wetlands across much of the Northern Hemisphere. Breeding males have glossy green heads, while females are mottled brown. Both can show a blue wing patch bordered with white. Mallards feed by reaching beneath the surface or tipping forward, taking aquatic plants and small animals. Ducklings follow their mother soon after hatching, and their changing plumage provides a clear record of early growth.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/mallard"
+    }
+  ]
+}

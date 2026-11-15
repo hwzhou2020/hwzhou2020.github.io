@@ -1,0 +1,13 @@
+{
+  "name": "American Dipper",
+  "group": "Songbirds",
+  "description": "The American Dipper is a compact gray songbird adapted to fast-flowing streams in western North and Central America. It searches for aquatic insects by wading, swimming, and diving, often disappearing beneath moving water that would challenge many other songbirds. Frequent bobbing movements give the bird its name. Rocks and fallen wood provide resting places between feeding trips. Its close association with streams makes water quality and suitable streambed habitat important parts of its environment.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/American_Dipper"
+    }
+  ],
+  "cover": "20260705-DSC01134.jpg"
+}

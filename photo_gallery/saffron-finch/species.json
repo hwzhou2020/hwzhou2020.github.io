@@ -1,0 +1,13 @@
+{
+  "name": "Saffron Finch",
+  "group": "Songbirds",
+  "description": "The Saffron Finch is a small seed-eating songbird whose adult males can be intensely yellow with orange coloring on the forehead. Females and young birds are more subdued, and appearance varies among populations. Native to South America, it has been introduced elsewhere, including Hawaii. It feeds in open grassy areas, gardens, and cultivated landscapes, taking mainly seeds and some small invertebrates. Its bright plumage can make a male immediately conspicuous among birds foraging on a lawn.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/saffron_finch"
+    }
+  ],
+  "cover": "20261031-DSC05343.jpg"
+}

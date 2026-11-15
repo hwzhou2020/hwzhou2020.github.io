@@ -1,0 +1,13 @@
+{
+  "name": "Horned Lark",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "Horned Lark.jpg",
+  "description": "The Horned Lark is a small songbird of open ground, from agricultural fields and grasslands to deserts and tundra. Its brown upperparts blend closely with bare soil, while the face can show a striking pattern of pale yellow and black. Small feather tufts give the species its name. It walks across the ground searching for seeds and insects and nests in a shallow ground depression. The lack of tall vegetation is often a useful clue to its preferred habitat.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/horned_lark"
+    }
+  ]
+}

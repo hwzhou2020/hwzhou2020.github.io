@@ -1,0 +1,13 @@
+{
+  "name": "Tricolored Blackbird",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "Tricolored Blackbird.jpg",
+  "description": "The Tricolored Blackbird is strongly associated with California's wetlands and agricultural landscapes. Males have glossy black plumage and a red shoulder patch bordered below with white, a useful contrast with the yellow border of a Red-winged Blackbird. These social birds can nest in dense colonies and travel together to feed. Their reliance on suitable nesting vegetation links their conservation to both wetland habitat and the management of agricultural fields where colonies sometimes establish.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Tricolored_Blackbird"
+    }
+  ]
+}

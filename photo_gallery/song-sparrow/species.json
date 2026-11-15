@@ -1,0 +1,13 @@
+{
+  "name": "Song Sparrow",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "Song Sparrow.jpg",
+  "description": "The Song Sparrow is a widespread songbird whose appearance varies across its large North American range. Many have a streaked breast and a central dark spot, but size and overall coloring differ among populations. It uses brushy edges, marshes, gardens, and many other habitats, usually feeding near the ground on insects, seeds, and fruit. Males often leave cover to sing from exposed perches, turning an otherwise unobtrusive bird into a prominent part of the soundscape.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Song_Sparrow/lifehistory"
+    }
+  ]
+}

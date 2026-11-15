@@ -1,0 +1,13 @@
+{
+  "name": "Monarch Butterfly",
+  "category": "Insects",
+  "group": "",
+  "cover": "Monach Butterfly.jpg",
+  "description": "The Monarch Butterfly is recognized by orange wings crossed with dark veins and edged in black and white. Its caterpillars depend on milkweed, while adults drink nectar from many kinds of flowers. Feeding on milkweed allows monarchs to acquire chemicals that can discourage predators. Some North American populations undertake long seasonal migrations, while others remain in warmer areas. The link between milkweed for caterpillars and nectar plants for adults makes suitable habitat important throughout the life cycle.",
+  "references": [
+    {
+      "title": "U.S. Fish & Wildlife Service",
+      "url": "https://www.fws.gov/species/monarch-danaus-plexippus"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Java Sparrow",
+  "group": "Songbirds",
+  "description": "The Java Sparrow is a chunky seed-eating songbird with a very large reddish bill, smooth gray plumage, and bold white cheek patches framed by a dark head. It is native to parts of Indonesia and has been introduced elsewhere, including Hawaii. Flocks feed on grass seeds and cultivated grains, often in open areas near people. Younger birds are plainer and browner. Its striking bill and face pattern stand out even among other small birds feeding on the same lawn.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Java_Sparrow"
+    }
+  ],
+  "cover": "20261031-DSC05082.jpg"
+}

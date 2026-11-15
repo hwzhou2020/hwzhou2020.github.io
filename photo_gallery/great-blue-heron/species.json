@@ -1,0 +1,13 @@
+{
+  "name": "Great Blue Heron",
+  "category": "Birds",
+  "group": "Waterbirds",
+  "cover": "Great Blue Heron.jpg",
+  "description": "The Great Blue Heron is a large North American wading bird with a long neck, long legs, and a substantial pointed bill. It hunts fish and other small animals by waiting patiently or moving slowly through shallow water before striking. Wetlands, lake margins, and coastlines provide feeding habitat, while tall trees often support nesting colonies. In flight, it folds its neck into a characteristic curve. Its blue-gray plumage can look quite different as light and background change.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Great_blue_heron"
+    }
+  ]
+}

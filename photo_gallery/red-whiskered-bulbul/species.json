@@ -1,0 +1,13 @@
+{
+  "name": "Red-Whiskered Bulbul",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "Red-Whiskered Bulbul.jpg",
+  "description": "The Red-whiskered Bulbul is a lively songbird with a pointed black crest, white cheek, and small red patch beside the face. Native to parts of Asia, it has also established populations outside its original range. It uses wooded and shrubby habitats as well as gardens and other planted areas, feeding on fruit, insects, and flower buds. Its alert posture and contrasting facial markings make it distinctive, even when much of the body is concealed in vegetation.",
+  "references": [
+    {
+      "title": "BirdLife Australia",
+      "url": "https://birdlife.org.au/bird-profiles/red-whiskered-bulbul/"
+    }
+  ]
+}

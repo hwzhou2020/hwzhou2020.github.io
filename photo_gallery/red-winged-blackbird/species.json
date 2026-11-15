@@ -1,0 +1,13 @@
+{
+  "name": "Red-winged Blackbird",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "Red-winged Blackbird.jpg",
+  "description": "The Red-winged Blackbird is a familiar inhabitant of marshes, wet fields, and other open habitats. Adult males are black with red-and-yellow shoulder patches that can be displayed or partly concealed. Females are brown and heavily streaked, often looking quite different from males. The birds feed on insects and seeds, with the balance changing seasonally. Males frequently sing from exposed reeds or posts, making their displays a conspicuous part of wetland breeding activity.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Red-winged_Blackbird"
+    }
+  ]
+}

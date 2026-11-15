@@ -1,0 +1,18 @@
+{
+  "name": "California Gull",
+  "category": "Birds",
+  "group": "Shorebirds & Gulls",
+  "cover": "20260919-DSC02549.jpg",
+  "photos": {
+    "Juvenile California Gull.jpg": {
+      "caption": "Juvenile California Gull"
+    }
+  },
+  "description": "The California Gull links inland western wetlands with the Pacific Coast. It often breeds in colonies on lake islands or levees, then moves toward coastal areas outside the breeding season. An opportunistic feeder, it takes insects, fish, and many other available foods. Young birds have mottled brown plumage that changes as they mature, making age important in identification. Adults are medium-sized gulls with gray backs, white heads, and yellowish legs.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/California_Gull"
+    }
+  ]
+}

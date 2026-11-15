@@ -1,0 +1,13 @@
+{
+  "name": "American Coot",
+  "group": "Waterbirds",
+  "description": "The American Coot is a dark waterbird with a contrasting white bill, often seen swimming among ducks on lakes and ponds. Despite that resemblance, it belongs to the rail family. Lobed toes help it move through water and across soft ground. It eats mainly aquatic vegetation, taking additional foods when available, and may graze on land. Large winter flocks can gather on open water, while breeding birds use wetland vegetation for nesting and cover.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/American_Coot/overview"
+    }
+  ],
+  "cover": "20260415-DSC02515.jpg"
+}

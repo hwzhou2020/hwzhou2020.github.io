@@ -1,0 +1,18 @@
+{
+  "name": "Yellow-Crowned Night Heron",
+  "category": "Birds",
+  "group": "Waterbirds",
+  "cover": "Yellow-Crowned Night Heron.jpg",
+  "photos": {
+    "Juvenile Yellow-Crowned Night Heron.jpg": {
+      "caption": "Juvenile Yellow-Crowned Night Heron"
+    }
+  },
+  "description": "The Yellow-crowned Night Heron is a compact heron with a thick bill and a diet strongly focused on crustaceans, especially crabs and crayfish. Adults have gray bodies and a contrasting head pattern, while young birds are brown and spotted. It uses coastal marshes, mangroves, and other wetlands and may feed during daylight as well as at night. Patient watching followed by a quick lunge is typical hunting behavior, and the heavy bill helps handle hard-bodied prey.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Yellow-crowned_Night-Heron"
+    }
+  ]
+}

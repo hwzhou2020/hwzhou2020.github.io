@@ -26,20 +26,78 @@ Edit `_config.yml` to change name, tagline, email, social links, and SEO metadat
 - `_pages/publications.md`: detailed publication grid
 - `_sass` and `assets/css`: house style overrides and animations
 
+### Adding wildlife photos
+
+The Wildlife Gallery shows one card per species, with separate albums, animal and bird-group filters, species search, and camera details. Albums show 24 photos at a time; thumbnails load separately from full-size originals. Beyond Research keeps its activities and links to the gallery.
+
+The gallery opens with selected albums from the `gallery_highlights` list in `_pages/wildlife-gallery.html`, in that list's order. The complete alphabetical collection follows, including the highlighted albums. Search, filters, counts, and “Show more” apply to the complete collection.
+
+Photos live in species folders. Existing filenames have been preserved, and new filenames can be anything unique within their folder:
+
+```text
+photo_gallery/
+  great-horned-owl/
+    species.json
+    Great Horned Owl.jpg
+    Juvenile Great Horned Owl.jpg
+    2026-11-14-001.jpg
+```
+
+To add photos to an existing species, copy them into its folder and run:
+
+```sh
+python3 scripts/extract_gallery_exif.py
+```
+
+Then preview, commit, and publish the updated photos, metadata, generated album pages, and thumbnails together. Keep EXIF metadata when exporting photographs to retain the camera, lens, focal length, aperture, shutter speed, ISO, and capture date. The script leaves originals untouched. If Pillow is missing, install it with `python3 -m pip install -r scripts/requirements-gallery.txt`.
+
+To add a new species, create a lowercase, hyphenated folder and a `species.json` file:
+
+```json
+{
+  "name": "Great Horned Owl",
+  "category": "Birds",
+  "group": "Raptors & Owls",
+  "cover": "2026-11-14-001.jpg"
+}
+```
+
+Add images and run the same command. The album page is generated automatically. Categories currently include `Birds`, `Mammals`, `Reptiles`, and `Insects`; new categories appear automatically when used. Bird groups are visitor-friendly browsing labels, not formal taxonomic ranks. If a folder has no `species.json`, its name supplies the album title and it appears under `Other Wildlife` until classified.
+
+Album introductions (`description`) and their reference links appear after the photographs.
+
+Each album has an explicitly selected `cover` filename in `species.json`. Adding new photos keeps that cover in place; edit `cover` and rerun the importer to choose another. Animal-group and bird-group dropdown counts show the total number of albums in each group.
+
+Optional species fields are `scientific_name` and `description`. Leave a scientific name blank when identification is uncertain. Set `cover` to an existing filename, or omit it to use the first photo. Optional per-photo information goes in the same file:
+
+```json
+{
+  "name": "Great Horned Owl",
+  "category": "Birds",
+  "group": "Raptors & Owls",
+  "photos": {
+    "2026-11-14-001.jpg": {
+      "caption": "A juvenile in the evening light",
+      "location": "Park name, California",
+      "date": "2026-11-14",
+      "featured": true
+    }
+  }
+}
+```
+
+Featured photos appear first, followed by capture date (newest first), then filename for undated photos. Captions default to the species name. Locations are optional; a location filter appears once location data is available. Files may also be nested in outing subfolders within a species folder; use relative paths such as `2026-11-14/DSC001.jpg` in `cover` and `photos`.
+
+Edit source images and `species.json`, then rerun the script. `_data/gallery_albums.json`, `_data/gallery_index.json`, `_data/gallery_exif.json`, `_data/gallery_like_meta.json`, `_pages/wildlife/`, and `assets/images/wildlife/` are generated outputs. Avoid editing them by hand. Run importer checks with `python3 -m unittest discover -s scripts/tests` and interaction checks with `node --test scripts/tests/test_wildlife_gallery.cjs`.
+
 ### Photo gallery likes
-The photo gallery in `_pages/beyond-research.html` uses three layers for heart counts:
-- `_data/gallery_like_meta.json` stores the stable public counter key for each photo. The extractor preserves that metadata across reruns and carries it forward if you rename a photo without changing the underlying image file.
+Each species album uses three layers for heart counts:
+- `_data/gallery_like_meta.json` stores a stable public counter key for each photo, indexed by its path relative to `photo_gallery/`. The importer preserves existing keys across reruns and carries them forward if you move or rename a photo without changing the underlying image file. Different species can use the same filename.
 - CounterAPI V1 public counters track heart clicks across visitors after publish.
 - Browser `localStorage` caches the last known displayed total and any unsynced clicks so a page refresh does not appear to reset likes if the remote counter read/write is delayed or fails.
 
 This works on a static GitHub Pages site without a custom backend, but the live counters are public and subject to the provider's per-path rate limits.
 
-
-## Contact
-- **Email**: hzhou7@caltech.edu
-- **Institution**: California Institute of Technology
-- **Department**: Electrical Engineering
-- **Lab**: [Biophotonics Lab](https://biophot.caltech.edu/)
 
 ---
 

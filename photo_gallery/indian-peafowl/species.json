@@ -1,0 +1,13 @@
+{
+  "name": "Indian Peafowl",
+  "category": "Birds",
+  "group": "Other Birds",
+  "cover": "Indian Peafowl.jpg",
+  "description": "The Indian Peafowl is a large ground-feeding bird native to South Asia and widely kept or established elsewhere. Males, called peacocks, display an elaborate train covered in eye-like markings; females, or peahens, have more subdued plumage. The train consists of extended feathers above the true tail. Peafowl forage for seeds, fruit, insects, and small animals, then roost in trees. A displaying male turns and shakes its feathers to present the train to nearby females.",
+  "references": [
+    {
+      "title": "Smithsonian's National Zoo",
+      "url": "https://nationalzoo.si.edu/animals/common-peafowl"
+    }
+  ]
+}

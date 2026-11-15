@@ -1,0 +1,13 @@
+{
+  "name": "Western Gull",
+  "group": "Shorebirds & Gulls",
+  "description": "The Western Gull is a large gull of the Pacific Coast with a heavy bill, pink legs, and a dark gray back in adults. It nests on coastal islands and uses beaches, rocky shores, harbors, and other productive feeding places. Its varied diet includes fish and many other available foods. Young birds are mottled brown and take several years to develop adult plumage. Size, bill shape, and age-related patterns are important when comparing it with similar gulls.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Western_Gull"
+    }
+  ],
+  "cover": "20260408-DSC00923.jpg"
+}

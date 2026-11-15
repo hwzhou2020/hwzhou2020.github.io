@@ -1,0 +1,18 @@
+{
+  "name": "California Condor",
+  "category": "Birds",
+  "group": "Raptors & Owls",
+  "cover": "California Condor.jpg",
+  "photos": {
+    "Juvenile California Condor.jpg": {
+      "caption": "Juvenile California Condor"
+    }
+  },
+  "description": "The California Condor is an immense scavenging bird whose broad wings allow it to travel long distances on rising air. Adults have mostly black plumage, pale patches beneath the wings, and a largely bare head. Condors feed on animal carcasses and often nest in sheltered cliff cavities. Captive breeding and reintroduction have been central to their recovery after severe historical declines. Their long-term survival still depends on conservation work, including reducing exposure to lead in scavenged food.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/California_Condor"
+    }
+  ]
+}

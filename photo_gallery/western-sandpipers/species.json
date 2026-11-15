@@ -1,0 +1,13 @@
+{
+  "name": "Western Sandpiper",
+  "group": "Shorebirds & Gulls",
+  "description": "The Western Sandpiper is a tiny shorebird that can gather in large migratory flocks. It feeds along mudflats and shallow wetland edges, using a slender bill that is often slightly downcurved. Breeding birds show warmer markings on the head and back, while winter birds are paler. Arctic breeding grounds are connected to more southerly coastal feeding areas by long migrations. Its small size makes side-by-side comparisons with other shorebirds especially valuable for identification.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Western_Sandpiper/overview"
+    }
+  ],
+  "cover": "20260408-DSC00518.jpg"
+}

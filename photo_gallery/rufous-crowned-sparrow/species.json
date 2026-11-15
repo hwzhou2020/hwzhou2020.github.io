@@ -1,0 +1,13 @@
+{
+  "name": "Rufous-crowned Sparrow",
+  "group": "Songbirds",
+  "description": "The Rufous-crowned Sparrow is a ground-oriented songbird of dry, rocky hillsides with scattered shrubs and grasses. A rusty cap, pale eye-ring, and dark lines bordering the throat help distinguish its face. It often walks or hops through low vegetation, searching for seeds and small invertebrates rather than making long flights. Its subdued body colors fit closely with dry soil and rocks. A clear view of the head pattern is particularly helpful when comparing it with other brown sparrows.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Rufous-crowned_Sparrow/id"
+    }
+  ],
+  "cover": "20261001-DSC02875.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Canada Goose",
+  "group": "Waterbirds",
+  "description": "The Canada Goose is a large waterbird with a black head and neck, a pale cheek patch, and a brown body. It uses lakes, marshes, fields, and many urban green spaces, feeding mainly on plants. Pairs often remain together across breeding seasons, and family groups can be conspicuous near water. Migrating flocks are known for their calls and coordinated formations, although some populations stay in suitable areas throughout the year. Young birds change rapidly from downy goslings to feathered juveniles.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Canada_Goose/overview"
+    }
+  ],
+  "cover": "20260408-DSC09982.jpg"
+}

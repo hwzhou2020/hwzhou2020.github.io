@@ -1,0 +1,13 @@
+{
+  "name": "Tree Swallow",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "Tree Swallow.jpg",
+  "description": "The Tree Swallow is a streamlined aerial insect hunter with glossy blue-green upperparts and white underparts in adults. It often feeds over fields, ponds, and wetlands where flying insects are abundant. Despite spending so much time in the air, it depends on cavities in trees or nest boxes for breeding. Its swift turns and glides can make flight photography challenging, while a resting bird offers a closer look at the changing iridescence of its feathers.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Tree_Swallow/lifehistory"
+    }
+  ]
+}

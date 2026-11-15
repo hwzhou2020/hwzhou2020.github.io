@@ -1,0 +1,13 @@
+{
+  "name": "Killdeer",
+  "category": "Birds",
+  "group": "Shorebirds & Gulls",
+  "cover": "Killdeer.jpg",
+  "description": "The Killdeer is a plover that is often found far from the shoreline, using short grass, bare ground, gravel, and even developed areas. Two dark breast bands and a loud, repeated call help distinguish it. It searches for insects and other small animals with a characteristic sequence of quick runs and abrupt stops. Its nest is a simple scrape on open ground. Adults may use a dramatic distraction display to draw potential threats away from eggs or chicks.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Killdeer"
+    }
+  ]
+}

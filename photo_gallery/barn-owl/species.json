@@ -1,0 +1,18 @@
+{
+  "name": "Barn Owl",
+  "category": "Birds",
+  "group": "Raptors & Owls",
+  "cover": "Baby Barn Owl.jpg",
+  "photos": {
+    "Baby Barn Owl.jpg": {
+      "caption": "Baby Barn Owl"
+    }
+  },
+  "description": "Barn owls are pale, long-winged predators associated with open fields, grassland, and quiet roosting places. Their heart-shaped facial disk helps direct sound toward their ears as they search for small mammals in darkness. In North America, the species is now commonly called the American Barn Owl. It often nests in buildings or cavities and gives rasping calls rather than the familiar hoots of many other owls. Young birds remain dependent on their parents while developing their hunting skills.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Barn_Owl"
+    }
+  ]
+}

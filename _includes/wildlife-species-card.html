@@ -1,0 +1,16 @@
+{% assign card_album = include.album %}
+<a class="wildlife-species-card" href="{{ card_album.url | relative_url }}"
+   {% if include.highlight %}data-highlight-card{% else %}
+   data-species-card data-name="{{ card_album.name | escape }} {{ card_album.scientific_name | escape }}"
+   data-category="{{ card_album.category | escape }}" data-group="{{ card_album.group | escape }}"
+   data-locations="{{ card_album.locations | jsonify | escape }}"{% endif %}>
+  <div class="wildlife-cover">
+    <img src="{{ card_album.cover.thumbnail | relative_url }}" alt="{{ card_album.name | escape }}" width="{{ card_album.cover.width }}" height="{{ card_album.cover.height }}" loading="{% if include.highlight %}eager{% else %}lazy{% endif %}" decoding="async">
+    <span class="wildlife-photo-count">{{ card_album.count }} {% if card_album.count == 1 %}photo{% else %}photos{% endif %}</span>
+  </div>
+  <div class="wildlife-species-info">
+    <span class="wildlife-category">{{ card_album.category | escape }}{% if card_album.group != '' %} / {{ card_album.group | escape }}{% endif %}</span>
+    <h3>{{ card_album.name | escape }}</h3>
+    {% if card_album.scientific_name != '' %}<p class="wildlife-scientific">{{ card_album.scientific_name | escape }}</p>{% endif %}
+  </div>
+</a>

@@ -1,0 +1,13 @@
+{
+  "name": "American Goldfinch",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "American Goldfinch.jpg",
+  "description": "The American Goldfinch is a seed-eating songbird whose appearance changes markedly with the seasons. Breeding males wear bright yellow plumage with black wings and a black cap; females and winter birds are more subdued. These agile finches feed on seedheads and readily visit gardens and feeders. They nest relatively late in summer, when plants such as thistles provide both nesting material and abundant food. Their gently undulating flight often reveals white markings on the dark wings.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/American_Goldfinch"
+    }
+  ]
+}

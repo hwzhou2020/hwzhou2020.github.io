@@ -1,0 +1,13 @@
+{
+  "name": "White-Crowned Sparrow",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "White-Crowned Sparrow.jpg",
+  "description": "The White-crowned Sparrow is a sturdy songbird whose adult head pattern combines bold dark and pale stripes. Younger birds have softer brown-and-tan head markings, making age important when comparing photographs. It often feeds on or near the ground in brushy margins, open fields, and gardens. Many populations migrate, while some western birds remain closer to their breeding areas. Its clear, whistled song is a familiar sound, and local differences in song have attracted extensive scientific study.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/White-crowned_Sparrow"
+    }
+  ]
+}

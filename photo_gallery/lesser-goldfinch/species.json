@@ -1,0 +1,13 @@
+{
+  "name": "Lesser Goldfinch",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "Lesser Goldfinch.jpg",
+  "description": "The Lesser Goldfinch is a small, social finch of open woodland, scrub, and gardens in the western Americas. Yellow underparts contrast with darker wings, while the back color of males varies across the range. These birds often gather in groups to feed on seeds, especially those of plants in the sunflower family. They may balance on bending stems as they reach seedheads. Their busy calls and varied songs can reveal a flock before its members become visible.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Lesser_Goldfinch"
+    }
+  ]
+}

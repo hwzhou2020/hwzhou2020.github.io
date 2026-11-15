@@ -1,0 +1,13 @@
+{
+  "name": "Yellow-rumped Warbler",
+  "group": "Songbirds",
+  "description": "The Yellow-rumped Warbler is a widespread songbird with a bright yellow rump that can remain conspicuous even when the rest of its plumage is subdued. Different populations show contrasting throat and face patterns. It breeds in wooded habitats and often uses more open areas during migration and winter. Insects are important food, but an ability to eat berries helps it persist in cooler conditions. Active feeding movements can make a brief clear view particularly rewarding.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Yellow-rumped_Warbler/overview"
+    }
+  ],
+  "cover": "20260704-DSC00735.jpg"
+}

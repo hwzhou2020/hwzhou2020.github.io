@@ -1,0 +1,13 @@
+{
+  "name": "Red-Crowned Amazon",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "Red-Crowned Amazon.jpg",
+  "description": "The Red-crowned Amazon is a green parrot with a bright red forehead, pale bill, and a loud, social presence. Its native range centers on northeastern Mexico and nearby southern Texas, while established introduced populations occur in places including southern California. It feeds mainly on fruits and seeds, manipulating food with its bill and feet. Birds can be surprisingly difficult to see once they enter leafy trees, even when their calls make the flock's location obvious.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Red-crowned_Parrot/lifehistory"
+    }
+  ]
+}

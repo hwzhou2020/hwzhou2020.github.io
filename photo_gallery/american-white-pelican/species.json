@@ -1,0 +1,13 @@
+{
+  "name": "American White Pelican",
+  "group": "Waterbirds",
+  "description": "The American White Pelican is an immense waterbird with broad white wings, contrasting dark flight feathers, and a large pouched bill. It catches fish from the water's surface, sometimes feeding cooperatively with other pelicans to concentrate prey in the shallows. Unlike the Brown Pelican, it does not normally plunge-dive from the air. Breeding colonies occupy relatively isolated sites near inland waters, while migration and winter bring many birds to coastal wetlands and sheltered bays.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/American_White_Pelican/overview"
+    }
+  ],
+  "cover": "20260830-DSC01850.jpg"
+}

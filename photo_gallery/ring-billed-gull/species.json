@@ -1,0 +1,13 @@
+{
+  "name": "Ring-billed Gull",
+  "group": "Shorebirds & Gulls",
+  "description": "The Ring-billed Gull is a medium-sized gull whose adults have a pale gray back, yellow legs, and a dark band around the bill. It is comfortable around both inland waters and coastlines, frequently using parks, fields, and developed areas as feeding grounds. Its diet is varied and opportunistic. Young birds have mottled brown plumage and different bill patterns, so age matters when identifying them. Watching a mixed flock helps reveal differences in size and proportions.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Ring-billed_Gull/overview"
+    }
+  ],
+  "cover": "20260408-DSC00947.jpg"
+}

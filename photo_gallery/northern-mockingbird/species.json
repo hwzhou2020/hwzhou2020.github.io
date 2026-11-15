@@ -1,0 +1,13 @@
+{
+  "name": "Northern Mockingbird",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "Northern Mockingbird.jpg",
+  "description": "The Northern Mockingbird is a slender gray songbird whose voice is often more conspicuous than its plumage. It repeats phrases and imitates the sounds of other birds, sometimes singing well into the night. Gardens, parks, and open areas with shrubs provide feeding and nesting habitat. Its diet shifts from many insects in summer toward more fruit in cooler months. White patches in the wings and tail flash during flight and territorial displays.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Northern_Mockingbird"
+    }
+  ]
+}

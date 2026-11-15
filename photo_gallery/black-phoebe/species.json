@@ -1,0 +1,13 @@
+{
+  "name": "Black Phoebe",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "Black Phoebe.jpg",
+  "description": "The Black Phoebe is a small flycatcher with dark upperparts, a contrasting white belly, and a habit of repeatedly dipping its tail. It watches from low, exposed perches before flying out to catch insects. Streams, ponds, gardens, and coastal edges can all provide suitable hunting grounds. Access to water also supplies mud for its cup-shaped nest, which it attaches beneath sheltered structures such as bridges, overhangs, and building ledges.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/black_phoebe"
+    }
+  ]
+}

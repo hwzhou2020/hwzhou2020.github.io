@@ -1,0 +1,13 @@
+{
+  "name": "Oak Titmouse",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "Oak Titmouse.jpg",
+  "description": "The Oak Titmouse is a small gray-brown songbird with a short crest and a strong association with western oak woodland. Its subdued colors can make it easy to overlook, but its active movements and frequent calls often reveal it. It searches branches and foliage for insects and also eats seeds and other plant material. Pairs defend territories throughout the year and nest in cavities. Mature trees provide both feeding opportunities and valuable nesting places.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Oak_Titmouse"
+    }
+  ]
+}

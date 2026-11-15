@@ -1,0 +1,13 @@
+{
+  "name": "Great-tailed Grackle",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "Great-tailed Grackle.jpg",
+  "description": "The Great-tailed Grackle is a conspicuous, highly vocal blackbird of open country, wetlands, and developed landscapes. Males are glossy black with pale eyes and exceptionally long, tapered tails. Females are smaller and mostly brown, creating a pronounced contrast between the sexes. Groups search lawns, fields, and other open surfaces for food, then assemble in noisy roosts. The male's tail shape and iridescence are especially noticeable when viewed from different angles or in strong sunlight.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Great-tailed_Grackle"
+    }
+  ]
+}

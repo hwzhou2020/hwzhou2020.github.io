@@ -1,0 +1,13 @@
+{
+  "name": "Western Grebe",
+  "category": "Birds",
+  "group": "Waterbirds",
+  "cover": "Western Grebe.jpg",
+  "description": "The Western Grebe is a long-necked diving bird with sharply contrasting dark and pale plumage, red eyes, and a pointed yellowish bill. It breeds on inland lakes with suitable marshy edges and often uses coastal waters outside the breeding season. Fish and other aquatic animals are caught underwater. Its celebrated courtship display includes paired birds rushing across the surface side by side, lifting much of their bodies above the water through rapid movements of their feet.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Western_Grebe"
+    }
+  ]
+}

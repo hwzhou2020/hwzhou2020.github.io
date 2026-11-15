@@ -1,0 +1,13 @@
+{
+  "name": "Island Fox",
+  "category": "Mammals",
+  "group": "",
+  "cover": "Island Fox.jpg",
+  "description": "The Island Fox is a small fox found only on six of California's Channel Islands, with a distinct subspecies on each island. It is related to the mainland gray fox but is much smaller. Island foxes use a range of island habitats, particularly scrub and woodland, and eat insects, fruit, and small animals according to local availability. Their restricted island distribution makes conservation especially important. Differences among the islands shape both their food choices and the challenges they face.",
+  "references": [
+    {
+      "title": "National Park Service",
+      "url": "https://www.nps.gov/chis/learn/nature/island-fox.htm"
+    }
+  ]
+}

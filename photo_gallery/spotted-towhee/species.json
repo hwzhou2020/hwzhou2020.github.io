@@ -1,0 +1,13 @@
+{
+  "name": "Spotted Towhee",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "Spotted Towhee.jpg",
+  "description": "The Spotted Towhee is a large sparrow of thickets, woodland edges, and other habitats with dense undergrowth. Males combine dark upperparts, white spotting, a pale belly, and warm reddish flanks; females show a similar pattern in softer tones. It searches leaf litter for insects, seeds, and other food, often revealing its location through rustling sounds before it is seen. Singing birds may climb into shrubs, offering a clearer view than their usual ground-level foraging.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Spotted_Towhee/lifehistory"
+    }
+  ]
+}

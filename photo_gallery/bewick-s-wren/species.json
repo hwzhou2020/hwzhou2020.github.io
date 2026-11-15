@@ -1,0 +1,13 @@
+{
+  "name": "Bewick's Wren",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "Bewick's Wren.jpg",
+  "description": "Bewick's Wren is a lively brown-and-gray songbird with a bold pale eyebrow and a long tail that it frequently holds upright. It moves through shrubs, brush piles, and woodland edges, searching vegetation for insects and other small invertebrates. Despite its small size, its varied songs can carry well beyond the thicket where it is hidden. Dense native shrubs provide both feeding opportunities and shelter, while cavities offer places to nest.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Bewicks_Wren"
+    }
+  ]
+}

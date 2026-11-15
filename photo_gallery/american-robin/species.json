@@ -1,0 +1,18 @@
+{
+  "name": "American Robin",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "America Robin.jpg",
+  "photos": {
+    "Nest of American Robin.jpg": {
+      "caption": "Nest of American Robin"
+    }
+  },
+  "description": "The American Robin is a widespread North American thrush with a warm orange breast and a familiar, musical song. Although often seen on lawns searching for earthworms, it also inhabits forests, parks, and mountain landscapes. Its diet includes insects and fruit, with berries becoming especially important outside the breeding season. Robins build cup-shaped nests and may gather in large communal roosts. Watching one pause between short runs often reveals its careful search for food on the ground.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/American_robin"
+    }
+  ]
+}

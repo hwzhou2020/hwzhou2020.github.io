@@ -1,0 +1,13 @@
+{
+  "name": "Heermann's Gull",
+  "group": "Shorebirds & Gulls",
+  "description": "Heermann's Gull is a distinctive Pacific Coast gull with a dark gray body, a red bill, and a pale head in breeding adults. Young birds are more uniformly brown. Much of the population breeds in Mexico's Gulf of California before dispersing north along the coast. It feeds on small fish and frequently follows other seabirds, sometimes stealing their catches. Its dark plumage provides a useful contrast with the many paler gulls that share coastal resting areas.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Heermanns_Gull"
+    }
+  ],
+  "cover": "20260919-DSC02579.jpg"
+}

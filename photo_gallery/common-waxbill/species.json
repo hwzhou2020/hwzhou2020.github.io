@@ -1,0 +1,13 @@
+{
+  "name": "Common Waxbill",
+  "group": "Songbirds",
+  "description": "The Common Waxbill is a tiny seed-eating songbird with a red facial stripe, a thick red bill in adults, and fine barring across much of its plumage. It is native to Africa and has established introduced populations in places including Hawaii. Flocks forage in grassy areas, often perching directly on stems to reach seedheads. Young birds are less brightly marked and have darker bills. Its small size and social behavior make group photographs useful for comparing individuals.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Common_Waxbill/overview"
+    }
+  ],
+  "cover": "20261031-DSC05456.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Rock Wren",
+  "group": "Songbirds",
+  "description": "The Rock Wren is a small songbird associated with rocky slopes, boulder fields, and other open landscapes with many crevices. Its pale, finely marked plumage blends well with stone and dry ground. It searches among rocks for insects and other small invertebrates, often making short movements between exposed perches and shelter. Nesting sites are placed in cavities or gaps among rocks. Its energetic behavior and varied voice contrast with the muted colors of its surroundings.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Rock_Wren"
+    }
+  ],
+  "cover": "20261001-DSC02921.jpg"
+}

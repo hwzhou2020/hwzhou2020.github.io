@@ -1,0 +1,13 @@
+{
+  "name": "European Starling",
+  "group": "Songbirds",
+  "description": "The European Starling is a stocky songbird whose appearance changes with both season and lighting. Its dark plumage can show green and purple iridescence, while pale feather tips create a spotted pattern outside the breeding season. Native to Eurasia, it is widely established elsewhere, including North America. Starlings feed on insects, fruit, and other available foods and nest in cavities. Their social flocks, varied vocalizations, and quick movements make familiar birds worth a closer look.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/European_Starling/overview"
+    }
+  ],
+  "cover": "20260830-DSC01896.jpg"
+}

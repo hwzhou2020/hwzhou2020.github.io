@@ -1,0 +1,13 @@
+{
+  "name": "Osprey",
+  "group": "Raptors & Owls",
+  "description": "The Osprey is a large fish-eating raptor associated with lakes, rivers, estuaries, and coastlines. Its pale head, dark eye stripe, and long angled wings create a distinctive appearance. It watches the water from a perch or in flight, then dives with its feet extended to seize fish. Large stick nests may be placed on trees or artificial structures. A hunting sequence shows the precision needed to turn an aerial approach into a successful underwater capture.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Osprey/overview"
+    }
+  ],
+  "cover": "20260408-DSC09459.jpg"
+}

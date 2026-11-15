@@ -1,0 +1,18 @@
+{
+  "name": "Forster's Tern",
+  "category": "Birds",
+  "group": "Shorebirds & Gulls",
+  "cover": "Tern.jpg",
+  "photos": {
+    "Tern Rival.jpg": {
+      "caption": "Forster's Terns competing"
+    }
+  },
+  "description": "Forster's Tern is a pale, slender seabird with narrow wings and a deeply forked tail. It searches shallow coastal and inland waters for fish, often hovering briefly before diving. Breeding birds have a dark cap, while nonbreeding birds develop a distinctive dark patch around the eye. It nests around freshwater and saltwater marshes rather than relying only on exposed ocean beaches. Photographs of feeding and interactions between birds reveal its quick movements and changing wing positions.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Forsters_Tern/overview"
+    }
+  ]
+}

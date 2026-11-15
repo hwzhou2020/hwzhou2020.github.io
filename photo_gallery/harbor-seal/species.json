@@ -1,0 +1,13 @@
+{
+  "name": "Harbor Seal",
+  "category": "Mammals",
+  "description": "The Harbor Seal is a true seal with a rounded head, short snout, and a coat patterned with spots or rings. It inhabits temperate coastal waters, feeding on fish and other marine prey. When not at sea, seals rest on beaches, rocks, reefs, or other suitable surfaces. Their small ear openings lack the external flaps seen in sea lions. A head appearing above the water may be the only visible part of an animal between dives.",
+  "group": "",
+  "references": [
+    {
+      "title": "NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/species/harbor-seal"
+    }
+  ],
+  "cover": "20260919-DSC02556.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Spotted Dove",
+  "group": "Other Birds",
+  "description": "The Spotted Dove is a medium-sized dove with warm brown upperparts, a pinkish chest, and a dark neck patch dotted with pale spots. Native to Asia, it has been introduced in other regions, including Hawaii. It feeds mainly on seeds collected from the ground in gardens, fields, and open areas near trees. Its measured walking and soft calls make it a familiar presence in suitable neighborhoods. The patterned collar is an especially useful identification feature.",
+  "category": "Birds",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Spotted_Dove/id"
+    }
+  ],
+  "cover": "20261030-DSC04239.jpg"
+}

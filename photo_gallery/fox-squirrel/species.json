@@ -1,0 +1,13 @@
+{
+  "name": "Fox Squirrel",
+  "category": "Mammals",
+  "group": "",
+  "cover": "Fox Squirrel.jpg",
+  "description": "The Fox Squirrel is a large tree squirrel with a bushy tail and variable coloring that often includes warm reddish or orange tones. Native to eastern and central parts of North America, it has also been introduced in some western urban areas. It uses trees for shelter and escape while searching both branches and the ground for food. Nuts, seeds, fruits, and other available foods make up its varied diet, and stored food helps support it through seasonal shortages.",
+  "references": [
+    {
+      "title": "University of Michigan: Animal Diversity Web",
+      "url": "https://animaldiversity.org/accounts/Sciurus_niger/"
+    }
+  ]
+}

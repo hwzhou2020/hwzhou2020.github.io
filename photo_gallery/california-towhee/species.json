@@ -1,0 +1,13 @@
+{
+  "name": "California Towhee",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "California Towhee.jpg",
+  "description": "The California Towhee is a sturdy, mostly brown sparrow associated with chaparral, brushy woodland edges, and gardens along the Pacific side of North America. Its plain appearance is offset by a warm patch beneath the tail and a sharp, metallic call. It commonly searches on the ground for seeds and other food, staying close to cover. Pairs are conspicuous around familiar territories, and individuals sometimes challenge their reflections in windows or car mirrors.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/California_Towhee"
+    }
+  ]
+}

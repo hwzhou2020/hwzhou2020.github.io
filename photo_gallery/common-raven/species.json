@@ -1,0 +1,13 @@
+{
+  "name": "Common Raven",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "Common Raven.jpg",
+  "description": "The Common Raven is a large, adaptable member of the crow family found across much of the Northern Hemisphere. Its heavy bill, shaggy throat, deep calls, and broad wings give it a distinctive presence. Ravens occupy habitats ranging from deserts and mountains to forests and coastal areas. They eat a wide variety of foods, including carrion, and are known for flexible problem-solving. Their interactions and aerial movements can be as striking as their entirely black plumage.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Common_Raven"
+    }
+  ]
+}

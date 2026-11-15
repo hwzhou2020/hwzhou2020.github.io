@@ -1,0 +1,21 @@
+{
+  "name": "Vermilion Flycatcher",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "Vermilion Flycatcher.jpg",
+  "photos": {
+    "Female Vermilion Flycatcher.jpg": {
+      "caption": "Female Vermilion Flycatcher"
+    },
+    "Vermilion Flycatcher Nest.jpg": {
+      "caption": "Vermilion Flycatcher Nest"
+    }
+  },
+  "description": "The Vermilion Flycatcher is a small insect-eating bird whose adult males show brilliant red plumage against dark wings and a dark face. Females are more subdued, with gray-brown upperparts and a warm wash below. It favors open habitats, often near water, and hunts by flying out from an exposed perch to catch insects. Males also perform fluttering display flights. Viewing adults, nests, and developing young together helps reveal different stages of this bird's life.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Vermilion_Flycatcher"
+    }
+  ]
+}

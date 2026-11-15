@@ -1,0 +1,13 @@
+{
+  "name": "Allen's Hummingbird",
+  "category": "Birds",
+  "group": "Hummingbirds",
+  "cover": "Allen's Hummingbird.jpg",
+  "description": "Allen's Hummingbird is a small coastal hummingbird with coppery sides, a green back, and a brilliant orange-red throat in adult males. It breeds along the Pacific Coast, using scrub, chaparral, and nearby woodland. Nectar supplies much of its energy, while small insects provide additional nutrients. Males perform elaborate courtship flights with steep dives and sounds produced by their tail feathers. Some populations migrate to Mexico, while others remain in southern California throughout the year.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Allens_Hummingbird"
+    }
+  ]
+}

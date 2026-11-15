@@ -1,0 +1,89 @@
+---
+layout: modern
+title: "Wildlife Gallery"
+permalink: /wildlife-gallery/
+author_profile: true
+gallery_highlights:
+  - allen-s-hummingbird
+  - california-condor
+  - nene
+  - northern-cardinal
+  - red-shouldered-hawk
+  - liwi
+  - island-fox
+  - vermilion-flycatcher
+  - western-bluebird
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/wildlife.css' | relative_url }}">
+<script src="{{ '/assets/js/wildlife-gallery.js' | relative_url }}" defer></script>
+
+{% assign albums = site.data.gallery_index | sort_natural: 'name' %}
+{% assign categories = albums | map: 'category' | uniq | sort %}
+{% assign bird_albums = albums | where: 'category', 'Birds' %}
+{% assign bird_groups = bird_albums | map: 'group' | uniq | sort %}
+{% assign photo_count = 0 %}
+{% assign locations_string = '' %}
+{% for album in albums %}
+  {% assign photo_count = photo_count | plus: album.count %}
+  {% for location in album.locations %}{% assign locations_string = locations_string | append: location | append: '|' %}{% endfor %}
+{% endfor %}
+{% assign locations = locations_string | split: '|' | uniq | sort %}
+
+<section class="wildlife-gallery">
+  <p class="wildlife-intro">Encounters with wildlife, one species at a time. Explore an album to see more photographs and the camera details behind each shot.</p>
+  <p class="wildlife-summary">{{ albums.size }} albums <span aria-hidden="true">·</span> {{ photo_count }} photographs</p>
+
+  <section class="wildlife-highlights" aria-labelledby="wildlife-highlights-title">
+    <h2 class="wildlife-section-title" id="wildlife-highlights-title">Highlights</h2>
+    <div class="wildlife-species-grid">
+      {% for slug in page.gallery_highlights %}
+        {% assign highlighted_album = site.data.gallery_albums[slug] %}
+        {% if highlighted_album %}{% include wildlife-species-card.html album=highlighted_album highlight=true %}{% endif %}
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="wildlife-collection" data-species-browser aria-labelledby="wildlife-collection-title">
+  <h2 class="wildlife-section-title" id="wildlife-collection-title">All species</h2>
+  <div class="wildlife-filters" hidden>
+    <label class="wildlife-search">Find a species
+      <input type="search" data-species-search placeholder="Search species names…" autocomplete="off">
+    </label>
+    <label>Animal group
+      <select data-category-filter>
+        <option value="">All wildlife ({{ albums.size }})</option>
+        {% for category in categories %}
+        {% assign category_albums = albums | where: 'category', category %}
+        <option value="{{ category | escape }}">{{ category | escape }} ({{ category_albums.size }})</option>
+        {% endfor %}
+      </select>
+    </label>
+    <label data-bird-group-label>Bird group
+      <select data-group-filter>
+        <option value="">All bird groups ({{ bird_albums.size }})</option>
+        {% for group in bird_groups %}
+        {% assign group_albums = bird_albums | where: 'group', group %}
+        <option value="{{ group | escape }}">{{ group | escape }} ({{ group_albums.size }})</option>
+        {% endfor %}
+      </select>
+    </label>
+    {% if locations.size > 0 %}
+    <label class="wildlife-location">Photographed in
+      <select data-location-filter>
+        <option value="">All locations</option>
+        {% for location in locations %}{% if location != '' %}<option value="{{ location | escape }}">{{ location | escape }}</option>{% endif %}{% endfor %}
+      </select>
+    </label>
+    {% endif %}
+  </div>
+  <p class="wildlife-results" data-species-results role="status" aria-live="polite"></p>
+  <div class="wildlife-species-grid">
+    {% for album in albums %}
+    {% include wildlife-species-card.html album=album %}
+    {% endfor %}
+  </div>
+  <p class="wildlife-empty" data-species-empty hidden>No species match these filters. Try another name or animal group.</p>
+  <button class="wildlife-more" type="button" data-species-more hidden>Show more species</button>
+  </section>
+</section>

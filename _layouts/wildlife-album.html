@@ -1,0 +1,61 @@
+---
+layout: modern
+---
+{% assign album = site.data.gallery_albums[page.gallery_species] %}
+<link rel="stylesheet" href="{{ '/assets/css/wildlife.css' | relative_url }}">
+<script src="{{ '/assets/js/wildlife-gallery.js' | relative_url }}" defer></script>
+<script src="{{ '/assets/js/gallery-likes.js' | relative_url }}" defer></script>
+
+<section class="wildlife-gallery" data-species-album data-counter-namespace="{{ site.repository | slugify }}-gallery-likes">
+  <a class="wildlife-back" href="{{ '/wildlife-gallery/' | relative_url }}">← All species</a>
+  <p class="wildlife-category">{{ album.category | escape }}{% if album.group != '' %} / {{ album.group | escape }}{% endif %}</p>
+  {% if album.scientific_name != '' %}<p class="wildlife-scientific">{{ album.scientific_name | escape }}</p>{% endif %}
+  <p class="wildlife-summary">{{ album.count }} {% if album.count == 1 %}photograph{% else %}photographs{% endif %} <span aria-hidden="true">·</span> Open a photograph for a closer look and camera details.</p>
+  <p class="wildlife-results" data-photo-results role="status" aria-live="polite"></p>
+  <div class="wildlife-photo-grid">
+    {% for photo in album.photos %}
+    <figure class="wildlife-photo" data-photo>
+      <div class="wildlife-photo-frame">
+        <button class="wildlife-photo-open" type="button" data-open-photo data-full="{{ photo.path | relative_url | escape }}" aria-label="Open {{ photo.caption | escape }}">
+          <img src="{{ photo.thumbnail | relative_url }}" alt="{{ photo.caption | escape }}" width="{{ photo.width }}" height="{{ photo.height }}" loading="lazy" decoding="async">
+        </button>
+        <button type="button" class="photo-heart" data-counter="{{ photo.counter | escape }}" aria-label="Like {{ photo.caption | escape }}"><span aria-hidden="true">♥</span><span class="heart-count"></span></button>
+        {% if photo.featured %}<span class="wildlife-featured">Selected</span>{% endif %}
+      </div>
+      <figcaption>
+        <span class="wildlife-caption">{{ photo.caption | escape }}</span>
+        <span class="wildlife-photo-context">{% if photo.location != '' %}{{ photo.location | escape }}{% endif %}{% if photo.date != '' %}{% if photo.location != '' %} · {% endif %}{{ photo.date | date: '%B %-d, %Y' }}{% endif %}</span>
+        {% assign exif = photo.camera %}
+        {% if exif.size > 0 %}
+        <details class="wildlife-camera"><summary>Camera details</summary>
+          <span data-camera-info>{% if exif.model %}{{ exif.model | escape }}{% endif %}{% if exif.lens %} · {{ exif.lens | escape }}{% endif %}<br>{% if exif.focal %}{{ exif.focal }}mm {% endif %}{% if exif.aperture %}f/{{ exif.aperture }} {% endif %}{% if exif.shutter %}{{ exif.shutter }} {% endif %}{% if exif.iso %}ISO {{ exif.iso }}{% endif %}</span>
+        </details>
+        {% endif %}
+        <noscript><a href="{{ photo.path | relative_url }}">Open full photograph</a></noscript>
+      </figcaption>
+    </figure>
+    {% endfor %}
+  </div>
+  <button class="wildlife-more" type="button" data-photos-more hidden>Show more photographs</button>
+  {% if album.description != '' %}<p class="wildlife-intro">{{ album.description | escape }}</p>{% endif %}
+  {% if album.references.size > 0 %}
+  <p class="wildlife-reference">Reference: {% for reference in album.references %}<a href="{{ reference.url | escape }}" target="_blank" rel="noopener noreferrer">{{ reference.title | escape }}</a>{% unless forloop.last %}; {% endunless %}{% endfor %}</p>
+  {% endif %}
+  <dialog class="wildlife-viewer" aria-label="Photograph viewer" data-photo-viewer>
+    <div class="wildlife-viewer-bar">
+      <span data-viewer-count></span>
+      <button type="button" data-viewer-close aria-label="Close photograph viewer">Close ×</button>
+    </div>
+    <div class="wildlife-viewer-image"><img data-viewer-image alt=""></div>
+    <div class="wildlife-viewer-caption" aria-live="polite">
+      <strong data-viewer-caption></strong>
+      <span data-viewer-context></span>
+      <span class="wildlife-viewer-camera" data-viewer-camera></span>
+    </div>
+    <div class="wildlife-viewer-nav">
+      <button type="button" data-viewer-previous aria-label="Previous photograph">← Previous</button>
+      <a data-viewer-original target="_blank" rel="noopener">Open original ↗</a>
+      <button type="button" data-viewer-next aria-label="Next photograph">Next →</button>
+    </div>
+  </dialog>
+</section>
