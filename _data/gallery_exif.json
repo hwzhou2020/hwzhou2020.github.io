@@ -359,14 +359,6 @@
     "aperture": 6.3,
     "shutter": "1/640"
   },
-  "california-blue-bird/California Blue Bird.jpg": {
-    "model": "ILCE-7CM2",
-    "lens": "FE 200-600mm F5.6-6.3 G OSS",
-    "iso": 1600,
-    "focal": 600,
-    "aperture": 6.3,
-    "shutter": "1/1250"
-  },
   "california-brown-pelican/20260408-DSC00685-2.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -2552,6 +2544,14 @@
     "shutter": "1/1250"
   },
   "western-bluebird/20260415-DSC02574.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
+  "western-bluebird/California Blue Bird.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
     "iso": 1600,

@@ -39,17 +39,20 @@ test('species search, combined filters, pagination, and no-results state', () =>
     selectors[`[data-${name}]`] = element();
   });
   selectors['.wildlife-filters'] = element({ hidden: true });
+  selectors['[data-gallery-highlights]'] = element();
   selectors['[data-species-card]'] = cards;
   const browser = element({ selectors });
   run({ querySelector(selector) { return selector === '[data-species-browser]' ? browser : null; } });
   const get = name => selectors[`[data-${name}]`];
   assert.equal(cards.filter(card => !card.hidden).length, 24);
+  assert.equal(selectors['[data-gallery-highlights]'].hidden, false);
   get('species-more').fire('click');
   assert.equal(cards.filter(card => !card.hidden).length, 35);
   get('category-filter').value = 'Mammals';
   get('category-filter').fire('change');
   assert.equal(cards.filter(card => !card.hidden).length, 5);
   assert.equal(get('bird-group-label').hidden, true);
+  assert.equal(selectors['[data-gallery-highlights]'].hidden, true);
   get('location-filter').value = 'California';
   get('location-filter').fire('change');
   assert.equal(cards.filter(card => !card.hidden).length, 2);
@@ -63,6 +66,15 @@ test('species search, combined filters, pagination, and no-results state', () =>
   get('category-filter').fire('change');
   assert.equal(cards.filter(card => !card.hidden).length, 24);
   assert.equal(get('bird-group-label').hidden, false);
+  get('category-filter').value = '';
+  get('category-filter').fire('change');
+  assert.equal(selectors['[data-gallery-highlights]'].hidden, false);
+  get('species-search').value = 'Owl';
+  get('species-search').fire('input');
+  assert.equal(selectors['[data-gallery-highlights]'].hidden, true);
+  get('species-search').value = '';
+  get('species-search').fire('input');
+  assert.equal(selectors['[data-gallery-highlights]'].hidden, false);
 });
 
 test('150-photo album loads in batches; viewer retains camera info and keyboard navigation', () => {

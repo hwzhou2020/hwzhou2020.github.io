@@ -12,7 +12,7 @@ gallery_highlights:
   - liwi
   - island-fox
   - vermilion-flycatcher
-  - western-bluebird
+  - great-horned-owl
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/wildlife.css' | relative_url }}">
@@ -30,22 +30,10 @@ gallery_highlights:
 {% endfor %}
 {% assign locations = locations_string | split: '|' | uniq | sort %}
 
-<section class="wildlife-gallery">
+<section class="wildlife-gallery" data-species-browser>
   <p class="wildlife-intro">Encounters with wildlife, one species at a time. Explore an album to see more photographs and the camera details behind each shot.</p>
   <p class="wildlife-summary">{{ albums.size }} albums <span aria-hidden="true">·</span> {{ photo_count }} photographs</p>
 
-  <section class="wildlife-highlights" aria-labelledby="wildlife-highlights-title">
-    <h2 class="wildlife-section-title" id="wildlife-highlights-title">Highlights</h2>
-    <div class="wildlife-species-grid">
-      {% for slug in page.gallery_highlights %}
-        {% assign highlighted_album = site.data.gallery_albums[slug] %}
-        {% if highlighted_album %}{% include wildlife-species-card.html album=highlighted_album highlight=true %}{% endif %}
-      {% endfor %}
-    </div>
-  </section>
-
-  <section class="wildlife-collection" data-species-browser aria-labelledby="wildlife-collection-title">
-  <h2 class="wildlife-section-title" id="wildlife-collection-title">All species</h2>
   <div class="wildlife-filters" hidden>
     <label class="wildlife-search">Find a species
       <input type="search" data-species-search placeholder="Search species names…" autocomplete="off">
@@ -77,6 +65,19 @@ gallery_highlights:
     </label>
     {% endif %}
   </div>
+
+  <section class="wildlife-highlights" data-gallery-highlights aria-labelledby="wildlife-highlights-title">
+    <h2 class="wildlife-section-title" id="wildlife-highlights-title">Highlights</h2>
+    <div class="wildlife-species-grid">
+      {% for slug in page.gallery_highlights %}
+        {% assign highlighted_album = site.data.gallery_albums[slug] %}
+        {% if highlighted_album %}{% include wildlife-species-card.html album=highlighted_album highlight=true %}{% endif %}
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="wildlife-collection" aria-labelledby="wildlife-collection-title">
+  <h2 class="wildlife-section-title" id="wildlife-collection-title">All species</h2>
   <p class="wildlife-results" data-species-results role="status" aria-live="polite"></p>
   <div class="wildlife-species-grid">
     {% for album in albums %}

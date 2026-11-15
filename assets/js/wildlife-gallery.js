@@ -8,6 +8,7 @@
     var category = browser.querySelector('[data-category-filter]');
     var group = browser.querySelector('[data-group-filter]');
     var location = browser.querySelector('[data-location-filter]');
+    var highlights = browser.querySelector('[data-gallery-highlights]');
     var more = browser.querySelector('[data-species-more]');
     var limit = batchSize;
     function filterSpecies() {
@@ -15,6 +16,9 @@
       var birdGroupsAvailable = !category.value || category.value === 'Birds';
       browser.querySelector('[data-bird-group-label]').hidden = !birdGroupsAvailable;
       if (!birdGroupsAvailable) { group.value = ''; }
+      if (highlights) {
+        highlights.hidden = Boolean(query || category.value || group.value || (location && location.value));
+      }
       var matches = cards.filter(function (card) {
         return card.dataset.name.toLocaleLowerCase().includes(query) &&
           (!category.value || card.dataset.category === category.value) &&

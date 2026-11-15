@@ -1640,65 +1640,6 @@
     "count": 1,
     "locations": []
   },
-  "california-blue-bird": {
-    "name": "California Blue Bird",
-    "category": "Birds",
-    "group": "Songbirds",
-    "scientific_name": "",
-    "description": "This album retains the original label 'California Blue Bird'; the exact species identification is still pending. Western Bluebirds are one possible comparison for birds photographed in western North America, but the label alone does not establish an identification. That species uses open woodland and parkland, catching insects from low perches and nesting in cavities. Plumage, body shape, location, and additional photographs should be considered before assigning a confirmed species name to this album.",
-    "references": [
-      {
-        "title": "Cornell Lab: Western Bluebird identification reference",
-        "url": "https://www.allaboutbirds.org/guide/Western_Bluebird/overview"
-      }
-    ],
-    "slug": "california-blue-bird",
-    "url": "/wildlife-gallery/california-blue-bird/",
-    "photos": [
-      {
-        "filename": "California Blue Bird.jpg",
-        "path": "/photo_gallery/california-blue-bird/California Blue Bird.jpg",
-        "thumbnail": "/assets/images/wildlife/california-blue-bird/bcfe815cb7dcf41c1c3e4b80f89f16cd1edf5726.webp",
-        "width": 1200,
-        "height": 800,
-        "caption": "California Blue Bird",
-        "location": "",
-        "date": "2026-04-15T02:28:23",
-        "featured": false,
-        "camera": {
-          "model": "ILCE-7CM2",
-          "lens": "FE 200-600mm F5.6-6.3 G OSS",
-          "iso": 1600,
-          "focal": 600,
-          "aperture": 6.3,
-          "shutter": "1/1250"
-        },
-        "counter": "california-blue-bird-jpg"
-      }
-    ],
-    "cover": {
-      "filename": "California Blue Bird.jpg",
-      "path": "/photo_gallery/california-blue-bird/California Blue Bird.jpg",
-      "thumbnail": "/assets/images/wildlife/california-blue-bird/bcfe815cb7dcf41c1c3e4b80f89f16cd1edf5726.webp",
-      "width": 1200,
-      "height": 800,
-      "caption": "California Blue Bird",
-      "location": "",
-      "date": "2026-04-15T02:28:23",
-      "featured": false,
-      "camera": {
-        "model": "ILCE-7CM2",
-        "lens": "FE 200-600mm F5.6-6.3 G OSS",
-        "iso": 1600,
-        "focal": 600,
-        "aperture": 6.3,
-        "shutter": "1/1250"
-      },
-      "counter": "california-blue-bird-jpg"
-    },
-    "count": 1,
-    "locations": []
-  },
   "california-brown-pelican": {
     "name": "California Brown Pelican",
     "category": "Birds",
@@ -10371,6 +10312,26 @@
         "counter": "western-bluebird-20260415-dsc02574-jpg"
       },
       {
+        "filename": "California Blue Bird.jpg",
+        "path": "/photo_gallery/western-bluebird/California Blue Bird.jpg",
+        "thumbnail": "/assets/images/wildlife/western-bluebird/bcfe815cb7dcf41c1c3e4b80f89f16cd1edf5726.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Western Bluebird",
+        "location": "",
+        "date": "2026-04-15T02:28:23",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "california-blue-bird-jpg"
+      },
+      {
         "filename": "20260415-DSC02571.jpg",
         "path": "/photo_gallery/western-bluebird/20260415-DSC02571.jpg",
         "thumbnail": "/assets/images/wildlife/western-bluebird/b55567bdf26587a2120e4da4b42771a42ed50a72.webp",
@@ -10491,7 +10452,7 @@
       },
       "counter": "western-bluebird-20260415-dsc02527-jpg"
     },
-    "count": 6,
+    "count": 7,
     "locations": []
   },
   "western-grebe": {

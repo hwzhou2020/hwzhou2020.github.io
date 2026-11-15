@@ -179,10 +179,6 @@
     "counter": "bushtit-jpg",
     "fingerprint": "420d2edc612246b9d529053e88e155ad11653342"
   },
-  "california-blue-bird/California Blue Bird.jpg": {
-    "counter": "california-blue-bird-jpg",
-    "fingerprint": "bcfe815cb7dcf41c1c3e4b80f89f16cd1edf5726"
-  },
   "california-brown-pelican/20260408-DSC00685-2.jpg": {
     "counter": "california-brown-pelican-20260408-dsc00685-2-jpg",
     "fingerprint": "9a3d818eba707c4de22ac27112b11dfc79eaba38"
@@ -1277,6 +1273,10 @@
   },
   "western-bluebird/20260415-DSC02574.jpg": {
     "counter": "western-bluebird-20260415-dsc02574-jpg",
+    "fingerprint": "bcfe815cb7dcf41c1c3e4b80f89f16cd1edf5726"
+  },
+  "western-bluebird/California Blue Bird.jpg": {
+    "counter": "california-blue-bird-jpg",
     "fingerprint": "bcfe815cb7dcf41c1c3e4b80f89f16cd1edf5726"
   },
   "western-grebe/Western Grebe.jpg": {

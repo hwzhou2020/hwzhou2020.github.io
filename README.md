@@ -30,7 +30,7 @@ Edit `_config.yml` to change name, tagline, email, social links, and SEO metadat
 
 The Wildlife Gallery shows one card per species, with separate albums, animal and bird-group filters, species search, and camera details. Albums show 24 photos at a time; thumbnails load separately from full-size originals. Beyond Research keeps its activities and links to the gallery.
 
-The gallery opens with selected albums from the `gallery_highlights` list in `_pages/wildlife-gallery.html`, in that list's order. The complete alphabetical collection follows, including the highlighted albums. Search, filters, counts, and “Show more” apply to the complete collection.
+Search and filters appear first, followed by selected albums from the `gallery_highlights` list in `_pages/wildlife-gallery.html`, in that list's order. The complete alphabetical collection follows, including the highlighted albums. Search, filters, counts, and “Show more” apply to the complete collection. Highlights hide while a search or filter is active and return when the controls are cleared.
 
 Photos live in species folders. Existing filenames have been preserved, and new filenames can be anything unique within their folder:
 
