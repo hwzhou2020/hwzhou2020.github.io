@@ -30,6 +30,11 @@ a.wildlife-species-card:hover { color: var(--ink); border-color: var(--accent); 
 .wildlife-more:hover { background: var(--accent-soft); }
 .wildlife-empty { padding: 40px 0; color: var(--muted); text-align: center; }
 .wildlife-back { display: inline-block; margin-bottom: 22px; font-size: .87rem; }
+.wildlife-gallery .wildlife-rights-notice,
+.wildlife-gallery .wildlife-copyright { color: var(--muted); font-size: .875rem; line-height: 1.65; }
+.wildlife-gallery .wildlife-rights-notice { margin: 0 0 20px; }
+.wildlife-gallery .wildlife-copyright { margin-top: 36px; padding-top: 18px; border-top: 1px solid var(--rule); }
+.wildlife-gallery .wildlife-copyright p { margin: 0; font-size: inherit; }
 .wildlife-photo { margin: 0; min-width: 0; }
 .wildlife-photo-frame { border-radius: 7px; }
 .wildlife-photo-open { display: block; width: 100%; height: 100%; padding: 0; border: 0; background: transparent; cursor: zoom-in; }

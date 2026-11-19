@@ -1065,6 +1065,26 @@
     "url": "/wildlife-gallery/barn-owl/",
     "photos": [
       {
+        "filename": "20260525-DSC07898.jpg",
+        "path": "/photo_gallery/barn-owl/20260525-DSC07898.jpg",
+        "thumbnail": "/assets/images/wildlife/barn-owl/cc856f7bde0b242d132d02abc92e8b5d2490cabd.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Barn Owl",
+        "location": "",
+        "date": "2026-05-25T04:28:08",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 4000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "barn-owl-20260525-dsc07898-jpg"
+      },
+      {
         "filename": "Baby Barn Owl.jpg",
         "path": "/photo_gallery/barn-owl/Baby Barn Owl.jpg",
         "thumbnail": "/assets/images/wildlife/barn-owl/281d1bd677ecddead32a3d5f33f1ef01a0a6148d.webp",
@@ -1083,6 +1103,26 @@
           "shutter": "1/1250"
         },
         "counter": "baby-barn-owl-jpg"
+      },
+      {
+        "filename": "20260525-DSC07879.jpg",
+        "path": "/photo_gallery/barn-owl/20260525-DSC07879.jpg",
+        "thumbnail": "/assets/images/wildlife/barn-owl/d4ebd615ca459e9b04bea01c586e540e9faff441.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Barn Owl",
+        "location": "",
+        "date": "2026-05-25T04:26:48",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 4000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "barn-owl-20260525-dsc07879-jpg"
       }
     ],
     "cover": {
@@ -1105,7 +1145,7 @@
       },
       "counter": "baby-barn-owl-jpg"
     },
-    "count": 1,
+    "count": 3,
     "locations": []
   },
   "bewick-s-wren": {
@@ -1123,6 +1163,26 @@
     "slug": "bewick-s-wren",
     "url": "/wildlife-gallery/bewick-s-wren/",
     "photos": [
+      {
+        "filename": "20260424-DSC04715.jpg",
+        "path": "/photo_gallery/bewick-s-wren/20260424-DSC04715.jpg",
+        "thumbnail": "/assets/images/wildlife/bewick-s-wren/acf8fb90daa88ac8abb6afbf91ac1b876fe85b1f.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Bewick's Wren",
+        "location": "",
+        "date": "2026-04-24T01:41:36",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "bewick-s-wren-20260424-dsc04715-jpg"
+      },
       {
         "filename": "Bewick's Wren.jpg",
         "path": "/photo_gallery/bewick-s-wren/Bewick's Wren.jpg",
@@ -1164,7 +1224,7 @@
       },
       "counter": "bewick-s-wren-jpg"
     },
-    "count": 1,
+    "count": 2,
     "locations": []
   },
   "black-necked-stilt": {
@@ -1262,6 +1322,46 @@
     "url": "/wildlife-gallery/black-phoebe/",
     "photos": [
       {
+        "filename": "20260424-DSC04975.jpg",
+        "path": "/photo_gallery/black-phoebe/20260424-DSC04975.jpg",
+        "thumbnail": "/assets/images/wildlife/black-phoebe/56b6c28276e7ff9d0f89b1f8d16f6a8ac6b85b52.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Black Phoebe",
+        "location": "",
+        "date": "2026-04-24T03:31:27",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "black-phoebe-20260424-dsc04975-jpg"
+      },
+      {
+        "filename": "20260424-DSC04733.jpg",
+        "path": "/photo_gallery/black-phoebe/20260424-DSC04733.jpg",
+        "thumbnail": "/assets/images/wildlife/black-phoebe/62ea81babd738382c138559fe14a4d96d16c2fa9.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Black Phoebe",
+        "location": "",
+        "date": "2026-04-24T01:44:50",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1600"
+        },
+        "counter": "black-phoebe-20260424-dsc04733-jpg"
+      },
+      {
         "filename": "20260415-DSC02539.jpg",
         "path": "/photo_gallery/black-phoebe/20260415-DSC02539.jpg",
         "thumbnail": "/assets/images/wildlife/black-phoebe/409739370128921e4f36d82ec9cb25f121ca4485.webp",
@@ -1321,6 +1421,85 @@
         "shutter": "1/4000"
       },
       "counter": "black-phoebe-jpg"
+    },
+    "count": 4,
+    "locations": []
+  },
+  "black-skimmer": {
+    "name": "Black Skimmer",
+    "category": "Birds",
+    "group": "Shorebirds & Gulls",
+    "scientific_name": "",
+    "description": "The Black Skimmer is a long-winged coastal bird with contrasting dark upperparts and pale underparts. Its unusual bill has a lower half longer than the upper, allowing it to skim the water's surface in flight and detect small fish by touch. Beaches, sandbars, and protected shorelines provide resting and nesting sites. Groups often gather closely on open ground between feeding trips. Their specialized feeding technique and striking silhouettes make them distinctive among the gulls and terns that share their habitat.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Black_Skimmer/overview"
+      }
+    ],
+    "slug": "black-skimmer",
+    "url": "/wildlife-gallery/black-skimmer/",
+    "photos": [
+      {
+        "filename": "20260525-DSC08381.jpg",
+        "path": "/photo_gallery/black-skimmer/20260525-DSC08381.jpg",
+        "thumbnail": "/assets/images/wildlife/black-skimmer/2e49245af679a4a99c653b838f803f9167c2fa95.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Black Skimmer",
+        "location": "",
+        "date": "2026-05-25T08:48:02",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "black-skimmer-20260525-dsc08381-jpg"
+      },
+      {
+        "filename": "20260525-DSC08364.jpg",
+        "path": "/photo_gallery/black-skimmer/20260525-DSC08364.jpg",
+        "thumbnail": "/assets/images/wildlife/black-skimmer/380403fabb87b30dd1c38dce37cf1ffa9d32e4ef.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Black Skimmer",
+        "location": "",
+        "date": "2026-05-25T08:45:42",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "black-skimmer-20260525-dsc08364-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20260525-DSC08381.jpg",
+      "path": "/photo_gallery/black-skimmer/20260525-DSC08381.jpg",
+      "thumbnail": "/assets/images/wildlife/black-skimmer/2e49245af679a4a99c653b838f803f9167c2fa95.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Black Skimmer",
+      "location": "",
+      "date": "2026-05-25T08:48:02",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 640,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/3200"
+      },
+      "counter": "black-skimmer-20260525-dsc08381-jpg"
     },
     "count": 2,
     "locations": []
@@ -1522,6 +1701,125 @@
     "count": 1,
     "locations": []
   },
+  "brandt-s-cormorants": {
+    "name": "Brandt's Cormorant",
+    "category": "Birds",
+    "group": "Waterbirds",
+    "scientific_name": "",
+    "description": "Brandt's Cormorant is a large diving seabird closely associated with the Pacific Coast of North America. It searches underwater for fish and other marine prey, often using productive nearshore waters and kelp beds. Breeding adults develop vivid blue throat skin and fine pale feathers around the head and neck. Rocky islands and coastal cliffs provide places to rest and breed. Groups gathered on offshore rocks offer a view of the species' social behavior between repeated fishing dives.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Brandts_Cormorant/overview"
+      }
+    ],
+    "slug": "brandt-s-cormorants",
+    "url": "/wildlife-gallery/brandt-s-cormorants/",
+    "photos": [
+      {
+        "filename": "20260421-DSC04323.jpg",
+        "path": "/photo_gallery/brandt-s-cormorants/20260421-DSC04323.jpg",
+        "thumbnail": "/assets/images/wildlife/brandt-s-cormorants/9a956a7403bf30c6b52dc120c2aed109e137ac6d.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Brandt's Cormorant",
+        "location": "",
+        "date": "2026-04-21T07:37:28",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 125,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "brandt-s-cormorants-20260421-dsc04323-jpg"
+      },
+      {
+        "filename": "20260421-DSC03735.jpg",
+        "path": "/photo_gallery/brandt-s-cormorants/20260421-DSC03735.jpg",
+        "thumbnail": "/assets/images/wildlife/brandt-s-cormorants/8e2ecfdd1ae181332989c884af3ca925b0a2fd33.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Brandt's Cormorant",
+        "location": "",
+        "date": "2026-04-21T05:15:16",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 400,
+          "focal": 518,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "brandt-s-cormorants-20260421-dsc03735-jpg"
+      },
+      {
+        "filename": "20260421-DSC03715.jpg",
+        "path": "/photo_gallery/brandt-s-cormorants/20260421-DSC03715.jpg",
+        "thumbnail": "/assets/images/wildlife/brandt-s-cormorants/a6b6ad80a7b845c793368dc7ab183730f5683f97.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Brandt's Cormorant",
+        "location": "",
+        "date": "2026-04-21T05:13:55",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "brandt-s-cormorants-20260421-dsc03715-jpg"
+      },
+      {
+        "filename": "20260421-DSC03226.jpg",
+        "path": "/photo_gallery/brandt-s-cormorants/20260421-DSC03226.jpg",
+        "thumbnail": "/assets/images/wildlife/brandt-s-cormorants/809cb4d70f1bbf898284137ef4d4ab8ae95ae2db.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Brandt's Cormorant",
+        "location": "",
+        "date": "2026-04-21T01:11:35",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "brandt-s-cormorants-20260421-dsc03226-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20260421-DSC03226.jpg",
+      "path": "/photo_gallery/brandt-s-cormorants/20260421-DSC03226.jpg",
+      "thumbnail": "/assets/images/wildlife/brandt-s-cormorants/809cb4d70f1bbf898284137ef4d4ab8ae95ae2db.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Brandt's Cormorant",
+      "location": "",
+      "date": "2026-04-21T01:11:35",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 500,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/2500"
+      },
+      "counter": "brandt-s-cormorants-20260421-dsc03226-jpg"
+    },
+    "count": 4,
+    "locations": []
+  },
   "brewer-s-blackbird": {
     "name": "Brewer's Blackbird",
     "category": "Birds",
@@ -1597,6 +1895,26 @@
     "url": "/wildlife-gallery/bushtit/",
     "photos": [
       {
+        "filename": "20260525-DSC08331.jpg",
+        "path": "/photo_gallery/bushtit/20260525-DSC08331.jpg",
+        "thumbnail": "/assets/images/wildlife/bushtit/ebd9f2d7ad0e0600dbc196f141d6ea9b9e46e769.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Bushtit",
+        "location": "",
+        "date": "2026-05-25T08:30:17",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "bushtit-20260525-dsc08331-jpg"
+      },
+      {
         "filename": "Bushtit.jpg",
         "path": "/photo_gallery/bushtit/Bushtit.jpg",
         "thumbnail": "/assets/images/wildlife/bushtit/420d2edc612246b9d529053e88e155ad11653342.webp",
@@ -1637,7 +1955,7 @@
       },
       "counter": "bushtit-jpg"
     },
-    "count": 1,
+    "count": 2,
     "locations": []
   },
   "california-brown-pelican": {
@@ -1655,6 +1973,26 @@
     "slug": "california-brown-pelican",
     "url": "/wildlife-gallery/california-brown-pelican/",
     "photos": [
+      {
+        "filename": "20260421-DSC04309.jpg",
+        "path": "/photo_gallery/california-brown-pelican/20260421-DSC04309.jpg",
+        "thumbnail": "/assets/images/wildlife/california-brown-pelican/438bab15e97bf5b7bb84cc84d36e100e2af0c2c9.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "California Brown Pelican",
+        "location": "",
+        "date": "2026-04-21T07:16:04",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 100,
+          "focal": 600,
+          "aperture": 8.0,
+          "shutter": "1/640"
+        },
+        "counter": "california-brown-pelican-20260421-dsc04309-jpg"
+      },
       {
         "filename": "20260408-DSC00713.jpg",
         "path": "/photo_gallery/california-brown-pelican/20260408-DSC00713.jpg",
@@ -1776,7 +2114,7 @@
       },
       "counter": "california-brown-pelican-20260408-dsc00713-jpg"
     },
-    "count": 5,
+    "count": 6,
     "locations": []
   },
   "california-condor": {
@@ -2394,6 +2732,85 @@
     "count": 1,
     "locations": []
   },
+  "california-sea-lion": {
+    "name": "California Sea Lion",
+    "category": "Mammals",
+    "group": "",
+    "scientific_name": "",
+    "description": "The California Sea Lion is a social marine mammal with visible ear flaps, broad front flippers, and a long snout. Adult males are substantially larger and usually darker than females. It feeds mainly on fish and squid in coastal waters, then returns to rocks, beaches, or structures such as buoys to rest. Barking calls and close groupings make resting colonies conspicuous. Its body shape and external ears help distinguish it from the harbor seals that may use nearby waters.",
+    "references": [
+      {
+        "title": "NOAA Fisheries",
+        "url": "https://www.fisheries.noaa.gov/species/california-sea-lion"
+      }
+    ],
+    "slug": "california-sea-lion",
+    "url": "/wildlife-gallery/california-sea-lion/",
+    "photos": [
+      {
+        "filename": "20260421-DSC03416.jpg",
+        "path": "/photo_gallery/california-sea-lion/20260421-DSC03416.jpg",
+        "thumbnail": "/assets/images/wildlife/california-sea-lion/2621dcb98a6533118116971603a46e7b1be90a04.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "California Sea Lion",
+        "location": "",
+        "date": "2026-04-21T02:20:26",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 553,
+          "aperture": 6.3,
+          "shutter": "1/4000"
+        },
+        "counter": "california-sea-lion-20260421-dsc03416-jpg"
+      },
+      {
+        "filename": "20260421-DSC03237.jpg",
+        "path": "/photo_gallery/california-sea-lion/20260421-DSC03237.jpg",
+        "thumbnail": "/assets/images/wildlife/california-sea-lion/6d07ccaddd691b2dc14b09812c0db6bfbed15ef5.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "California Sea Lion",
+        "location": "",
+        "date": "2026-04-21T01:13:41",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 500,
+          "focal": 326,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "california-sea-lion-20260421-dsc03237-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20260421-DSC03237.jpg",
+      "path": "/photo_gallery/california-sea-lion/20260421-DSC03237.jpg",
+      "thumbnail": "/assets/images/wildlife/california-sea-lion/6d07ccaddd691b2dc14b09812c0db6bfbed15ef5.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "California Sea Lion",
+      "location": "",
+      "date": "2026-04-21T01:13:41",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 500,
+        "focal": 326,
+        "aperture": 6.3,
+        "shutter": "1/2500"
+      },
+      "counter": "california-sea-lion-20260421-dsc03237-jpg"
+    },
+    "count": 2,
+    "locations": []
+  },
   "california-tarantula": {
     "name": "California Tarantula",
     "category": "Arachnids",
@@ -2651,6 +3068,85 @@
     "count": 5,
     "locations": []
   },
+  "caspian-tern": {
+    "name": "Caspian Tern",
+    "category": "Birds",
+    "group": "Shorebirds & Gulls",
+    "scientific_name": "",
+    "description": "The Caspian Tern is the world's largest tern, with a substantial red bill, pale body, and dark crown. It uses both coastal and inland waters, searching for fish from the air before diving toward the surface. Its strong proportions and deep, raspy calls help separate it from smaller terns. Breeding colonies occupy open ground near productive feeding waters. A bird passing overhead provides a clear view of the broad wings and heavy bill that characterize this powerful seabird.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Caspian_Tern"
+      }
+    ],
+    "slug": "caspian-tern",
+    "url": "/wildlife-gallery/caspian-tern/",
+    "photos": [
+      {
+        "filename": "20260421-DSC03214.jpg",
+        "path": "/photo_gallery/caspian-tern/20260421-DSC03214.jpg",
+        "thumbnail": "/assets/images/wildlife/caspian-tern/92d21a9e2f8562d9b34ef25484a9b3ba35a21527.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Caspian Tern",
+        "location": "",
+        "date": "2026-04-21T01:07:42",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 400,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "caspian-tern-20260421-dsc03214-jpg"
+      },
+      {
+        "filename": "20260421-DSC03213.jpg",
+        "path": "/photo_gallery/caspian-tern/20260421-DSC03213.jpg",
+        "thumbnail": "/assets/images/wildlife/caspian-tern/00518f27ffa84776965981d90bc4ad40c87e0386.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Caspian Tern",
+        "location": "",
+        "date": "2026-04-21T01:07:41",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 320,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "caspian-tern-20260421-dsc03213-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20260421-DSC03214.jpg",
+      "path": "/photo_gallery/caspian-tern/20260421-DSC03214.jpg",
+      "thumbnail": "/assets/images/wildlife/caspian-tern/92d21a9e2f8562d9b34ef25484a9b3ba35a21527.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Caspian Tern",
+      "location": "",
+      "date": "2026-04-21T01:07:42",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 400,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/2500"
+      },
+      "counter": "caspian-tern-20260421-dsc03214-jpg"
+    },
+    "count": 2,
+    "locations": []
+  },
   "cattle-egret": {
     "name": "Cattle Egret",
     "category": "Birds",
@@ -2765,6 +3261,65 @@
         "shutter": "1/500"
       },
       "counter": "chipmunk-20260705-dsc01122-jpg"
+    },
+    "count": 1,
+    "locations": []
+  },
+  "chipping-sparrow": {
+    "name": "Chipping Sparrow",
+    "category": "Birds",
+    "group": "Songbirds",
+    "scientific_name": "",
+    "description": "The Chipping Sparrow is a small, slender sparrow of open woodland, parks, and gardens with scattered trees. Breeding adults have a rusty crown, pale face, and dark eye-line, while winter plumage is softer and browner. It feeds mainly on seeds outside the breeding season and adds more insects while raising young. Much feeding takes place on the ground, with nearby shrubs offering cover. Careful attention to its head pattern helps distinguish it from other small brown sparrows.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Chipping_Sparrow/id"
+      }
+    ],
+    "slug": "chipping-sparrow",
+    "url": "/wildlife-gallery/chipping-sparrow/",
+    "photos": [
+      {
+        "filename": "20260421-DSC03590.jpg",
+        "path": "/photo_gallery/chipping-sparrow/20260421-DSC03590.jpg",
+        "thumbnail": "/assets/images/wildlife/chipping-sparrow/da905292dd89894185ede8164a503f5f9235b63b.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Chipping Sparrow",
+        "location": "",
+        "date": "2026-04-21T03:26:55",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 125,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1000"
+        },
+        "counter": "chipping-sparrow-20260421-dsc03590-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20260421-DSC03590.jpg",
+      "path": "/photo_gallery/chipping-sparrow/20260421-DSC03590.jpg",
+      "thumbnail": "/assets/images/wildlife/chipping-sparrow/da905292dd89894185ede8164a503f5f9235b63b.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Chipping Sparrow",
+      "location": "",
+      "date": "2026-04-21T03:26:55",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 125,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/1000"
+      },
+      "counter": "chipping-sparrow-20260421-dsc03590-jpg"
     },
     "count": 1,
     "locations": []
@@ -2982,6 +3537,106 @@
     "url": "/wildlife-gallery/common-raven/",
     "photos": [
       {
+        "filename": "20260421-DSC03696.jpg",
+        "path": "/photo_gallery/common-raven/20260421-DSC03696.jpg",
+        "thumbnail": "/assets/images/wildlife/common-raven/8799923e2fc7c1f9e54e09c58118a24c2807b1e9.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Common Raven",
+        "location": "",
+        "date": "2026-04-21T04:31:20",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "common-raven-20260421-dsc03696-jpg"
+      },
+      {
+        "filename": "20260421-DSC03695.jpg",
+        "path": "/photo_gallery/common-raven/20260421-DSC03695.jpg",
+        "thumbnail": "/assets/images/wildlife/common-raven/db62178ae2da6225010bf95f452ae2b1e51ebf2a.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Common Raven",
+        "location": "",
+        "date": "2026-04-21T04:31:16",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "common-raven-20260421-dsc03695-jpg"
+      },
+      {
+        "filename": "20260421-DSC03687.jpg",
+        "path": "/photo_gallery/common-raven/20260421-DSC03687.jpg",
+        "thumbnail": "/assets/images/wildlife/common-raven/595472673a43830756ae0c03644125be8ad28100.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Common Raven",
+        "location": "",
+        "date": "2026-04-21T04:19:31",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 541,
+          "aperture": 6.3,
+          "shutter": "1/4000"
+        },
+        "counter": "common-raven-20260421-dsc03687-jpg"
+      },
+      {
+        "filename": "20260421-DSC03672.jpg",
+        "path": "/photo_gallery/common-raven/20260421-DSC03672.jpg",
+        "thumbnail": "/assets/images/wildlife/common-raven/7b797fefd92b33e68e5ba26baeb20e1f7c9a00a9.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Common Raven",
+        "location": "",
+        "date": "2026-04-21T04:18:55",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 368,
+          "aperture": 6.3,
+          "shutter": "1/4000"
+        },
+        "counter": "common-raven-20260421-dsc03672-jpg"
+      },
+      {
+        "filename": "20260421-DSC03648.jpg",
+        "path": "/photo_gallery/common-raven/20260421-DSC03648.jpg",
+        "thumbnail": "/assets/images/wildlife/common-raven/0c5d03ace8f0a53b96618b31cfeb3d3941a06d87.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Common Raven",
+        "location": "",
+        "date": "2026-04-21T04:06:25",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 200,
+          "focal": 459,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "common-raven-20260421-dsc03648-jpg"
+      },
+      {
         "filename": "Common Raven.jpg",
         "path": "/photo_gallery/common-raven/Common Raven.jpg",
         "thumbnail": "/assets/images/wildlife/common-raven/72243580a6eaf912d3db5ffaec8f854043bea0bc.webp",
@@ -3022,7 +3677,7 @@
       },
       "counter": "common-raven-jpg"
     },
-    "count": 1,
+    "count": 6,
     "locations": []
   },
   "common-waxbill": {
@@ -3199,6 +3854,46 @@
     "url": "/wildlife-gallery/double-crested-cormorant/",
     "photos": [
       {
+        "filename": "20260421-DSC04423.jpg",
+        "path": "/photo_gallery/double-crested-cormorant/20260421-DSC04423.jpg",
+        "thumbnail": "/assets/images/wildlife/double-crested-cormorant/d1cd6c4971fe6ed3945281edafae2bf3fb5dc298.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Double-Crested Cormorant",
+        "location": "",
+        "date": "2026-04-21T09:15:06",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 100,
+          "focal": 600,
+          "aperture": 8.0,
+          "shutter": "1/800"
+        },
+        "counter": "double-crested-cormorant-20260421-dsc04423-jpg"
+      },
+      {
+        "filename": "20260421-DSC04425.jpg",
+        "path": "/photo_gallery/double-crested-cormorant/20260421-DSC04425.jpg",
+        "thumbnail": "/assets/images/wildlife/double-crested-cormorant/4ee37b591f7c5ec1b1b0bd5c20568762cf3d6587.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Double-Crested Cormorant",
+        "location": "",
+        "date": "2026-04-21T09:15:06",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 100,
+          "focal": 600,
+          "aperture": 8.0,
+          "shutter": "1/800"
+        },
+        "counter": "double-crested-cormorant-20260421-dsc04425-jpg"
+      },
+      {
         "filename": "young.jpg",
         "path": "/photo_gallery/double-crested-cormorant/young.jpg",
         "thumbnail": "/assets/images/wildlife/double-crested-cormorant/43f61b25a5392702aaf4e68e274566e3a510494b.webp",
@@ -3339,7 +4034,7 @@
       },
       "counter": "double-crested-cormorant-20260408-dsc00881-jpg"
     },
-    "count": 6,
+    "count": 8,
     "locations": []
   },
   "egyptian-goose": {
@@ -4530,6 +5225,66 @@
         "counter": "great-horned-owl-20260525-dsc08280-jpg"
       },
       {
+        "filename": "20260525-DSC08278.jpg",
+        "path": "/photo_gallery/great-horned-owl/20260525-DSC08278.jpg",
+        "thumbnail": "/assets/images/wildlife/great-horned-owl/0b26a2be59d0a1993e82f9cca56c8bfcbd0c3f97.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Great Horned Owl",
+        "location": "",
+        "date": "2026-05-25T05:26:32",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 320,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1600"
+        },
+        "counter": "great-horned-owl-20260525-dsc08278-jpg"
+      },
+      {
+        "filename": "20260525-DSC08254.jpg",
+        "path": "/photo_gallery/great-horned-owl/20260525-DSC08254.jpg",
+        "thumbnail": "/assets/images/wildlife/great-horned-owl/3bdfefac0d42cd848e85266422818c6e2f564e4d.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Great Horned Owl",
+        "location": "",
+        "date": "2026-05-25T05:19:37",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1600"
+        },
+        "counter": "great-horned-owl-20260525-dsc08254-jpg"
+      },
+      {
+        "filename": "20260525-DSC08240.jpg",
+        "path": "/photo_gallery/great-horned-owl/20260525-DSC08240.jpg",
+        "thumbnail": "/assets/images/wildlife/great-horned-owl/3586ef24d48dbf2680b2558439a3450e4a5ec371.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Great Horned Owl",
+        "location": "",
+        "date": "2026-05-25T05:18:58",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1600"
+        },
+        "counter": "great-horned-owl-20260525-dsc08240-jpg"
+      },
+      {
         "filename": "Juvenile Great Horned Owl.jpg",
         "path": "/photo_gallery/great-horned-owl/Juvenile Great Horned Owl.jpg",
         "thumbnail": "/assets/images/wildlife/great-horned-owl/abf0e8d2bdc17017f58c687f44c9b8e65d015532.webp",
@@ -4550,6 +5305,26 @@
         "counter": "juvenile-great-horned-owl-jpg"
       },
       {
+        "filename": "20260525-DSC08033.jpg",
+        "path": "/photo_gallery/great-horned-owl/20260525-DSC08033.jpg",
+        "thumbnail": "/assets/images/wildlife/great-horned-owl/4488203abcd7ac19a3c3a763b5b3452896f25d1a.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Great Horned Owl",
+        "location": "",
+        "date": "2026-05-25T04:49:24",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "great-horned-owl-20260525-dsc08033-jpg"
+      },
+      {
         "filename": "20260525-DSC07979.jpg",
         "path": "/photo_gallery/great-horned-owl/20260525-DSC07979.jpg",
         "thumbnail": "/assets/images/wildlife/great-horned-owl/b7659ed9b3ff31728729bb670849eb0763dc21d7.webp",
@@ -4568,6 +5343,26 @@
           "shutter": "1/1250"
         },
         "counter": "great-horned-owl-20260525-dsc07979-jpg"
+      },
+      {
+        "filename": "20260525-DSC07963.jpg",
+        "path": "/photo_gallery/great-horned-owl/20260525-DSC07963.jpg",
+        "thumbnail": "/assets/images/wildlife/great-horned-owl/98eedabcebe073566a94d1fb14af407c8a8ef3e3.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Great Horned Owl",
+        "location": "",
+        "date": "2026-05-25T04:45:53",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "great-horned-owl-20260525-dsc07963-jpg"
       },
       {
         "filename": "Great Horned Owl.jpg",
@@ -4610,7 +5405,7 @@
       },
       "counter": "juvenile-great-horned-owl-jpg"
     },
-    "count": 4,
+    "count": 9,
     "locations": []
   },
   "great-tailed-grackle": {
@@ -4647,6 +5442,126 @@
           "shutter": "1/200"
         },
         "counter": "great-tailed-grackle-jpg"
+      },
+      {
+        "filename": "20260421-DSC04488.jpg",
+        "path": "/photo_gallery/great-tailed-grackle/20260421-DSC04488.jpg",
+        "thumbnail": "/assets/images/wildlife/great-tailed-grackle/5d79128159ef88f06561a6fc5f2b2c92e73928ea.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Great-tailed Grackle",
+        "location": "",
+        "date": "2026-04-21T10:20:40",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 200,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/200"
+        },
+        "counter": "great-tailed-grackle-20260421-dsc04488-jpg"
+      },
+      {
+        "filename": "20260421-DSC04485.jpg",
+        "path": "/photo_gallery/great-tailed-grackle/20260421-DSC04485.jpg",
+        "thumbnail": "/assets/images/wildlife/great-tailed-grackle/3c33ad9c190da595c6264268d286df0d3757d4f9.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Great-tailed Grackle",
+        "location": "",
+        "date": "2026-04-21T10:20:30",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/200"
+        },
+        "counter": "great-tailed-grackle-20260421-dsc04485-jpg"
+      },
+      {
+        "filename": "20260421-DSC04467.jpg",
+        "path": "/photo_gallery/great-tailed-grackle/20260421-DSC04467.jpg",
+        "thumbnail": "/assets/images/wildlife/great-tailed-grackle/10897dd6d26256da17954471cf5b14def7be2b9e.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Great-tailed Grackle",
+        "location": "",
+        "date": "2026-04-21T10:16:44",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/400"
+        },
+        "counter": "great-tailed-grackle-20260421-dsc04467-jpg"
+      },
+      {
+        "filename": "20260421-DSC04465.jpg",
+        "path": "/photo_gallery/great-tailed-grackle/20260421-DSC04465.jpg",
+        "thumbnail": "/assets/images/wildlife/great-tailed-grackle/baec5f8695bad5ef949538fddb3f57a927fd6595.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Great-tailed Grackle",
+        "location": "",
+        "date": "2026-04-21T10:16:42",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 559,
+          "aperture": 6.3,
+          "shutter": "1/400"
+        },
+        "counter": "great-tailed-grackle-20260421-dsc04465-jpg"
+      },
+      {
+        "filename": "20260421-DSC04456.jpg",
+        "path": "/photo_gallery/great-tailed-grackle/20260421-DSC04456.jpg",
+        "thumbnail": "/assets/images/wildlife/great-tailed-grackle/edc1b53b19b428e167f4c27258f5252e3c75f1bd.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Great-tailed Grackle",
+        "location": "",
+        "date": "2026-04-21T10:15:56",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "great-tailed-grackle-20260421-dsc04456-jpg"
+      },
+      {
+        "filename": "20260421-DSC04436.jpg",
+        "path": "/photo_gallery/great-tailed-grackle/20260421-DSC04436.jpg",
+        "thumbnail": "/assets/images/wildlife/great-tailed-grackle/809869fe87172fd8d434771d0f04807bdf5f1a1f.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Great-tailed Grackle",
+        "location": "",
+        "date": "2026-04-21T10:11:05",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 320,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "great-tailed-grackle-20260421-dsc04436-jpg"
       }
     ],
     "cover": {
@@ -4669,7 +5584,7 @@
       },
       "counter": "great-tailed-grackle-jpg"
     },
-    "count": 1,
+    "count": 7,
     "locations": []
   },
   "greater-roadrunner": {
@@ -4687,6 +5602,66 @@
     "slug": "greater-roadrunner",
     "url": "/wildlife-gallery/greater-roadrunner/",
     "photos": [
+      {
+        "filename": "20260525-DSC08525.jpg",
+        "path": "/photo_gallery/greater-roadrunner/20260525-DSC08525.jpg",
+        "thumbnail": "/assets/images/wildlife/greater-roadrunner/d63a21bb8db82be9691ee85f964b8b54d16a0d5f.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Greater Roadrunner",
+        "location": "",
+        "date": "2026-05-25T08:59:49",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 8000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "greater-roadrunner-20260525-dsc08525-jpg"
+      },
+      {
+        "filename": "20260525-DSC08518.jpg",
+        "path": "/photo_gallery/greater-roadrunner/20260525-DSC08518.jpg",
+        "thumbnail": "/assets/images/wildlife/greater-roadrunner/0c0214c2a1ba87d10e3597e66ff6e4346a5d9f84.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Greater Roadrunner",
+        "location": "",
+        "date": "2026-05-25T08:58:49",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 8000,
+          "focal": 216,
+          "aperture": 5.6,
+          "shutter": "1/3200"
+        },
+        "counter": "greater-roadrunner-20260525-dsc08518-jpg"
+      },
+      {
+        "filename": "20260525-DSC08513.jpg",
+        "path": "/photo_gallery/greater-roadrunner/20260525-DSC08513.jpg",
+        "thumbnail": "/assets/images/wildlife/greater-roadrunner/5dba27af72e6acd1983bb5a289c17e65f6990b15.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Greater Roadrunner",
+        "location": "",
+        "date": "2026-05-25T08:58:48",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 8000,
+          "focal": 241,
+          "aperture": 5.6,
+          "shutter": "1/3200"
+        },
+        "counter": "greater-roadrunner-20260525-dsc08513-jpg"
+      },
       {
         "filename": "Greater Roadrunner.jpg",
         "path": "/photo_gallery/greater-roadrunner/Greater Roadrunner.jpg",
@@ -4708,6 +5683,26 @@
         "counter": "greater-roadrunner-jpg"
       },
       {
+        "filename": "20260525-DSC08489.jpg",
+        "path": "/photo_gallery/greater-roadrunner/20260525-DSC08489.jpg",
+        "thumbnail": "/assets/images/wildlife/greater-roadrunner/03310ae777ebf232361c3fe1587f7c2ce3af0e0e.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Greater Roadrunner",
+        "location": "",
+        "date": "2026-05-25T08:58:08",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 576,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "greater-roadrunner-20260525-dsc08489-jpg"
+      },
+      {
         "filename": "20260525-DSC08487.jpg",
         "path": "/photo_gallery/greater-roadrunner/20260525-DSC08487.jpg",
         "thumbnail": "/assets/images/wildlife/greater-roadrunner/b01a5fe1c391d25400f786b4f8f730e2c9b54a39.webp",
@@ -4726,6 +5721,26 @@
           "shutter": "1/3200"
         },
         "counter": "greater-roadrunner-20260525-dsc08487-jpg"
+      },
+      {
+        "filename": "20260525-DSC08475.jpg",
+        "path": "/photo_gallery/greater-roadrunner/20260525-DSC08475.jpg",
+        "thumbnail": "/assets/images/wildlife/greater-roadrunner/54294d935b0823294e6ee0bcb37523a930411cab.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Greater Roadrunner",
+        "location": "",
+        "date": "2026-05-25T08:57:56",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 4000,
+          "focal": 547,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "greater-roadrunner-20260525-dsc08475-jpg"
       },
       {
         "filename": "20260525-DSC08432.jpg",
@@ -4768,7 +5783,7 @@
       },
       "counter": "greater-roadrunner-20260525-dsc08487-jpg"
     },
-    "count": 3,
+    "count": 8,
     "locations": []
   },
   "harbor-seal": {
@@ -5300,6 +6315,86 @@
           "shutter": "1/640"
         },
         "counter": "house-sparrow-20261029-dsc03581-jpg"
+      },
+      {
+        "filename": "20260421-DSC04406.jpg",
+        "path": "/photo_gallery/house-sparrow/20260421-DSC04406.jpg",
+        "thumbnail": "/assets/images/wildlife/house-sparrow/71aae88e33d703025bdf770f22d24a8cdec2cd4b.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "House Sparrow",
+        "location": "",
+        "date": "2026-04-21T09:04:59",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "house-sparrow-20260421-dsc04406-jpg"
+      },
+      {
+        "filename": "20260421-DSC04402.jpg",
+        "path": "/photo_gallery/house-sparrow/20260421-DSC04402.jpg",
+        "thumbnail": "/assets/images/wildlife/house-sparrow/862ba0b17dd9f0e7a2f534a1ed7ac9dd3d0d162a.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "House Sparrow",
+        "location": "",
+        "date": "2026-04-21T09:04:44",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "house-sparrow-20260421-dsc04402-jpg"
+      },
+      {
+        "filename": "20260421-DSC04385.jpg",
+        "path": "/photo_gallery/house-sparrow/20260421-DSC04385.jpg",
+        "thumbnail": "/assets/images/wildlife/house-sparrow/a9b1f317e8883b458fb491c8cf9e797fe3b9f096.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "House Sparrow",
+        "location": "",
+        "date": "2026-04-21T09:04:19",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 320,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "house-sparrow-20260421-dsc04385-jpg"
+      },
+      {
+        "filename": "20260420-DSC03178.jpg",
+        "path": "/photo_gallery/house-sparrow/20260420-DSC03178.jpg",
+        "thumbnail": "/assets/images/wildlife/house-sparrow/5c61cff299364dd93da89c6a50212ab32a5c676d.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "House Sparrow",
+        "location": "",
+        "date": "2026-04-20T23:35:51",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "house-sparrow-20260420-dsc03178-jpg"
       }
     ],
     "cover": {
@@ -5322,7 +6417,7 @@
       },
       "counter": "house-sparrow-20261030-dsc04240-jpg"
     },
-    "count": 3,
+    "count": 7,
     "locations": []
   },
   "indian-peafowl": {
@@ -5340,6 +6435,106 @@
     "slug": "indian-peafowl",
     "url": "/wildlife-gallery/indian-peafowl/",
     "photos": [
+      {
+        "filename": "20260424-DSC04967.jpg",
+        "path": "/photo_gallery/indian-peafowl/20260424-DSC04967.jpg",
+        "thumbnail": "/assets/images/wildlife/indian-peafowl/a8b607d643bfd71276d82c6137d64a886fbfa399.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Indian Peafowl",
+        "location": "",
+        "date": "2026-04-24T03:24:28",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 371,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "indian-peafowl-20260424-dsc04967-jpg"
+      },
+      {
+        "filename": "20260424-DSC04708.jpg",
+        "path": "/photo_gallery/indian-peafowl/20260424-DSC04708.jpg",
+        "thumbnail": "/assets/images/wildlife/indian-peafowl/b3b75f18bc7f11816d4eda1d7e4d5e60c03fcbae.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Indian Peafowl",
+        "location": "",
+        "date": "2026-04-24T01:36:00",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 332,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "indian-peafowl-20260424-dsc04708-jpg"
+      },
+      {
+        "filename": "20260424-DSC04700.jpg",
+        "path": "/photo_gallery/indian-peafowl/20260424-DSC04700.jpg",
+        "thumbnail": "/assets/images/wildlife/indian-peafowl/ab132bc3e032ffd79a9e45fc9d8668bdbbff52c2.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Indian Peafowl",
+        "location": "",
+        "date": "2026-04-24T01:25:40",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 200,
+          "aperture": 5.6,
+          "shutter": "1/1250"
+        },
+        "counter": "indian-peafowl-20260424-dsc04700-jpg"
+      },
+      {
+        "filename": "20260424-DSC04563.jpg",
+        "path": "/photo_gallery/indian-peafowl/20260424-DSC04563.jpg",
+        "thumbnail": "/assets/images/wildlife/indian-peafowl/70a73b23eedd4ac06934fa52b73b191cd9d42a46.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Indian Peafowl",
+        "location": "",
+        "date": "2026-04-24T01:09:39",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 320,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/400"
+        },
+        "counter": "indian-peafowl-20260424-dsc04563-jpg"
+      },
+      {
+        "filename": "20260424-DSC04553.jpg",
+        "path": "/photo_gallery/indian-peafowl/20260424-DSC04553.jpg",
+        "thumbnail": "/assets/images/wildlife/indian-peafowl/a08e5e9b2f6ffd2627ecfc620b6b2b57dcf29f74.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Indian Peafowl",
+        "location": "",
+        "date": "2026-04-24T01:09:28",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 500,
+          "focal": 200,
+          "aperture": 5.6,
+          "shutter": "1/400"
+        },
+        "counter": "indian-peafowl-20260424-dsc04553-jpg"
+      },
       {
         "filename": "Indian Peafowl.jpg",
         "path": "/photo_gallery/indian-peafowl/Indian Peafowl.jpg",
@@ -5359,6 +6554,26 @@
           "shutter": "1/200"
         },
         "counter": "indian-peafowl-jpg"
+      },
+      {
+        "filename": "20260424-DSC04499.jpg",
+        "path": "/photo_gallery/indian-peafowl/20260424-DSC04499.jpg",
+        "thumbnail": "/assets/images/wildlife/indian-peafowl/40288934ce5cf3495171bbf4300990fb0e3c4023.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Indian Peafowl",
+        "location": "",
+        "date": "2026-04-24T01:07:08",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 200,
+          "focal": 200,
+          "aperture": 5.6,
+          "shutter": "1/200"
+        },
+        "counter": "indian-peafowl-20260424-dsc04499-jpg"
       }
     ],
     "cover": {
@@ -5381,7 +6596,7 @@
       },
       "counter": "indian-peafowl-jpg"
     },
-    "count": 1,
+    "count": 7,
     "locations": []
   },
   "island-fox": {
@@ -5399,6 +6614,386 @@
     "slug": "island-fox",
     "url": "/wildlife-gallery/island-fox/",
     "photos": [
+      {
+        "filename": "20260421-DSC04287.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC04287.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/600ea6893848a6dfa12d61f8232016795d326439.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T07:09:13",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 200,
+          "aperture": 5.6,
+          "shutter": "1/640"
+        },
+        "counter": "island-fox-20260421-dsc04287-jpg"
+      },
+      {
+        "filename": "20260421-DSC04284.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC04284.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/e6d66645b9d4463ad667a9c78b47ab29f35a28bf.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T07:09:04",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 275,
+          "aperture": 5.6,
+          "shutter": "1/640"
+        },
+        "counter": "island-fox-20260421-dsc04284-jpg"
+      },
+      {
+        "filename": "20260421-DSC04255.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC04255.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/3f80576a696974e2679cad8c21b55902bb870fcd.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T07:07:00",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 100,
+          "focal": 506,
+          "aperture": 6.3,
+          "shutter": "1/640"
+        },
+        "counter": "island-fox-20260421-dsc04255-jpg"
+      },
+      {
+        "filename": "20260421-DSC04244.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC04244.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/c58aa386f125b17a3e1b8477f63afe0a159e17ea.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T07:06:25",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 200,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/640"
+        },
+        "counter": "island-fox-20260421-dsc04244-jpg"
+      },
+      {
+        "filename": "20260421-DSC04242.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC04242.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/41ed00485bb005c4ade6eb415cd64e3929a1cd55.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T07:06:01",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 452,
+          "aperture": 6.3,
+          "shutter": "1/640"
+        },
+        "counter": "island-fox-20260421-dsc04242-jpg"
+      },
+      {
+        "filename": "20260421-DSC04212.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC04212.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/f61478303690dfa2b18b8d314b5ea1c9f2ff2e41.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T07:04:20",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 400,
+          "aperture": 6.3,
+          "shutter": "1/640"
+        },
+        "counter": "island-fox-20260421-dsc04212-jpg"
+      },
+      {
+        "filename": "20260421-DSC04144.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC04144.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/eb3a00761c3004afe10ed0dbf7cc31584d410505.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T07:01:02",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 329,
+          "aperture": 6.3,
+          "shutter": "1/640"
+        },
+        "counter": "island-fox-20260421-dsc04144-jpg"
+      },
+      {
+        "filename": "20260421-DSC04134.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC04134.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/831382a3a5dee8def64742cdd2f4a30b92e42c68.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T07:00:51",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 300,
+          "aperture": 6.3,
+          "shutter": "1/640"
+        },
+        "counter": "island-fox-20260421-dsc04134-jpg"
+      },
+      {
+        "filename": "20260421-DSC04119.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC04119.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/1e4c2206afaae6da0b7c3f5a113ed2d727f4062e.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T07:00:44",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 309,
+          "aperture": 6.3,
+          "shutter": "1/640"
+        },
+        "counter": "island-fox-20260421-dsc04119-jpg"
+      },
+      {
+        "filename": "20260421-DSC04112.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC04112.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/882a3aaf573ac143ddeb3b837c2ff9693e9e3c35.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T07:00:31",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 359,
+          "aperture": 6.3,
+          "shutter": "1/640"
+        },
+        "counter": "island-fox-20260421-dsc04112-jpg"
+      },
+      {
+        "filename": "20260421-DSC04093.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC04093.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/2b4244ab0fdbd43e9884e88cfae0c8c2911071dc.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T07:00:07",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/640"
+        },
+        "counter": "island-fox-20260421-dsc04093-jpg"
+      },
+      {
+        "filename": "20260421-DSC04074.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC04074.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/f62332fe13e655c4d856c0799a197d33bcf524b0.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T06:58:53",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 125,
+          "focal": 255,
+          "aperture": 5.6,
+          "shutter": "1/640"
+        },
+        "counter": "island-fox-20260421-dsc04074-jpg"
+      },
+      {
+        "filename": "20260421-DSC04068.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC04068.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/8eed75ff1b1024ea5cfc19fcce9a0d7268cc204b.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T06:58:18",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/640"
+        },
+        "counter": "island-fox-20260421-dsc04068-jpg"
+      },
+      {
+        "filename": "20260421-DSC04067.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC04067.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/e1f8f686170239657227b715231445367fb3b962.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T06:58:11",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/640"
+        },
+        "counter": "island-fox-20260421-dsc04067-jpg"
+      },
+      {
+        "filename": "20260421-DSC04063.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC04063.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/352559627ba8843a4443d38cb9ea56c3b04ffc25.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T06:58:09",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/640"
+        },
+        "counter": "island-fox-20260421-dsc04063-jpg"
+      },
+      {
+        "filename": "20260421-DSC04011.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC04011.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/cfab5ed1917c41718ba21c5ef2a607955ed20677.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T06:53:35",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/640"
+        },
+        "counter": "island-fox-20260421-dsc04011-jpg"
+      },
+      {
+        "filename": "20260421-DSC03946.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC03946.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/bda568c93bf86681395d74e7bc91915ebdddfe3e.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T06:51:56",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 371,
+          "aperture": 6.3,
+          "shutter": "1/640"
+        },
+        "counter": "island-fox-20260421-dsc03946-jpg"
+      },
+      {
+        "filename": "20260421-DSC03940.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC03940.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/bd152440fc35a03e39fd1d59f03a770e124d416a.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T06:51:49",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 268,
+          "aperture": 5.6,
+          "shutter": "1/640"
+        },
+        "counter": "island-fox-20260421-dsc03940-jpg"
+      },
+      {
+        "filename": "20260421-DSC03549.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC03549.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/7376a204f7c6adca9e762e0b5854e26a66782bf1.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T03:02:22",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 426,
+          "aperture": 6.3,
+          "shutter": "1/320"
+        },
+        "counter": "island-fox-20260421-dsc03549-jpg"
+      },
       {
         "filename": "Island Fox.jpg",
         "path": "/photo_gallery/island-fox/Island Fox.jpg",
@@ -5418,6 +7013,26 @@
           "shutter": "1/320"
         },
         "counter": "island-fox-jpg"
+      },
+      {
+        "filename": "20260421-DSC03514.jpg",
+        "path": "/photo_gallery/island-fox/20260421-DSC03514.jpg",
+        "thumbnail": "/assets/images/wildlife/island-fox/ea8f97182eed0defacd40cee7faee7562db687aa.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Fox",
+        "location": "",
+        "date": "2026-04-21T02:58:57",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/320"
+        },
+        "counter": "island-fox-20260421-dsc03514-jpg"
       }
     ],
     "cover": {
@@ -5440,7 +7055,7 @@
       },
       "counter": "island-fox-jpg"
     },
-    "count": 1,
+    "count": 21,
     "locations": []
   },
   "island-scrub-jay": {
@@ -5458,6 +7073,166 @@
     "slug": "island-scrub-jay",
     "url": "/wildlife-gallery/island-scrub-jay/",
     "photos": [
+      {
+        "filename": "20260421-DSC03889.jpg",
+        "path": "/photo_gallery/island-scrub-jay/20260421-DSC03889.jpg",
+        "thumbnail": "/assets/images/wildlife/island-scrub-jay/37f1df96920b1ccf6dfbc33234ce2ebbff1df212.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Scrub-Jay",
+        "location": "",
+        "date": "2026-04-21T06:06:48",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "island-scrub-jay-20260421-dsc03889-jpg"
+      },
+      {
+        "filename": "20260421-DSC03885.jpg",
+        "path": "/photo_gallery/island-scrub-jay/20260421-DSC03885.jpg",
+        "thumbnail": "/assets/images/wildlife/island-scrub-jay/def7359245926d23d51d4ad4b95221c29489dd15.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Scrub-Jay",
+        "location": "",
+        "date": "2026-04-21T06:06:26",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "island-scrub-jay-20260421-dsc03885-jpg"
+      },
+      {
+        "filename": "20260421-DSC03867.jpg",
+        "path": "/photo_gallery/island-scrub-jay/20260421-DSC03867.jpg",
+        "thumbnail": "/assets/images/wildlife/island-scrub-jay/237e508fa07dc717baa4f7ce5f06deb4f2859d72.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Scrub-Jay",
+        "location": "",
+        "date": "2026-04-21T06:02:44",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "island-scrub-jay-20260421-dsc03867-jpg"
+      },
+      {
+        "filename": "20260421-DSC03860.jpg",
+        "path": "/photo_gallery/island-scrub-jay/20260421-DSC03860.jpg",
+        "thumbnail": "/assets/images/wildlife/island-scrub-jay/39c18b2384b9622c292058598d53ab36d01061ec.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Scrub-Jay",
+        "location": "",
+        "date": "2026-04-21T06:02:20",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "island-scrub-jay-20260421-dsc03860-jpg"
+      },
+      {
+        "filename": "20260421-DSC03837.jpg",
+        "path": "/photo_gallery/island-scrub-jay/20260421-DSC03837.jpg",
+        "thumbnail": "/assets/images/wildlife/island-scrub-jay/bc5c0ea590eaec2efc03cc58e219b36beffdf07a.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Scrub-Jay",
+        "location": "",
+        "date": "2026-04-21T06:01:23",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "island-scrub-jay-20260421-dsc03837-jpg"
+      },
+      {
+        "filename": "20260421-DSC03825.jpg",
+        "path": "/photo_gallery/island-scrub-jay/20260421-DSC03825.jpg",
+        "thumbnail": "/assets/images/wildlife/island-scrub-jay/eeaf4b7c9560056f2efe98bf1a8176b5fd7a3e33.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Scrub-Jay",
+        "location": "",
+        "date": "2026-04-21T06:01:03",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "island-scrub-jay-20260421-dsc03825-jpg"
+      },
+      {
+        "filename": "20260421-DSC03805.jpg",
+        "path": "/photo_gallery/island-scrub-jay/20260421-DSC03805.jpg",
+        "thumbnail": "/assets/images/wildlife/island-scrub-jay/195403291e6b02d1562921bd65e01bb95174a093.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Scrub-Jay",
+        "location": "",
+        "date": "2026-04-21T06:00:04",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 576,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "island-scrub-jay-20260421-dsc03805-jpg"
+      },
+      {
+        "filename": "20260421-DSC03772.jpg",
+        "path": "/photo_gallery/island-scrub-jay/20260421-DSC03772.jpg",
+        "thumbnail": "/assets/images/wildlife/island-scrub-jay/75cc7d47eced79deefcd8ba31e59c443c48550d2.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Scrub-Jay",
+        "location": "",
+        "date": "2026-04-21T05:56:44",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 12800,
+          "focal": 485,
+          "aperture": 20.0,
+          "shutter": "1/800"
+        },
+        "counter": "island-scrub-jay-20260421-dsc03772-jpg"
+      },
       {
         "filename": "Island Scrub-Jay.jpg",
         "path": "/photo_gallery/island-scrub-jay/Island Scrub-Jay.jpg",
@@ -5477,6 +7252,46 @@
           "shutter": "1/800"
         },
         "counter": "island-scrub-jay-jpg"
+      },
+      {
+        "filename": "20260421-DSC03543.jpg",
+        "path": "/photo_gallery/island-scrub-jay/20260421-DSC03543.jpg",
+        "thumbnail": "/assets/images/wildlife/island-scrub-jay/8965b56884ed083dd436ba47dfd96779aee9789e.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Scrub-Jay",
+        "location": "",
+        "date": "2026-04-21T03:01:01",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 320,
+          "focal": 400,
+          "aperture": 6.3,
+          "shutter": "1/320"
+        },
+        "counter": "island-scrub-jay-20260421-dsc03543-jpg"
+      },
+      {
+        "filename": "20260421-DSC03538.jpg",
+        "path": "/photo_gallery/island-scrub-jay/20260421-DSC03538.jpg",
+        "thumbnail": "/assets/images/wildlife/island-scrub-jay/417fe2447456f0ab88101c196e07f9f03c312651.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Island Scrub-Jay",
+        "location": "",
+        "date": "2026-04-21T03:00:57",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 320,
+          "focal": 481,
+          "aperture": 6.3,
+          "shutter": "1/320"
+        },
+        "counter": "island-scrub-jay-20260421-dsc03538-jpg"
       }
     ],
     "cover": {
@@ -5499,7 +7314,7 @@
       },
       "counter": "island-scrub-jay-jpg"
     },
-    "count": 1,
+    "count": 11,
     "locations": []
   },
   "java-sparrow": {
@@ -5676,6 +7491,46 @@
     "url": "/wildlife-gallery/lesser-goldfinch/",
     "photos": [
       {
+        "filename": "20260525-DSC08065.jpg",
+        "path": "/photo_gallery/lesser-goldfinch/20260525-DSC08065.jpg",
+        "thumbnail": "/assets/images/wildlife/lesser-goldfinch/0b4b10f4828f4b5bfbb84655f57f9ef9cea066f9.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Lesser Goldfinch",
+        "location": "",
+        "date": "2026-05-25T05:04:10",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "lesser-goldfinch-20260525-dsc08065-jpg"
+      },
+      {
+        "filename": "20260525-DSC08057.jpg",
+        "path": "/photo_gallery/lesser-goldfinch/20260525-DSC08057.jpg",
+        "thumbnail": "/assets/images/wildlife/lesser-goldfinch/888a5df832cf25f611b9655312876da14f4e7fb4.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Lesser Goldfinch",
+        "location": "",
+        "date": "2026-05-25T05:03:59",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "lesser-goldfinch-20260525-dsc08057-jpg"
+      },
+      {
         "filename": "Lesser Goldfinch.jpg",
         "path": "/photo_gallery/lesser-goldfinch/Lesser Goldfinch.jpg",
         "thumbnail": "/assets/images/wildlife/lesser-goldfinch/515740c9f7a1a73177b203c0e4b1fbb1e70a5160.webp",
@@ -5694,6 +7549,26 @@
           "shutter": "1/3200"
         },
         "counter": "lesser-goldfinch-jpg"
+      },
+      {
+        "filename": "20260424-DSC04657.jpg",
+        "path": "/photo_gallery/lesser-goldfinch/20260424-DSC04657.jpg",
+        "thumbnail": "/assets/images/wildlife/lesser-goldfinch/c769739d1fb976ceab1d90176ffcfb35b7df4a21.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Lesser Goldfinch",
+        "location": "",
+        "date": "2026-04-24T01:18:36",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "lesser-goldfinch-20260424-dsc04657-jpg"
       }
     ],
     "cover": {
@@ -5716,7 +7591,7 @@
       },
       "counter": "lesser-goldfinch-jpg"
     },
-    "count": 1,
+    "count": 4,
     "locations": []
   },
   "little-blue-heron": {
@@ -6272,6 +8147,26 @@
     "url": "/wildlife-gallery/monarch-butterfly/",
     "photos": [
       {
+        "filename": "20260525-DSC08554.jpg",
+        "path": "/photo_gallery/monarch-butterfly/20260525-DSC08554.jpg",
+        "thumbnail": "/assets/images/wildlife/monarch-butterfly/b297712125bf614634768ca3bbee5087d7533b19.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Monarch Butterfly",
+        "location": "",
+        "date": "2026-05-25T09:47:45",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "monarch-butterfly-20260525-dsc08554-jpg"
+      },
+      {
         "filename": "Monach Butterfly.jpg",
         "path": "/photo_gallery/monarch-butterfly/Monach Butterfly.jpg",
         "thumbnail": "/assets/images/wildlife/monarch-butterfly/86be550d6591d065dc47949f5621cde3715038ff.webp",
@@ -6312,7 +8207,7 @@
       },
       "counter": "monach-butterfly-jpg"
     },
-    "count": 1,
+    "count": 2,
     "locations": []
   },
   "mountain-chickadee": {
@@ -6529,6 +8424,26 @@
         "counter": "night-heron-20261029-dsc03194-jpg"
       },
       {
+        "filename": "20260424-DSC04870.jpg",
+        "path": "/photo_gallery/night-heron/20260424-DSC04870.jpg",
+        "thumbnail": "/assets/images/wildlife/night-heron/babbf644d722cb6bde345b48513d856dadb3d441.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Night Heron",
+        "location": "",
+        "date": "2026-04-24T03:04:01",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "night-heron-20260424-dsc04870-jpg"
+      },
+      {
         "filename": "Night Heron.jpg",
         "path": "/photo_gallery/night-heron/Night Heron.jpg",
         "thumbnail": "/assets/images/wildlife/night-heron/210686c22f472cae42d948163117d5d94a8853fc.webp",
@@ -6547,6 +8462,46 @@
           "shutter": "1/3200"
         },
         "counter": "night-heron-jpg"
+      },
+      {
+        "filename": "20260424-DSC04856.jpg",
+        "path": "/photo_gallery/night-heron/20260424-DSC04856.jpg",
+        "thumbnail": "/assets/images/wildlife/night-heron/12005eb46edef7e2615d66718950de35fe90d10d.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Night Heron",
+        "location": "",
+        "date": "2026-04-24T03:02:45",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "night-heron-20260424-dsc04856-jpg"
+      },
+      {
+        "filename": "20260424-DSC04835.jpg",
+        "path": "/photo_gallery/night-heron/20260424-DSC04835.jpg",
+        "thumbnail": "/assets/images/wildlife/night-heron/cc3daef470fceec14c1c659d9c52f28412208423.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Night Heron",
+        "location": "",
+        "date": "2026-04-24T03:01:19",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "night-heron-20260424-dsc04835-jpg"
       }
     ],
     "cover": {
@@ -6569,7 +8524,7 @@
       },
       "counter": "night-heron-20261029-dsc03194-jpg"
     },
-    "count": 2,
+    "count": 5,
     "locations": []
   },
   "northern-cardinal": {
@@ -6786,6 +8741,26 @@
     "url": "/wildlife-gallery/northern-mockingbird/",
     "photos": [
       {
+        "filename": "20260424-DSC04692.jpg",
+        "path": "/photo_gallery/northern-mockingbird/20260424-DSC04692.jpg",
+        "thumbnail": "/assets/images/wildlife/northern-mockingbird/db8de584c0b94f80235c87a44f50d029bcc695c3.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Northern Mockingbird",
+        "location": "",
+        "date": "2026-04-24T01:21:58",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "northern-mockingbird-20260424-dsc04692-jpg"
+      },
+      {
         "filename": "Northern Mockingbird.jpg",
         "path": "/photo_gallery/northern-mockingbird/Northern Mockingbird.jpg",
         "thumbnail": "/assets/images/wildlife/northern-mockingbird/acfe2f0b7cd8c5d314c3c3d67adcbbf84d859abe.webp",
@@ -6826,7 +8801,7 @@
       },
       "counter": "northern-mockingbird-jpg"
     },
-    "count": 1,
+    "count": 2,
     "locations": []
   },
   "oak-titmouse": {
@@ -7103,6 +9078,165 @@
       "counter": "pacific-golden-plover-20261029-dsc03344-jpg"
     },
     "count": 1,
+    "locations": []
+  },
+  "pacific-loon": {
+    "name": "Pacific Loon",
+    "category": "Birds",
+    "group": "Waterbirds",
+    "scientific_name": "",
+    "description": "The Pacific Loon is a streamlined diving bird that breeds beside northern freshwater lakes and often spends the nonbreeding season along ocean coasts. Fish make up much of its diet, captured during underwater pursuits. Breeding plumage combines a gray head with intricate dark-and-pale neck and back patterns; winter birds are more subdued. Seasonal movements can bring many loons past coastal viewpoints. Their low flights over the water connect offshore feeding areas with the changing conditions of the marine environment.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/pacific_Loon/overview"
+      }
+    ],
+    "slug": "pacific-loon",
+    "url": "/wildlife-gallery/pacific-loon/",
+    "photos": [
+      {
+        "filename": "20260421-DSC03312.jpg",
+        "path": "/photo_gallery/pacific-loon/20260421-DSC03312.jpg",
+        "thumbnail": "/assets/images/wildlife/pacific-loon/260e839c42ffc27c42330141b7aaca9a1ee4c580.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Pacific Loon",
+        "location": "",
+        "date": "2026-04-21T01:37:55",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "pacific-loon-20260421-dsc03312-jpg"
+      },
+      {
+        "filename": "20260421-DSC03309.jpg",
+        "path": "/photo_gallery/pacific-loon/20260421-DSC03309.jpg",
+        "thumbnail": "/assets/images/wildlife/pacific-loon/04c840083d234bd93bffb20e7cf3148bf50d3bad.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Pacific Loon",
+        "location": "",
+        "date": "2026-04-21T01:37:22",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "pacific-loon-20260421-dsc03309-jpg"
+      },
+      {
+        "filename": "20260421-DSC03307.jpg",
+        "path": "/photo_gallery/pacific-loon/20260421-DSC03307.jpg",
+        "thumbnail": "/assets/images/wildlife/pacific-loon/15a68db92050e4a96b245005967e9c484d3113c9.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Pacific Loon",
+        "location": "",
+        "date": "2026-04-21T01:36:31",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 200,
+          "focal": 594,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "pacific-loon-20260421-dsc03307-jpg"
+      },
+      {
+        "filename": "20260421-DSC03305.jpg",
+        "path": "/photo_gallery/pacific-loon/20260421-DSC03305.jpg",
+        "thumbnail": "/assets/images/wildlife/pacific-loon/5ea2c78fc6654c4ffd74d54ac38719ae1578be0d.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Pacific Loon",
+        "location": "",
+        "date": "2026-04-21T01:36:30",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 250,
+          "focal": 594,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "pacific-loon-20260421-dsc03305-jpg"
+      },
+      {
+        "filename": "20260421-DSC03300.jpg",
+        "path": "/photo_gallery/pacific-loon/20260421-DSC03300.jpg",
+        "thumbnail": "/assets/images/wildlife/pacific-loon/2b53dc14d0994c992e320b25d4bf1ef7a098f76f.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Pacific Loon",
+        "location": "",
+        "date": "2026-04-21T01:35:41",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "pacific-loon-20260421-dsc03300-jpg"
+      },
+      {
+        "filename": "20260421-DSC03276.jpg",
+        "path": "/photo_gallery/pacific-loon/20260421-DSC03276.jpg",
+        "thumbnail": "/assets/images/wildlife/pacific-loon/252d5fc8c2470c3b6223812685576c5c05a445b2.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Pacific Loon",
+        "location": "",
+        "date": "2026-04-21T01:32:33",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 200,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "pacific-loon-20260421-dsc03276-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20260421-DSC03305.jpg",
+      "path": "/photo_gallery/pacific-loon/20260421-DSC03305.jpg",
+      "thumbnail": "/assets/images/wildlife/pacific-loon/5ea2c78fc6654c4ffd74d54ac38719ae1578be0d.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Pacific Loon",
+      "location": "",
+      "date": "2026-04-21T01:36:30",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 250,
+        "focal": 594,
+        "aperture": 6.3,
+        "shutter": "1/2500"
+      },
+      "counter": "pacific-loon-20260421-dsc03305-jpg"
+    },
+    "count": 6,
     "locations": []
   },
   "pacific-slope-western-flycatcher": {
@@ -7517,6 +9651,26 @@
     "url": "/wildlife-gallery/red-shouldered-hawk/",
     "photos": [
       {
+        "filename": "20260424-DSC04981.jpg",
+        "path": "/photo_gallery/red-shouldered-hawk/20260424-DSC04981.jpg",
+        "thumbnail": "/assets/images/wildlife/red-shouldered-hawk/6fdd064c778247473bcc28899cf4b9ac3d7632c4.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Red-Shouldered Hawk",
+        "location": "",
+        "date": "2026-04-24T03:56:07",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "red-shouldered-hawk-20260424-dsc04981-jpg"
+      },
+      {
         "filename": "20260415-DSC02461.jpg",
         "path": "/photo_gallery/red-shouldered-hawk/20260415-DSC02461.jpg",
         "thumbnail": "/assets/images/wildlife/red-shouldered-hawk/b8486d55c6adb27701380fc5aab574e16f0c007f.webp",
@@ -7637,7 +9791,7 @@
       },
       "counter": "red-shouldered-hawk-jpg"
     },
-    "count": 5,
+    "count": 6,
     "locations": []
   },
   "red-tailed-hawk": {
@@ -7696,6 +9850,46 @@
         "counter": "red-tailed-hawk-20260830-dsc01961-jpg"
       },
       {
+        "filename": "20260421-DSC03638.jpg",
+        "path": "/photo_gallery/red-tailed-hawk/20260421-DSC03638.jpg",
+        "thumbnail": "/assets/images/wildlife/red-tailed-hawk/5f64337e1ab7b84dbd7585ce84bcfec787d9f3ca.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Red-tailed Hawk",
+        "location": "",
+        "date": "2026-04-21T03:47:44",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 320,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "red-tailed-hawk-20260421-dsc03638-jpg"
+      },
+      {
+        "filename": "20260421-DSC03631.jpg",
+        "path": "/photo_gallery/red-tailed-hawk/20260421-DSC03631.jpg",
+        "thumbnail": "/assets/images/wildlife/red-tailed-hawk/064810be75bd297beab5f7f8fcbaff485338a1c3.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Red-tailed Hawk",
+        "location": "",
+        "date": "2026-04-21T03:47:42",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 320,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "red-tailed-hawk-20260421-dsc03631-jpg"
+      },
+      {
         "filename": "Red-tailed Hawk.jpg",
         "path": "/photo_gallery/red-tailed-hawk/Red-tailed Hawk.jpg",
         "thumbnail": "/assets/images/wildlife/red-tailed-hawk/d5cdc6d1b03bf33ee922c6dc5318a1324bc01e91.webp",
@@ -7736,7 +9930,7 @@
       },
       "counter": "red-tailed-hawk-20260830-dsc01972-jpg"
     },
-    "count": 3,
+    "count": 5,
     "locations": []
   },
   "red-whiskered-bulbul": {
@@ -8980,6 +11174,26 @@
           "shutter": "1/800"
         },
         "counter": "song-sparrow-jpg"
+      },
+      {
+        "filename": "20260421-DSC03601.jpg",
+        "path": "/photo_gallery/song-sparrow/20260421-DSC03601.jpg",
+        "thumbnail": "/assets/images/wildlife/song-sparrow/10be62931e314818b9cc00d12fe6d1f4c10b9ba4.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Song Sparrow",
+        "location": "",
+        "date": "2026-04-21T03:32:05",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 400,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "song-sparrow-20260421-dsc03601-jpg"
       }
     ],
     "cover": {
@@ -9002,7 +11216,7 @@
       },
       "counter": "song-sparrow-jpg"
     },
-    "count": 1,
+    "count": 2,
     "locations": []
   },
   "spotted-dove": {
@@ -9080,6 +11294,26 @@
     "url": "/wildlife-gallery/spotted-towhee/",
     "photos": [
       {
+        "filename": "20260421-DSC03620.jpg",
+        "path": "/photo_gallery/spotted-towhee/20260421-DSC03620.jpg",
+        "thumbnail": "/assets/images/wildlife/spotted-towhee/9eb75a76afa102fde1d0297647732a122345c35c.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Spotted Towhee",
+        "location": "",
+        "date": "2026-04-21T03:34:51",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "spotted-towhee-20260421-dsc03620-jpg"
+      },
+      {
         "filename": "Spotted Towhee.jpg",
         "path": "/photo_gallery/spotted-towhee/Spotted Towhee.jpg",
         "thumbnail": "/assets/images/wildlife/spotted-towhee/6b14d8370af0642e91c4885572b7aac705b6bc4f.webp",
@@ -9120,7 +11354,7 @@
       },
       "counter": "spotted-towhee-jpg"
     },
-    "count": 1,
+    "count": 2,
     "locations": []
   },
   "steller-s-jay": {
@@ -10471,6 +12705,46 @@
     "url": "/wildlife-gallery/western-grebe/",
     "photos": [
       {
+        "filename": "20260421-DSC03211.jpg",
+        "path": "/photo_gallery/western-grebe/20260421-DSC03211.jpg",
+        "thumbnail": "/assets/images/wildlife/western-grebe/6ef3d84e2ad74bea3bebe42ff2547e1b911254af.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Western Grebe",
+        "location": "",
+        "date": "2026-04-21T01:04:54",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "western-grebe-20260421-dsc03211-jpg"
+      },
+      {
+        "filename": "20260421-DSC03210.jpg",
+        "path": "/photo_gallery/western-grebe/20260421-DSC03210.jpg",
+        "thumbnail": "/assets/images/wildlife/western-grebe/7019839d1b551323f87aa082af994f7d525496e8.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Western Grebe",
+        "location": "",
+        "date": "2026-04-21T01:04:06",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "western-grebe-20260421-dsc03210-jpg"
+      },
+      {
         "filename": "Western Grebe.jpg",
         "path": "/photo_gallery/western-grebe/Western Grebe.jpg",
         "thumbnail": "/assets/images/wildlife/western-grebe/5e4087c20eaa275914fb37954920195f9653b0b4.webp",
@@ -10511,7 +12785,7 @@
       },
       "counter": "western-grebe-jpg"
     },
-    "count": 1,
+    "count": 3,
     "locations": []
   },
   "western-gull": {
@@ -10529,6 +12803,86 @@
     "slug": "western-gull",
     "url": "/wildlife-gallery/western-gull/",
     "photos": [
+      {
+        "filename": "20260421-DSC04358.jpg",
+        "path": "/photo_gallery/western-gull/20260421-DSC04358.jpg",
+        "thumbnail": "/assets/images/wildlife/western-gull/d7fec8416189aa35a0be921c78609353341630a4.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Western Gull",
+        "location": "",
+        "date": "2026-04-21T08:00:39",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 100,
+          "focal": 588,
+          "aperture": 7.1,
+          "shutter": "1/800"
+        },
+        "counter": "western-gull-20260421-dsc04358-jpg"
+      },
+      {
+        "filename": "20260421-DSC03356.jpg",
+        "path": "/photo_gallery/western-gull/20260421-DSC03356.jpg",
+        "thumbnail": "/assets/images/wildlife/western-gull/27d071000c8cc58988314df15d6abdd3935aa7bd.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Western Gull",
+        "location": "",
+        "date": "2026-04-21T02:07:09",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/4000"
+        },
+        "counter": "western-gull-20260421-dsc03356-jpg"
+      },
+      {
+        "filename": "20260421-DSC03350.jpg",
+        "path": "/photo_gallery/western-gull/20260421-DSC03350.jpg",
+        "thumbnail": "/assets/images/wildlife/western-gull/f33f8be2e076bd0261549fea12467d40079640c4.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Western Gull",
+        "location": "",
+        "date": "2026-04-21T02:07:08",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 400,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/4000"
+        },
+        "counter": "western-gull-20260421-dsc03350-jpg"
+      },
+      {
+        "filename": "20260421-DSC03349.jpg",
+        "path": "/photo_gallery/western-gull/20260421-DSC03349.jpg",
+        "thumbnail": "/assets/images/wildlife/western-gull/080b08feff97886276ac68de9c87b41056a769c2.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Western Gull",
+        "location": "",
+        "date": "2026-04-21T02:07:07",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/4000"
+        },
+        "counter": "western-gull-20260421-dsc03349-jpg"
+      },
       {
         "filename": "20260408-DSC00923.jpg",
         "path": "/photo_gallery/western-gull/20260408-DSC00923.jpg",
@@ -10570,7 +12924,7 @@
       },
       "counter": "western-gull-20260408-dsc00923-jpg"
     },
-    "count": 1,
+    "count": 5,
     "locations": []
   },
   "western-sandpipers": {
@@ -11182,6 +13536,26 @@
     "url": "/wildlife-gallery/yellow-crowned-night-heron/",
     "photos": [
       {
+        "filename": "20260525-DSC07859.jpg",
+        "path": "/photo_gallery/yellow-crowned-night-heron/20260525-DSC07859.jpg",
+        "thumbnail": "/assets/images/wildlife/yellow-crowned-night-heron/c1e9436bf328e290bc957d7d733b0f6bdbdae81d.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Yellow-Crowned Night Heron",
+        "location": "",
+        "date": "2026-05-25T04:12:51",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "yellow-crowned-night-heron-20260525-dsc07859-jpg"
+      },
+      {
         "filename": "Yellow-Crowned Night Heron.jpg",
         "path": "/photo_gallery/yellow-crowned-night-heron/Yellow-Crowned Night Heron.jpg",
         "thumbnail": "/assets/images/wildlife/yellow-crowned-night-heron/bbc93098e6ca0cedf684c4de94dc70410ba657d6.webp",
@@ -11200,6 +13574,166 @@
           "shutter": "1/1250"
         },
         "counter": "yellow-crowned-night-heron-jpg"
+      },
+      {
+        "filename": "20260525-DSC07633.jpg",
+        "path": "/photo_gallery/yellow-crowned-night-heron/20260525-DSC07633.jpg",
+        "thumbnail": "/assets/images/wildlife/yellow-crowned-night-heron/fd4c1de8a4bf032460e0d7a1337c2491a066f7b5.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Yellow-Crowned Night Heron",
+        "location": "",
+        "date": "2026-05-25T03:56:49",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 594,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "yellow-crowned-night-heron-20260525-dsc07633-jpg"
+      },
+      {
+        "filename": "20260525-DSC07634.jpg",
+        "path": "/photo_gallery/yellow-crowned-night-heron/20260525-DSC07634.jpg",
+        "thumbnail": "/assets/images/wildlife/yellow-crowned-night-heron/249170a45c3fe51c0bf64d8d1864f32dbc4ecce9.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Yellow-Crowned Night Heron",
+        "location": "",
+        "date": "2026-05-25T03:56:49",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 594,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "yellow-crowned-night-heron-20260525-dsc07634-jpg"
+      },
+      {
+        "filename": "20260525-DSC07417.jpg",
+        "path": "/photo_gallery/yellow-crowned-night-heron/20260525-DSC07417.jpg",
+        "thumbnail": "/assets/images/wildlife/yellow-crowned-night-heron/53c5b3b415d0702eab761904d015526e5159e9f3.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Yellow-Crowned Night Heron",
+        "location": "",
+        "date": "2026-05-25T03:43:24",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "yellow-crowned-night-heron-20260525-dsc07417-jpg"
+      },
+      {
+        "filename": "20260525-DSC07415.jpg",
+        "path": "/photo_gallery/yellow-crowned-night-heron/20260525-DSC07415.jpg",
+        "thumbnail": "/assets/images/wildlife/yellow-crowned-night-heron/41f57f54f12dfd666b43cd47eadd05a626159b6b.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Yellow-Crowned Night Heron",
+        "location": "",
+        "date": "2026-05-25T03:43:23",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 3200,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "yellow-crowned-night-heron-20260525-dsc07415-jpg"
+      },
+      {
+        "filename": "20260525-DSC07188.jpg",
+        "path": "/photo_gallery/yellow-crowned-night-heron/20260525-DSC07188.jpg",
+        "thumbnail": "/assets/images/wildlife/yellow-crowned-night-heron/7637335137133ff7f9538687c62954071e6ceaea.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Yellow-Crowned Night Heron",
+        "location": "",
+        "date": "2026-05-25T03:37:41",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "yellow-crowned-night-heron-20260525-dsc07188-jpg"
+      },
+      {
+        "filename": "20260525-DSC07175.jpg",
+        "path": "/photo_gallery/yellow-crowned-night-heron/20260525-DSC07175.jpg",
+        "thumbnail": "/assets/images/wildlife/yellow-crowned-night-heron/9f6f4edc2d31e00d7ee6260745613ea657305d31.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Yellow-Crowned Night Heron",
+        "location": "",
+        "date": "2026-05-25T03:37:29",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "yellow-crowned-night-heron-20260525-dsc07175-jpg"
+      },
+      {
+        "filename": "20260525-DSC07144.jpg",
+        "path": "/photo_gallery/yellow-crowned-night-heron/20260525-DSC07144.jpg",
+        "thumbnail": "/assets/images/wildlife/yellow-crowned-night-heron/cd5a652fa73f6e56e519c917452563d7c566782f.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Yellow-Crowned Night Heron",
+        "location": "",
+        "date": "2026-05-25T03:36:40",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "yellow-crowned-night-heron-20260525-dsc07144-jpg"
+      },
+      {
+        "filename": "20260525-DSC07098.jpg",
+        "path": "/photo_gallery/yellow-crowned-night-heron/20260525-DSC07098.jpg",
+        "thumbnail": "/assets/images/wildlife/yellow-crowned-night-heron/638ea845cbbeae3d58fb2d4fbc3b655743a95300.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Yellow-Crowned Night Heron",
+        "location": "",
+        "date": "2026-05-25T03:32:34",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 4000,
+          "focal": 506,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "yellow-crowned-night-heron-20260525-dsc07098-jpg"
       },
       {
         "filename": "Juvenile Yellow-Crowned Night Heron.jpg",
@@ -11242,7 +13776,7 @@
       },
       "counter": "yellow-crowned-night-heron-jpg"
     },
-    "count": 2,
+    "count": 11,
     "locations": []
   },
   "yellow-rumped-warbler": {

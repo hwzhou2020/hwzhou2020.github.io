@@ -1,0 +1,13 @@
+{
+  "name": "Chipping Sparrow",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "20260421-DSC03590.jpg",
+  "description": "The Chipping Sparrow is a small, slender sparrow of open woodland, parks, and gardens with scattered trees. Breeding adults have a rusty crown, pale face, and dark eye-line, while winter plumage is softer and browner. It feeds mainly on seeds outside the breeding season and adds more insects while raising young. Much feeding takes place on the ground, with nearby shrubs offering cover. Careful attention to its head pattern helps distinguish it from other small brown sparrows.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Chipping_Sparrow/id"
+    }
+  ]
+}

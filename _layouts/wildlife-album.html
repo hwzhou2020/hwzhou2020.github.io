@@ -41,6 +41,7 @@ layout: modern
   {% if album.references.size > 0 %}
   <p class="wildlife-reference">Reference: {% for reference in album.references %}<a href="{{ reference.url | escape }}" target="_blank" rel="noopener noreferrer">{{ reference.title | escape }}</a>{% unless forloop.last %}; {% endunless %}{% endfor %}</p>
   {% endif %}
+  {% include wildlife-copyright.html %}
   <dialog class="wildlife-viewer" aria-label="Photograph viewer" data-photo-viewer>
     <div class="wildlife-viewer-bar">
       <span data-viewer-count></span>

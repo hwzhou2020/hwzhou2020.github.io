@@ -263,6 +263,22 @@
     "aperture": 6.3,
     "shutter": "1/2500"
   },
+  "barn-owl/20260525-DSC07879.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 4000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
+  "barn-owl/20260525-DSC07898.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 4000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
   "barn-owl/Baby Barn Owl.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -270,6 +286,14 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/1250"
+  },
+  "bewick-s-wren/20260424-DSC04715.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
   },
   "bewick-s-wren/Bewick's Wren.jpg": {
     "model": "ILCE-7CM2",
@@ -303,6 +327,22 @@
     "aperture": 6.3,
     "shutter": "1/1250"
   },
+  "black-phoebe/20260424-DSC04733.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1600"
+  },
+  "black-phoebe/20260424-DSC04975.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
   "black-phoebe/Black Phoebe.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -310,6 +350,22 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/4000"
+  },
+  "black-skimmer/20260525-DSC08364.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "black-skimmer/20260525-DSC08381.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
   },
   "black-tail-deer/20260919-DSC02659.jpg": {
     "model": "ILCE-7CM2",
@@ -343,6 +399,38 @@
     "aperture": 6.3,
     "shutter": "1/4000"
   },
+  "brandt-s-cormorants/20260421-DSC03226.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
+  "brandt-s-cormorants/20260421-DSC03715.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "brandt-s-cormorants/20260421-DSC03735.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 400,
+    "focal": 518,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "brandt-s-cormorants/20260421-DSC04323.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 125,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
   "brewer-s-blackbird/Brewer's Blackbird.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -350,6 +438,14 @@
     "focal": 478,
     "aperture": 6.3,
     "shutter": "1/2000"
+  },
+  "bushtit/20260525-DSC08331.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 250,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250"
   },
   "bushtit/Bushtit.jpg": {
     "model": "ILCE-7CM2",
@@ -390,6 +486,14 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/4000"
+  },
+  "california-brown-pelican/20260421-DSC04309.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 100,
+    "focal": 600,
+    "aperture": 8.0,
+    "shutter": "1/640"
   },
   "california-brown-pelican/California Brown Pelican.jpg": {
     "model": "ILCE-7CM2",
@@ -567,6 +671,22 @@
     "aperture": 6.3,
     "shutter": "1/640"
   },
+  "california-sea-lion/20260421-DSC03237.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 500,
+    "focal": 326,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
+  "california-sea-lion/20260421-DSC03416.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 553,
+    "aperture": 6.3,
+    "shutter": "1/4000"
+  },
   "california-tarantula/20261001-DSC02802.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -623,6 +743,22 @@
     "aperture": 6.3,
     "shutter": "1/4000"
   },
+  "caspian-tern/20260421-DSC03213.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 320,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
+  "caspian-tern/20260421-DSC03214.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 400,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
   "cattle-egret/20261029-DSC03701.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 24-70mm F2.8 GM II",
@@ -638,6 +774,14 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/500"
+  },
+  "chipping-sparrow/20260421-DSC03590.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 125,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1000"
   },
   "cinnamon-teal/20260408-DSC09697.jpg": {
     "model": "ILCE-7CM2",
@@ -670,6 +814,46 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/800"
+  },
+  "common-raven/20260421-DSC03648.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 200,
+    "focal": 459,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "common-raven/20260421-DSC03672.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 368,
+    "aperture": 6.3,
+    "shutter": "1/4000"
+  },
+  "common-raven/20260421-DSC03687.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 541,
+    "aperture": 6.3,
+    "shutter": "1/4000"
+  },
+  "common-raven/20260421-DSC03695.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "common-raven/20260421-DSC03696.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
   },
   "common-raven/Common Raven.jpg": {
     "model": "ILCE-7CM2",
@@ -742,6 +926,22 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/2500"
+  },
+  "double-crested-cormorant/20260421-DSC04423.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 100,
+    "focal": 600,
+    "aperture": 8.0,
+    "shutter": "1/800"
+  },
+  "double-crested-cormorant/20260421-DSC04425.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 100,
+    "focal": 600,
+    "aperture": 8.0,
+    "shutter": "1/800"
   },
   "double-crested-cormorant/Double-Crested Cormorant.jpg": {
     "model": "ILCE-7CM2",
@@ -1095,6 +1295,14 @@
     "aperture": 6.3,
     "shutter": "1/2500"
   },
+  "great-horned-owl/20260525-DSC07963.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
   "great-horned-owl/20260525-DSC07979.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -1102,6 +1310,38 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/1250"
+  },
+  "great-horned-owl/20260525-DSC08033.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
+  "great-horned-owl/20260525-DSC08240.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1600"
+  },
+  "great-horned-owl/20260525-DSC08254.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1600"
+  },
+  "great-horned-owl/20260525-DSC08278.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 320,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1600"
   },
   "great-horned-owl/20260525-DSC08280.jpg": {
     "model": "ILCE-7CM2",
@@ -1127,6 +1367,54 @@
     "aperture": 6.3,
     "shutter": "1/1600"
   },
+  "great-tailed-grackle/20260421-DSC04436.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 320,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "great-tailed-grackle/20260421-DSC04456.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "great-tailed-grackle/20260421-DSC04465.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 559,
+    "aperture": 6.3,
+    "shutter": "1/400"
+  },
+  "great-tailed-grackle/20260421-DSC04467.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/400"
+  },
+  "great-tailed-grackle/20260421-DSC04485.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/200"
+  },
+  "great-tailed-grackle/20260421-DSC04488.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 200,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/200"
+  },
   "great-tailed-grackle/Great-tailed Grackle.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -1143,11 +1431,51 @@
     "aperture": 6.3,
     "shutter": "1/3200"
   },
+  "greater-roadrunner/20260525-DSC08475.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 4000,
+    "focal": 547,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
   "greater-roadrunner/20260525-DSC08487.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
     "iso": 3200,
     "focal": 576,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "greater-roadrunner/20260525-DSC08489.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 576,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "greater-roadrunner/20260525-DSC08513.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 8000,
+    "focal": 241,
+    "aperture": 5.6,
+    "shutter": "1/3200"
+  },
+  "greater-roadrunner/20260525-DSC08518.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 8000,
+    "focal": 216,
+    "aperture": 5.6,
+    "shutter": "1/3200"
+  },
+  "greater-roadrunner/20260525-DSC08525.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 8000,
+    "focal": 600,
     "aperture": 6.3,
     "shutter": "1/3200"
   },
@@ -1263,6 +1591,38 @@
     "aperture": 6.3,
     "shutter": "1/640"
   },
+  "house-sparrow/20260420-DSC03178.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
+  "house-sparrow/20260421-DSC04385.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 320,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "house-sparrow/20260421-DSC04402.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "house-sparrow/20260421-DSC04406.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
   "house-sparrow/20261029-DSC03581.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -1287,6 +1647,54 @@
     "aperture": 6.3,
     "shutter": "1/800"
   },
+  "indian-peafowl/20260424-DSC04499.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 200,
+    "focal": 200,
+    "aperture": 5.6,
+    "shutter": "1/200"
+  },
+  "indian-peafowl/20260424-DSC04553.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 500,
+    "focal": 200,
+    "aperture": 5.6,
+    "shutter": "1/400"
+  },
+  "indian-peafowl/20260424-DSC04563.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 320,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/400"
+  },
+  "indian-peafowl/20260424-DSC04700.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 200,
+    "aperture": 5.6,
+    "shutter": "1/1250"
+  },
+  "indian-peafowl/20260424-DSC04708.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 332,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "indian-peafowl/20260424-DSC04967.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 371,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
   "indian-peafowl/Indian Peafowl.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -1295,6 +1703,166 @@
     "aperture": 5.6,
     "shutter": "1/200"
   },
+  "island-fox/20260421-DSC03514.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/320"
+  },
+  "island-fox/20260421-DSC03549.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 426,
+    "aperture": 6.3,
+    "shutter": "1/320"
+  },
+  "island-fox/20260421-DSC03940.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 268,
+    "aperture": 5.6,
+    "shutter": "1/640"
+  },
+  "island-fox/20260421-DSC03946.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 371,
+    "aperture": 6.3,
+    "shutter": "1/640"
+  },
+  "island-fox/20260421-DSC04011.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/640"
+  },
+  "island-fox/20260421-DSC04063.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/640"
+  },
+  "island-fox/20260421-DSC04067.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/640"
+  },
+  "island-fox/20260421-DSC04068.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/640"
+  },
+  "island-fox/20260421-DSC04074.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 125,
+    "focal": 255,
+    "aperture": 5.6,
+    "shutter": "1/640"
+  },
+  "island-fox/20260421-DSC04093.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/640"
+  },
+  "island-fox/20260421-DSC04112.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 359,
+    "aperture": 6.3,
+    "shutter": "1/640"
+  },
+  "island-fox/20260421-DSC04119.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 309,
+    "aperture": 6.3,
+    "shutter": "1/640"
+  },
+  "island-fox/20260421-DSC04134.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 300,
+    "aperture": 6.3,
+    "shutter": "1/640"
+  },
+  "island-fox/20260421-DSC04144.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 329,
+    "aperture": 6.3,
+    "shutter": "1/640"
+  },
+  "island-fox/20260421-DSC04212.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 400,
+    "aperture": 6.3,
+    "shutter": "1/640"
+  },
+  "island-fox/20260421-DSC04242.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 452,
+    "aperture": 6.3,
+    "shutter": "1/640"
+  },
+  "island-fox/20260421-DSC04244.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 200,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/640"
+  },
+  "island-fox/20260421-DSC04255.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 100,
+    "focal": 506,
+    "aperture": 6.3,
+    "shutter": "1/640"
+  },
+  "island-fox/20260421-DSC04284.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 275,
+    "aperture": 5.6,
+    "shutter": "1/640"
+  },
+  "island-fox/20260421-DSC04287.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 200,
+    "aperture": 5.6,
+    "shutter": "1/640"
+  },
   "island-fox/Island Fox.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -1302,6 +1870,86 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/320"
+  },
+  "island-scrub-jay/20260421-DSC03538.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 320,
+    "focal": 481,
+    "aperture": 6.3,
+    "shutter": "1/320"
+  },
+  "island-scrub-jay/20260421-DSC03543.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 320,
+    "focal": 400,
+    "aperture": 6.3,
+    "shutter": "1/320"
+  },
+  "island-scrub-jay/20260421-DSC03772.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 12800,
+    "focal": 485,
+    "aperture": 20.0,
+    "shutter": "1/800"
+  },
+  "island-scrub-jay/20260421-DSC03805.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 576,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "island-scrub-jay/20260421-DSC03825.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "island-scrub-jay/20260421-DSC03837.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "island-scrub-jay/20260421-DSC03860.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "island-scrub-jay/20260421-DSC03867.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "island-scrub-jay/20260421-DSC03885.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "island-scrub-jay/20260421-DSC03889.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
   },
   "island-scrub-jay/Island Scrub-Jay.jpg": {
     "model": "ILCE-7CM2",
@@ -1336,6 +1984,30 @@
     "shutter": "1/2000"
   },
   "killdeer/Killdeer.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "lesser-goldfinch/20260424-DSC04657.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "lesser-goldfinch/20260525-DSC08057.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "lesser-goldfinch/20260525-DSC08065.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
     "iso": 800,
@@ -1519,6 +2191,14 @@
     "aperture": 6.3,
     "shutter": "1/800"
   },
+  "monarch-butterfly/20260525-DSC08554.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
   "monarch-butterfly/Monach Butterfly.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -1566,6 +2246,30 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/160"
+  },
+  "night-heron/20260424-DSC04835.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "night-heron/20260424-DSC04856.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "night-heron/20260424-DSC04870.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
   },
   "night-heron/20261029-DSC03194.jpg": {
     "model": "ILCE-7CM2",
@@ -1631,6 +2335,14 @@
     "aperture": 6.3,
     "shutter": "1/3200"
   },
+  "northern-mockingbird/20260424-DSC04692.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
   "northern-mockingbird/Northern Mockingbird.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -1683,6 +2395,54 @@
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
     "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
+  "pacific-loon/20260421-DSC03276.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 200,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
+  "pacific-loon/20260421-DSC03300.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 250,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
+  "pacific-loon/20260421-DSC03305.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 250,
+    "focal": 594,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
+  "pacific-loon/20260421-DSC03307.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 200,
+    "focal": 594,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
+  "pacific-loon/20260421-DSC03309.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 250,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
+  "pacific-loon/20260421-DSC03312.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 250,
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/2500"
@@ -1815,6 +2575,14 @@
     "aperture": 6.3,
     "shutter": "1/2500"
   },
+  "red-shouldered-hawk/20260424-DSC04981.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
   "red-shouldered-hawk/Red-Shouldered Hawk.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -1822,6 +2590,22 @@
     "focal": 576,
     "aperture": 6.3,
     "shutter": "1/2500"
+  },
+  "red-tailed-hawk/20260421-DSC03631.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 320,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "red-tailed-hawk/20260421-DSC03638.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 320,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
   },
   "red-tailed-hawk/20260830-DSC01961.jpg": {
     "model": "ILCE-7CM2",
@@ -2127,6 +2911,14 @@
     "aperture": 6.3,
     "shutter": "1/1250"
   },
+  "song-sparrow/20260421-DSC03601.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 400,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
   "song-sparrow/Song Sparrow.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -2142,6 +2934,14 @@
     "focal": 200,
     "aperture": 5.6,
     "shutter": "1/800"
+  },
+  "spotted-towhee/20260421-DSC03620.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
   },
   "spotted-towhee/Spotted Towhee.jpg": {
     "model": "ILCE-7CM2",
@@ -2559,6 +3359,22 @@
     "aperture": 6.3,
     "shutter": "1/1250"
   },
+  "western-grebe/20260421-DSC03210.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
+  "western-grebe/20260421-DSC03211.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
   "western-grebe/Western Grebe.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -2574,6 +3390,38 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/4000"
+  },
+  "western-gull/20260421-DSC03349.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/4000"
+  },
+  "western-gull/20260421-DSC03350.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 400,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/4000"
+  },
+  "western-gull/20260421-DSC03356.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/4000"
+  },
+  "western-gull/20260421-DSC04358.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 100,
+    "focal": 588,
+    "aperture": 7.1,
+    "shutter": "1/800"
   },
   "western-sandpipers/20260408-DSC00518.jpg": {
     "model": "ILCE-7CM2",
@@ -2702,6 +3550,78 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/1000"
+  },
+  "yellow-crowned-night-heron/20260525-DSC07098.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 4000,
+    "focal": 506,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
+  "yellow-crowned-night-heron/20260525-DSC07144.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
+  "yellow-crowned-night-heron/20260525-DSC07175.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
+  "yellow-crowned-night-heron/20260525-DSC07188.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
+  "yellow-crowned-night-heron/20260525-DSC07415.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 3200,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
+  "yellow-crowned-night-heron/20260525-DSC07417.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
+  "yellow-crowned-night-heron/20260525-DSC07633.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 594,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
+  "yellow-crowned-night-heron/20260525-DSC07634.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 594,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
+  "yellow-crowned-night-heron/20260525-DSC07859.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250"
   },
   "yellow-crowned-night-heron/Juvenile Yellow-Crowned Night Heron.jpg": {
     "model": "ILCE-7CM2",

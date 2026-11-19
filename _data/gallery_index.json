@@ -403,7 +403,7 @@
       },
       "counter": "baby-barn-owl-jpg"
     },
-    "count": 1,
+    "count": 3,
     "locations": []
   },
   {
@@ -440,7 +440,7 @@
       },
       "counter": "bewick-s-wren-jpg"
     },
-    "count": 1,
+    "count": 2,
     "locations": []
   },
   {
@@ -476,6 +476,43 @@
         "shutter": "1/4000"
       },
       "counter": "black-phoebe-jpg"
+    },
+    "count": 4,
+    "locations": []
+  },
+  {
+    "name": "Black Skimmer",
+    "category": "Birds",
+    "group": "Shorebirds & Gulls",
+    "scientific_name": "",
+    "description": "The Black Skimmer is a long-winged coastal bird with contrasting dark upperparts and pale underparts. Its unusual bill has a lower half longer than the upper, allowing it to skim the water's surface in flight and detect small fish by touch. Beaches, sandbars, and protected shorelines provide resting and nesting sites. Groups often gather closely on open ground between feeding trips. Their specialized feeding technique and striking silhouettes make them distinctive among the gulls and terns that share their habitat.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Black_Skimmer/overview"
+      }
+    ],
+    "slug": "black-skimmer",
+    "url": "/wildlife-gallery/black-skimmer/",
+    "cover": {
+      "filename": "20260525-DSC08381.jpg",
+      "path": "/photo_gallery/black-skimmer/20260525-DSC08381.jpg",
+      "thumbnail": "/assets/images/wildlife/black-skimmer/2e49245af679a4a99c653b838f803f9167c2fa95.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Black Skimmer",
+      "location": "",
+      "date": "2026-05-25T08:48:02",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 640,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/3200"
+      },
+      "counter": "black-skimmer-20260525-dsc08381-jpg"
     },
     "count": 2,
     "locations": []
@@ -629,6 +666,43 @@
     "locations": []
   },
   {
+    "name": "Brandt's Cormorant",
+    "category": "Birds",
+    "group": "Waterbirds",
+    "scientific_name": "",
+    "description": "Brandt's Cormorant is a large diving seabird closely associated with the Pacific Coast of North America. It searches underwater for fish and other marine prey, often using productive nearshore waters and kelp beds. Breeding adults develop vivid blue throat skin and fine pale feathers around the head and neck. Rocky islands and coastal cliffs provide places to rest and breed. Groups gathered on offshore rocks offer a view of the species' social behavior between repeated fishing dives.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Brandts_Cormorant/overview"
+      }
+    ],
+    "slug": "brandt-s-cormorants",
+    "url": "/wildlife-gallery/brandt-s-cormorants/",
+    "cover": {
+      "filename": "20260421-DSC03226.jpg",
+      "path": "/photo_gallery/brandt-s-cormorants/20260421-DSC03226.jpg",
+      "thumbnail": "/assets/images/wildlife/brandt-s-cormorants/809cb4d70f1bbf898284137ef4d4ab8ae95ae2db.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Brandt's Cormorant",
+      "location": "",
+      "date": "2026-04-21T01:11:35",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 500,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/2500"
+      },
+      "counter": "brandt-s-cormorants-20260421-dsc03226-jpg"
+    },
+    "count": 4,
+    "locations": []
+  },
+  {
     "name": "Brewer's Blackbird",
     "category": "Birds",
     "group": "Songbirds",
@@ -699,7 +773,7 @@
       },
       "counter": "bushtit-jpg"
     },
-    "count": 1,
+    "count": 2,
     "locations": []
   },
   {
@@ -736,7 +810,7 @@
       },
       "counter": "california-brown-pelican-20260408-dsc00713-jpg"
     },
-    "count": 5,
+    "count": 6,
     "locations": []
   },
   {
@@ -925,6 +999,43 @@
     "locations": []
   },
   {
+    "name": "California Sea Lion",
+    "category": "Mammals",
+    "group": "",
+    "scientific_name": "",
+    "description": "The California Sea Lion is a social marine mammal with visible ear flaps, broad front flippers, and a long snout. Adult males are substantially larger and usually darker than females. It feeds mainly on fish and squid in coastal waters, then returns to rocks, beaches, or structures such as buoys to rest. Barking calls and close groupings make resting colonies conspicuous. Its body shape and external ears help distinguish it from the harbor seals that may use nearby waters.",
+    "references": [
+      {
+        "title": "NOAA Fisheries",
+        "url": "https://www.fisheries.noaa.gov/species/california-sea-lion"
+      }
+    ],
+    "slug": "california-sea-lion",
+    "url": "/wildlife-gallery/california-sea-lion/",
+    "cover": {
+      "filename": "20260421-DSC03237.jpg",
+      "path": "/photo_gallery/california-sea-lion/20260421-DSC03237.jpg",
+      "thumbnail": "/assets/images/wildlife/california-sea-lion/6d07ccaddd691b2dc14b09812c0db6bfbed15ef5.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "California Sea Lion",
+      "location": "",
+      "date": "2026-04-21T01:13:41",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 500,
+        "focal": 326,
+        "aperture": 6.3,
+        "shutter": "1/2500"
+      },
+      "counter": "california-sea-lion-20260421-dsc03237-jpg"
+    },
+    "count": 2,
+    "locations": []
+  },
+  {
     "name": "California Tarantula",
     "category": "Arachnids",
     "group": "",
@@ -1036,6 +1147,43 @@
     "locations": []
   },
   {
+    "name": "Caspian Tern",
+    "category": "Birds",
+    "group": "Shorebirds & Gulls",
+    "scientific_name": "",
+    "description": "The Caspian Tern is the world's largest tern, with a substantial red bill, pale body, and dark crown. It uses both coastal and inland waters, searching for fish from the air before diving toward the surface. Its strong proportions and deep, raspy calls help separate it from smaller terns. Breeding colonies occupy open ground near productive feeding waters. A bird passing overhead provides a clear view of the broad wings and heavy bill that characterize this powerful seabird.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Caspian_Tern"
+      }
+    ],
+    "slug": "caspian-tern",
+    "url": "/wildlife-gallery/caspian-tern/",
+    "cover": {
+      "filename": "20260421-DSC03214.jpg",
+      "path": "/photo_gallery/caspian-tern/20260421-DSC03214.jpg",
+      "thumbnail": "/assets/images/wildlife/caspian-tern/92d21a9e2f8562d9b34ef25484a9b3ba35a21527.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Caspian Tern",
+      "location": "",
+      "date": "2026-04-21T01:07:42",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 400,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/2500"
+      },
+      "counter": "caspian-tern-20260421-dsc03214-jpg"
+    },
+    "count": 2,
+    "locations": []
+  },
+  {
     "name": "Cattle Egret",
     "category": "Birds",
     "group": "Waterbirds",
@@ -1105,6 +1253,43 @@
         "shutter": "1/500"
       },
       "counter": "chipmunk-20260705-dsc01122-jpg"
+    },
+    "count": 1,
+    "locations": []
+  },
+  {
+    "name": "Chipping Sparrow",
+    "category": "Birds",
+    "group": "Songbirds",
+    "scientific_name": "",
+    "description": "The Chipping Sparrow is a small, slender sparrow of open woodland, parks, and gardens with scattered trees. Breeding adults have a rusty crown, pale face, and dark eye-line, while winter plumage is softer and browner. It feeds mainly on seeds outside the breeding season and adds more insects while raising young. Much feeding takes place on the ground, with nearby shrubs offering cover. Careful attention to its head pattern helps distinguish it from other small brown sparrows.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Chipping_Sparrow/id"
+      }
+    ],
+    "slug": "chipping-sparrow",
+    "url": "/wildlife-gallery/chipping-sparrow/",
+    "cover": {
+      "filename": "20260421-DSC03590.jpg",
+      "path": "/photo_gallery/chipping-sparrow/20260421-DSC03590.jpg",
+      "thumbnail": "/assets/images/wildlife/chipping-sparrow/da905292dd89894185ede8164a503f5f9235b63b.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Chipping Sparrow",
+      "location": "",
+      "date": "2026-04-21T03:26:55",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 125,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/1000"
+      },
+      "counter": "chipping-sparrow-20260421-dsc03590-jpg"
     },
     "count": 1,
     "locations": []
@@ -1254,7 +1439,7 @@
       },
       "counter": "common-raven-jpg"
     },
-    "count": 1,
+    "count": 6,
     "locations": []
   },
   {
@@ -1365,7 +1550,7 @@
       },
       "counter": "double-crested-cormorant-20260408-dsc00881-jpg"
     },
-    "count": 6,
+    "count": 8,
     "locations": []
   },
   {
@@ -1698,7 +1883,7 @@
       },
       "counter": "juvenile-great-horned-owl-jpg"
     },
-    "count": 4,
+    "count": 9,
     "locations": []
   },
   {
@@ -1735,7 +1920,7 @@
       },
       "counter": "great-tailed-grackle-jpg"
     },
-    "count": 1,
+    "count": 7,
     "locations": []
   },
   {
@@ -1772,7 +1957,7 @@
       },
       "counter": "greater-roadrunner-20260525-dsc08487-jpg"
     },
-    "count": 3,
+    "count": 8,
     "locations": []
   },
   {
@@ -1994,7 +2179,7 @@
       },
       "counter": "house-sparrow-20261030-dsc04240-jpg"
     },
-    "count": 3,
+    "count": 7,
     "locations": []
   },
   {
@@ -2068,7 +2253,7 @@
       },
       "counter": "indian-peafowl-jpg"
     },
-    "count": 1,
+    "count": 7,
     "locations": []
   },
   {
@@ -2105,7 +2290,7 @@
       },
       "counter": "island-fox-jpg"
     },
-    "count": 1,
+    "count": 21,
     "locations": []
   },
   {
@@ -2142,7 +2327,7 @@
       },
       "counter": "island-scrub-jay-jpg"
     },
-    "count": 1,
+    "count": 11,
     "locations": []
   },
   {
@@ -2253,7 +2438,7 @@
       },
       "counter": "lesser-goldfinch-jpg"
     },
-    "count": 1,
+    "count": 4,
     "locations": []
   },
   {
@@ -2364,7 +2549,7 @@
       },
       "counter": "monach-butterfly-jpg"
     },
-    "count": 1,
+    "count": 2,
     "locations": []
   },
   {
@@ -2475,7 +2660,7 @@
       },
       "counter": "night-heron-20261029-dsc03194-jpg"
     },
-    "count": 2,
+    "count": 5,
     "locations": []
   },
   {
@@ -2586,7 +2771,7 @@
       },
       "counter": "northern-mockingbird-jpg"
     },
-    "count": 1,
+    "count": 2,
     "locations": []
   },
   {
@@ -2735,6 +2920,43 @@
       "counter": "pacific-golden-plover-20261029-dsc03344-jpg"
     },
     "count": 1,
+    "locations": []
+  },
+  {
+    "name": "Pacific Loon",
+    "category": "Birds",
+    "group": "Waterbirds",
+    "scientific_name": "",
+    "description": "The Pacific Loon is a streamlined diving bird that breeds beside northern freshwater lakes and often spends the nonbreeding season along ocean coasts. Fish make up much of its diet, captured during underwater pursuits. Breeding plumage combines a gray head with intricate dark-and-pale neck and back patterns; winter birds are more subdued. Seasonal movements can bring many loons past coastal viewpoints. Their low flights over the water connect offshore feeding areas with the changing conditions of the marine environment.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/pacific_Loon/overview"
+      }
+    ],
+    "slug": "pacific-loon",
+    "url": "/wildlife-gallery/pacific-loon/",
+    "cover": {
+      "filename": "20260421-DSC03305.jpg",
+      "path": "/photo_gallery/pacific-loon/20260421-DSC03305.jpg",
+      "thumbnail": "/assets/images/wildlife/pacific-loon/5ea2c78fc6654c4ffd74d54ac38719ae1578be0d.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Pacific Loon",
+      "location": "",
+      "date": "2026-04-21T01:36:30",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 250,
+        "focal": 594,
+        "aperture": 6.3,
+        "shutter": "1/2500"
+      },
+      "counter": "pacific-loon-20260421-dsc03305-jpg"
+    },
+    "count": 6,
     "locations": []
   },
   {
@@ -2919,7 +3141,7 @@
       },
       "counter": "red-shouldered-hawk-jpg"
     },
-    "count": 5,
+    "count": 6,
     "locations": []
   },
   {
@@ -2956,7 +3178,7 @@
       },
       "counter": "red-tailed-hawk-20260830-dsc01972-jpg"
     },
-    "count": 3,
+    "count": 5,
     "locations": []
   },
   {
@@ -3474,7 +3696,7 @@
       },
       "counter": "song-sparrow-jpg"
     },
-    "count": 1,
+    "count": 2,
     "locations": []
   },
   {
@@ -3548,7 +3770,7 @@
       },
       "counter": "spotted-towhee-jpg"
     },
-    "count": 1,
+    "count": 2,
     "locations": []
   },
   {
@@ -3881,7 +4103,7 @@
       },
       "counter": "western-grebe-jpg"
     },
-    "count": 1,
+    "count": 3,
     "locations": []
   },
   {
@@ -3918,7 +4140,7 @@
       },
       "counter": "western-gull-20260408-dsc00923-jpg"
     },
-    "count": 1,
+    "count": 5,
     "locations": []
   },
   {
@@ -4214,7 +4436,7 @@
       },
       "counter": "yellow-crowned-night-heron-jpg"
     },
-    "count": 2,
+    "count": 11,
     "locations": []
   },
   {

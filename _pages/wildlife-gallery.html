@@ -31,6 +31,7 @@ gallery_highlights:
 {% assign locations = locations_string | split: '|' | uniq | sort %}
 
 <section class="wildlife-gallery" data-species-browser>
+  <p class="wildlife-rights-notice">Photographs © Haowen Zhou. No commercial use or reuse without prior written permission.</p>
   <p class="wildlife-intro">Encounters with wildlife, one species at a time. Explore an album to see more photographs and the camera details behind each shot.</p>
   <p class="wildlife-summary">{{ albums.size }} albums <span aria-hidden="true">·</span> {{ photo_count }} photographs</p>
 
@@ -87,4 +88,5 @@ gallery_highlights:
   <p class="wildlife-empty" data-species-empty hidden>No species match these filters. Try another name or animal group.</p>
   <button class="wildlife-more" type="button" data-species-more hidden>Show more species</button>
   </section>
+  {% include wildlife-copyright.html %}
 </section>
