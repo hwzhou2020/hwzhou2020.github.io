@@ -747,6 +747,26 @@
     "url": "/wildlife-gallery/american-white-pelican/",
     "photos": [
       {
+        "filename": "20261119-DSC06370.jpg",
+        "path": "/photo_gallery/american-white-pelican/20261119-DSC06370.jpg",
+        "thumbnail": "/assets/images/wildlife/american-white-pelican/5f6d3aafd0e909bb7c92ed7b4a0cd7f434abf068.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "American White Pelican",
+        "location": "",
+        "date": "2026-11-19T17:10:02",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "american-white-pelican-20261119-dsc06370-jpg"
+      },
+      {
         "filename": "20260830-DSC01850.jpg",
         "path": "/photo_gallery/american-white-pelican/20260830-DSC01850.jpg",
         "thumbnail": "/assets/images/wildlife/american-white-pelican/b11d919d7add524691a9988ad07fb8f21e6bc4fe.webp",
@@ -807,7 +827,7 @@
       },
       "counter": "american-white-pelican-20260830-dsc01850-jpg"
     },
-    "count": 2,
+    "count": 3,
     "locations": []
   },
   "anna-s-hummingbird": {
@@ -1146,6 +1166,205 @@
       "counter": "baby-barn-owl-jpg"
     },
     "count": 3,
+    "locations": []
+  },
+  "belted-kingsfisher": {
+    "name": "Belted Kingfisher",
+    "category": "Birds",
+    "group": "Waterbirds",
+    "scientific_name": "",
+    "description": "The Belted Kingfisher is a stocky, large-headed bird with a shaggy crest and a strong, straight bill. It watches rivers, lakes, and sheltered shorelines from exposed perches, then dives to catch fish and other aquatic prey. A loud rattling call often announces its arrival. Blue-gray upperparts contrast with a white collar and breast; females also have a rusty band below. Nesting pairs excavate burrows in earthen banks, linking their breeding habitat to both suitable soil and productive nearby water.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Belted_Kingfisher/overview/"
+      }
+    ],
+    "slug": "belted-kingsfisher",
+    "url": "/wildlife-gallery/belted-kingsfisher/",
+    "photos": [
+      {
+        "filename": "20261119-DSC06335.jpg",
+        "path": "/photo_gallery/belted-kingsfisher/20261119-DSC06335.jpg",
+        "thumbnail": "/assets/images/wildlife/belted-kingsfisher/f86949d03db61b1b0d01d48fdf2a3694926b2c09.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Belted Kingfisher",
+        "location": "",
+        "date": "2026-11-19T17:04:46",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1600"
+        },
+        "counter": "belted-kingsfisher-20261119-dsc06335-jpg"
+      },
+      {
+        "filename": "20261119-DSC06316.jpg",
+        "path": "/photo_gallery/belted-kingsfisher/20261119-DSC06316.jpg",
+        "thumbnail": "/assets/images/wildlife/belted-kingsfisher/30693dce6b73fc8120c7cee08e2c45188a85d958.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Belted Kingfisher",
+        "location": "",
+        "date": "2026-11-19T17:01:02",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "belted-kingsfisher-20261119-dsc06316-jpg"
+      },
+      {
+        "filename": "20261119-DSC06308.jpg",
+        "path": "/photo_gallery/belted-kingsfisher/20261119-DSC06308.jpg",
+        "thumbnail": "/assets/images/wildlife/belted-kingsfisher/fa1077d8fa410cd39222e4f3edd5afaf04a50ea1.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Belted Kingfisher",
+        "location": "",
+        "date": "2026-11-19T17:00:19",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 261,
+          "aperture": 5.6,
+          "shutter": "1/3200"
+        },
+        "counter": "belted-kingsfisher-20261119-dsc06308-jpg"
+      },
+      {
+        "filename": "20261119-DSC06303.jpg",
+        "path": "/photo_gallery/belted-kingsfisher/20261119-DSC06303.jpg",
+        "thumbnail": "/assets/images/wildlife/belted-kingsfisher/15d7b30e32c4850c81e4a5605c00e9f434489cc2.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Belted Kingfisher",
+        "location": "",
+        "date": "2026-11-19T16:57:44",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "belted-kingsfisher-20261119-dsc06303-jpg"
+      },
+      {
+        "filename": "20261119-DSC06291.jpg",
+        "path": "/photo_gallery/belted-kingsfisher/20261119-DSC06291.jpg",
+        "thumbnail": "/assets/images/wildlife/belted-kingsfisher/5606ccdc715e3ead9c99ca7d99d3ea092a204193.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Belted Kingfisher",
+        "location": "",
+        "date": "2026-11-19T16:54:48",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "belted-kingsfisher-20261119-dsc06291-jpg"
+      },
+      {
+        "filename": "20261119-DSC06270.jpg",
+        "path": "/photo_gallery/belted-kingsfisher/20261119-DSC06270.jpg",
+        "thumbnail": "/assets/images/wildlife/belted-kingsfisher/2cf55513d973ef7e66c4f6306933d333fee021f0.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Belted Kingfisher",
+        "location": "",
+        "date": "2026-11-19T16:48:27",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "belted-kingsfisher-20261119-dsc06270-jpg"
+      },
+      {
+        "filename": "20261119-DSC06271.jpg",
+        "path": "/photo_gallery/belted-kingsfisher/20261119-DSC06271.jpg",
+        "thumbnail": "/assets/images/wildlife/belted-kingsfisher/e33ebee28fda675ff69cdef1eb74fa0da076a550.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Belted Kingfisher",
+        "location": "",
+        "date": "2026-11-19T16:48:27",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "belted-kingsfisher-20261119-dsc06271-jpg"
+      },
+      {
+        "filename": "20261119-DSC06262.jpg",
+        "path": "/photo_gallery/belted-kingsfisher/20261119-DSC06262.jpg",
+        "thumbnail": "/assets/images/wildlife/belted-kingsfisher/53c1c14a773bf28ecd97883c8f7bc6a41d4f965b.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Belted Kingfisher",
+        "location": "",
+        "date": "2026-11-19T16:48:21",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "belted-kingsfisher-20261119-dsc06262-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20261119-DSC06303.jpg",
+      "path": "/photo_gallery/belted-kingsfisher/20261119-DSC06303.jpg",
+      "thumbnail": "/assets/images/wildlife/belted-kingsfisher/15d7b30e32c4850c81e4a5605c00e9f434489cc2.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Belted Kingfisher",
+      "location": "",
+      "date": "2026-11-19T16:57:44",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 2500,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/3200"
+      },
+      "counter": "belted-kingsfisher-20261119-dsc06303-jpg"
+    },
+    "count": 8,
     "locations": []
   },
   "bewick-s-wren": {
@@ -1638,6 +1857,65 @@
         "shutter": "1/2500"
       },
       "counter": "black-tailed-jackrabbit-jpg"
+    },
+    "count": 1,
+    "locations": []
+  },
+  "blister-beetle": {
+    "name": "Blister Beetle",
+    "category": "Insects",
+    "group": "",
+    "scientific_name": "",
+    "description": "Blister beetles belong to the family Meloidae, a varied group with elongated bodies and relatively soft wing covers. Adults often feed on plants and can gather around flowers, where some eat pollen and nectar. Their name comes from cantharidin, a defensive chemical that can blister skin. Many have a broad head and a noticeably narrower section behind it. This album retains the broader family identification, allowing the photograph's body shape, markings, and textures to be appreciated without assigning an uncertain species name.",
+    "references": [
+      {
+        "title": "University of Kentucky Department of Entomology: Blister Beetles",
+        "url": "https://entomology.mgcafe.uky.edu/ef102"
+      }
+    ],
+    "slug": "blister-beetle",
+    "url": "/wildlife-gallery/blister-beetle/",
+    "photos": [
+      {
+        "filename": "20240717-HWZ_4468.jpg",
+        "path": "/photo_gallery/blister-beetle/20240717-HWZ_4468.jpg",
+        "thumbnail": "/assets/images/wildlife/blister-beetle/69ea5f11135a139bb97a8a4ba40a07cce4123990.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Blister Beetle",
+        "location": "",
+        "date": "2024-07-17T16:44:51",
+        "featured": false,
+        "camera": {
+          "model": "NIKON D7200",
+          "lens": "18.0-140.0 mm f/3.5-5.6",
+          "iso": 200,
+          "focal": 140,
+          "aperture": 5.6,
+          "shutter": "1/800"
+        },
+        "counter": "blister-beetle-20240717-hwz-4468-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20240717-HWZ_4468.jpg",
+      "path": "/photo_gallery/blister-beetle/20240717-HWZ_4468.jpg",
+      "thumbnail": "/assets/images/wildlife/blister-beetle/69ea5f11135a139bb97a8a4ba40a07cce4123990.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Blister Beetle",
+      "location": "",
+      "date": "2024-07-17T16:44:51",
+      "featured": false,
+      "camera": {
+        "model": "NIKON D7200",
+        "lens": "18.0-140.0 mm f/3.5-5.6",
+        "iso": 200,
+        "focal": 140,
+        "aperture": 5.6,
+        "shutter": "1/800"
+      },
+      "counter": "blister-beetle-20240717-hwz-4468-jpg"
     },
     "count": 1,
     "locations": []
@@ -3240,6 +3518,46 @@
           "shutter": "1/500"
         },
         "counter": "chipmunk-20260705-dsc01122-jpg"
+      },
+      {
+        "filename": "20240921-DSC_6635.jpg",
+        "path": "/photo_gallery/chipmunk/20240921-DSC_6635.jpg",
+        "thumbnail": "/assets/images/wildlife/chipmunk/0ee103eb833df8976cbb4e0531baeee718081c2a.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Chipmunk",
+        "location": "",
+        "date": "2024-09-21T15:35:59",
+        "featured": false,
+        "camera": {
+          "model": "NIKON Z f",
+          "lens": "NIKKOR Z 24-70mm f/2.8 S",
+          "iso": 160,
+          "focal": 70,
+          "aperture": 2.8,
+          "shutter": "1/250"
+        },
+        "counter": "chipmunk-20240921-dsc-6635-jpg"
+      },
+      {
+        "filename": "20240921-DSC_6634.jpg",
+        "path": "/photo_gallery/chipmunk/20240921-DSC_6634.jpg",
+        "thumbnail": "/assets/images/wildlife/chipmunk/751131a193fe76f2e599843d3c3fc49d72550519.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Chipmunk",
+        "location": "",
+        "date": "2024-09-21T15:35:57",
+        "featured": false,
+        "camera": {
+          "model": "NIKON Z f",
+          "lens": "NIKKOR Z 24-70mm f/2.8 S",
+          "iso": 160,
+          "focal": 70,
+          "aperture": 2.8,
+          "shutter": "1/250"
+        },
+        "counter": "chipmunk-20240921-dsc-6634-jpg"
       }
     ],
     "cover": {
@@ -3262,7 +3580,7 @@
       },
       "counter": "chipmunk-20260705-dsc01122-jpg"
     },
-    "count": 1,
+    "count": 3,
     "locations": []
   },
   "chipping-sparrow": {
@@ -3401,6 +3719,65 @@
       "counter": "cinnamon-teal-20260408-dsc09891-jpg"
     },
     "count": 2,
+    "locations": []
+  },
+  "common-grallinule": {
+    "name": "Common Gallinule",
+    "category": "Birds",
+    "group": "Waterbirds",
+    "scientific_name": "",
+    "description": "The Common Gallinule is a marsh bird that moves between open water and dense vegetation. Adults have dark plumage, a red forehead shield and bill, and a white stripe along each side. Long toes help it walk across floating plants and soft mud, while it swims readily despite lacking webbed feet. Listen for clucks and whinnying calls from the reeds. Its combination of swimming, climbing, and walking makes wetland edges especially rewarding places to watch its behavior.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Common_Gallinule/"
+      }
+    ],
+    "slug": "common-grallinule",
+    "url": "/wildlife-gallery/common-grallinule/",
+    "photos": [
+      {
+        "filename": "20261119-DSC06367.jpg",
+        "path": "/photo_gallery/common-grallinule/20261119-DSC06367.jpg",
+        "thumbnail": "/assets/images/wildlife/common-grallinule/8c5b2465e7e4ffd905291a04e2ad1861d8688795.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Common Gallinule",
+        "location": "",
+        "date": "2026-11-19T17:07:39",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "common-grallinule-20261119-dsc06367-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20261119-DSC06367.jpg",
+      "path": "/photo_gallery/common-grallinule/20261119-DSC06367.jpg",
+      "thumbnail": "/assets/images/wildlife/common-grallinule/8c5b2465e7e4ffd905291a04e2ad1861d8688795.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Common Gallinule",
+      "location": "",
+      "date": "2026-11-19T17:07:39",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 2500,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/800"
+      },
+      "counter": "common-grallinule-20261119-dsc06367-jpg"
+    },
+    "count": 1,
     "locations": []
   },
   "common-merganser": {
@@ -3759,6 +4136,65 @@
     "count": 2,
     "locations": []
   },
+  "cooper-s-hawk": {
+    "name": "Cooper's Hawk",
+    "category": "Birds",
+    "group": "Raptors & Owls",
+    "scientific_name": "",
+    "description": "Cooper's Hawk is an agile hunter that pursues other birds through woodland and around forest edges. Its long tail and bursts of wingbeats followed by glides offer useful clues when it passes overhead. Although often elusive among trees, it also inhabits towns and suburbs, where smaller birds provide abundant prey. Females are larger than males. A quiet perched bird can be easy to overlook, making a patient scan of branches worthwhile before looking for its next sudden flight.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/coopers_hawk"
+      }
+    ],
+    "slug": "cooper-s-hawk",
+    "url": "/wildlife-gallery/cooper-s-hawk/",
+    "photos": [
+      {
+        "filename": "20261119-DSC06603.jpg",
+        "path": "/photo_gallery/cooper-s-hawk/20261119-DSC06603.jpg",
+        "thumbnail": "/assets/images/wildlife/cooper-s-hawk/ae6066b7afcf1c6a9cc01a1ef57f51793fb15dc9.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Cooper's Hawk",
+        "location": "",
+        "date": "2026-11-19T17:36:26",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "cooper-s-hawk-20261119-dsc06603-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20261119-DSC06603.jpg",
+      "path": "/photo_gallery/cooper-s-hawk/20261119-DSC06603.jpg",
+      "thumbnail": "/assets/images/wildlife/cooper-s-hawk/ae6066b7afcf1c6a9cc01a1ef57f51793fb15dc9.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Cooper's Hawk",
+      "location": "",
+      "date": "2026-11-19T17:36:26",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 2500,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/1250"
+      },
+      "counter": "cooper-s-hawk-20261119-dsc06603-jpg"
+    },
+    "count": 1,
+    "locations": []
+  },
   "dark-eyed-junco": {
     "name": "Dark-Eyed Junco",
     "category": "Birds",
@@ -3853,6 +4289,46 @@
     "slug": "double-crested-cormorant",
     "url": "/wildlife-gallery/double-crested-cormorant/",
     "photos": [
+      {
+        "filename": "20261119-DSC06355.jpg",
+        "path": "/photo_gallery/double-crested-cormorant/20261119-DSC06355.jpg",
+        "thumbnail": "/assets/images/wildlife/double-crested-cormorant/500931c019b74a502f151432f9007ae7ccc35257.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Double-Crested Cormorant",
+        "location": "",
+        "date": "2026-11-19T17:06:56",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 448,
+          "aperture": 6.3,
+          "shutter": "1/1600"
+        },
+        "counter": "double-crested-cormorant-20261119-dsc06355-jpg"
+      },
+      {
+        "filename": "20261119-DSC06352.jpg",
+        "path": "/photo_gallery/double-crested-cormorant/20261119-DSC06352.jpg",
+        "thumbnail": "/assets/images/wildlife/double-crested-cormorant/285e5a21b0456d773180a9fa77d0791da9e5e71d.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Double-Crested Cormorant",
+        "location": "",
+        "date": "2026-11-19T17:06:55",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 448,
+          "aperture": 6.3,
+          "shutter": "1/1600"
+        },
+        "counter": "double-crested-cormorant-20261119-dsc06352-jpg"
+      },
       {
         "filename": "20260421-DSC04423.jpg",
         "path": "/photo_gallery/double-crested-cormorant/20260421-DSC04423.jpg",
@@ -4034,7 +4510,7 @@
       },
       "counter": "double-crested-cormorant-20260408-dsc00881-jpg"
     },
-    "count": 8,
+    "count": 10,
     "locations": []
   },
   "egyptian-goose": {
@@ -4250,6 +4726,26 @@
     "slug": "foster-s-tern",
     "url": "/wildlife-gallery/foster-s-tern/",
     "photos": [
+      {
+        "filename": "20261119-DSC06318.jpg",
+        "path": "/photo_gallery/foster-s-tern/20261119-DSC06318.jpg",
+        "thumbnail": "/assets/images/wildlife/foster-s-tern/c4df1841597c744d2b3b2ff1c10afea72ba1911b.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Forster's Tern",
+        "location": "",
+        "date": "2026-11-19T17:02:14",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 571,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "foster-s-tern-20261119-dsc06318-jpg"
+      },
       {
         "filename": "20260415-DSC02970.jpg",
         "path": "/photo_gallery/foster-s-tern/20260415-DSC02970.jpg",
@@ -4651,7 +5147,7 @@
       },
       "counter": "royal-tern-jpg"
     },
-    "count": 19,
+    "count": 20,
     "locations": []
   },
   "fox-squirrel": {
@@ -5786,6 +6282,185 @@
     "count": 8,
     "locations": []
   },
+  "green-sea-turtle": {
+    "name": "Green Sea Turtle",
+    "category": "Reptiles",
+    "group": "",
+    "scientific_name": "",
+    "description": "The Green Sea Turtle is the largest sea turtle with a hard shell, paired with a comparatively small head. Its shell may be olive, brown, or gray; the common name refers to the color of its fat. Adults feed mainly on seagrasses and algae in coastal waters. Like all sea turtles, it breathes air and must surface regularly. Long migrations connect feeding areas with nesting beaches, where females return to lay eggs in sand. Juveniles can have striking patterned shells.",
+    "references": [
+      {
+        "title": "NOAA Fisheries: Green Turtle",
+        "url": "https://www.fisheries.noaa.gov/species/green-turtle"
+      }
+    ],
+    "slug": "green-sea-turtle",
+    "url": "/wildlife-gallery/green-sea-turtle/",
+    "photos": [
+      {
+        "filename": "20230915-DSC_3234.jpg",
+        "path": "/photo_gallery/green-sea-turtle/20230915-DSC_3234.jpg",
+        "thumbnail": "/assets/images/wildlife/green-sea-turtle/1fd3c782650feb4c99af079112bb829c630ead88.webp",
+        "width": 1198,
+        "height": 800,
+        "caption": "Green Sea Turtle",
+        "location": "",
+        "date": "2023-09-15T13:10:02",
+        "featured": false,
+        "camera": {
+          "model": "NIKON Z 5",
+          "lens": "NIKKOR Z 24-70mm f/2.8 S",
+          "iso": 100,
+          "focal": 70,
+          "aperture": 2.8,
+          "shutter": "1/1600"
+        },
+        "counter": "green-sea-turtle-20230915-dsc-3234-jpg"
+      },
+      {
+        "filename": "20230915-DSC_3220.jpg",
+        "path": "/photo_gallery/green-sea-turtle/20230915-DSC_3220.jpg",
+        "thumbnail": "/assets/images/wildlife/green-sea-turtle/122df820a82558ea67e013739bead89e419dc688.webp",
+        "width": 1198,
+        "height": 800,
+        "caption": "Green Sea Turtle",
+        "location": "",
+        "date": "2023-09-15T12:38:22",
+        "featured": false,
+        "camera": {
+          "model": "NIKON Z 5",
+          "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+          "iso": 100,
+          "focal": 160,
+          "aperture": 10.0,
+          "shutter": "1/125"
+        },
+        "counter": "green-sea-turtle-20230915-dsc-3220-jpg"
+      },
+      {
+        "filename": "20230915-DSC_3217.jpg",
+        "path": "/photo_gallery/green-sea-turtle/20230915-DSC_3217.jpg",
+        "thumbnail": "/assets/images/wildlife/green-sea-turtle/abe6abc1381acc859bafc2755af602f48b00ddb0.webp",
+        "width": 1198,
+        "height": 800,
+        "caption": "Green Sea Turtle",
+        "location": "",
+        "date": "2023-09-15T12:32:57",
+        "featured": false,
+        "camera": {
+          "model": "NIKON Z 5",
+          "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+          "iso": 100,
+          "focal": 125,
+          "aperture": 14.0,
+          "shutter": "1/60"
+        },
+        "counter": "green-sea-turtle-20230915-dsc-3217-jpg"
+      },
+      {
+        "filename": "20230915-DSC_3209.jpg",
+        "path": "/photo_gallery/green-sea-turtle/20230915-DSC_3209.jpg",
+        "thumbnail": "/assets/images/wildlife/green-sea-turtle/d7449be49ebaca9a85500c834dfbb07f76d28cec.webp",
+        "width": 1198,
+        "height": 800,
+        "caption": "Green Sea Turtle",
+        "location": "",
+        "date": "2023-09-15T12:30:07",
+        "featured": false,
+        "camera": {
+          "model": "NIKON Z 5",
+          "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+          "iso": 100,
+          "focal": 200,
+          "aperture": 14.0,
+          "shutter": "1/80"
+        },
+        "counter": "green-sea-turtle-20230915-dsc-3209-jpg"
+      },
+      {
+        "filename": "20230915-DSC_3178.jpg",
+        "path": "/photo_gallery/green-sea-turtle/20230915-DSC_3178.jpg",
+        "thumbnail": "/assets/images/wildlife/green-sea-turtle/a3faf41b8db023dac77920e1a895fd83286492ab.webp",
+        "width": 1198,
+        "height": 800,
+        "caption": "Green Sea Turtle",
+        "location": "",
+        "date": "2023-09-15T12:17:48",
+        "featured": false,
+        "camera": {
+          "model": "NIKON Z 5",
+          "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+          "iso": 100,
+          "focal": 200,
+          "aperture": 2.8,
+          "shutter": "1/1000"
+        },
+        "counter": "green-sea-turtle-20230915-dsc-3178-jpg"
+      },
+      {
+        "filename": "20230915-DSC_3166.jpg",
+        "path": "/photo_gallery/green-sea-turtle/20230915-DSC_3166.jpg",
+        "thumbnail": "/assets/images/wildlife/green-sea-turtle/4d7958847ad95612daddd1b89b5b5c71bda0e97e.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Green Sea Turtle",
+        "location": "",
+        "date": "2023-09-15T12:14:27",
+        "featured": false,
+        "camera": {
+          "model": "NIKON Z 5",
+          "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+          "iso": 100,
+          "focal": 200,
+          "aperture": 3.5,
+          "shutter": "1/800"
+        },
+        "counter": "green-sea-turtle-20230915-dsc-3166-jpg"
+      },
+      {
+        "filename": "20230915-DSC_3136.jpg",
+        "path": "/photo_gallery/green-sea-turtle/20230915-DSC_3136.jpg",
+        "thumbnail": "/assets/images/wildlife/green-sea-turtle/898c17e40cd72a8a6e4b20ae07ee6017ad8ad235.webp",
+        "width": 1198,
+        "height": 800,
+        "caption": "Green Sea Turtle",
+        "location": "",
+        "date": "2023-09-15T12:01:35",
+        "featured": false,
+        "camera": {
+          "model": "NIKON Z 5",
+          "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+          "iso": 100,
+          "focal": 200,
+          "aperture": 2.8,
+          "shutter": "1/1250"
+        },
+        "counter": "green-sea-turtle-20230915-dsc-3136-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20230915-DSC_3220.jpg",
+      "path": "/photo_gallery/green-sea-turtle/20230915-DSC_3220.jpg",
+      "thumbnail": "/assets/images/wildlife/green-sea-turtle/122df820a82558ea67e013739bead89e419dc688.webp",
+      "width": 1198,
+      "height": 800,
+      "caption": "Green Sea Turtle",
+      "location": "",
+      "date": "2023-09-15T12:38:22",
+      "featured": false,
+      "camera": {
+        "model": "NIKON Z 5",
+        "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+        "iso": 100,
+        "focal": 160,
+        "aperture": 10.0,
+        "shutter": "1/125"
+      },
+      "counter": "green-sea-turtle-20230915-dsc-3220-jpg"
+    },
+    "count": 7,
+    "locations": []
+  },
   "harbor-seal": {
     "name": "Harbor Seal",
     "category": "Mammals",
@@ -6081,6 +6756,105 @@
       "counter": "hawaiian-stilt-20261102-dsc06206-jpg"
     },
     "count": 5,
+    "locations": []
+  },
+  "hawksbill-sea-turtle": {
+    "name": "Hawksbill Sea Turtle",
+    "category": "Reptiles",
+    "group": "",
+    "scientific_name": "",
+    "description": "The Hawksbill Sea Turtle takes its name from a narrow, pointed beak that helps it reach food in reef crevices. Its mottled shell combines amber and brown tones, typically with overlapping plates and a serrated rear edge. Many populations feed heavily on sponges, although the diet varies by region and includes other marine life. Coral reefs and sheltered coastal habitats provide feeding and resting places. Females leave the sea to nest on sandy beaches, linking their lives to both marine and coastal environments.",
+    "references": [
+      {
+        "title": "NOAA Fisheries: Hawksbill Turtle",
+        "url": "https://www.fisheries.noaa.gov/species/hawksbill-turtle"
+      }
+    ],
+    "slug": "hawksbill-sea-turtle",
+    "url": "/wildlife-gallery/hawksbill-sea-turtle/",
+    "photos": [
+      {
+        "filename": "20230915-DSC_3197.jpg",
+        "path": "/photo_gallery/hawksbill-sea-turtle/20230915-DSC_3197.jpg",
+        "thumbnail": "/assets/images/wildlife/hawksbill-sea-turtle/7af5702296539412828cf299ec17334a91c2f81f.webp",
+        "width": 1198,
+        "height": 800,
+        "caption": "Hawksbill Sea Turtle",
+        "location": "",
+        "date": "2023-09-15T12:23:12",
+        "featured": false,
+        "camera": {
+          "model": "NIKON Z 5",
+          "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+          "iso": 100,
+          "focal": 102,
+          "aperture": 4.5,
+          "shutter": "1/800"
+        },
+        "counter": "hawksbill-sea-turtle-20230915-dsc-3197-jpg"
+      },
+      {
+        "filename": "20230915-DSC_3194.jpg",
+        "path": "/photo_gallery/hawksbill-sea-turtle/20230915-DSC_3194.jpg",
+        "thumbnail": "/assets/images/wildlife/hawksbill-sea-turtle/c4f91aa78c66050e7d05fe59fcf9b05e7dfdbc9a.webp",
+        "width": 1198,
+        "height": 800,
+        "caption": "Hawksbill Sea Turtle",
+        "location": "",
+        "date": "2023-09-15T12:22:49",
+        "featured": false,
+        "camera": {
+          "model": "NIKON Z 5",
+          "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+          "iso": 100,
+          "focal": 140,
+          "aperture": 4.5,
+          "shutter": "1/800"
+        },
+        "counter": "hawksbill-sea-turtle-20230915-dsc-3194-jpg"
+      },
+      {
+        "filename": "20230915-DSC_3191.jpg",
+        "path": "/photo_gallery/hawksbill-sea-turtle/20230915-DSC_3191.jpg",
+        "thumbnail": "/assets/images/wildlife/hawksbill-sea-turtle/0fb4bf3b56c74a14d8b6d53e0ed2c7010553c62d.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Hawksbill Sea Turtle",
+        "location": "",
+        "date": "2023-09-15T12:22:23",
+        "featured": false,
+        "camera": {
+          "model": "NIKON Z 5",
+          "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+          "iso": 100,
+          "focal": 135,
+          "aperture": 4.5,
+          "shutter": "1/800"
+        },
+        "counter": "hawksbill-sea-turtle-20230915-dsc-3191-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20230915-DSC_3191.jpg",
+      "path": "/photo_gallery/hawksbill-sea-turtle/20230915-DSC_3191.jpg",
+      "thumbnail": "/assets/images/wildlife/hawksbill-sea-turtle/0fb4bf3b56c74a14d8b6d53e0ed2c7010553c62d.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Hawksbill Sea Turtle",
+      "location": "",
+      "date": "2023-09-15T12:22:23",
+      "featured": false,
+      "camera": {
+        "model": "NIKON Z 5",
+        "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+        "iso": 100,
+        "focal": 135,
+        "aperture": 4.5,
+        "shutter": "1/800"
+      },
+      "counter": "hawksbill-sea-turtle-20230915-dsc-3191-jpg"
+    },
+    "count": 3,
     "locations": []
   },
   "heermann-s-gull": {
@@ -8804,6 +9578,65 @@
     "count": 2,
     "locations": []
   },
+  "northern-shoveler": {
+    "name": "Northern Shoveler",
+    "category": "Birds",
+    "group": "Waterbirds",
+    "scientific_name": "",
+    "description": "The Northern Shoveler is a dabbling duck with an unusually broad, spoon-shaped bill. Fine structures along the bill's edges strain small aquatic animals and seeds from the water as it feeds in shallow wetlands. Breeding males show a green head, white chest, and rusty sides; females have mottled brown plumage and a prominent orange bill. Watch for birds sweeping their bills from side to side near the surface, often feeding together along the shallow margins of ponds and marshes.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/northern_shoveler/"
+      }
+    ],
+    "slug": "northern-shoveler",
+    "url": "/wildlife-gallery/northern-shoveler/",
+    "photos": [
+      {
+        "filename": "20261119-DSC06373.jpg",
+        "path": "/photo_gallery/northern-shoveler/20261119-DSC06373.jpg",
+        "thumbnail": "/assets/images/wildlife/northern-shoveler/aa80a96477363a281de9f5b192222573bc1b6b81.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Northern Shoveler",
+        "location": "",
+        "date": "2026-11-19T17:10:13",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "northern-shoveler-20261119-dsc06373-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20261119-DSC06373.jpg",
+      "path": "/photo_gallery/northern-shoveler/20261119-DSC06373.jpg",
+      "thumbnail": "/assets/images/wildlife/northern-shoveler/aa80a96477363a281de9f5b192222573bc1b6b81.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Northern Shoveler",
+      "location": "",
+      "date": "2026-11-19T17:10:13",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 1250,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/2500"
+      },
+      "counter": "northern-shoveler-20261119-dsc06373-jpg"
+    },
+    "count": 1,
+    "locations": []
+  },
   "oak-titmouse": {
     "name": "Oak Titmouse",
     "category": "Birds",
@@ -9651,6 +10484,146 @@
     "url": "/wildlife-gallery/red-shouldered-hawk/",
     "photos": [
       {
+        "filename": "20261119-DSC06585.jpg",
+        "path": "/photo_gallery/red-shouldered-hawk/20261119-DSC06585.jpg",
+        "thumbnail": "/assets/images/wildlife/red-shouldered-hawk/01132abdf9355bbc25dacac37c39bc8ca487c838.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Red-Shouldered Hawk",
+        "location": "",
+        "date": "2026-11-19T17:24:07",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1600"
+        },
+        "counter": "red-shouldered-hawk-20261119-dsc06585-jpg"
+      },
+      {
+        "filename": "20261119-DSC06571.jpg",
+        "path": "/photo_gallery/red-shouldered-hawk/20261119-DSC06571.jpg",
+        "thumbnail": "/assets/images/wildlife/red-shouldered-hawk/faa8478ad50df380cc06cf9b956332a2dec8015d.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Red-Shouldered Hawk",
+        "location": "",
+        "date": "2026-11-19T17:21:15",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/4000"
+        },
+        "counter": "red-shouldered-hawk-20261119-dsc06571-jpg"
+      },
+      {
+        "filename": "20261119-DSC06550.jpg",
+        "path": "/photo_gallery/red-shouldered-hawk/20261119-DSC06550.jpg",
+        "thumbnail": "/assets/images/wildlife/red-shouldered-hawk/7ce7137284146d0158ea8542a6f28f5631e4fe3a.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Red-Shouldered Hawk",
+        "location": "",
+        "date": "2026-11-19T17:19:34",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/4000"
+        },
+        "counter": "red-shouldered-hawk-20261119-dsc06550-jpg"
+      },
+      {
+        "filename": "20261119-DSC06523.jpg",
+        "path": "/photo_gallery/red-shouldered-hawk/20261119-DSC06523.jpg",
+        "thumbnail": "/assets/images/wildlife/red-shouldered-hawk/23cfc36b7b58cd5c47e75976d48f1a600d82b42f.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Red-Shouldered Hawk",
+        "location": "",
+        "date": "2026-11-19T17:17:59",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 400,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "red-shouldered-hawk-20261119-dsc06523-jpg"
+      },
+      {
+        "filename": "20261119-DSC06517.jpg",
+        "path": "/photo_gallery/red-shouldered-hawk/20261119-DSC06517.jpg",
+        "thumbnail": "/assets/images/wildlife/red-shouldered-hawk/db66cc7fe2d33debddaa63e7e56c9088f5353fd0.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Red-Shouldered Hawk",
+        "location": "",
+        "date": "2026-11-19T17:17:53",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 400,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "red-shouldered-hawk-20261119-dsc06517-jpg"
+      },
+      {
+        "filename": "20261119-DSC06498.jpg",
+        "path": "/photo_gallery/red-shouldered-hawk/20261119-DSC06498.jpg",
+        "thumbnail": "/assets/images/wildlife/red-shouldered-hawk/eaac26a32a24a56793dca84962d86c5fd7127450.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Red-Shouldered Hawk",
+        "location": "",
+        "date": "2026-11-19T17:17:10",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 400,
+          "focal": 594,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "red-shouldered-hawk-20261119-dsc06498-jpg"
+      },
+      {
+        "filename": "20261119-DSC06485.jpg",
+        "path": "/photo_gallery/red-shouldered-hawk/20261119-DSC06485.jpg",
+        "thumbnail": "/assets/images/wildlife/red-shouldered-hawk/72933c146a532464361b8f1d14987dcb9afcb239.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Red-Shouldered Hawk",
+        "location": "",
+        "date": "2026-11-19T17:16:45",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 250,
+          "focal": 594,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "red-shouldered-hawk-20261119-dsc06485-jpg"
+      },
+      {
         "filename": "20260424-DSC04981.jpg",
         "path": "/photo_gallery/red-shouldered-hawk/20260424-DSC04981.jpg",
         "thumbnail": "/assets/images/wildlife/red-shouldered-hawk/6fdd064c778247473bcc28899cf4b9ac3d7632c4.webp",
@@ -9791,7 +10764,7 @@
       },
       "counter": "red-shouldered-hawk-jpg"
     },
-    "count": 6,
+    "count": 13,
     "locations": []
   },
   "red-tailed-hawk": {
@@ -10921,6 +11894,105 @@
       "counter": "sandering-20261029-dsc03408-jpg"
     },
     "count": 2,
+    "locations": []
+  },
+  "sandhill-crane": {
+    "name": "Sandhill Crane",
+    "category": "Birds",
+    "group": "Waterbirds",
+    "scientific_name": "",
+    "description": "The Sandhill Crane is a tall bird with long legs, a slender neck, and a distinctive red forehead in adults. Its gray plumage can take on rusty tones from staining. Cranes use wetlands and open landscapes, where their upright silhouettes are easy to recognize. Courtship brings energetic dances with leaps, wing movements, and calls. In flight, the neck extends straight ahead, offering a useful distinction from herons. Watching a pair reveals both their deliberate walking pace and expressive movements.",
+    "references": [
+      {
+        "title": "Alaska Department of Fish and Game: Sandhill Crane",
+        "url": "https://www.adfg.alaska.gov/index.cfm?adfg=sandhillcrane.main"
+      }
+    ],
+    "slug": "sandhill-crane",
+    "url": "/wildlife-gallery/sandhill-crane/",
+    "photos": [
+      {
+        "filename": "20240717-HWZ_4489.jpg",
+        "path": "/photo_gallery/sandhill-crane/20240717-HWZ_4489.jpg",
+        "thumbnail": "/assets/images/wildlife/sandhill-crane/2bb6f93347ebbd02130e730b277a36718c6efef4.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Sandhill Crane",
+        "location": "",
+        "date": "2024-07-17T17:06:36",
+        "featured": false,
+        "camera": {
+          "model": "NIKON D7200",
+          "lens": "18.0-140.0 mm f/3.5-5.6",
+          "iso": 200,
+          "focal": 105,
+          "aperture": 8.0,
+          "shutter": "1/200"
+        },
+        "counter": "sandhill-crane-20240717-hwz-4489-jpg"
+      },
+      {
+        "filename": "20240717-HWZ_4487.jpg",
+        "path": "/photo_gallery/sandhill-crane/20240717-HWZ_4487.jpg",
+        "thumbnail": "/assets/images/wildlife/sandhill-crane/6945645d08697e5e2cb1f2f8948d2bf6c0133219.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Sandhill Crane",
+        "location": "",
+        "date": "2024-07-17T17:06:12",
+        "featured": false,
+        "camera": {
+          "model": "NIKON D7200",
+          "lens": "18.0-140.0 mm f/3.5-5.6",
+          "iso": 200,
+          "focal": 105,
+          "aperture": 8.0,
+          "shutter": "1/200"
+        },
+        "counter": "sandhill-crane-20240717-hwz-4487-jpg"
+      },
+      {
+        "filename": "20240717-HWZ_4485.jpg",
+        "path": "/photo_gallery/sandhill-crane/20240717-HWZ_4485.jpg",
+        "thumbnail": "/assets/images/wildlife/sandhill-crane/fa7162af498b3e64d8d933b9a472e23f55e3d06d.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Sandhill Crane",
+        "location": "",
+        "date": "2024-07-17T17:05:08",
+        "featured": false,
+        "camera": {
+          "model": "NIKON D7200",
+          "lens": "18.0-140.0 mm f/3.5-5.6",
+          "iso": 200,
+          "focal": 140,
+          "aperture": 8.0,
+          "shutter": "1/200"
+        },
+        "counter": "sandhill-crane-20240717-hwz-4485-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20240717-HWZ_4489.jpg",
+      "path": "/photo_gallery/sandhill-crane/20240717-HWZ_4489.jpg",
+      "thumbnail": "/assets/images/wildlife/sandhill-crane/2bb6f93347ebbd02130e730b277a36718c6efef4.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Sandhill Crane",
+      "location": "",
+      "date": "2024-07-17T17:06:36",
+      "featured": false,
+      "camera": {
+        "model": "NIKON D7200",
+        "lens": "18.0-140.0 mm f/3.5-5.6",
+        "iso": 200,
+        "focal": 105,
+        "aperture": 8.0,
+        "shutter": "1/200"
+      },
+      "counter": "sandhill-crane-20240717-hwz-4489-jpg"
+    },
+    "count": 3,
     "locations": []
   },
   "scaly-breasted-munias": {
@@ -12510,6 +13582,65 @@
     "count": 26,
     "locations": []
   },
+  "wandering-tattler": {
+    "name": "Wandering Tattler",
+    "category": "Birds",
+    "group": "Shorebirds & Gulls",
+    "scientific_name": "",
+    "description": "The Wandering Tattler is a shorebird closely associated with rocky Pacific coastlines outside the breeding season. Its gray plumage blends into wet rocks, while yellow legs and a pale eyebrow help reveal its outline. It searches the water's edge for small mollusks, crabs, and other invertebrates, often bobbing its tail as it moves. A ringing call can announce a bird before it is seen. Its migrations connect northern breeding areas with distant coastlines and islands across the Pacific.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Wandering_Tattler/overview"
+      }
+    ],
+    "slug": "wandering-tattler",
+    "url": "/wildlife-gallery/wandering-tattler/",
+    "photos": [
+      {
+        "filename": "20230915-DSC_3168.jpg",
+        "path": "/photo_gallery/wandering-tattler/20230915-DSC_3168.jpg",
+        "thumbnail": "/assets/images/wildlife/wandering-tattler/27fea8ddf99359c1aa375d260698cd154b1ffc55.webp",
+        "width": 1198,
+        "height": 800,
+        "caption": "Wandering Tattler",
+        "location": "",
+        "date": "2023-09-15T12:15:41",
+        "featured": false,
+        "camera": {
+          "model": "NIKON Z 5",
+          "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+          "iso": 100,
+          "focal": 200,
+          "aperture": 3.5,
+          "shutter": "1/1000"
+        },
+        "counter": "wandering-tattler-20230915-dsc-3168-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20230915-DSC_3168.jpg",
+      "path": "/photo_gallery/wandering-tattler/20230915-DSC_3168.jpg",
+      "thumbnail": "/assets/images/wildlife/wandering-tattler/27fea8ddf99359c1aa375d260698cd154b1ffc55.webp",
+      "width": 1198,
+      "height": 800,
+      "caption": "Wandering Tattler",
+      "location": "",
+      "date": "2023-09-15T12:15:41",
+      "featured": false,
+      "camera": {
+        "model": "NIKON Z 5",
+        "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+        "iso": 100,
+        "focal": 200,
+        "aperture": 3.5,
+        "shutter": "1/1000"
+      },
+      "counter": "wandering-tattler-20230915-dsc-3168-jpg"
+    },
+    "count": 1,
+    "locations": []
+  },
   "western-bluebird": {
     "name": "Western Bluebird",
     "category": "Birds",
@@ -13340,6 +14471,105 @@
       "counter": "white-pelican-jpg"
     },
     "count": 1,
+    "locations": []
+  },
+  "wild-turkey": {
+    "name": "Wild Turkey",
+    "category": "Birds",
+    "group": "Other Birds",
+    "scientific_name": "",
+    "description": "The Wild Turkey is a large ground-foraging bird of woodlands and nearby clearings. Flocks often emerge along field edges and roadsides early in the morning, walking steadily as they search for food. Courting males transform their outline by puffing up their feathers and spreading their tails, accompanied by resonant gobbling. Once greatly reduced by hunting, the species recovered through restoration efforts. A quiet woodland encounter offers a chance to appreciate its patterned feathers and the social movements of a flock.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Wild_turkey"
+      }
+    ],
+    "slug": "wild-turkey",
+    "url": "/wildlife-gallery/wild-turkey/",
+    "photos": [
+      {
+        "filename": "20240717-HWZ_4465.jpg",
+        "path": "/photo_gallery/wild-turkey/20240717-HWZ_4465.jpg",
+        "thumbnail": "/assets/images/wildlife/wild-turkey/cffe91fb8f296d98383c0c1079563d2d356a72b8.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Wild Turkey",
+        "location": "",
+        "date": "2024-07-17T16:42:25",
+        "featured": false,
+        "camera": {
+          "model": "NIKON D7200",
+          "lens": "18.0-140.0 mm f/3.5-5.6",
+          "iso": 200,
+          "focal": 140,
+          "aperture": 5.6,
+          "shutter": "1/800"
+        },
+        "counter": "wild-turkey-20240717-hwz-4465-jpg"
+      },
+      {
+        "filename": "20240717-HWZ_4458.jpg",
+        "path": "/photo_gallery/wild-turkey/20240717-HWZ_4458.jpg",
+        "thumbnail": "/assets/images/wildlife/wild-turkey/1a6647847a6624ba1b55108d3db4c5d2ad0ba572.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Wild Turkey",
+        "location": "",
+        "date": "2024-07-17T16:39:22",
+        "featured": false,
+        "camera": {
+          "model": "NIKON D7200",
+          "lens": "18.0-140.0 mm f/3.5-5.6",
+          "iso": 200,
+          "focal": 140,
+          "aperture": 5.6,
+          "shutter": "1/400"
+        },
+        "counter": "wild-turkey-20240717-hwz-4458-jpg"
+      },
+      {
+        "filename": "20240717-HWZ_4435.jpg",
+        "path": "/photo_gallery/wild-turkey/20240717-HWZ_4435.jpg",
+        "thumbnail": "/assets/images/wildlife/wild-turkey/5919a56c4f06314e325e20e87f91e116c553c750.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Wild Turkey",
+        "location": "",
+        "date": "2024-07-17T15:31:39",
+        "featured": false,
+        "camera": {
+          "model": "NIKON D7200",
+          "lens": "18.0-140.0 mm f/3.5-5.6",
+          "iso": 100,
+          "focal": 140,
+          "aperture": 5.6,
+          "shutter": "1/80"
+        },
+        "counter": "wild-turkey-20240717-hwz-4435-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20240717-HWZ_4435.jpg",
+      "path": "/photo_gallery/wild-turkey/20240717-HWZ_4435.jpg",
+      "thumbnail": "/assets/images/wildlife/wild-turkey/5919a56c4f06314e325e20e87f91e116c553c750.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Wild Turkey",
+      "location": "",
+      "date": "2024-07-17T15:31:39",
+      "featured": false,
+      "camera": {
+        "model": "NIKON D7200",
+        "lens": "18.0-140.0 mm f/3.5-5.6",
+        "iso": 100,
+        "focal": 140,
+        "aperture": 5.6,
+        "shutter": "1/80"
+      },
+      "counter": "wild-turkey-20240717-hwz-4435-jpg"
+    },
+    "count": 3,
     "locations": []
   },
   "willet": {

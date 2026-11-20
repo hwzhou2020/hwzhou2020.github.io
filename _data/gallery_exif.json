@@ -183,6 +183,14 @@
     "aperture": 6.3,
     "shutter": "1/4000"
   },
+  "american-white-pelican/20261119-DSC06370.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
   "anna-s-hummingbird/20260408-DSC09639.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -287,6 +295,70 @@
     "aperture": 6.3,
     "shutter": "1/1250"
   },
+  "belted-kingsfisher/20261119-DSC06262.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "belted-kingsfisher/20261119-DSC06270.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "belted-kingsfisher/20261119-DSC06271.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "belted-kingsfisher/20261119-DSC06291.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "belted-kingsfisher/20261119-DSC06303.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "belted-kingsfisher/20261119-DSC06308.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 261,
+    "aperture": 5.6,
+    "shutter": "1/3200"
+  },
+  "belted-kingsfisher/20261119-DSC06316.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "belted-kingsfisher/20261119-DSC06335.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1600"
+  },
   "bewick-s-wren/20260424-DSC04715.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -390,6 +462,14 @@
     "focal": 411,
     "aperture": 6.3,
     "shutter": "1/2500"
+  },
+  "blister-beetle/20240717-HWZ_4468.jpg": {
+    "model": "NIKON D7200",
+    "lens": "18.0-140.0 mm f/3.5-5.6",
+    "iso": 200,
+    "focal": 140,
+    "aperture": 5.6,
+    "shutter": "1/800"
   },
   "botta-s-pocket-gopher/20261001-DSC03039.jpg": {
     "model": "ILCE-7CM2",
@@ -767,6 +847,22 @@
     "aperture": 2.8,
     "shutter": "1/80"
   },
+  "chipmunk/20240921-DSC_6634.jpg": {
+    "model": "NIKON Z f",
+    "lens": "NIKKOR Z 24-70mm f/2.8 S",
+    "iso": 160,
+    "focal": 70,
+    "aperture": 2.8,
+    "shutter": "1/250"
+  },
+  "chipmunk/20240921-DSC_6635.jpg": {
+    "model": "NIKON Z f",
+    "lens": "NIKKOR Z 24-70mm f/2.8 S",
+    "iso": 160,
+    "focal": 70,
+    "aperture": 2.8,
+    "shutter": "1/250"
+  },
   "chipmunk/20260705-DSC01122.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -798,6 +894,14 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/4000"
+  },
+  "common-grallinule/20261119-DSC06367.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
   },
   "common-merganser/20260815-DSC01688.jpg": {
     "model": "ILCE-7CM2",
@@ -879,6 +983,14 @@
     "aperture": 6.3,
     "shutter": "1/2500"
   },
+  "cooper-s-hawk/20261119-DSC06603.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
   "dark-eyed-junco/20260322-DSC07707.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -942,6 +1054,22 @@
     "focal": 600,
     "aperture": 8.0,
     "shutter": "1/800"
+  },
+  "double-crested-cormorant/20261119-DSC06352.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 448,
+    "aperture": 6.3,
+    "shutter": "1/1600"
+  },
+  "double-crested-cormorant/20261119-DSC06355.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 448,
+    "aperture": 6.3,
+    "shutter": "1/1600"
   },
   "double-crested-cormorant/Double-Crested Cormorant.jpg": {
     "model": "ILCE-7CM2",
@@ -1142,6 +1270,14 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/2000"
+  },
+  "foster-s-tern/20261119-DSC06318.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 571,
+    "aperture": 6.3,
+    "shutter": "1/3200"
   },
   "foster-s-tern/Tern Rival.jpg": {
     "model": "ILCE-7CM2",
@@ -1487,6 +1623,62 @@
     "aperture": 5.6,
     "shutter": "1/3200"
   },
+  "green-sea-turtle/20230915-DSC_3136.jpg": {
+    "model": "NIKON Z 5",
+    "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+    "iso": 100,
+    "focal": 200,
+    "aperture": 2.8,
+    "shutter": "1/1250"
+  },
+  "green-sea-turtle/20230915-DSC_3166.jpg": {
+    "model": "NIKON Z 5",
+    "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+    "iso": 100,
+    "focal": 200,
+    "aperture": 3.5,
+    "shutter": "1/800"
+  },
+  "green-sea-turtle/20230915-DSC_3178.jpg": {
+    "model": "NIKON Z 5",
+    "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+    "iso": 100,
+    "focal": 200,
+    "aperture": 2.8,
+    "shutter": "1/1000"
+  },
+  "green-sea-turtle/20230915-DSC_3209.jpg": {
+    "model": "NIKON Z 5",
+    "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+    "iso": 100,
+    "focal": 200,
+    "aperture": 14.0,
+    "shutter": "1/80"
+  },
+  "green-sea-turtle/20230915-DSC_3217.jpg": {
+    "model": "NIKON Z 5",
+    "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+    "iso": 100,
+    "focal": 125,
+    "aperture": 14.0,
+    "shutter": "1/60"
+  },
+  "green-sea-turtle/20230915-DSC_3220.jpg": {
+    "model": "NIKON Z 5",
+    "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+    "iso": 100,
+    "focal": 160,
+    "aperture": 10.0,
+    "shutter": "1/125"
+  },
+  "green-sea-turtle/20230915-DSC_3234.jpg": {
+    "model": "NIKON Z 5",
+    "lens": "NIKKOR Z 24-70mm f/2.8 S",
+    "iso": 100,
+    "focal": 70,
+    "aperture": 2.8,
+    "shutter": "1/1600"
+  },
   "harbor-seal/20260919-DSC02556.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -1558,6 +1750,30 @@
     "focal": 571,
     "aperture": 6.3,
     "shutter": "1/1600"
+  },
+  "hawksbill-sea-turtle/20230915-DSC_3191.jpg": {
+    "model": "NIKON Z 5",
+    "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+    "iso": 100,
+    "focal": 135,
+    "aperture": 4.5,
+    "shutter": "1/800"
+  },
+  "hawksbill-sea-turtle/20230915-DSC_3194.jpg": {
+    "model": "NIKON Z 5",
+    "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+    "iso": 100,
+    "focal": 140,
+    "aperture": 4.5,
+    "shutter": "1/800"
+  },
+  "hawksbill-sea-turtle/20230915-DSC_3197.jpg": {
+    "model": "NIKON Z 5",
+    "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+    "iso": 100,
+    "focal": 102,
+    "aperture": 4.5,
+    "shutter": "1/800"
   },
   "heermann-s-gull/20260919-DSC02579.jpg": {
     "model": "ILCE-7CM2",
@@ -2351,6 +2567,14 @@
     "aperture": 6.3,
     "shutter": "1/4000"
   },
+  "northern-shoveler/20261119-DSC06373.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
   "oak-titmouse/Oak Titmouse.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -2582,6 +2806,62 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/3200"
+  },
+  "red-shouldered-hawk/20261119-DSC06485.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 250,
+    "focal": 594,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
+  "red-shouldered-hawk/20261119-DSC06498.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 400,
+    "focal": 594,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
+  "red-shouldered-hawk/20261119-DSC06517.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 400,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
+  "red-shouldered-hawk/20261119-DSC06523.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 400,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
+  "red-shouldered-hawk/20261119-DSC06550.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/4000"
+  },
+  "red-shouldered-hawk/20261119-DSC06571.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/4000"
+  },
+  "red-shouldered-hawk/20261119-DSC06585.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1600"
   },
   "red-shouldered-hawk/Red-Shouldered Hawk.jpg": {
     "model": "ILCE-7CM2",
@@ -2870,6 +3150,30 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/2500"
+  },
+  "sandhill-crane/20240717-HWZ_4485.jpg": {
+    "model": "NIKON D7200",
+    "lens": "18.0-140.0 mm f/3.5-5.6",
+    "iso": 200,
+    "focal": 140,
+    "aperture": 8.0,
+    "shutter": "1/200"
+  },
+  "sandhill-crane/20240717-HWZ_4487.jpg": {
+    "model": "NIKON D7200",
+    "lens": "18.0-140.0 mm f/3.5-5.6",
+    "iso": 200,
+    "focal": 105,
+    "aperture": 8.0,
+    "shutter": "1/200"
+  },
+  "sandhill-crane/20240717-HWZ_4489.jpg": {
+    "model": "NIKON D7200",
+    "lens": "18.0-140.0 mm f/3.5-5.6",
+    "iso": 200,
+    "focal": 105,
+    "aperture": 8.0,
+    "shutter": "1/200"
   },
   "scaly-breasted-munias/20261031-DSC05364.jpg": {
     "model": "ILCE-7CM2",
@@ -3303,6 +3607,14 @@
     "aperture": 6.3,
     "shutter": "1/1600"
   },
+  "wandering-tattler/20230915-DSC_3168.jpg": {
+    "model": "NIKON Z 5",
+    "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+    "iso": 100,
+    "focal": 200,
+    "aperture": 3.5,
+    "shutter": "1/1000"
+  },
   "western-bluebird/20260415-DSC02344.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -3510,6 +3822,30 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/3200"
+  },
+  "wild-turkey/20240717-HWZ_4435.jpg": {
+    "model": "NIKON D7200",
+    "lens": "18.0-140.0 mm f/3.5-5.6",
+    "iso": 100,
+    "focal": 140,
+    "aperture": 5.6,
+    "shutter": "1/80"
+  },
+  "wild-turkey/20240717-HWZ_4458.jpg": {
+    "model": "NIKON D7200",
+    "lens": "18.0-140.0 mm f/3.5-5.6",
+    "iso": 200,
+    "focal": 140,
+    "aperture": 5.6,
+    "shutter": "1/400"
+  },
+  "wild-turkey/20240717-HWZ_4465.jpg": {
+    "model": "NIKON D7200",
+    "lens": "18.0-140.0 mm f/3.5-5.6",
+    "iso": 200,
+    "focal": 140,
+    "aperture": 5.6,
+    "shutter": "1/800"
   },
   "willet/20260408-DSC00993.jpg": {
     "model": "ILCE-7CM2",

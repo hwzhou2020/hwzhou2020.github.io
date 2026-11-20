@@ -329,7 +329,7 @@
       },
       "counter": "american-white-pelican-20260830-dsc01850-jpg"
     },
-    "count": 2,
+    "count": 3,
     "locations": []
   },
   {
@@ -404,6 +404,43 @@
       "counter": "baby-barn-owl-jpg"
     },
     "count": 3,
+    "locations": []
+  },
+  {
+    "name": "Belted Kingfisher",
+    "category": "Birds",
+    "group": "Waterbirds",
+    "scientific_name": "",
+    "description": "The Belted Kingfisher is a stocky, large-headed bird with a shaggy crest and a strong, straight bill. It watches rivers, lakes, and sheltered shorelines from exposed perches, then dives to catch fish and other aquatic prey. A loud rattling call often announces its arrival. Blue-gray upperparts contrast with a white collar and breast; females also have a rusty band below. Nesting pairs excavate burrows in earthen banks, linking their breeding habitat to both suitable soil and productive nearby water.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Belted_Kingfisher/overview/"
+      }
+    ],
+    "slug": "belted-kingsfisher",
+    "url": "/wildlife-gallery/belted-kingsfisher/",
+    "cover": {
+      "filename": "20261119-DSC06303.jpg",
+      "path": "/photo_gallery/belted-kingsfisher/20261119-DSC06303.jpg",
+      "thumbnail": "/assets/images/wildlife/belted-kingsfisher/15d7b30e32c4850c81e4a5605c00e9f434489cc2.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Belted Kingfisher",
+      "location": "",
+      "date": "2026-11-19T16:57:44",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 2500,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/3200"
+      },
+      "counter": "belted-kingsfisher-20261119-dsc06303-jpg"
+    },
+    "count": 8,
     "locations": []
   },
   {
@@ -624,6 +661,43 @@
         "shutter": "1/2500"
       },
       "counter": "black-tailed-jackrabbit-jpg"
+    },
+    "count": 1,
+    "locations": []
+  },
+  {
+    "name": "Blister Beetle",
+    "category": "Insects",
+    "group": "",
+    "scientific_name": "",
+    "description": "Blister beetles belong to the family Meloidae, a varied group with elongated bodies and relatively soft wing covers. Adults often feed on plants and can gather around flowers, where some eat pollen and nectar. Their name comes from cantharidin, a defensive chemical that can blister skin. Many have a broad head and a noticeably narrower section behind it. This album retains the broader family identification, allowing the photograph's body shape, markings, and textures to be appreciated without assigning an uncertain species name.",
+    "references": [
+      {
+        "title": "University of Kentucky Department of Entomology: Blister Beetles",
+        "url": "https://entomology.mgcafe.uky.edu/ef102"
+      }
+    ],
+    "slug": "blister-beetle",
+    "url": "/wildlife-gallery/blister-beetle/",
+    "cover": {
+      "filename": "20240717-HWZ_4468.jpg",
+      "path": "/photo_gallery/blister-beetle/20240717-HWZ_4468.jpg",
+      "thumbnail": "/assets/images/wildlife/blister-beetle/69ea5f11135a139bb97a8a4ba40a07cce4123990.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Blister Beetle",
+      "location": "",
+      "date": "2024-07-17T16:44:51",
+      "featured": false,
+      "camera": {
+        "model": "NIKON D7200",
+        "lens": "18.0-140.0 mm f/3.5-5.6",
+        "iso": 200,
+        "focal": 140,
+        "aperture": 5.6,
+        "shutter": "1/800"
+      },
+      "counter": "blister-beetle-20240717-hwz-4468-jpg"
     },
     "count": 1,
     "locations": []
@@ -1254,7 +1328,7 @@
       },
       "counter": "chipmunk-20260705-dsc01122-jpg"
     },
-    "count": 1,
+    "count": 3,
     "locations": []
   },
   {
@@ -1329,6 +1403,43 @@
       "counter": "cinnamon-teal-20260408-dsc09891-jpg"
     },
     "count": 2,
+    "locations": []
+  },
+  {
+    "name": "Common Gallinule",
+    "category": "Birds",
+    "group": "Waterbirds",
+    "scientific_name": "",
+    "description": "The Common Gallinule is a marsh bird that moves between open water and dense vegetation. Adults have dark plumage, a red forehead shield and bill, and a white stripe along each side. Long toes help it walk across floating plants and soft mud, while it swims readily despite lacking webbed feet. Listen for clucks and whinnying calls from the reeds. Its combination of swimming, climbing, and walking makes wetland edges especially rewarding places to watch its behavior.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Common_Gallinule/"
+      }
+    ],
+    "slug": "common-grallinule",
+    "url": "/wildlife-gallery/common-grallinule/",
+    "cover": {
+      "filename": "20261119-DSC06367.jpg",
+      "path": "/photo_gallery/common-grallinule/20261119-DSC06367.jpg",
+      "thumbnail": "/assets/images/wildlife/common-grallinule/8c5b2465e7e4ffd905291a04e2ad1861d8688795.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Common Gallinule",
+      "location": "",
+      "date": "2026-11-19T17:07:39",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 2500,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/800"
+      },
+      "counter": "common-grallinule-20261119-dsc06367-jpg"
+    },
+    "count": 1,
     "locations": []
   },
   {
@@ -1480,6 +1591,43 @@
     "locations": []
   },
   {
+    "name": "Cooper's Hawk",
+    "category": "Birds",
+    "group": "Raptors & Owls",
+    "scientific_name": "",
+    "description": "Cooper's Hawk is an agile hunter that pursues other birds through woodland and around forest edges. Its long tail and bursts of wingbeats followed by glides offer useful clues when it passes overhead. Although often elusive among trees, it also inhabits towns and suburbs, where smaller birds provide abundant prey. Females are larger than males. A quiet perched bird can be easy to overlook, making a patient scan of branches worthwhile before looking for its next sudden flight.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/coopers_hawk"
+      }
+    ],
+    "slug": "cooper-s-hawk",
+    "url": "/wildlife-gallery/cooper-s-hawk/",
+    "cover": {
+      "filename": "20261119-DSC06603.jpg",
+      "path": "/photo_gallery/cooper-s-hawk/20261119-DSC06603.jpg",
+      "thumbnail": "/assets/images/wildlife/cooper-s-hawk/ae6066b7afcf1c6a9cc01a1ef57f51793fb15dc9.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Cooper's Hawk",
+      "location": "",
+      "date": "2026-11-19T17:36:26",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 2500,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/1250"
+      },
+      "counter": "cooper-s-hawk-20261119-dsc06603-jpg"
+    },
+    "count": 1,
+    "locations": []
+  },
+  {
     "name": "Dark-Eyed Junco",
     "category": "Birds",
     "group": "Songbirds",
@@ -1550,7 +1698,7 @@
       },
       "counter": "double-crested-cormorant-20260408-dsc00881-jpg"
     },
-    "count": 8,
+    "count": 10,
     "locations": []
   },
   {
@@ -1661,7 +1809,7 @@
       },
       "counter": "royal-tern-jpg"
     },
-    "count": 19,
+    "count": 20,
     "locations": []
   },
   {
@@ -1961,6 +2109,43 @@
     "locations": []
   },
   {
+    "name": "Green Sea Turtle",
+    "category": "Reptiles",
+    "group": "",
+    "scientific_name": "",
+    "description": "The Green Sea Turtle is the largest sea turtle with a hard shell, paired with a comparatively small head. Its shell may be olive, brown, or gray; the common name refers to the color of its fat. Adults feed mainly on seagrasses and algae in coastal waters. Like all sea turtles, it breathes air and must surface regularly. Long migrations connect feeding areas with nesting beaches, where females return to lay eggs in sand. Juveniles can have striking patterned shells.",
+    "references": [
+      {
+        "title": "NOAA Fisheries: Green Turtle",
+        "url": "https://www.fisheries.noaa.gov/species/green-turtle"
+      }
+    ],
+    "slug": "green-sea-turtle",
+    "url": "/wildlife-gallery/green-sea-turtle/",
+    "cover": {
+      "filename": "20230915-DSC_3220.jpg",
+      "path": "/photo_gallery/green-sea-turtle/20230915-DSC_3220.jpg",
+      "thumbnail": "/assets/images/wildlife/green-sea-turtle/122df820a82558ea67e013739bead89e419dc688.webp",
+      "width": 1198,
+      "height": 800,
+      "caption": "Green Sea Turtle",
+      "location": "",
+      "date": "2023-09-15T12:38:22",
+      "featured": false,
+      "camera": {
+        "model": "NIKON Z 5",
+        "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+        "iso": 100,
+        "focal": 160,
+        "aperture": 10.0,
+        "shutter": "1/125"
+      },
+      "counter": "green-sea-turtle-20230915-dsc-3220-jpg"
+    },
+    "count": 7,
+    "locations": []
+  },
+  {
     "name": "Harbor Seal",
     "category": "Mammals",
     "group": "",
@@ -2069,6 +2254,43 @@
       "counter": "hawaiian-stilt-20261102-dsc06206-jpg"
     },
     "count": 5,
+    "locations": []
+  },
+  {
+    "name": "Hawksbill Sea Turtle",
+    "category": "Reptiles",
+    "group": "",
+    "scientific_name": "",
+    "description": "The Hawksbill Sea Turtle takes its name from a narrow, pointed beak that helps it reach food in reef crevices. Its mottled shell combines amber and brown tones, typically with overlapping plates and a serrated rear edge. Many populations feed heavily on sponges, although the diet varies by region and includes other marine life. Coral reefs and sheltered coastal habitats provide feeding and resting places. Females leave the sea to nest on sandy beaches, linking their lives to both marine and coastal environments.",
+    "references": [
+      {
+        "title": "NOAA Fisheries: Hawksbill Turtle",
+        "url": "https://www.fisheries.noaa.gov/species/hawksbill-turtle"
+      }
+    ],
+    "slug": "hawksbill-sea-turtle",
+    "url": "/wildlife-gallery/hawksbill-sea-turtle/",
+    "cover": {
+      "filename": "20230915-DSC_3191.jpg",
+      "path": "/photo_gallery/hawksbill-sea-turtle/20230915-DSC_3191.jpg",
+      "thumbnail": "/assets/images/wildlife/hawksbill-sea-turtle/0fb4bf3b56c74a14d8b6d53e0ed2c7010553c62d.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Hawksbill Sea Turtle",
+      "location": "",
+      "date": "2023-09-15T12:22:23",
+      "featured": false,
+      "camera": {
+        "model": "NIKON Z 5",
+        "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+        "iso": 100,
+        "focal": 135,
+        "aperture": 4.5,
+        "shutter": "1/800"
+      },
+      "counter": "hawksbill-sea-turtle-20230915-dsc-3191-jpg"
+    },
+    "count": 3,
     "locations": []
   },
   {
@@ -2775,6 +2997,43 @@
     "locations": []
   },
   {
+    "name": "Northern Shoveler",
+    "category": "Birds",
+    "group": "Waterbirds",
+    "scientific_name": "",
+    "description": "The Northern Shoveler is a dabbling duck with an unusually broad, spoon-shaped bill. Fine structures along the bill's edges strain small aquatic animals and seeds from the water as it feeds in shallow wetlands. Breeding males show a green head, white chest, and rusty sides; females have mottled brown plumage and a prominent orange bill. Watch for birds sweeping their bills from side to side near the surface, often feeding together along the shallow margins of ponds and marshes.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/northern_shoveler/"
+      }
+    ],
+    "slug": "northern-shoveler",
+    "url": "/wildlife-gallery/northern-shoveler/",
+    "cover": {
+      "filename": "20261119-DSC06373.jpg",
+      "path": "/photo_gallery/northern-shoveler/20261119-DSC06373.jpg",
+      "thumbnail": "/assets/images/wildlife/northern-shoveler/aa80a96477363a281de9f5b192222573bc1b6b81.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Northern Shoveler",
+      "location": "",
+      "date": "2026-11-19T17:10:13",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 1250,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/2500"
+      },
+      "counter": "northern-shoveler-20261119-dsc06373-jpg"
+    },
+    "count": 1,
+    "locations": []
+  },
+  {
     "name": "Oak Titmouse",
     "category": "Birds",
     "group": "Songbirds",
@@ -3141,7 +3400,7 @@
       },
       "counter": "red-shouldered-hawk-jpg"
     },
-    "count": 6,
+    "count": 13,
     "locations": []
   },
   {
@@ -3549,6 +3808,43 @@
       "counter": "sandering-20261029-dsc03408-jpg"
     },
     "count": 2,
+    "locations": []
+  },
+  {
+    "name": "Sandhill Crane",
+    "category": "Birds",
+    "group": "Waterbirds",
+    "scientific_name": "",
+    "description": "The Sandhill Crane is a tall bird with long legs, a slender neck, and a distinctive red forehead in adults. Its gray plumage can take on rusty tones from staining. Cranes use wetlands and open landscapes, where their upright silhouettes are easy to recognize. Courtship brings energetic dances with leaps, wing movements, and calls. In flight, the neck extends straight ahead, offering a useful distinction from herons. Watching a pair reveals both their deliberate walking pace and expressive movements.",
+    "references": [
+      {
+        "title": "Alaska Department of Fish and Game: Sandhill Crane",
+        "url": "https://www.adfg.alaska.gov/index.cfm?adfg=sandhillcrane.main"
+      }
+    ],
+    "slug": "sandhill-crane",
+    "url": "/wildlife-gallery/sandhill-crane/",
+    "cover": {
+      "filename": "20240717-HWZ_4489.jpg",
+      "path": "/photo_gallery/sandhill-crane/20240717-HWZ_4489.jpg",
+      "thumbnail": "/assets/images/wildlife/sandhill-crane/2bb6f93347ebbd02130e730b277a36718c6efef4.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Sandhill Crane",
+      "location": "",
+      "date": "2024-07-17T17:06:36",
+      "featured": false,
+      "camera": {
+        "model": "NIKON D7200",
+        "lens": "18.0-140.0 mm f/3.5-5.6",
+        "iso": 200,
+        "focal": 105,
+        "aperture": 8.0,
+        "shutter": "1/200"
+      },
+      "counter": "sandhill-crane-20240717-hwz-4489-jpg"
+    },
+    "count": 3,
     "locations": []
   },
   {
@@ -4033,6 +4329,43 @@
     "locations": []
   },
   {
+    "name": "Wandering Tattler",
+    "category": "Birds",
+    "group": "Shorebirds & Gulls",
+    "scientific_name": "",
+    "description": "The Wandering Tattler is a shorebird closely associated with rocky Pacific coastlines outside the breeding season. Its gray plumage blends into wet rocks, while yellow legs and a pale eyebrow help reveal its outline. It searches the water's edge for small mollusks, crabs, and other invertebrates, often bobbing its tail as it moves. A ringing call can announce a bird before it is seen. Its migrations connect northern breeding areas with distant coastlines and islands across the Pacific.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Wandering_Tattler/overview"
+      }
+    ],
+    "slug": "wandering-tattler",
+    "url": "/wildlife-gallery/wandering-tattler/",
+    "cover": {
+      "filename": "20230915-DSC_3168.jpg",
+      "path": "/photo_gallery/wandering-tattler/20230915-DSC_3168.jpg",
+      "thumbnail": "/assets/images/wildlife/wandering-tattler/27fea8ddf99359c1aa375d260698cd154b1ffc55.webp",
+      "width": 1198,
+      "height": 800,
+      "caption": "Wandering Tattler",
+      "location": "",
+      "date": "2023-09-15T12:15:41",
+      "featured": false,
+      "camera": {
+        "model": "NIKON Z 5",
+        "lens": "NIKKOR Z 70-200mm f/2.8 VR S",
+        "iso": 100,
+        "focal": 200,
+        "aperture": 3.5,
+        "shutter": "1/1000"
+      },
+      "counter": "wandering-tattler-20230915-dsc-3168-jpg"
+    },
+    "count": 1,
+    "locations": []
+  },
+  {
     "name": "Western Bluebird",
     "category": "Birds",
     "group": "Songbirds",
@@ -4324,6 +4657,43 @@
         "shutter": "1/3200"
       },
       "counter": "white-faced-ibis-20260408-dsc09416-jpg"
+    },
+    "count": 3,
+    "locations": []
+  },
+  {
+    "name": "Wild Turkey",
+    "category": "Birds",
+    "group": "Other Birds",
+    "scientific_name": "",
+    "description": "The Wild Turkey is a large ground-foraging bird of woodlands and nearby clearings. Flocks often emerge along field edges and roadsides early in the morning, walking steadily as they search for food. Courting males transform their outline by puffing up their feathers and spreading their tails, accompanied by resonant gobbling. Once greatly reduced by hunting, the species recovered through restoration efforts. A quiet woodland encounter offers a chance to appreciate its patterned feathers and the social movements of a flock.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Wild_turkey"
+      }
+    ],
+    "slug": "wild-turkey",
+    "url": "/wildlife-gallery/wild-turkey/",
+    "cover": {
+      "filename": "20240717-HWZ_4435.jpg",
+      "path": "/photo_gallery/wild-turkey/20240717-HWZ_4435.jpg",
+      "thumbnail": "/assets/images/wildlife/wild-turkey/5919a56c4f06314e325e20e87f91e116c553c750.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Wild Turkey",
+      "location": "",
+      "date": "2024-07-17T15:31:39",
+      "featured": false,
+      "camera": {
+        "model": "NIKON D7200",
+        "lens": "18.0-140.0 mm f/3.5-5.6",
+        "iso": 100,
+        "focal": 140,
+        "aperture": 5.6,
+        "shutter": "1/80"
+      },
+      "counter": "wild-turkey-20240717-hwz-4435-jpg"
     },
     "count": 3,
     "locations": []

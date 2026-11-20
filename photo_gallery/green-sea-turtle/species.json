@@ -1,0 +1,13 @@
+{
+  "name": "Green Sea Turtle",
+  "category": "Reptiles",
+  "group": "",
+  "cover": "20230915-DSC_3220.jpg",
+  "description": "The Green Sea Turtle is the largest sea turtle with a hard shell, paired with a comparatively small head. Its shell may be olive, brown, or gray; the common name refers to the color of its fat. Adults feed mainly on seagrasses and algae in coastal waters. Like all sea turtles, it breathes air and must surface regularly. Long migrations connect feeding areas with nesting beaches, where females return to lay eggs in sand. Juveniles can have striking patterned shells.",
+  "references": [
+    {
+      "title": "NOAA Fisheries: Green Turtle",
+      "url": "https://www.fisheries.noaa.gov/species/green-turtle"
+    }
+  ]
+}

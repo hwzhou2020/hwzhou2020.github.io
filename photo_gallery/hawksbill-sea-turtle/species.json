@@ -1,0 +1,13 @@
+{
+  "name": "Hawksbill Sea Turtle",
+  "category": "Reptiles",
+  "group": "",
+  "cover": "20230915-DSC_3191.jpg",
+  "description": "The Hawksbill Sea Turtle takes its name from a narrow, pointed beak that helps it reach food in reef crevices. Its mottled shell combines amber and brown tones, typically with overlapping plates and a serrated rear edge. Many populations feed heavily on sponges, although the diet varies by region and includes other marine life. Coral reefs and sheltered coastal habitats provide feeding and resting places. Females leave the sea to nest on sandy beaches, linking their lives to both marine and coastal environments.",
+  "references": [
+    {
+      "title": "NOAA Fisheries: Hawksbill Turtle",
+      "url": "https://www.fisheries.noaa.gov/species/hawksbill-turtle"
+    }
+  ]
+}
