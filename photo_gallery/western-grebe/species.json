@@ -9,5 +9,49 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Western_Grebe"
     }
-  ]
+  ],
+  "photos": {
+    "20260421-DSC03210.jpg": {
+      "caption": "Swimming",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T01:04:06",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03210.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03211.jpg": {
+      "caption": "Swimming",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T01:04:54",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03211.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Western Grebe.jpg": {
+      "caption": "Swimming",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-08T00:49:22",
+        "folder": "20260407 bird Irvine Bolsa Chica",
+        "raw_files": [
+          "DSC09602.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

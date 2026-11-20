@@ -9,5 +9,28 @@
       "url": "https://www.allaboutbirds.org/guide/Common_Merganser/overview"
     }
   ],
-  "cover": "20260815-DSC01688.jpg"
+  "cover": "20260815-DSC01688.jpg",
+  "photos": {
+    "20260815-DSC01688.jpg": {
+      "caption": "Likely immature · swimming",
+      "identification": {
+        "age": "likely immature",
+        "sex": "undetermined",
+        "confidence": "provisional",
+        "basis": "Close inspection shows a pale patch between the bill and eye, a narrow dark facial line, and a relatively short crest, favoring immature plumage. The single rear-oblique August view cannot settle age with certainty or determine sex.",
+        "reference": "https://www.allaboutbirds.org/guide/Common_Merganser/photo-gallery"
+      },
+      "location": "Stevens Creek area, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-08-15T12:48:31",
+        "folder": "20260815 StevenCreek",
+        "raw_files": [
+          "DSC01688.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

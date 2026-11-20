@@ -9,5 +9,21 @@
       "url": "https://www.allaboutbirds.org/guide/Cattle_Egret"
     }
   ],
-  "cover": "20261029-DSC03701.jpg"
+  "cover": "20261029-DSC03701.jpg",
+  "photos": {
+    "20261029-DSC03701.jpg": {
+      "caption": "Standing at the water's edge",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-29T19:37:40",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC03701.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

@@ -9,5 +9,37 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Red-winged_Blackbird"
     }
-  ]
+  ],
+  "photos": {
+    "20260315-DSC05380.jpg": {
+      "caption": "Flock on the ground",
+      "location": "Quail Lake, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-15",
+        "precision": "lake",
+        "note": "Photographer confirmed this outing as Quail Lake, California."
+      }
+    },
+    "20260705-DSC01204.jpg": {
+      "caption": "Perched on driftwood",
+      "location": "Lassen Volcanic National Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-07-05",
+        "precision": "national park",
+        "note": "Photographer confirmed the July 4–5 photos were taken at Lassen National Park."
+      }
+    },
+    "Red-winged Blackbird.jpg": {
+      "caption": "Male · bill open",
+      "location": "Quail Lake, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-15",
+        "precision": "lake",
+        "note": "Photographer confirmed this outing as Quail Lake, California."
+      }
+    }
+  }
 }

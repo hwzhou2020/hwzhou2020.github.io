@@ -9,5 +9,22 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Oak_Titmouse"
     }
-  ]
+  ],
+  "photos": {
+    "Oak Titmouse.jpg": {
+      "caption": "Perched",
+      "location": "Descanso Gardens, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-03-22T04:31:55",
+        "folder": "20260322 Descanso Garden birding",
+        "raw_files": [
+          "DSC09182.ARW",
+          "DSC09183.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

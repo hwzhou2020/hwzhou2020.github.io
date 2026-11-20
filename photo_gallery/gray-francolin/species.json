@@ -9,5 +9,35 @@
       "url": "https://www.allaboutbirds.org/guide/Gray_Francolin"
     }
   ],
-  "cover": "20261030-DSC04171.jpg"
+  "cover": "20261030-DSC04171.jpg",
+  "photos": {
+    "20261030-DSC04171.jpg": {
+      "caption": "On the grass",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-30T09:49:18",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC04171.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261031-DSC05321.jpg": {
+      "caption": "Walking through grass",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-31T18:50:48",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05321.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

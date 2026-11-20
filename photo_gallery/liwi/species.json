@@ -9,5 +9,147 @@
       "url": "https://www.allaboutbirds.org/guide/Iiwi"
     }
   ],
-  "cover": "20261101-DSC05804.jpg"
+  "cover": "20261101-DSC05804.jpg",
+  "photos": {
+    "20261101-DSC05748.jpg": {
+      "caption": "Adult · among blossoms",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-01T12:18:50",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05748.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261101-DSC05755.jpg": {
+      "caption": "Adult · among blossoms",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-01T12:18:54",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05755.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261101-DSC05781.jpg": {
+      "caption": "Adult · feeding at flowers",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-01T12:19:10",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05781.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261101-DSC05782.jpg": {
+      "caption": "Adult · feeding at flowers",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-01T12:19:11",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05782.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261101-DSC05793.jpg": {
+      "caption": "Adult · feeding at flowers",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-01T12:19:20",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05793.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261101-DSC05803.jpg": {
+      "caption": "Adult · wings spread",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-01T12:19:27",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05803.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261101-DSC05804.jpg": {
+      "caption": "Adult · wings spread",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-01T12:19:27",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05804.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261101-DSC05812.jpg": {
+      "caption": "Adult · among blossoms",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-01T12:27:37",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05812.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261101-DSC05813.jpg": {
+      "caption": "Adult · among blossoms",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-01T12:27:37",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05813.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261101-DSC05817.jpg": {
+      "caption": "Adult · taking flight",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-01T12:27:44",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05817.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

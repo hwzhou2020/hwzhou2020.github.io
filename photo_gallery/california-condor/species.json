@@ -5,14 +5,149 @@
   "cover": "California Condor.jpg",
   "photos": {
     "Juvenile California Condor.jpg": {
-      "caption": "Juvenile California Condor"
+      "caption": "Chull (#1180) · immature male",
+      "location": "Pinnacles National Park, California",
+      "identification": {
+        "studbook_id": 1180,
+        "tag": "red 80 with underline",
+        "source": "https://www.ventanaws.org/condor1180.html",
+        "registry": "https://www.condorspotter.com/",
+        "basis": "Visible wing tag matched to registry and regional profile."
+      }
+    },
+    "20260506-DSC06017.jpg": {
+      "caption": "Immature · perched",
+      "location": "Pinnacles National Park, California"
+    },
+    "20260506-DSC06050.jpg": {
+      "caption": "Immature · portrait",
+      "location": "Pinnacles National Park, California"
+    },
+    "20260506-DSC06079.jpg": {
+      "caption": "Immature · perched",
+      "location": "Pinnacles National Park, California"
+    },
+    "20260506-DSC06097.jpg": {
+      "caption": "Immature · perched",
+      "location": "Pinnacles National Park, California"
+    },
+    "20260506-DSC06220.jpg": {
+      "caption": "Chull (#1180) · immature male",
+      "location": "Pinnacles National Park, California",
+      "identification": {
+        "studbook_id": 1180,
+        "tag": "red 80 with underline",
+        "source": "https://www.ventanaws.org/condor1180.html",
+        "registry": "https://www.condorspotter.com/",
+        "basis": "Visible wing tag matched to registry and regional profile."
+      }
+    },
+    "20260506-DSC06378.jpg": {
+      "caption": "Immature · soaring",
+      "location": "Pinnacles National Park, California",
+      "identification": {
+        "basis": "Yellow underlined tag is visible, but its number is partly obscured. Individual identity and sex remain unassigned."
+      }
+    },
+    "20260506-DSC06384.jpg": {
+      "caption": "Immature · portrait",
+      "location": "Pinnacles National Park, California"
+    },
+    "20260506-DSC06441.jpg": {
+      "caption": "Chull (#1180) · immature male",
+      "location": "Pinnacles National Park, California",
+      "identification": {
+        "studbook_id": 1180,
+        "source": "https://www.ventanaws.org/condor1180.html",
+        "basis": "Same bird, branch and wing movement as DSC06447, taken one second later with readable red 80 tag."
+      }
+    },
+    "20260506-DSC06447.jpg": {
+      "caption": "Chull (#1180) · immature male",
+      "location": "Pinnacles National Park, California",
+      "identification": {
+        "studbook_id": 1180,
+        "tag": "red 80 with underline",
+        "source": "https://www.ventanaws.org/condor1180.html",
+        "registry": "https://www.condorspotter.com/",
+        "basis": "Visible wing tag matched to registry and regional profile."
+      }
+    },
+    "20260506-DSC06461.jpg": {
+      "caption": "Chull (#1180) · immature male",
+      "location": "Pinnacles National Park, California",
+      "identification": {
+        "studbook_id": 1180,
+        "tag": "red 80 with underline",
+        "source": "https://www.ventanaws.org/condor1180.html",
+        "registry": "https://www.condorspotter.com/",
+        "basis": "Visible wing tag matched to registry and regional profile."
+      }
+    },
+    "20260506-DSC06510.jpg": {
+      "caption": "Little Stinker (#726) · adult female",
+      "location": "Pinnacles National Park, California",
+      "identification": {
+        "studbook_id": 726,
+        "tag": "green 26",
+        "source": "https://www.ventanaws.org/condor726.html",
+        "registry": "https://www.condorspotter.com/",
+        "basis": "Visible wing tag matched to registry and regional profile."
+      }
+    },
+    "20260506-DSC06515.jpg": {
+      "caption": "Little Stinker (#726) · adult female",
+      "location": "Pinnacles National Park, California",
+      "identification": {
+        "studbook_id": 726,
+        "tag": "green 26",
+        "source": "https://www.ventanaws.org/condor726.html",
+        "registry": "https://www.condorspotter.com/",
+        "basis": "Visible wing tag matched to registry and regional profile."
+      }
+    },
+    "California Condor.jpg": {
+      "caption": "Haku (#77) · adult female",
+      "location": "Cuyama Valley, California",
+      "identification": {
+        "studbook_id": 77,
+        "tag": "orange 77",
+        "source": "https://www.friendsofcondors.org/the-condors/0077",
+        "registry": "https://www.condorspotter.com/",
+        "basis": "Visible wing tag matched to registry and regional profile."
+      },
+      "location_source": {
+        "type": "photographer_confirmed",
+        "precision": "valley",
+        "note": "Photographer corrected the cover photograph location from Near Los Angeles to Cuyama Valley, California."
+      }
     }
   },
-  "description": "The California Condor is an immense scavenging bird whose broad wings allow it to travel long distances on rising air. Adults have mostly black plumage, pale patches beneath the wings, and a largely bare head. Condors feed on animal carcasses and often nest in sheltered cliff cavities. Captive breeding and reintroduction have been central to their recovery after severe historical declines. Their long-term survival still depends on conservation work, including reducing exposure to lead in scavenged food.",
+  "description": "The California Condor is an immense scavenging bird whose broad wings allow it to travel long distances on rising air. Adults have mostly black plumage, pale patches beneath the wings, and a largely bare head. Condors feed on animal carcasses and often nest in sheltered cliff cavities. Captive breeding and reintroduction have been central to their recovery after severe historical declines. Their long-term survival still depends on conservation work, including reducing exposure to lead in scavenged food. Wing tags link photographs to individual histories: Haku (#77) is a female hatched in 1992, Little Stinker (#726) is a female hatched in 2014, and Chull (#1180) is a male hatched in 2022. Named captions use readable tags or a matching adjacent photo in the same sequence. Other photographs retain broader labels where the tag cannot be read confidently.",
   "references": [
     {
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/California_Condor"
+    },
+    {
+      "title": "Friends of California Condors Wild and Free: Haku (#77)",
+      "url": "https://www.friendsofcondors.org/the-condors/0077"
+    },
+    {
+      "title": "Ventana Wildlife Society: Little Stinker (#726)",
+      "url": "https://www.ventanaws.org/condor726.html"
+    },
+    {
+      "title": "Ventana Wildlife Society: Chull (#1180)",
+      "url": "https://www.ventanaws.org/condor1180.html"
+    },
+    {
+      "title": "Condor Spotter: individual records, hatch dates, and wing tags",
+      "url": "https://www.condorspotter.com/"
+    },
+    {
+      "title": "National Park Service: identifying condors at Pinnacles",
+      "url": "https://www.nps.gov/pinn/learn/nature/profiles.htm"
     }
   ]
 }

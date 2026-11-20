@@ -9,5 +9,91 @@
       "url": "https://www.allaboutbirds.org/guide/Western_Bluebird/overview"
     }
   ],
-  "cover": "20260415-DSC02527.jpg"
+  "cover": "California Blue Bird.jpg",
+  "photos": {
+    "20260415-DSC02344.jpg": {
+      "caption": "Female · perched",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T01:32:43",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02344.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC02346.jpg": {
+      "caption": "Female · perched",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T01:32:55",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02346.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC02527.jpg": {
+      "caption": "Male · on the ground",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T02:10:53",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02527.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC02548.jpg": {
+      "caption": "Female · perched",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T02:14:10",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02548.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC02571.jpg": {
+      "caption": "Male · scratching",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T02:28:22",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02571.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "California Blue Bird.jpg": {
+      "caption": "Male · perched",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T02:28:23",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02574.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

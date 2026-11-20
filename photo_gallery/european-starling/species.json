@@ -9,5 +9,73 @@
       "url": "https://www.allaboutbirds.org/guide/European_Starling/overview"
     }
   ],
-  "cover": "20260830-DSC01896.jpg"
+  "cover": "20260830-DSC01896.jpg",
+  "photos": {
+    "20260312-DSC05270-Topaz-Gigapixel-2X.jpg": {
+      "caption": "Adult · perched",
+      "location": "Pasadena, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-12",
+        "precision": "city",
+        "note": "Photographer confirmed the March 12 outing as Pasadena."
+      }
+    },
+    "20260830-DSC01879.jpg": {
+      "caption": "Speckled plumage",
+      "location": "San Francisco Bay Area, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-08-30T16:35:17",
+        "folder": "20260830 baylands and halfmoonbay",
+        "raw_files": [
+          "DSC01879.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260830-DSC01888-2.jpg": {
+      "caption": "Foraging in grass",
+      "location": "San Francisco Bay Area, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-08-30T16:36:27",
+        "folder": "20260830 baylands and halfmoonbay",
+        "raw_files": [
+          "DSC01888.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260830-DSC01888.jpg": {
+      "caption": "Foraging in grass",
+      "location": "San Francisco Bay Area, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-08-30T16:36:27",
+        "folder": "20260830 baylands and halfmoonbay",
+        "raw_files": [
+          "DSC01888.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260830-DSC01896.jpg": {
+      "caption": "Carrying food",
+      "location": "San Francisco Bay Area, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-08-30T16:37:36",
+        "folder": "20260830 baylands and halfmoonbay",
+        "raw_files": [
+          "DSC01896.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

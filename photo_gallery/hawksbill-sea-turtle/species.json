@@ -9,5 +9,37 @@
       "title": "NOAA Fisheries: Hawksbill Turtle",
       "url": "https://www.fisheries.noaa.gov/species/hawksbill-turtle"
     }
-  ]
+  ],
+  "photos": {
+    "20230915-DSC_3191.jpg": {
+      "caption": "Swimming over rocks",
+      "location": "Big Island, Hawaii",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2023-09-15",
+        "precision": "island",
+        "note": "Photographer confirmed this outing as Big Island, Hawaii."
+      }
+    },
+    "20230915-DSC_3194.jpg": {
+      "caption": "Swimming over rocks",
+      "location": "Big Island, Hawaii",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2023-09-15",
+        "precision": "island",
+        "note": "Photographer confirmed this outing as Big Island, Hawaii."
+      }
+    },
+    "20230915-DSC_3197.jpg": {
+      "caption": "Swimming alongside fish",
+      "location": "Big Island, Hawaii",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2023-09-15",
+        "precision": "island",
+        "note": "Photographer confirmed this outing as Big Island, Hawaii."
+      }
+    }
+  }
 }

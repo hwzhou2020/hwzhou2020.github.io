@@ -9,5 +9,91 @@
       "url": "https://www.allaboutbirds.org/guide/American_Coot/overview"
     }
   ],
-  "cover": "20260415-DSC02515.jpg"
+  "cover": "20260415-DSC02515.jpg",
+  "photos": {
+    "20260415-DSC02515.jpg": {
+      "caption": "Adult · stretching",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T02:07:05",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02515.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260506-DSC06570.jpg": {
+      "caption": "Adult with chick",
+      "location": "Pinnacles National Park, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-06T05:07:57",
+        "folder": "20260505 Pinnacle National Park",
+        "raw_files": [
+          "DSC06570.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260506-DSC06587.jpg": {
+      "caption": "Adult with chick",
+      "location": "Pinnacles National Park, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-06T05:08:55",
+        "folder": "20260505 Pinnacle National Park",
+        "raw_files": [
+          "DSC06587.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260506-DSC06600.jpg": {
+      "caption": "Chick · swimming",
+      "location": "Pinnacles National Park, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-06T05:09:02",
+        "folder": "20260505 Pinnacle National Park",
+        "raw_files": [
+          "DSC06600.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260506-DSC06604.jpg": {
+      "caption": "Adult with chick",
+      "location": "Pinnacles National Park, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-06T05:09:09",
+        "folder": "20260505 Pinnacle National Park",
+        "raw_files": [
+          "DSC06604.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260506-DSC06609.jpg": {
+      "caption": "Chick · swimming",
+      "location": "Pinnacles National Park, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-06T05:09:14",
+        "folder": "20260505 Pinnacle National Park",
+        "raw_files": [
+          "DSC06609.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

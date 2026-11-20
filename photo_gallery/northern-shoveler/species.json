@@ -9,5 +9,21 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/northern_shoveler/"
     }
-  ]
+  ],
+  "photos": {
+    "20261119-DSC06373.jpg": {
+      "caption": "Male swimming beside a coot",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-19T17:10:13",
+        "folder": "20261119 sunnyvale wpcp",
+        "raw_files": [
+          "DSC06373.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

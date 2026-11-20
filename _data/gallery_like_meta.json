@@ -3,10 +3,6 @@
     "counter": "acron-woodpecker-20260322-dsc07734-jpg",
     "fingerprint": "568f4b969528544bc16b6b707195fa25d9865eca"
   },
-  "african-penguin/20261030-DSC04159.jpg": {
-    "counter": "african-penguin-20261030-dsc04159-jpg",
-    "fingerprint": "568f93a5306855704655068640f166fc59bd4e3e"
-  },
   "allen-s-hummingbird/20260415-DSC02306.jpg": {
     "counter": "allen-s-hummingbird-20260415-dsc02306-jpg",
     "fingerprint": "8218c57228bcb05c1a5a9b37e30a6f85bb25773e"
@@ -22,6 +18,10 @@
   "allen-s-hummingbird/20260426-DSC05013.jpg": {
     "counter": "allen-s-hummingbird-20260426-dsc05013-jpg",
     "fingerprint": "e6f394c8d8fb38bc701f25d4a12ce75b5e384ec5"
+  },
+  "allen-s-hummingbird/20260426-Hummingbird.jpg": {
+    "counter": "anna-s-hummingbird-jpg",
+    "fingerprint": "b785dee20bf47d64be9e4c4120bc67bb6a2fc9d9"
   },
   "allen-s-hummingbird/Allen's Hummingbird.jpg": {
     "counter": "allen-s-hummingbird-jpg",
@@ -126,10 +126,6 @@
   "anna-s-hummingbird/20260415-DSC02638.jpg": {
     "counter": "anna-s-hummingbird-20260415-dsc02638-jpg",
     "fingerprint": "56fd35582e5671f918cf55383bc364ea4dc9cb24"
-  },
-  "anna-s-hummingbird/Anna's Hummingbird.jpg": {
-    "counter": "anna-s-hummingbird-jpg",
-    "fingerprint": "b785dee20bf47d64be9e4c4120bc67bb6a2fc9d9"
   },
   "anna-s-hummingbird/Baby Hummingbird.jpg": {
     "counter": "baby-hummingbird-jpg",
@@ -1826,10 +1822,6 @@
   "western-bluebird/20260415-DSC02571.jpg": {
     "counter": "western-bluebird-20260415-dsc02571-jpg",
     "fingerprint": "b55567bdf26587a2120e4da4b42771a42ed50a72"
-  },
-  "western-bluebird/20260415-DSC02574.jpg": {
-    "counter": "western-bluebird-20260415-dsc02574-jpg",
-    "fingerprint": "bcfe815cb7dcf41c1c3e4b80f89f16cd1edf5726"
   },
   "western-bluebird/California Blue Bird.jpg": {
     "counter": "california-blue-bird-jpg",

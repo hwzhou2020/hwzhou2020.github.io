@@ -9,5 +9,22 @@
       "title": "University of Michigan: Animal Diversity Web",
       "url": "https://animaldiversity.org/accounts/Sciurus_niger/"
     }
-  ]
+  ],
+  "photos": {
+    "Fox Squirrel.jpg": {
+      "caption": "Feeding",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T03:05:54",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04876.ARW",
+          "DSC04877.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

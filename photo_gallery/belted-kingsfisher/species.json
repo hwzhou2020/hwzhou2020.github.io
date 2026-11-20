@@ -9,5 +9,119 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Belted_Kingfisher/overview/"
     }
-  ]
+  ],
+  "photos": {
+    "20261119-DSC06262.jpg": {
+      "caption": "Female · perched",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-19T16:48:21",
+        "folder": "20261119 sunnyvale wpcp",
+        "raw_files": [
+          "DSC06262.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261119-DSC06270.jpg": {
+      "caption": "Female · wings spread",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-19T16:48:27",
+        "folder": "20261119 sunnyvale wpcp",
+        "raw_files": [
+          "DSC06270.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261119-DSC06271.jpg": {
+      "caption": "Female · in flight",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-19T16:48:27",
+        "folder": "20261119 sunnyvale wpcp",
+        "raw_files": [
+          "DSC06271.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261119-DSC06291.jpg": {
+      "caption": "Female · perched",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-19T16:54:48",
+        "folder": "20261119 sunnyvale wpcp",
+        "raw_files": [
+          "DSC06291.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261119-DSC06303.jpg": {
+      "caption": "Female · perched",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-19T16:57:44",
+        "folder": "20261119 sunnyvale wpcp",
+        "raw_files": [
+          "DSC06303.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261119-DSC06308.jpg": {
+      "caption": "Female · in flight",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-19T17:00:19",
+        "folder": "20261119 sunnyvale wpcp",
+        "raw_files": [
+          "DSC06308.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261119-DSC06316.jpg": {
+      "caption": "Female · perched",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-19T17:01:02",
+        "folder": "20261119 sunnyvale wpcp",
+        "raw_files": [
+          "DSC06316.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261119-DSC06335.jpg": {
+      "caption": "Female · perched",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-19T17:04:46",
+        "folder": "20261119 sunnyvale wpcp",
+        "raw_files": [
+          "DSC06335.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

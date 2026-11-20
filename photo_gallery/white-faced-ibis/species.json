@@ -9,5 +9,50 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/White-faced_Ibis"
     }
-  ]
+  ],
+  "photos": {
+    "20260408-DSC09274.jpg": {
+      "caption": "Two birds · wading",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-08T00:22:55",
+        "folder": "20260407 bird Irvine Bolsa Chica",
+        "raw_files": [
+          "DSC09274.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260408-DSC09416.jpg": {
+      "caption": "Adult · wings spread",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-08T00:31:32",
+        "folder": "20260407 bird Irvine Bolsa Chica",
+        "raw_files": [
+          "DSC09416.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "White-faced Ibis.jpg": {
+      "caption": "Adult · wings spread",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-08T00:29:53",
+        "folder": "20260407 bird Irvine Bolsa Chica",
+        "raw_files": [
+          "DSC09396.ARW",
+          "DSC09397.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

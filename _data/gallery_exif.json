@@ -7,14 +7,6 @@
     "aperture": 6.3,
     "shutter": "1/800"
   },
-  "african-penguin/20261030-DSC04159.jpg": {
-    "model": "ILCE-7CM2",
-    "lens": "FE 200-600mm F5.6-6.3 G OSS",
-    "iso": 2500,
-    "focal": 422,
-    "aperture": 6.3,
-    "shutter": "1/100"
-  },
   "allen-s-hummingbird/20260415-DSC02306.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -46,6 +38,14 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/800"
+  },
+  "allen-s-hummingbird/20260426-Hummingbird.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1600"
   },
   "allen-s-hummingbird/Allen's Hummingbird.jpg": {
     "model": "ILCE-7CM2",
@@ -254,14 +254,6 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/2500"
-  },
-  "anna-s-hummingbird/Anna's Hummingbird.jpg": {
-    "model": "ILCE-7CM2",
-    "lens": "FE 200-600mm F5.6-6.3 G OSS",
-    "iso": 1600,
-    "focal": 600,
-    "aperture": 6.3,
-    "shutter": "1/1600"
   },
   "anna-s-hummingbird/Baby Hummingbird.jpg": {
     "model": "ILCE-7CM2",
@@ -3648,14 +3640,6 @@
     "shutter": "1/1250"
   },
   "western-bluebird/20260415-DSC02571.jpg": {
-    "model": "ILCE-7CM2",
-    "lens": "FE 200-600mm F5.6-6.3 G OSS",
-    "iso": 1600,
-    "focal": 600,
-    "aperture": 6.3,
-    "shutter": "1/1250"
-  },
-  "western-bluebird/20260415-DSC02574.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
     "iso": 1600,

@@ -9,5 +9,35 @@
       "url": "https://www.allaboutbirds.org/guide/Western_Sandpiper/overview"
     }
   ],
-  "cover": "20260408-DSC00518.jpg"
+  "cover": "20260408-DSC00518.jpg",
+  "photos": {
+    "20260408-DSC00518.jpg": {
+      "caption": "Bathing together",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-08T04:28:45",
+        "folder": "20260407 bird Irvine Bolsa Chica",
+        "raw_files": [
+          "DSC00518.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260408-DSC00600.jpg": {
+      "caption": "Flock taking flight",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-08T04:32:10",
+        "folder": "20260407 bird Irvine Bolsa Chica",
+        "raw_files": [
+          "DSC00600.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

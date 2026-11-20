@@ -1,0 +1,326 @@
+{
+  "version": 1,
+  "note": "Resolve one photo or related sequence at a time with the photographer. Neutral visible-behavior captions remain published until confirmed. Similar-looking sexes are otherwise left unspecified; this is not a request to sex every photo. Original files and album order are unchanged.",
+  "field_guides_checked": [
+    "https://www.allaboutbirds.org/guide/Acorn_Woodpecker/id",
+    "https://www.allaboutbirds.org/guide/Horned_Lark/id",
+    "https://www.allaboutbirds.org/guide/Lesser_Goldfinch/id",
+    "https://www.allaboutbirds.org/guide/Little_Blue_Heron/id",
+    "https://mdc.mo.gov/discover-nature/field-guide/black-necked-stilt",
+    "https://www.audubon.org/field-guide/bird/annas-hummingbird",
+    "https://irma.nps.gov/DataStore/FileSource/Get/2313239?filename=KLMN_Featured_Creature_201904_Annas_Hummingbird_v2.pdf",
+    "https://www.allaboutbirds.org/guide/Common_Merganser/id/",
+    "https://www.allaboutbirds.org/guide/Wilsons_Warbler/id"
+  ],
+  "items": [
+    {
+      "id": "caption-review-01",
+      "status": "skipped",
+      "album": "allen-s-hummingbird",
+      "species": "Allen's Hummingbird",
+      "photos": [
+        {
+          "filename": "20260426-DSC05013.jpg",
+          "path": "/photo_gallery/allen-s-hummingbird/20260426-DSC05013.jpg",
+          "current_caption": "Perched · likely Allen’s"
+        }
+      ],
+      "question": "Female or immature? Age and sex remain unspecified. Species provisionally Allen’s; Rufous cannot be excluded from these views.",
+      "options": [
+        "Female",
+        "Immature",
+        "Leave unspecified"
+      ],
+      "resolution": {
+        "source": "User requested skipping remaining uncertain identifications",
+        "action": "Retained neutral caption"
+      }
+    },
+    {
+      "id": "caption-review-02",
+      "status": "skipped",
+      "album": "american-goldfinch",
+      "species": "American Goldfinch",
+      "photos": [
+        {
+          "filename": "American Goldfinch.jpg",
+          "path": "/photo_gallery/american-goldfinch/American Goldfinch.jpg",
+          "current_caption": "Perched"
+        }
+      ],
+      "question": "Sex in dull plumage is uncertain from this angle.",
+      "options": [
+        "Female",
+        "Male",
+        "Leave unspecified"
+      ],
+      "resolution": {
+        "source": "User requested skipping remaining uncertain identifications",
+        "action": "Retained neutral caption"
+      }
+    },
+    {
+      "id": "caption-review-03",
+      "status": "skipped",
+      "album": "allen-s-hummingbird",
+      "species": "Allen's Hummingbird",
+      "photos": [
+        {
+          "filename": "20260426-Hummingbird.jpg",
+          "path": "/photo_gallery/allen-s-hummingbird/20260426-Hummingbird.jpg",
+          "current_caption": "Perched · likely Allen’s"
+        }
+      ],
+      "question": "Female or immature? Age and sex remain unspecified. Species provisionally Allen’s; Rufous cannot be excluded from these views.",
+      "options": [
+        "Female",
+        "Immature male",
+        "Leave unspecified"
+      ],
+      "resolution": {
+        "source": "User requested skipping remaining uncertain identifications",
+        "action": "Retained neutral caption"
+      }
+    },
+    {
+      "id": "caption-review-04",
+      "status": "resolved",
+      "album": "belted-kingsfisher",
+      "species": "Belted Kingfisher",
+      "photos": [
+        {
+          "filename": "20261119-DSC06308.jpg",
+          "path": "/photo_gallery/belted-kingsfisher/20261119-DSC06308.jpg",
+          "current_caption": "Female · in flight"
+        }
+      ],
+      "question": "The underside is obscured in this flight frame. Is it the same known female photographed nearby?",
+      "options": [
+        "Same female",
+        "Different bird / unknown",
+        "Male"
+      ],
+      "resolution": {
+        "sex": "female",
+        "source": "Confirmed by photographer in conversation"
+      }
+    },
+    {
+      "id": "caption-review-05",
+      "status": "skipped",
+      "album": "bushtit",
+      "species": "Bushtit",
+      "photos": [
+        {
+          "filename": "20260525-DSC08331.jpg",
+          "path": "/photo_gallery/bushtit/20260525-DSC08331.jpg",
+          "current_caption": "Perched"
+        },
+        {
+          "filename": "Bushtit.jpg",
+          "path": "/photo_gallery/bushtit/Bushtit.jpg",
+          "current_caption": "Perched · bill open"
+        }
+      ],
+      "question": "Dark eyes occur in adult males and young birds of either sex. Confirm age before assigning sex. Review each photo separately.",
+      "options": [
+        "Adult male",
+        "Immature",
+        "Leave unspecified"
+      ],
+      "resolution": {
+        "source": "User requested skipping remaining uncertain identifications",
+        "action": "Retained neutral caption"
+      }
+    },
+    {
+      "id": "caption-review-06",
+      "status": "reviewed",
+      "album": "common-merganser",
+      "species": "Common Merganser",
+      "photos": [
+        {
+          "filename": "20260815-DSC01688.jpg",
+          "path": "/photo_gallery/common-merganser/20260815-DSC01688.jpg",
+          "current_caption": "Likely immature · swimming"
+        }
+      ],
+      "question": "Late-summer females, immatures, and nonbreeding males can look alike.",
+      "options": [
+        "Female",
+        "Immature",
+        "Leave unspecified"
+      ],
+      "resolution": {
+        "age": "likely immature",
+        "sex": "undetermined",
+        "source": "Closer visual review against Cornell identification reference",
+        "confidence": "provisional",
+        "reference": "https://www.allaboutbirds.org/guide/Common_Merganser/photo-gallery"
+      }
+    },
+    {
+      "id": "caption-review-07",
+      "status": "resolved",
+      "album": "foster-s-tern",
+      "species": "Forster's Tern",
+      "photos": [
+        {
+          "filename": "20260415-DSC02958.jpg",
+          "path": "/photo_gallery/foster-s-tern/20260415-DSC02958.jpg",
+          "current_caption": "Adults competing for a fish"
+        },
+        {
+          "filename": "20260415-DSC02962.jpg",
+          "path": "/photo_gallery/foster-s-tern/20260415-DSC02962.jpg",
+          "current_caption": "Adults competing for a fish"
+        },
+        {
+          "filename": "20260415-DSC02963.jpg",
+          "path": "/photo_gallery/foster-s-tern/20260415-DSC02963.jpg",
+          "current_caption": "Adults competing for a fish"
+        },
+        {
+          "filename": "20260415-DSC02964.jpg",
+          "path": "/photo_gallery/foster-s-tern/20260415-DSC02964.jpg",
+          "current_caption": "Adults competing for a fish"
+        },
+        {
+          "filename": "20260415-DSC02965.jpg",
+          "path": "/photo_gallery/foster-s-tern/20260415-DSC02965.jpg",
+          "current_caption": "Adults competing for a fish"
+        },
+        {
+          "filename": "20260415-DSC02966.jpg",
+          "path": "/photo_gallery/foster-s-tern/20260415-DSC02966.jpg",
+          "current_caption": "Adults competing for a fish"
+        },
+        {
+          "filename": "20260415-DSC02967.jpg",
+          "path": "/photo_gallery/foster-s-tern/20260415-DSC02967.jpg",
+          "current_caption": "Adults competing for a fish"
+        },
+        {
+          "filename": "20260415-DSC02968.jpg",
+          "path": "/photo_gallery/foster-s-tern/20260415-DSC02968.jpg",
+          "current_caption": "Adults competing for a fish"
+        },
+        {
+          "filename": "20260415-DSC02969.jpg",
+          "path": "/photo_gallery/foster-s-tern/20260415-DSC02969.jpg",
+          "current_caption": "Taking flight with a fish"
+        },
+        {
+          "filename": "20260415-DSC02970.jpg",
+          "path": "/photo_gallery/foster-s-tern/20260415-DSC02970.jpg",
+          "current_caption": "Taking flight with a fish"
+        },
+        {
+          "filename": "20260415-DSC02971.jpg",
+          "path": "/photo_gallery/foster-s-tern/20260415-DSC02971.jpg",
+          "current_caption": "Taking flight with a fish"
+        },
+        {
+          "filename": "20260415-DSC02972.jpg",
+          "path": "/photo_gallery/foster-s-tern/20260415-DSC02972.jpg",
+          "current_caption": "Taking flight with a fish"
+        },
+        {
+          "filename": "20260415-DSC02974.jpg",
+          "path": "/photo_gallery/foster-s-tern/20260415-DSC02974.jpg",
+          "current_caption": "Taking flight with a fish"
+        },
+        {
+          "filename": "Tern Rival.jpg",
+          "path": "/photo_gallery/foster-s-tern/Tern Rival.jpg",
+          "current_caption": "Adults competing for a fish"
+        }
+      ],
+      "question": "Does the observed fish interaction show courtship feeding or competition? Captions currently describe only the visible fish and movement.",
+      "options": [
+        "Courtship feeding",
+        "Competition",
+        "Leave behavior unspecified"
+      ],
+      "resolution": {
+        "behavior": "Competition",
+        "source": "Confirmed by photographer in conversation",
+        "note": "Interaction frames describe competition; departure frames retain Taking flight with a fish. The unrelated November flight photograph is excluded."
+      }
+    },
+    {
+      "id": "caption-review-08",
+      "status": "skipped",
+      "album": "house-sparrow",
+      "species": "House Sparrow",
+      "photos": [
+        {
+          "filename": "20261029-DSC03581.jpg",
+          "path": "/photo_gallery/house-sparrow/20261029-DSC03581.jpg",
+          "current_caption": "Perched on a wall"
+        }
+      ],
+      "question": "Female or immature? The plain face alone does not settle age.",
+      "options": [
+        "Female",
+        "Immature",
+        "Leave unspecified"
+      ],
+      "resolution": {
+        "source": "User requested skipping remaining uncertain identifications",
+        "action": "Retained neutral caption"
+      }
+    },
+    {
+      "id": "caption-review-09",
+      "status": "skipped",
+      "album": "red-winged-blackbird",
+      "species": "Red-winged Blackbird",
+      "photos": [
+        {
+          "filename": "20260705-DSC01204.jpg",
+          "path": "/photo_gallery/red-winged-blackbird/20260705-DSC01204.jpg",
+          "current_caption": "Perched on driftwood"
+        }
+      ],
+      "question": "Streaked plumage: confirm female versus immature before adding age or sex.",
+      "options": [
+        "Female",
+        "Immature",
+        "Leave unspecified"
+      ],
+      "resolution": {
+        "source": "User requested skipping remaining uncertain identifications",
+        "action": "Retained neutral caption"
+      }
+    },
+    {
+      "id": "caption-review-10",
+      "status": "skipped",
+      "album": "wilson-s-warbler",
+      "species": "Wilson's Warbler",
+      "photos": [
+        {
+          "filename": "20260620-DSC09938.jpg",
+          "path": "/photo_gallery/wilson-s-warbler/20260620-DSC09938.jpg",
+          "current_caption": "Perched"
+        },
+        {
+          "filename": "20260620-DSC09975.jpg",
+          "path": "/photo_gallery/wilson-s-warbler/20260620-DSC09975.jpg",
+          "current_caption": "Perched"
+        }
+      ],
+      "question": "The cap is not clearly visible. Confirm sex individually; a nearby male frame does not establish that these are the same individual.",
+      "options": [
+        "Male",
+        "Female",
+        "Leave unspecified"
+      ],
+      "resolution": {
+        "source": "User requested skipping remaining uncertain identifications",
+        "action": "Retained neutral caption"
+      }
+    }
+  ]
+}

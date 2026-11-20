@@ -9,5 +9,92 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/brown_pelican"
     }
-  ]
+  ],
+  "photos": {
+    "20260408-DSC00685-2.jpg": {
+      "caption": "Adult · bill open",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-08T04:43:50",
+        "folder": "20260407 bird Irvine Bolsa Chica",
+        "raw_files": [
+          "DSC00685.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260408-DSC00685.jpg": {
+      "caption": "Adult · bill open",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-08T04:43:50",
+        "folder": "20260407 bird Irvine Bolsa Chica",
+        "raw_files": [
+          "DSC00685.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260408-DSC00708.jpg": {
+      "caption": "Adult · taking flight",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-08T04:44:54",
+        "folder": "20260407 bird Irvine Bolsa Chica",
+        "raw_files": [
+          "DSC00708.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260408-DSC00713.jpg": {
+      "caption": "Adult · in flight",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-08T04:44:55",
+        "folder": "20260407 bird Irvine Bolsa Chica",
+        "raw_files": [
+          "DSC00713.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04309.jpg": {
+      "caption": "Adult · swimming",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T07:16:04",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04309.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "California Brown Pelican.jpg": {
+      "caption": "Adult · bill open",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-08T04:43:50",
+        "folder": "20260407 bird Irvine Bolsa Chica",
+        "raw_files": [
+          "DSC00684.ARW",
+          "DSC00685.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

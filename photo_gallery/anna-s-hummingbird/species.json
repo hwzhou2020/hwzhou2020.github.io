@@ -12,7 +12,130 @@
   ],
   "photos": {
     "Baby Hummingbird.jpg": {
-      "caption": "Baby Hummingbird"
+      "caption": "Fledgling",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T02:52:43",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02594.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260408-DSC09639.jpg": {
+      "caption": "Male · perched",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-08T01:12:04",
+        "folder": "20260407 bird Irvine Bolsa Chica",
+        "raw_files": [
+          "DSC09639.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260408-DSC09807.jpg": {
+      "caption": "Male · perched",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-08T01:40:49",
+        "folder": "20260407 bird Irvine Bolsa Chica",
+        "raw_files": [
+          "DSC09807.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC02575.jpg": {
+      "caption": "Fledgling",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T02:51:57",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02575.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC02594.jpg": {
+      "caption": "Fledgling",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T02:52:43",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02594.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC02598.jpg": {
+      "caption": "Female feeding a fledgling",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T02:56:19",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02598.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC02617.jpg": {
+      "caption": "Female with fledgling",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T02:56:23",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02617.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC02626.jpg": {
+      "caption": "Nestlings",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T02:57:24",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02626.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC02638.jpg": {
+      "caption": "Nestlings",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T02:57:31",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02638.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
     }
   }
 }

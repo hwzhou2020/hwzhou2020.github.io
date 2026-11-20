@@ -9,5 +9,105 @@
       "url": "https://www.allaboutbirds.org/guide/House_Sparrow/overview"
     }
   ],
-  "cover": "20261030-DSC04240.jpg"
+  "cover": "20261030-DSC04240.jpg",
+  "photos": {
+    "20260420-DSC03178.jpg": {
+      "caption": "Male · perched",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-20T23:35:51",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03178.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04385.jpg": {
+      "caption": "Male · fluffed feathers",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T09:04:19",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04385.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04402.jpg": {
+      "caption": "Male · fluffed feathers",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T09:04:44",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04402.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04406.jpg": {
+      "caption": "Male · fluffed feathers",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T09:04:59",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04406.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261029-DSC03581.jpg": {
+      "caption": "Perched on a wall",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-29T16:38:10",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC03581.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261029-DSC03620.jpg": {
+      "caption": "Male · on a rock",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-29T17:02:20",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC03620.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261030-DSC04240.jpg": {
+      "caption": "Male · perched",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-30T10:08:39",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC04240.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

@@ -19,8 +19,8 @@
       "thumbnail": "/assets/images/wildlife/acron-woodpecker/568f4b969528544bc16b6b707195fa25d9865eca.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Acorn Woodpecker",
-      "location": "",
+      "caption": "Female · perched",
+      "location": "Descanso Gardens, California",
       "date": "2026-03-22T01:14:41",
       "featured": false,
       "camera": {
@@ -34,44 +34,16 @@
       "counter": "acron-woodpecker-20260322-dsc07734-jpg"
     },
     "count": 1,
-    "locations": []
-  },
-  {
-    "name": "African Penguin",
-    "category": "Birds",
-    "group": "Waterbirds",
-    "scientific_name": "",
-    "description": "The African Penguin is a small penguin native to the coasts of southern Africa. Dense feathers insulate its body in cool seawater, while its wings function as flippers during underwater swimming. It hunts small schooling fish and returns to land to rest and breed. Black-and-white markings and individual patterns of spots on the chest help distinguish birds. Unlike the familiar image of penguins surrounded by Antarctic ice, this species inhabits a much warmer coastal setting.",
-    "references": [
-      {
-        "title": "San Diego Zoo Wildlife Alliance",
-        "url": "https://animals.sandiegozoo.org/animals/african-penguin"
-      }
+    "locations": [
+      "Descanso Gardens, California"
     ],
-    "slug": "african-penguin",
-    "url": "/wildlife-gallery/african-penguin/",
-    "cover": {
-      "filename": "20261030-DSC04159.jpg",
-      "path": "/photo_gallery/african-penguin/20261030-DSC04159.jpg",
-      "thumbnail": "/assets/images/wildlife/african-penguin/568f93a5306855704655068640f166fc59bd4e3e.webp",
-      "width": 1200,
-      "height": 800,
-      "caption": "African Penguin",
-      "location": "",
-      "date": "2026-10-30T09:39:42",
-      "featured": false,
-      "camera": {
-        "model": "ILCE-7CM2",
-        "lens": "FE 200-600mm F5.6-6.3 G OSS",
-        "iso": 2500,
-        "focal": 422,
-        "aperture": 6.3,
-        "shutter": "1/100"
-      },
-      "counter": "african-penguin-20261030-dsc04159-jpg"
-    },
-    "count": 1,
-    "locations": []
+    "location_details": [
+      {
+        "name": "Descanso Gardens, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Allen's Hummingbird",
@@ -93,8 +65,8 @@
       "thumbnail": "/assets/images/wildlife/allen-s-hummingbird/6457ea6c71b340772aabe8bc46baf76bd2edefc8.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Allen's Hummingbird",
-      "location": "",
+      "caption": "Male · wings spread",
+      "location": "Orange County, California",
       "date": "2026-04-15T02:11:52",
       "featured": false,
       "camera": {
@@ -107,8 +79,23 @@
       },
       "counter": "allen-s-hummingbird-jpg"
     },
-    "count": 5,
-    "locations": []
+    "count": 6,
+    "locations": [
+      "Caltech, Pasadena, California",
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Caltech, Pasadena, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "American Avocet",
@@ -130,8 +117,8 @@
       "thumbnail": "/assets/images/wildlife/american-avocet/0ce84d83d214912f02f95180a852f45b83fd4f00.webp",
       "width": 1200,
       "height": 800,
-      "caption": "American Avocet",
-      "location": "",
+      "caption": "Breeding plumage · wading",
+      "location": "Orange County, California",
       "date": "2026-04-08T00:26:34",
       "featured": false,
       "camera": {
@@ -145,7 +132,16 @@
       "counter": "american-avocet-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "American Coot",
@@ -167,8 +163,8 @@
       "thumbnail": "/assets/images/wildlife/american-coot/30c66868bc5d77426480630a9f76749d124ab3fc.webp",
       "width": 1200,
       "height": 800,
-      "caption": "American Coot",
-      "location": "",
+      "caption": "Adult · stretching",
+      "location": "Orange County, California",
       "date": "2026-04-15T02:07:05",
       "featured": false,
       "camera": {
@@ -182,7 +178,22 @@
       "counter": "american-coot-20260415-dsc02515-jpg"
     },
     "count": 6,
-    "locations": []
+    "locations": [
+      "Orange County, California",
+      "Pinnacles National Park, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Pinnacles National Park, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "American Dipper",
@@ -204,8 +215,8 @@
       "thumbnail": "/assets/images/wildlife/american-dipper/1fbf06d3ab22ca7ff101fdb406288cdfdcc5a30b.webp",
       "width": 1200,
       "height": 800,
-      "caption": "American Dipper",
-      "location": "",
+      "caption": "In shallow water",
+      "location": "Lassen Volcanic National Park, California",
       "date": "2026-07-05T07:59:07",
       "featured": false,
       "camera": {
@@ -219,7 +230,16 @@
       "counter": "american-dipper-20260705-dsc01134-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Lassen Volcanic National Park, California"
+    ],
+    "location_details": [
+      {
+        "name": "Lassen Volcanic National Park, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "American Goldfinch",
@@ -241,8 +261,8 @@
       "thumbnail": "/assets/images/wildlife/american-goldfinch/eb3d1cee317eb5d7164fc28ad87a3a8a859666ec.webp",
       "width": 1200,
       "height": 800,
-      "caption": "American Goldfinch",
-      "location": "",
+      "caption": "Perched",
+      "location": "Pico Rivera, California",
       "date": "2026-02-15T02:42:28",
       "featured": false,
       "camera": {
@@ -256,7 +276,16 @@
       "counter": "american-goldfinch-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Pico Rivera, California"
+    ],
+    "location_details": [
+      {
+        "name": "Pico Rivera, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "American Robin",
@@ -278,8 +307,8 @@
       "thumbnail": "/assets/images/wildlife/american-robin/5eff3d4e7cdf1ab8986839273f160c59edad5b1e.webp",
       "width": 1200,
       "height": 800,
-      "caption": "American Robin",
-      "location": "",
+      "caption": "Adult · on the ground",
+      "location": "Los Angeles County Arboretum, California",
       "date": "2026-04-24T02:33:04",
       "featured": false,
       "camera": {
@@ -293,7 +322,22 @@
       "counter": "america-robin-jpg"
     },
     "count": 4,
-    "locations": []
+    "locations": [
+      "Descanso Gardens, California",
+      "Los Angeles County Arboretum, California"
+    ],
+    "location_details": [
+      {
+        "name": "Descanso Gardens, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Los Angeles County Arboretum, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "American White Pelican",
@@ -315,8 +359,8 @@
       "thumbnail": "/assets/images/wildlife/american-white-pelican/b11d919d7add524691a9988ad07fb8f21e6bc4fe.webp",
       "width": 1200,
       "height": 800,
-      "caption": "American White Pelican",
-      "location": "",
+      "caption": "Wings spread",
+      "location": "San Francisco Bay Area, California",
       "date": "2026-08-30T15:14:34",
       "featured": false,
       "camera": {
@@ -330,7 +374,22 @@
       "counter": "american-white-pelican-20260830-dsc01850-jpg"
     },
     "count": 3,
-    "locations": []
+    "locations": [
+      "San Francisco Bay Area, California",
+      "Sunnyvale, California"
+    ],
+    "location_details": [
+      {
+        "name": "San Francisco Bay Area, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sunnyvale, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Anna's Hummingbird",
@@ -352,8 +411,8 @@
       "thumbnail": "/assets/images/wildlife/anna-s-hummingbird/4c44335ab36f53577497914380c69217e16ab47b.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Anna's Hummingbird",
-      "location": "",
+      "caption": "Female feeding a fledgling",
+      "location": "Orange County, California",
       "date": "2026-04-15T02:56:19",
       "featured": false,
       "camera": {
@@ -366,8 +425,17 @@
       },
       "counter": "anna-s-hummingbird-20260415-dsc02598-jpg"
     },
-    "count": 10,
-    "locations": []
+    "count": 9,
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Barn Owl",
@@ -389,8 +457,8 @@
       "thumbnail": "/assets/images/wildlife/barn-owl/281d1bd677ecddead32a3d5f33f1ef01a0a6148d.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Baby Barn Owl",
-      "location": "",
+      "caption": "Owlets at the nest",
+      "location": "Irvine, California",
       "date": "2026-05-25T04:26:54",
       "featured": false,
       "camera": {
@@ -404,7 +472,16 @@
       "counter": "baby-barn-owl-jpg"
     },
     "count": 3,
-    "locations": []
+    "locations": [
+      "Irvine, California"
+    ],
+    "location_details": [
+      {
+        "name": "Irvine, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Belted Kingfisher",
@@ -426,8 +503,8 @@
       "thumbnail": "/assets/images/wildlife/belted-kingsfisher/15d7b30e32c4850c81e4a5605c00e9f434489cc2.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Belted Kingfisher",
-      "location": "",
+      "caption": "Female · perched",
+      "location": "Sunnyvale, California",
       "date": "2026-11-19T16:57:44",
       "featured": false,
       "camera": {
@@ -441,7 +518,16 @@
       "counter": "belted-kingsfisher-20261119-dsc06303-jpg"
     },
     "count": 8,
-    "locations": []
+    "locations": [
+      "Sunnyvale, California"
+    ],
+    "location_details": [
+      {
+        "name": "Sunnyvale, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Bewick's Wren",
@@ -463,8 +549,8 @@
       "thumbnail": "/assets/images/wildlife/bewick-s-wren/3c529934305374f9d720d34aabda9c477fc2a5db.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Bewick's Wren",
-      "location": "",
+      "caption": "On the ground",
+      "location": "Pasadena, California",
       "date": "2026-03-12T09:31:12",
       "featured": false,
       "camera": {
@@ -478,7 +564,22 @@
       "counter": "bewick-s-wren-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Los Angeles County Arboretum, California",
+      "Pasadena, California"
+    ],
+    "location_details": [
+      {
+        "name": "Los Angeles County Arboretum, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Pasadena, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Black Phoebe",
@@ -500,8 +601,8 @@
       "thumbnail": "/assets/images/wildlife/black-phoebe/7f7797a9408f74c55c3d02c545aa3ec3944dba08.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Black Phoebe",
-      "location": "",
+      "caption": "In flight",
+      "location": "Pico Rivera, California",
       "date": "2026-02-15T02:52:10",
       "featured": false,
       "camera": {
@@ -515,7 +616,28 @@
       "counter": "black-phoebe-jpg"
     },
     "count": 4,
-    "locations": []
+    "locations": [
+      "Los Angeles County Arboretum, California",
+      "Orange County, California",
+      "Pico Rivera, California"
+    ],
+    "location_details": [
+      {
+        "name": "Los Angeles County Arboretum, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Pico Rivera, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Black Skimmer",
@@ -537,8 +659,8 @@
       "thumbnail": "/assets/images/wildlife/black-skimmer/2e49245af679a4a99c653b838f803f9167c2fa95.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Black Skimmer",
-      "location": "",
+      "caption": "Resting flock",
+      "location": "Irvine, California",
       "date": "2026-05-25T08:48:02",
       "featured": false,
       "camera": {
@@ -552,7 +674,16 @@
       "counter": "black-skimmer-20260525-dsc08381-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Irvine, California"
+    ],
+    "location_details": [
+      {
+        "name": "Irvine, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Black-necked Stilt",
@@ -574,8 +705,8 @@
       "thumbnail": "/assets/images/wildlife/black-necked-stilt/994b57021506577d5ff3a9fe90813fbf6c1daa9a.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Black-necked Stilt",
-      "location": "",
+      "caption": "Female · wading",
+      "location": "Orange County, California",
       "date": "2026-04-15T05:36:06",
       "featured": false,
       "camera": {
@@ -589,7 +720,22 @@
       "counter": "black-necked-stilt-20260415-dsc02943-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Orange County, California",
+      "San Francisco Bay Area, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "San Francisco Bay Area, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Black-tailed Deer",
@@ -611,8 +757,8 @@
       "thumbnail": "/assets/images/wildlife/black-tail-deer/0a44fcbab6fd5e62277cf4b6c196bd95893421ce.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Black-tailed Deer",
-      "location": "",
+      "caption": "Among wildflowers",
+      "location": "Pescadero area, California",
       "date": "2026-09-19T16:08:54",
       "featured": false,
       "camera": {
@@ -626,7 +772,22 @@
       "counter": "black-tail-deer-20260919-dsc02659-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Pescadero area, California",
+      "Sierra Vista area, California"
+    ],
+    "location_details": [
+      {
+        "name": "Pescadero area, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sierra Vista area, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Black-tailed Jackrabbit",
@@ -648,8 +809,8 @@
       "thumbnail": "/assets/images/wildlife/black-tailed-jackrabbit/554b8ff8a95c5373920d61d1f926261acd6c1cf6.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Black-tailed Jackrabbit",
-      "location": "",
+      "caption": "Among the flowers",
+      "location": "Los Angeles County Arboretum, California",
       "date": "2026-04-24T01:54:16",
       "featured": false,
       "camera": {
@@ -663,7 +824,16 @@
       "counter": "black-tailed-jackrabbit-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Los Angeles County Arboretum, California"
+    ],
+    "location_details": [
+      {
+        "name": "Los Angeles County Arboretum, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Blister Beetle",
@@ -685,8 +855,8 @@
       "thumbnail": "/assets/images/wildlife/blister-beetle/69ea5f11135a139bb97a8a4ba40a07cce4123990.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Blister Beetle",
-      "location": "",
+      "caption": "On bare ground",
+      "location": "Madison, Wisconsin",
       "date": "2024-07-17T16:44:51",
       "featured": false,
       "camera": {
@@ -700,7 +870,16 @@
       "counter": "blister-beetle-20240717-hwz-4468-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Madison, Wisconsin"
+    ],
+    "location_details": [
+      {
+        "name": "Madison, Wisconsin",
+        "country": "United States",
+        "state": "Wisconsin"
+      }
+    ]
   },
   {
     "name": "Botta's Pocket Gopher",
@@ -722,8 +901,8 @@
       "thumbnail": "/assets/images/wildlife/botta-s-pocket-gopher/5ab366b2d57c8dbba1350ade32e6a39e20438d47.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Botta's Pocket Gopher",
-      "location": "",
+      "caption": "At the burrow entrance",
+      "location": "Sierra Vista area, California",
       "date": "2026-10-01T10:37:21",
       "featured": false,
       "camera": {
@@ -737,7 +916,16 @@
       "counter": "botta-s-pocket-gopher-20261001-dsc03039-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Sierra Vista area, California"
+    ],
+    "location_details": [
+      {
+        "name": "Sierra Vista area, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Brandt's Cormorant",
@@ -759,8 +947,8 @@
       "thumbnail": "/assets/images/wildlife/brandt-s-cormorants/809cb4d70f1bbf898284137ef4d4ab8ae95ae2db.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Brandt's Cormorant",
-      "location": "",
+      "caption": "Roosting on rocks",
+      "location": "Channel Islands, California",
       "date": "2026-04-21T01:11:35",
       "featured": false,
       "camera": {
@@ -774,7 +962,16 @@
       "counter": "brandt-s-cormorants-20260421-dsc03226-jpg"
     },
     "count": 4,
-    "locations": []
+    "locations": [
+      "Channel Islands, California"
+    ],
+    "location_details": [
+      {
+        "name": "Channel Islands, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Brewer's Blackbird",
@@ -796,8 +993,8 @@
       "thumbnail": "/assets/images/wildlife/brewer-s-blackbird/44a0d3094bc15cc0c8b1e55d68f78c2d87e4d60f.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Brewer's Blackbird",
-      "location": "",
+      "caption": "Male",
+      "location": "Yosemite National Park, California",
       "date": "2026-05-03T07:33:33",
       "featured": false,
       "camera": {
@@ -811,7 +1008,16 @@
       "counter": "brewer-s-blackbird-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Yosemite National Park, California"
+    ],
+    "location_details": [
+      {
+        "name": "Yosemite National Park, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Bushtit",
@@ -833,8 +1039,8 @@
       "thumbnail": "/assets/images/wildlife/bushtit/420d2edc612246b9d529053e88e155ad11653342.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Bushtit",
-      "location": "",
+      "caption": "Perched · bill open",
+      "location": "Descanso Gardens, California",
       "date": "2026-03-22T03:28:19",
       "featured": false,
       "camera": {
@@ -848,7 +1054,22 @@
       "counter": "bushtit-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Descanso Gardens, California",
+      "Irvine, California"
+    ],
+    "location_details": [
+      {
+        "name": "Descanso Gardens, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Irvine, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "California Brown Pelican",
@@ -870,8 +1091,8 @@
       "thumbnail": "/assets/images/wildlife/california-brown-pelican/eda9732ad71dd2fe74f84cc568f4111fe937821e.webp",
       "width": 1200,
       "height": 800,
-      "caption": "California Brown Pelican",
-      "location": "",
+      "caption": "Adult · in flight",
+      "location": "Orange County, California",
       "date": "2026-04-08T04:44:55",
       "featured": false,
       "camera": {
@@ -885,18 +1106,53 @@
       "counter": "california-brown-pelican-20260408-dsc00713-jpg"
     },
     "count": 6,
-    "locations": []
+    "locations": [
+      "Channel Islands, California",
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Channel Islands, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "California Condor",
     "category": "Birds",
     "group": "Raptors & Owls",
     "scientific_name": "",
-    "description": "The California Condor is an immense scavenging bird whose broad wings allow it to travel long distances on rising air. Adults have mostly black plumage, pale patches beneath the wings, and a largely bare head. Condors feed on animal carcasses and often nest in sheltered cliff cavities. Captive breeding and reintroduction have been central to their recovery after severe historical declines. Their long-term survival still depends on conservation work, including reducing exposure to lead in scavenged food.",
+    "description": "The California Condor is an immense scavenging bird whose broad wings allow it to travel long distances on rising air. Adults have mostly black plumage, pale patches beneath the wings, and a largely bare head. Condors feed on animal carcasses and often nest in sheltered cliff cavities. Captive breeding and reintroduction have been central to their recovery after severe historical declines. Their long-term survival still depends on conservation work, including reducing exposure to lead in scavenged food. Wing tags link photographs to individual histories: Haku (#77) is a female hatched in 1992, Little Stinker (#726) is a female hatched in 2014, and Chull (#1180) is a male hatched in 2022. Named captions use readable tags or a matching adjacent photo in the same sequence. Other photographs retain broader labels where the tag cannot be read confidently.",
     "references": [
       {
         "title": "Cornell Lab of Ornithology: All About Birds",
         "url": "https://www.allaboutbirds.org/guide/California_Condor"
+      },
+      {
+        "title": "Friends of California Condors Wild and Free: Haku (#77)",
+        "url": "https://www.friendsofcondors.org/the-condors/0077"
+      },
+      {
+        "title": "Ventana Wildlife Society: Little Stinker (#726)",
+        "url": "https://www.ventanaws.org/condor726.html"
+      },
+      {
+        "title": "Ventana Wildlife Society: Chull (#1180)",
+        "url": "https://www.ventanaws.org/condor1180.html"
+      },
+      {
+        "title": "Condor Spotter: individual records, hatch dates, and wing tags",
+        "url": "https://www.condorspotter.com/"
+      },
+      {
+        "title": "National Park Service: identifying condors at Pinnacles",
+        "url": "https://www.nps.gov/pinn/learn/nature/profiles.htm"
       }
     ],
     "slug": "california-condor",
@@ -907,8 +1163,8 @@
       "thumbnail": "/assets/images/wildlife/california-condor/b22e7f4c2815e571f8ef7d80a64d4b9ea56af268.webp",
       "width": 3080,
       "height": 2054,
-      "caption": "California Condor",
-      "location": "",
+      "caption": "Haku (#77) · adult female",
+      "location": "Cuyama Valley, California",
       "date": "2026-03-16T00:37:51",
       "featured": false,
       "camera": {
@@ -922,7 +1178,22 @@
       "counter": "california-condor-jpg"
     },
     "count": 14,
-    "locations": []
+    "locations": [
+      "Cuyama Valley, California",
+      "Pinnacles National Park, California"
+    ],
+    "location_details": [
+      {
+        "name": "Cuyama Valley, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Pinnacles National Park, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "California Ground Squirrel",
@@ -944,8 +1215,8 @@
       "thumbnail": "/assets/images/wildlife/california-ground-squirrel/00320d785970b29e6a59d1f40ee654fca1ea1c4f.webp",
       "width": 1200,
       "height": 800,
-      "caption": "California Ground Squirrel",
-      "location": "",
+      "caption": "On the ground",
+      "location": "Orange County, California",
       "date": "2026-04-15T01:43:29",
       "featured": false,
       "camera": {
@@ -959,7 +1230,22 @@
       "counter": "california-ground-squirrel-20260415-dsc02360-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Orange County, California",
+      "Pinnacles National Park, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Pinnacles National Park, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "California Gull",
@@ -981,8 +1267,8 @@
       "thumbnail": "/assets/images/wildlife/california-gull/04a45170632d37ee692130556024aab58851e719.webp",
       "width": 1200,
       "height": 800,
-      "caption": "California Gull",
-      "location": "",
+      "caption": "Immature",
+      "location": "Pescadero area, California",
       "date": "2026-09-19T15:14:06",
       "featured": false,
       "camera": {
@@ -996,7 +1282,22 @@
       "counter": "california-gull-20260919-dsc02549-jpg"
     },
     "count": 3,
-    "locations": []
+    "locations": [
+      "Orange County, California",
+      "Pescadero area, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Pescadero area, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "California Mountain Kingsnake",
@@ -1018,8 +1319,8 @@
       "thumbnail": "/assets/images/wildlife/california-mountain-kingsnake/37fdc7f2db30a6a16afb96a5d4d2e23330a12f31.webp",
       "width": 1200,
       "height": 800,
-      "caption": "California Mountain Kingsnake",
-      "location": "",
+      "caption": "Among the rocks",
+      "location": "Yosemite National Park, California",
       "date": "2026-05-03T04:52:29",
       "featured": false,
       "camera": {
@@ -1033,7 +1334,16 @@
       "counter": "california-mountain-kingsnake-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Yosemite National Park, California"
+    ],
+    "location_details": [
+      {
+        "name": "Yosemite National Park, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "California Quail",
@@ -1055,8 +1365,8 @@
       "thumbnail": "/assets/images/wildlife/california-quail/95bee924d3c6027fa078ccecb543d9d17198cb14.webp",
       "width": 1200,
       "height": 800,
-      "caption": "California Quail",
-      "location": "",
+      "caption": "Male · perched",
+      "location": "Descanso Gardens, California",
       "date": "2026-03-22T03:49:47",
       "featured": false,
       "camera": {
@@ -1070,7 +1380,16 @@
       "counter": "california-quail-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Descanso Gardens, California"
+    ],
+    "location_details": [
+      {
+        "name": "Descanso Gardens, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "California Sea Lion",
@@ -1092,8 +1411,8 @@
       "thumbnail": "/assets/images/wildlife/california-sea-lion/6d07ccaddd691b2dc14b09812c0db6bfbed15ef5.webp",
       "width": 1200,
       "height": 800,
-      "caption": "California Sea Lion",
-      "location": "",
+      "caption": "Resting on a buoy",
+      "location": "Channel Islands, California",
       "date": "2026-04-21T01:13:41",
       "featured": false,
       "camera": {
@@ -1107,7 +1426,16 @@
       "counter": "california-sea-lion-20260421-dsc03237-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Channel Islands, California"
+    ],
+    "location_details": [
+      {
+        "name": "Channel Islands, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "California Tarantula",
@@ -1129,8 +1457,8 @@
       "thumbnail": "/assets/images/wildlife/california-tarantula/366771dcc09849966766f4f7de10c29703391edb.webp",
       "width": 1200,
       "height": 800,
-      "caption": "California Tarantula",
-      "location": "",
+      "caption": "On the ground",
+      "location": "Sierra Vista area, California",
       "date": "2026-10-01T08:38:47",
       "featured": false,
       "camera": {
@@ -1144,7 +1472,16 @@
       "counter": "california-tarantula-20261001-dsc02802-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Sierra Vista area, California"
+    ],
+    "location_details": [
+      {
+        "name": "Sierra Vista area, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "California Towhee",
@@ -1166,8 +1503,8 @@
       "thumbnail": "/assets/images/wildlife/california-towhee/32208fd0bc392740f57214f91b14c8414b3dc756.webp",
       "width": 1200,
       "height": 800,
-      "caption": "California Towhee",
-      "location": "",
+      "caption": "Foraging",
+      "location": "Los Angeles County Arboretum, California",
       "date": "2026-04-24T02:53:49",
       "featured": false,
       "camera": {
@@ -1181,7 +1518,16 @@
       "counter": "california-towhee-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Los Angeles County Arboretum, California"
+    ],
+    "location_details": [
+      {
+        "name": "Los Angeles County Arboretum, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Canada Goose",
@@ -1203,8 +1549,8 @@
       "thumbnail": "/assets/images/wildlife/canda-goose/b21e42d645b85f7ecca35cdf8eecd17064af3f0b.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Canada Goose",
-      "location": "",
+      "caption": "Adult with goslings",
+      "location": "Orange County, California",
       "date": "2026-04-08T01:50:54",
       "featured": false,
       "camera": {
@@ -1218,7 +1564,16 @@
       "counter": "canda-goose-20260408-dsc09982-jpg"
     },
     "count": 5,
-    "locations": []
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Caspian Tern",
@@ -1240,8 +1595,8 @@
       "thumbnail": "/assets/images/wildlife/caspian-tern/92d21a9e2f8562d9b34ef25484a9b3ba35a21527.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Caspian Tern",
-      "location": "",
+      "caption": "Adult · in flight",
+      "location": "Channel Islands, California",
       "date": "2026-04-21T01:07:42",
       "featured": false,
       "camera": {
@@ -1255,7 +1610,16 @@
       "counter": "caspian-tern-20260421-dsc03214-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Channel Islands, California"
+    ],
+    "location_details": [
+      {
+        "name": "Channel Islands, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Cattle Egret",
@@ -1277,8 +1641,8 @@
       "thumbnail": "/assets/images/wildlife/cattle-egret/e26ce76d5ee6c4cf6e9305698958af21f1c9c094.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Cattle Egret",
-      "location": "",
+      "caption": "Standing at the water's edge",
+      "location": "Maui, Hawaii",
       "date": "2026-10-29T19:37:40",
       "featured": false,
       "camera": {
@@ -1292,7 +1656,16 @@
       "counter": "cattle-egret-20261029-dsc03701-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Chipmunk",
@@ -1314,8 +1687,8 @@
       "thumbnail": "/assets/images/wildlife/chipmunk/74c4f80043f0ccb8377ed18308d51fc8e3b8a9bc.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Chipmunk",
-      "location": "",
+      "caption": "On a fallen log",
+      "location": "Lassen Volcanic National Park, California",
       "date": "2026-07-05T07:47:59",
       "featured": false,
       "camera": {
@@ -1329,7 +1702,22 @@
       "counter": "chipmunk-20260705-dsc01122-jpg"
     },
     "count": 3,
-    "locations": []
+    "locations": [
+      "Lassen Volcanic National Park, California",
+      "Sequoia National Park, California"
+    ],
+    "location_details": [
+      {
+        "name": "Lassen Volcanic National Park, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sequoia National Park, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Chipping Sparrow",
@@ -1351,8 +1739,8 @@
       "thumbnail": "/assets/images/wildlife/chipping-sparrow/da905292dd89894185ede8164a503f5f9235b63b.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Chipping Sparrow",
-      "location": "",
+      "caption": "Perched in scrub",
+      "location": "Channel Islands, California",
       "date": "2026-04-21T03:26:55",
       "featured": false,
       "camera": {
@@ -1366,7 +1754,16 @@
       "counter": "chipping-sparrow-20260421-dsc03590-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Channel Islands, California"
+    ],
+    "location_details": [
+      {
+        "name": "Channel Islands, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Cinnamon Teal",
@@ -1388,8 +1785,8 @@
       "thumbnail": "/assets/images/wildlife/cinnamon-teal/dc75ab9e9f07b55e5990b0422669793151040293.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Cinnamon Teal",
-      "location": "",
+      "caption": "Female",
+      "location": "Orange County, California",
       "date": "2026-04-08T01:48:26",
       "featured": false,
       "camera": {
@@ -1403,7 +1800,16 @@
       "counter": "cinnamon-teal-20260408-dsc09891-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Common Gallinule",
@@ -1425,8 +1831,8 @@
       "thumbnail": "/assets/images/wildlife/common-grallinule/8c5b2465e7e4ffd905291a04e2ad1861d8688795.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Common Gallinule",
-      "location": "",
+      "caption": "Adult · swimming",
+      "location": "Sunnyvale, California",
       "date": "2026-11-19T17:07:39",
       "featured": false,
       "camera": {
@@ -1440,7 +1846,16 @@
       "counter": "common-grallinule-20261119-dsc06367-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Sunnyvale, California"
+    ],
+    "location_details": [
+      {
+        "name": "Sunnyvale, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Common Merganser",
@@ -1462,8 +1877,8 @@
       "thumbnail": "/assets/images/wildlife/common-merganser/e322c4efaf7bb6ee46cf7b92edb2c7e18a07366d.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Common Merganser",
-      "location": "",
+      "caption": "Likely immature · swimming",
+      "location": "Stevens Creek area, California",
       "date": "2026-08-15T12:48:31",
       "featured": false,
       "camera": {
@@ -1477,7 +1892,16 @@
       "counter": "common-merganser-20260815-dsc01688-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Stevens Creek area, California"
+    ],
+    "location_details": [
+      {
+        "name": "Stevens Creek area, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Common Myna",
@@ -1499,8 +1923,8 @@
       "thumbnail": "/assets/images/wildlife/common-myna/f4784264df6e6a1df1a76a4c86195a64422f2b7e.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Common Myna",
-      "location": "",
+      "caption": "Adult · perched",
+      "location": "Maui, Hawaii",
       "date": "2026-10-29T17:07:30",
       "featured": false,
       "camera": {
@@ -1514,7 +1938,16 @@
       "counter": "common-myna-20261029-dsc03628-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Common Raven",
@@ -1536,8 +1969,8 @@
       "thumbnail": "/assets/images/wildlife/common-raven/72243580a6eaf912d3db5ffaec8f854043bea0bc.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Common Raven",
-      "location": "",
+      "caption": "Perched on a fence",
+      "location": "Pico Rivera, California",
       "date": "2026-02-15T01:55:54",
       "featured": false,
       "camera": {
@@ -1551,7 +1984,22 @@
       "counter": "common-raven-jpg"
     },
     "count": 6,
-    "locations": []
+    "locations": [
+      "Channel Islands, California",
+      "Pico Rivera, California"
+    ],
+    "location_details": [
+      {
+        "name": "Channel Islands, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Pico Rivera, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Common Waxbill",
@@ -1573,8 +2021,8 @@
       "thumbnail": "/assets/images/wildlife/common-waxbill/b7bf7b31f1bf302d6541950f37f2d1398c96a26e.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Common Waxbill",
-      "location": "",
+      "caption": "Foraging in grass",
+      "location": "Maui, Hawaii",
       "date": "2026-10-31T19:07:01",
       "featured": false,
       "camera": {
@@ -1588,7 +2036,16 @@
       "counter": "common-waxbill-20261031-dsc05456-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Cooper's Hawk",
@@ -1610,8 +2067,8 @@
       "thumbnail": "/assets/images/wildlife/cooper-s-hawk/ae6066b7afcf1c6a9cc01a1ef57f51793fb15dc9.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Cooper's Hawk",
-      "location": "",
+      "caption": "Juvenile · perched",
+      "location": "Sunnyvale, California",
       "date": "2026-11-19T17:36:26",
       "featured": false,
       "camera": {
@@ -1625,7 +2082,16 @@
       "counter": "cooper-s-hawk-20261119-dsc06603-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Sunnyvale, California"
+    ],
+    "location_details": [
+      {
+        "name": "Sunnyvale, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Dark-Eyed Junco",
@@ -1647,8 +2113,8 @@
       "thumbnail": "/assets/images/wildlife/dark-eyed-junco/b56dff48a5a726e66fdd24599a526931f24f56d8.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Dark-Eyed Junco",
-      "location": "",
+      "caption": "Male · carrying a caterpillar",
+      "location": "Descanso Gardens, California",
       "date": "2026-03-22T01:06:02",
       "featured": false,
       "camera": {
@@ -1662,7 +2128,16 @@
       "counter": "dark-eyed-junco-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Descanso Gardens, California"
+    ],
+    "location_details": [
+      {
+        "name": "Descanso Gardens, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Double-Crested Cormorant",
@@ -1684,8 +2159,8 @@
       "thumbnail": "/assets/images/wildlife/double-crested-cormorant/228061183b399d0135079e7a7496782f5b57df67.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Double-Crested Cormorant",
-      "location": "",
+      "caption": "Adult · swimming",
+      "location": "Orange County, California",
       "date": "2026-04-08T05:21:49",
       "featured": false,
       "camera": {
@@ -1699,7 +2174,28 @@
       "counter": "double-crested-cormorant-20260408-dsc00881-jpg"
     },
     "count": 10,
-    "locations": []
+    "locations": [
+      "Channel Islands, California",
+      "Orange County, California",
+      "Sunnyvale, California"
+    ],
+    "location_details": [
+      {
+        "name": "Channel Islands, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sunnyvale, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Egyptian Goose",
@@ -1721,8 +2217,8 @@
       "thumbnail": "/assets/images/wildlife/egyptian-goose/90d7b19d30210d4c81d9119c01a68f0a6bbd7b9a.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Egyptian Goose",
-      "location": "",
+      "caption": "Adult · walking",
+      "location": "Orange County, California",
       "date": "2026-04-08T01:20:31",
       "featured": false,
       "camera": {
@@ -1736,7 +2232,16 @@
       "counter": "egyptian-goose-20260408-dsc09701-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "European Starling",
@@ -1758,8 +2263,8 @@
       "thumbnail": "/assets/images/wildlife/european-starling/8f36e1ed6c6995a3b0ef01e71ed753057d94c57b.webp",
       "width": 1200,
       "height": 800,
-      "caption": "European Starling",
-      "location": "",
+      "caption": "Carrying food",
+      "location": "San Francisco Bay Area, California",
       "date": "2026-08-30T16:37:36",
       "featured": false,
       "camera": {
@@ -1773,7 +2278,22 @@
       "counter": "european-starling-20260830-dsc01896-jpg"
     },
     "count": 5,
-    "locations": []
+    "locations": [
+      "Pasadena, California",
+      "San Francisco Bay Area, California"
+    ],
+    "location_details": [
+      {
+        "name": "Pasadena, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "San Francisco Bay Area, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Forster's Tern",
@@ -1795,8 +2315,8 @@
       "thumbnail": "/assets/images/wildlife/foster-s-tern/d925c9ef8e66b82f210b48a40c4a208fc3e3d0c8.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Forster's Tern",
-      "location": "",
+      "caption": "Adult · wings spread",
+      "location": "Orange County, California",
       "date": "2026-04-08T04:09:48",
       "featured": false,
       "camera": {
@@ -1810,7 +2330,22 @@
       "counter": "royal-tern-jpg"
     },
     "count": 20,
-    "locations": []
+    "locations": [
+      "Orange County, California",
+      "Sunnyvale, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sunnyvale, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Fox Squirrel",
@@ -1832,8 +2367,8 @@
       "thumbnail": "/assets/images/wildlife/fox-squirrel/c927748acc3c3c65156326503816e5e62ee0324f.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Fox Squirrel",
-      "location": "",
+      "caption": "Feeding",
+      "location": "Los Angeles County Arboretum, California",
       "date": "2026-04-24T03:05:54",
       "featured": false,
       "camera": {
@@ -1847,7 +2382,16 @@
       "counter": "fox-squirrel-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Los Angeles County Arboretum, California"
+    ],
+    "location_details": [
+      {
+        "name": "Los Angeles County Arboretum, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Gray Francolin",
@@ -1869,8 +2413,8 @@
       "thumbnail": "/assets/images/wildlife/gray-francolin/d786b7e513bbe67aa7a0e2afe4ca8605b7fa7003.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Gray Francolin",
-      "location": "",
+      "caption": "On the grass",
+      "location": "Maui, Hawaii",
       "date": "2026-10-30T09:49:18",
       "featured": false,
       "camera": {
@@ -1884,7 +2428,16 @@
       "counter": "gray-francolin-20261030-dsc04171-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Great Blue Heron",
@@ -1906,8 +2459,8 @@
       "thumbnail": "/assets/images/wildlife/great-blue-heron/62ba50dbbddc6ddbc6daceaa45b12256d9559253.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Great Blue Heron",
-      "location": "",
+      "caption": "Adult · at the shoreline",
+      "location": "Orange County, California",
       "date": "2026-04-08T05:15:49",
       "featured": false,
       "camera": {
@@ -1921,7 +2474,16 @@
       "counter": "great-blue-heron-great-blue-heron-jpg"
     },
     "count": 7,
-    "locations": []
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Great Egret",
@@ -1943,8 +2505,8 @@
       "thumbnail": "/assets/images/wildlife/great-egret/ec19f6900215c6ab7b6408515a52d330aaaff732.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Great Egret",
-      "location": "",
+      "caption": "Two adults in breeding plumage",
+      "location": "Orange County, California",
       "date": "2026-04-15T01:06:16",
       "featured": false,
       "camera": {
@@ -1958,7 +2520,16 @@
       "counter": "great-egret-20260415-dsc02269-jpg"
     },
     "count": 5,
-    "locations": []
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Great Frigatebird",
@@ -1980,8 +2551,8 @@
       "thumbnail": "/assets/images/wildlife/great-frigatebird/9b420b8814c679c1979331bf4a1fb2fbdb8cd9a9.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Great Frigatebird",
-      "location": "",
+      "caption": "Immature · in flight",
+      "location": "Maui, Hawaii",
       "date": "2026-10-29T15:25:45",
       "featured": false,
       "camera": {
@@ -1995,7 +2566,16 @@
       "counter": "great-frigatebird-20261029-dsc03518-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Great Horned Owl",
@@ -2012,27 +2592,42 @@
     "slug": "great-horned-owl",
     "url": "/wildlife-gallery/great-horned-owl/",
     "cover": {
-      "filename": "Juvenile Great Horned Owl.jpg",
-      "path": "/photo_gallery/great-horned-owl/Juvenile Great Horned Owl.jpg",
-      "thumbnail": "/assets/images/wildlife/great-horned-owl/abf0e8d2bdc17017f58c687f44c9b8e65d015532.webp",
+      "filename": "Great Horned Owl.jpg",
+      "path": "/photo_gallery/great-horned-owl/Great Horned Owl.jpg",
+      "thumbnail": "/assets/images/wildlife/great-horned-owl/e75e746f8ad5f7416358cf24efabd3024bcdd839.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Juvenile Great Horned Owl",
-      "location": "",
-      "date": "2026-05-25T05:13:49",
+      "caption": "Adult with chick",
+      "location": "Descanso Gardens, California",
+      "date": "2026-03-22T02:02:00",
       "featured": false,
       "camera": {
         "model": "ILCE-7CM2",
         "lens": "FE 200-600mm F5.6-6.3 G OSS",
-        "iso": 640,
-        "focal": 541,
+        "iso": 2500,
+        "focal": 600,
         "aperture": 6.3,
-        "shutter": "1/1600"
+        "shutter": "1/200"
       },
-      "counter": "juvenile-great-horned-owl-jpg"
+      "counter": "great-horned-owl-jpg"
     },
     "count": 9,
-    "locations": []
+    "locations": [
+      "Descanso Gardens, California",
+      "Irvine, California"
+    ],
+    "location_details": [
+      {
+        "name": "Descanso Gardens, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Irvine, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Great-tailed Grackle",
@@ -2054,8 +2649,8 @@
       "thumbnail": "/assets/images/wildlife/great-tailed-grackle/385d7a6aa0772aa48a27003e43a9396d0a0d7c80.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Great-tailed Grackle",
-      "location": "",
+      "caption": "Male · perched",
+      "location": "Channel Islands, California",
       "date": "2026-04-21T10:20:54",
       "featured": false,
       "camera": {
@@ -2069,7 +2664,16 @@
       "counter": "great-tailed-grackle-jpg"
     },
     "count": 7,
-    "locations": []
+    "locations": [
+      "Channel Islands, California"
+    ],
+    "location_details": [
+      {
+        "name": "Channel Islands, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Greater Roadrunner",
@@ -2091,8 +2695,8 @@
       "thumbnail": "/assets/images/wildlife/greater-roadrunner/b01a5fe1c391d25400f786b4f8f730e2c9b54a39.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Greater Roadrunner",
-      "location": "",
+      "caption": "Walking",
+      "location": "Irvine, California",
       "date": "2026-05-25T08:58:06",
       "featured": false,
       "camera": {
@@ -2106,7 +2710,16 @@
       "counter": "greater-roadrunner-20260525-dsc08487-jpg"
     },
     "count": 8,
-    "locations": []
+    "locations": [
+      "Irvine, California"
+    ],
+    "location_details": [
+      {
+        "name": "Irvine, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Green Sea Turtle",
@@ -2128,8 +2741,8 @@
       "thumbnail": "/assets/images/wildlife/green-sea-turtle/122df820a82558ea67e013739bead89e419dc688.webp",
       "width": 1198,
       "height": 800,
-      "caption": "Green Sea Turtle",
-      "location": "",
+      "caption": "Swimming",
+      "location": "Big Island, Hawaii",
       "date": "2023-09-15T12:38:22",
       "featured": false,
       "camera": {
@@ -2143,7 +2756,16 @@
       "counter": "green-sea-turtle-20230915-dsc-3220-jpg"
     },
     "count": 7,
-    "locations": []
+    "locations": [
+      "Big Island, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Big Island, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Harbor Seal",
@@ -2165,8 +2787,8 @@
       "thumbnail": "/assets/images/wildlife/harbor-seal/fd92f3d5ad5b87eab44916ec228f4b95b142dcfb.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Harbor Seal",
-      "location": "",
+      "caption": "Surfacing",
+      "location": "Pescadero area, California",
       "date": "2026-09-19T15:15:50",
       "featured": false,
       "camera": {
@@ -2180,7 +2802,16 @@
       "counter": "harbor-seal-20260919-dsc02556-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Pescadero area, California"
+    ],
+    "location_details": [
+      {
+        "name": "Pescadero area, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Hawaiian Coot",
@@ -2202,8 +2833,8 @@
       "thumbnail": "/assets/images/wildlife/hawaiian-coot/f230adb7f2beba51f0f54e9b067c7992b9676bcd.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Hawaiian Coot",
-      "location": "",
+      "caption": "Adult · swimming",
+      "location": "Maui, Hawaii",
       "date": "2026-10-29T15:34:31",
       "featured": false,
       "camera": {
@@ -2217,7 +2848,16 @@
       "counter": "hawaiian-coot-20261029-dsc03555-jpg"
     },
     "count": 3,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Hawaiian Stilt",
@@ -2239,8 +2879,8 @@
       "thumbnail": "/assets/images/wildlife/hawaiian-stilt/dc8f69bd2bba749ca67627b2c99cba7d6d8e413f.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Hawaiian Stilt",
-      "location": "",
+      "caption": "Wading",
+      "location": "Maui, Hawaii",
       "date": "2026-11-02T13:45:20",
       "featured": false,
       "camera": {
@@ -2254,7 +2894,16 @@
       "counter": "hawaiian-stilt-20261102-dsc06206-jpg"
     },
     "count": 5,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Hawksbill Sea Turtle",
@@ -2276,8 +2925,8 @@
       "thumbnail": "/assets/images/wildlife/hawksbill-sea-turtle/0fb4bf3b56c74a14d8b6d53e0ed2c7010553c62d.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Hawksbill Sea Turtle",
-      "location": "",
+      "caption": "Swimming over rocks",
+      "location": "Big Island, Hawaii",
       "date": "2023-09-15T12:22:23",
       "featured": false,
       "camera": {
@@ -2291,7 +2940,16 @@
       "counter": "hawksbill-sea-turtle-20230915-dsc-3191-jpg"
     },
     "count": 3,
-    "locations": []
+    "locations": [
+      "Big Island, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Big Island, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Heermann's Gull",
@@ -2313,8 +2971,8 @@
       "thumbnail": "/assets/images/wildlife/heermann-s-gull/c01431182f27f15a72bc5cf2e96a0c3bc2af8a45.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Heermann's Gull",
-      "location": "",
+      "caption": "Adult · walking along the shore",
+      "location": "Pescadero area, California",
       "date": "2026-09-19T15:18:17",
       "featured": false,
       "camera": {
@@ -2328,7 +2986,16 @@
       "counter": "heermann-s-gull-20260919-dsc02579-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Pescadero area, California"
+    ],
+    "location_details": [
+      {
+        "name": "Pescadero area, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Horned Lark",
@@ -2350,8 +3017,8 @@
       "thumbnail": "/assets/images/wildlife/horned-lark/108bb1749bcb7aa4c543ffcd8c7f896a934a91d1.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Horned Lark",
-      "location": "",
+      "caption": "Male · on the ground",
+      "location": "Cuyama Valley, California",
       "date": "2026-03-16T05:35:57",
       "featured": false,
       "camera": {
@@ -2365,7 +3032,16 @@
       "counter": "horned-lark-jpg"
     },
     "count": 3,
-    "locations": []
+    "locations": [
+      "Cuyama Valley, California"
+    ],
+    "location_details": [
+      {
+        "name": "Cuyama Valley, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "House Sparrow",
@@ -2387,8 +3063,8 @@
       "thumbnail": "/assets/images/wildlife/house-sparrow/0212a9530992ed1c63099ce8beb231beb360c66c.webp",
       "width": 1200,
       "height": 800,
-      "caption": "House Sparrow",
-      "location": "",
+      "caption": "Male · perched",
+      "location": "Maui, Hawaii",
       "date": "2026-10-30T10:08:39",
       "featured": false,
       "camera": {
@@ -2402,7 +3078,22 @@
       "counter": "house-sparrow-20261030-dsc04240-jpg"
     },
     "count": 7,
-    "locations": []
+    "locations": [
+      "Channel Islands, California",
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Channel Islands, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Iiwi (ʻIʻiwi)",
@@ -2424,8 +3115,8 @@
       "thumbnail": "/assets/images/wildlife/liwi/f58cb187b4ccb702d5d388754bea1271a632657f.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Iiwi (ʻIʻiwi)",
-      "location": "",
+      "caption": "Adult · wings spread",
+      "location": "Maui, Hawaii",
       "date": "2026-11-01T12:19:27",
       "featured": false,
       "camera": {
@@ -2439,7 +3130,16 @@
       "counter": "liwi-20261101-dsc05804-jpg"
     },
     "count": 10,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Indian Peafowl",
@@ -2461,8 +3161,8 @@
       "thumbnail": "/assets/images/wildlife/indian-peafowl/5e648e9380219069a9ca461a951d1bd22f07aaf1.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Indian Peafowl",
-      "location": "",
+      "caption": "Male · displaying",
+      "location": "Los Angeles County Arboretum, California",
       "date": "2026-04-24T01:07:19",
       "featured": false,
       "camera": {
@@ -2476,7 +3176,16 @@
       "counter": "indian-peafowl-jpg"
     },
     "count": 7,
-    "locations": []
+    "locations": [
+      "Los Angeles County Arboretum, California"
+    ],
+    "location_details": [
+      {
+        "name": "Los Angeles County Arboretum, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Island Fox",
@@ -2498,8 +3207,8 @@
       "thumbnail": "/assets/images/wildlife/island-fox/ea28903fbd189ef6b19d63c8c1ab6eefe7ebb08e.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Island Fox",
-      "location": "",
+      "caption": "Yawning",
+      "location": "Channel Islands, California",
       "date": "2026-04-21T02:58:59",
       "featured": false,
       "camera": {
@@ -2513,7 +3222,16 @@
       "counter": "island-fox-jpg"
     },
     "count": 21,
-    "locations": []
+    "locations": [
+      "Channel Islands, California"
+    ],
+    "location_details": [
+      {
+        "name": "Channel Islands, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Island Scrub-Jay",
@@ -2535,8 +3253,8 @@
       "thumbnail": "/assets/images/wildlife/island-scrub-jay/3fd4f175b2b80f5a76217ba482f6fcdd1c3f2979.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Island Scrub-Jay",
-      "location": "",
+      "caption": "On the ground",
+      "location": "Channel Islands, California",
       "date": "2026-04-21T05:56:26",
       "featured": false,
       "camera": {
@@ -2550,7 +3268,16 @@
       "counter": "island-scrub-jay-jpg"
     },
     "count": 11,
-    "locations": []
+    "locations": [
+      "Channel Islands, California"
+    ],
+    "location_details": [
+      {
+        "name": "Channel Islands, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Java Sparrow",
@@ -2572,8 +3299,8 @@
       "thumbnail": "/assets/images/wildlife/java-sparrow/77f16ff3510cbfdaf2d88701d1741437ef7d03ce.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Java Sparrow",
-      "location": "",
+      "caption": "Adult · on the grass",
+      "location": "Maui, Hawaii",
       "date": "2026-10-31T18:33:31",
       "featured": false,
       "camera": {
@@ -2587,7 +3314,16 @@
       "counter": "java-sparrow-20261031-dsc05082-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Killdeer",
@@ -2609,8 +3345,8 @@
       "thumbnail": "/assets/images/wildlife/killdeer/0f98c630e6e36b34f3015dd925a53ccc0d0c22c4.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Killdeer",
-      "location": "",
+      "caption": "Wading",
+      "location": "Cuyama Valley, California",
       "date": "2026-03-16T05:50:19",
       "featured": false,
       "camera": {
@@ -2624,7 +3360,16 @@
       "counter": "killdeer-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Cuyama Valley, California"
+    ],
+    "location_details": [
+      {
+        "name": "Cuyama Valley, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Lesser Goldfinch",
@@ -2646,8 +3391,8 @@
       "thumbnail": "/assets/images/wildlife/lesser-goldfinch/515740c9f7a1a73177b203c0e4b1fbb1e70a5160.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Lesser Goldfinch",
-      "location": "",
+      "caption": "Two males · wings spread",
+      "location": "Los Angeles County Arboretum, California",
       "date": "2026-04-24T01:18:47",
       "featured": false,
       "camera": {
@@ -2661,7 +3406,22 @@
       "counter": "lesser-goldfinch-jpg"
     },
     "count": 4,
-    "locations": []
+    "locations": [
+      "Irvine, California",
+      "Los Angeles County Arboretum, California"
+    ],
+    "location_details": [
+      {
+        "name": "Irvine, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Los Angeles County Arboretum, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Little Blue Heron",
@@ -2683,8 +3443,8 @@
       "thumbnail": "/assets/images/wildlife/little-blue-heron/c8371d96f3abd94f2f34846e8d37d6bbecfbdb97.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Little Blue Heron",
-      "location": "",
+      "caption": "Immature · foraging",
+      "location": "Orange County, California",
       "date": "2026-04-15T05:24:25",
       "featured": false,
       "camera": {
@@ -2698,7 +3458,16 @@
       "counter": "little-blue-heron-jpg"
     },
     "count": 4,
-    "locations": []
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Mallard",
@@ -2720,8 +3489,8 @@
       "thumbnail": "/assets/images/wildlife/mallard/e70c29cb219127553f20f81383a5a7d36e7551a3.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Mallard",
-      "location": "",
+      "caption": "Female resting with ducklings",
+      "location": "Orange County, California",
       "date": "2026-04-15T03:16:28",
       "featured": false,
       "camera": {
@@ -2735,7 +3504,22 @@
       "counter": "mallard-20260415-dsc02778-jpg"
     },
     "count": 7,
-    "locations": []
+    "locations": [
+      "Descanso Gardens, California",
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Descanso Gardens, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Monarch Butterfly",
@@ -2757,8 +3541,8 @@
       "thumbnail": "/assets/images/wildlife/monarch-butterfly/86be550d6591d065dc47949f5621cde3715038ff.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Monarch Butterfly",
-      "location": "",
+      "caption": "Feeding at flowers",
+      "location": "Irvine, California",
       "date": "2026-05-25T09:44:32",
       "featured": false,
       "camera": {
@@ -2772,7 +3556,16 @@
       "counter": "monach-butterfly-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Irvine, California"
+    ],
+    "location_details": [
+      {
+        "name": "Irvine, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Mountain Chickadee",
@@ -2794,8 +3587,8 @@
       "thumbnail": "/assets/images/wildlife/mountain-chickadee/ad7f6dc676947e78f41fae0c79756466d12fbd82.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Mountain Chickadee",
-      "location": "",
+      "caption": "Perched in a pine",
+      "location": "Lassen Volcanic National Park, California",
       "date": "2026-07-05T08:03:18",
       "featured": false,
       "camera": {
@@ -2809,7 +3602,16 @@
       "counter": "mountain-chickadee-20260705-dsc01187-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Lassen Volcanic National Park, California"
+    ],
+    "location_details": [
+      {
+        "name": "Lassen Volcanic National Park, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Nene (Hawaiian Goose)",
@@ -2831,8 +3633,8 @@
       "thumbnail": "/assets/images/wildlife/nene/97f50824b71568f3929d8ef2a0ca050783e71aba.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Nene (Hawaiian Goose)",
-      "location": "",
+      "caption": "Adult · portrait",
+      "location": "Maui, Hawaii",
       "date": "2026-11-01T11:55:35",
       "featured": false,
       "camera": {
@@ -2846,7 +3648,16 @@
       "counter": "nene-20261101-dsc05702-jpg"
     },
     "count": 4,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Night Heron",
@@ -2868,8 +3679,8 @@
       "thumbnail": "/assets/images/wildlife/night-heron/45d1c0973e3b5f4d3ef153c7de93d27041c3bf59.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Night Heron",
-      "location": "",
+      "caption": "Immature · wading",
+      "location": "Maui, Hawaii",
       "date": "2026-10-29T13:19:21",
       "featured": false,
       "camera": {
@@ -2883,7 +3694,22 @@
       "counter": "night-heron-20261029-dsc03194-jpg"
     },
     "count": 5,
-    "locations": []
+    "locations": [
+      "Los Angeles County Arboretum, California",
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Los Angeles County Arboretum, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Northern Cardinal",
@@ -2905,8 +3731,8 @@
       "thumbnail": "/assets/images/wildlife/northern-cardinal/2a25d9b0b85cdc527b2495670ec1bb6c2978bf82.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Northern Cardinal",
-      "location": "",
+      "caption": "Male · perched",
+      "location": "Maui, Hawaii",
       "date": "2026-10-30T09:52:20",
       "featured": false,
       "camera": {
@@ -2920,7 +3746,16 @@
       "counter": "northern-cardinal-20261030-dsc04179-jpg"
     },
     "count": 5,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Northern House Wren",
@@ -2942,8 +3777,8 @@
       "thumbnail": "/assets/images/wildlife/northern-house-wren/01c1b5bcc44d20bce30cebd9b35c44b49bb7c54a.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Northern House Wren",
-      "location": "",
+      "caption": "Perched on a fence",
+      "location": "Orange County, California",
       "date": "2026-04-15T00:50:54",
       "featured": false,
       "camera": {
@@ -2957,7 +3792,16 @@
       "counter": "northern-house-wren-20260415-dsc02212-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Northern Mockingbird",
@@ -2979,8 +3823,8 @@
       "thumbnail": "/assets/images/wildlife/northern-mockingbird/acfe2f0b7cd8c5d314c3c3d67adcbbf84d859abe.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Northern Mockingbird",
-      "location": "",
+      "caption": "Perched on a wire",
+      "location": "Pico Rivera, California",
       "date": "2026-02-15T03:03:38",
       "featured": false,
       "camera": {
@@ -2994,7 +3838,22 @@
       "counter": "northern-mockingbird-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Los Angeles County Arboretum, California",
+      "Pico Rivera, California"
+    ],
+    "location_details": [
+      {
+        "name": "Los Angeles County Arboretum, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Pico Rivera, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Northern Shoveler",
@@ -3016,8 +3875,8 @@
       "thumbnail": "/assets/images/wildlife/northern-shoveler/aa80a96477363a281de9f5b192222573bc1b6b81.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Northern Shoveler",
-      "location": "",
+      "caption": "Male swimming beside a coot",
+      "location": "Sunnyvale, California",
       "date": "2026-11-19T17:10:13",
       "featured": false,
       "camera": {
@@ -3031,7 +3890,16 @@
       "counter": "northern-shoveler-20261119-dsc06373-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Sunnyvale, California"
+    ],
+    "location_details": [
+      {
+        "name": "Sunnyvale, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Oak Titmouse",
@@ -3053,8 +3921,8 @@
       "thumbnail": "/assets/images/wildlife/oak-titmouse/b74818c3614e5046d2f3f3ad3fc06dca4ee1c19e.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Oak Titmouse",
-      "location": "",
+      "caption": "Perched",
+      "location": "Descanso Gardens, California",
       "date": "2026-03-22T04:31:55",
       "featured": false,
       "camera": {
@@ -3068,7 +3936,16 @@
       "counter": "oak-titmouse-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Descanso Gardens, California"
+    ],
+    "location_details": [
+      {
+        "name": "Descanso Gardens, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Orange-cheeked Waxbill",
@@ -3090,8 +3967,8 @@
       "thumbnail": "/assets/images/wildlife/orange-cheeked-waxbill/d71368659aec1828c261dc6acc46b184d28b6fbc.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Orange-cheeked Waxbill",
-      "location": "",
+      "caption": "Two birds in the grass",
+      "location": "Maui, Hawaii",
       "date": "2026-10-31T19:12:40",
       "featured": false,
       "camera": {
@@ -3105,7 +3982,16 @@
       "counter": "orange-cheeked-waxbill-20261031-dsc05477-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Osprey",
@@ -3127,8 +4013,8 @@
       "thumbnail": "/assets/images/wildlife/osprey/6818130e44c2ebe2779e57580b0bda59eb61e5db.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Osprey",
-      "location": "",
+      "caption": "In flight",
+      "location": "Orange County, California",
       "date": "2026-04-08T00:35:52",
       "featured": false,
       "camera": {
@@ -3142,7 +4028,16 @@
       "counter": "osprey-20260408-dsc09459-jpg"
     },
     "count": 3,
-    "locations": []
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Pacific Golden-Plover",
@@ -3164,8 +4059,8 @@
       "thumbnail": "/assets/images/wildlife/pacific-golden-plover/4fad02987f46591f0d8220101bc138336a37f2d6.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Pacific Golden-Plover",
-      "location": "",
+      "caption": "Nonbreeding plumage · at the shoreline",
+      "location": "Maui, Hawaii",
       "date": "2026-10-29T15:15:54",
       "featured": false,
       "camera": {
@@ -3179,7 +4074,16 @@
       "counter": "pacific-golden-plover-20261029-dsc03344-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Pacific Loon",
@@ -3201,8 +4105,8 @@
       "thumbnail": "/assets/images/wildlife/pacific-loon/5ea2c78fc6654c4ffd74d54ac38719ae1578be0d.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Pacific Loon",
-      "location": "",
+      "caption": "Flying low over the water",
+      "location": "Channel Islands, California",
       "date": "2026-04-21T01:36:30",
       "featured": false,
       "camera": {
@@ -3216,7 +4120,16 @@
       "counter": "pacific-loon-20260421-dsc03305-jpg"
     },
     "count": 6,
-    "locations": []
+    "locations": [
+      "Channel Islands, California"
+    ],
+    "location_details": [
+      {
+        "name": "Channel Islands, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Pacific-slope (Western) Flycatcher",
@@ -3238,8 +4151,8 @@
       "thumbnail": "/assets/images/wildlife/pacific-slope-western-flycatcher/c9ae010ef62624fa3f46f2888670216988c22166.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Pacific-slope (Western) Flycatcher",
-      "location": "",
+      "caption": "Perched among blossoms",
+      "location": "Los Angeles County Arboretum, California",
       "date": "2026-04-24T02:32:24",
       "featured": false,
       "camera": {
@@ -3253,7 +4166,16 @@
       "counter": "pacific-slope-western-flycatcher-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Los Angeles County Arboretum, California"
+    ],
+    "location_details": [
+      {
+        "name": "Los Angeles County Arboretum, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Red Junglefowl",
@@ -3275,8 +4197,8 @@
       "thumbnail": "/assets/images/wildlife/red-junglefowl/201c0bd8390187437713a290e2d33fd9bc32ee0e.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Red Junglefowl",
-      "location": "",
+      "caption": "Chicks",
+      "location": "Maui, Hawaii",
       "date": "2026-10-29T17:39:59",
       "featured": false,
       "camera": {
@@ -3290,7 +4212,16 @@
       "counter": "red-junglefowl-20261029-dsc03641-jpg"
     },
     "count": 6,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Red-billed Leiothrix",
@@ -3312,8 +4243,8 @@
       "thumbnail": "/assets/images/wildlife/red-billed-leiothrix/233105f3204cffd6a715f3ed102e0975d9979ba7.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Red-billed Leiothrix",
-      "location": "",
+      "caption": "Moving through foliage",
+      "location": "Maui, Hawaii",
       "date": "2026-11-01T15:36:52",
       "featured": false,
       "camera": {
@@ -3327,7 +4258,16 @@
       "counter": "red-billed-leiothrix-20261101-dsc05906-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Red-Crowned Amazon",
@@ -3349,8 +4289,8 @@
       "thumbnail": "/assets/images/wildlife/red-crowned-amazon/3b6cb6adabfa3de16bd8769a977c0c08ddbc2b2d.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Red-Crowned Amazon",
-      "location": "",
+      "caption": "Portrait",
+      "location": "Pasadena, California",
       "date": "2026-03-12T09:32:33",
       "featured": false,
       "camera": {
@@ -3364,7 +4304,16 @@
       "counter": "red-crowned-amazon-jpg"
     },
     "count": 3,
-    "locations": []
+    "locations": [
+      "Pasadena, California"
+    ],
+    "location_details": [
+      {
+        "name": "Pasadena, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Red-Shouldered Hawk",
@@ -3386,8 +4335,8 @@
       "thumbnail": "/assets/images/wildlife/red-shouldered-hawk/4ebabda46d3e3a39818ca49fe2a48cb11f5d974d.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Red-Shouldered Hawk",
-      "location": "",
+      "caption": "Two adults · one arriving",
+      "location": "Orange County, California",
       "date": "2026-04-15T01:59:47",
       "featured": false,
       "camera": {
@@ -3401,7 +4350,28 @@
       "counter": "red-shouldered-hawk-jpg"
     },
     "count": 13,
-    "locations": []
+    "locations": [
+      "Los Angeles County Arboretum, California",
+      "Orange County, California",
+      "Sunnyvale, California"
+    ],
+    "location_details": [
+      {
+        "name": "Los Angeles County Arboretum, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sunnyvale, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Red-tailed Hawk",
@@ -3423,8 +4393,8 @@
       "thumbnail": "/assets/images/wildlife/red-tailed-hawk/3d9eebb3c7606383c2993019e3a12f3a1afd0e86.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Red-tailed Hawk",
-      "location": "",
+      "caption": "Adult · perched",
+      "location": "San Francisco Bay Area, California",
       "date": "2026-08-30T17:31:17",
       "featured": false,
       "camera": {
@@ -3438,7 +4408,28 @@
       "counter": "red-tailed-hawk-20260830-dsc01972-jpg"
     },
     "count": 5,
-    "locations": []
+    "locations": [
+      "Channel Islands, California",
+      "Cuyama Valley, California",
+      "San Francisco Bay Area, California"
+    ],
+    "location_details": [
+      {
+        "name": "Channel Islands, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Cuyama Valley, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "San Francisco Bay Area, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Red-Whiskered Bulbul",
@@ -3460,8 +4451,8 @@
       "thumbnail": "/assets/images/wildlife/red-whiskered-bulbul/4787612b611fb1d5a0bb3b0c0f7c5eed9d4091f5.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Red-Whiskered Bulbul",
-      "location": "",
+      "caption": "Adult · bill open",
+      "location": "Pasadena, California",
       "date": "2026-03-12T09:11:34",
       "featured": false,
       "camera": {
@@ -3475,7 +4466,16 @@
       "counter": "red-whiskered-bulbul-jpg"
     },
     "count": 4,
-    "locations": []
+    "locations": [
+      "Pasadena, California"
+    ],
+    "location_details": [
+      {
+        "name": "Pasadena, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Red-winged Blackbird",
@@ -3497,8 +4497,8 @@
       "thumbnail": "/assets/images/wildlife/red-winged-blackbird/c9b7cd363d27c50e115068a98e31832403988692.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Red-winged Blackbird",
-      "location": "",
+      "caption": "Male · bill open",
+      "location": "Quail Lake, California",
       "date": "2026-03-15T23:33:17",
       "featured": false,
       "camera": {
@@ -3512,7 +4512,22 @@
       "counter": "red-winged-blackbird-jpg"
     },
     "count": 3,
-    "locations": []
+    "locations": [
+      "Lassen Volcanic National Park, California",
+      "Quail Lake, California"
+    ],
+    "location_details": [
+      {
+        "name": "Lassen Volcanic National Park, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Quail Lake, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Reddish Egret",
@@ -3534,8 +4549,8 @@
       "thumbnail": "/assets/images/wildlife/reddish-egret/a9f4029da030f7d9d2d5fd462f3cbd1fe0c787ae.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Reddish Egret",
-      "location": "",
+      "caption": "Adult · wings spread",
+      "location": "Orange County, California",
       "date": "2026-04-15T06:28:35",
       "featured": false,
       "camera": {
@@ -3549,7 +4564,16 @@
       "counter": "reddish-egret-jpg"
     },
     "count": 5,
-    "locations": []
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Ring-billed Gull",
@@ -3571,8 +4595,8 @@
       "thumbnail": "/assets/images/wildlife/ring-billed-gull/a584654fe63309959b4ccff013bc4a117a3d6a11.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Ring-billed Gull",
-      "location": "",
+      "caption": "Immature · in flight",
+      "location": "Orange County, California",
       "date": "2026-04-08T05:42:25",
       "featured": false,
       "camera": {
@@ -3586,7 +4610,16 @@
       "counter": "ring-billed-gull-20260408-dsc00947-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Rock Wren",
@@ -3608,8 +4641,8 @@
       "thumbnail": "/assets/images/wildlife/rock-wren/56fd575d845b598bd07fba6ca9fd522d49a2eccc.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Rock Wren",
-      "location": "",
+      "caption": "Tail fanned",
+      "location": "Sierra Vista area, California",
       "date": "2026-10-01T10:22:35",
       "featured": false,
       "camera": {
@@ -3623,7 +4656,16 @@
       "counter": "rock-wren-20261001-dsc02921-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Sierra Vista area, California"
+    ],
+    "location_details": [
+      {
+        "name": "Sierra Vista area, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Rosy-faced Lovebird",
@@ -3640,27 +4682,36 @@
     "slug": "rosy-faced-lovebird",
     "url": "/wildlife-gallery/rosy-faced-lovebird/",
     "cover": {
-      "filename": "20261031-DSC05205.jpg",
-      "path": "/photo_gallery/rosy-faced-lovebird/20261031-DSC05205.jpg",
-      "thumbnail": "/assets/images/wildlife/rosy-faced-lovebird/ebe4bb79d01169d49deb7c193b29886b5a6235b4.webp",
-      "width": 1200,
+      "filename": "20261031-DSC05520.jpg",
+      "path": "/photo_gallery/rosy-faced-lovebird/20261031-DSC05520.jpg",
+      "thumbnail": "/assets/images/wildlife/rosy-faced-lovebird/60961d3296cc6e5b2be390ecb987d1477fed673b.webp",
+      "width": 2212,
       "height": 800,
-      "caption": "Rosy-faced Lovebird",
-      "location": "",
-      "date": "2026-10-31T18:39:34",
+      "caption": "Flock taking flight",
+      "location": "Maui, Hawaii",
+      "date": "2026-10-31T19:14:42",
       "featured": false,
       "camera": {
         "model": "ILCE-7CM2",
         "lens": "FE 200-600mm F5.6-6.3 G OSS",
-        "iso": 1000,
-        "focal": 600,
+        "iso": 1250,
+        "focal": 321,
         "aperture": 6.3,
-        "shutter": "1/2500"
+        "shutter": "1/2000"
       },
-      "counter": "rosy-faced-lovebird-20261031-dsc05205-jpg"
+      "counter": "rosy-faced-lovebird-20261031-dsc05520-jpg"
     },
     "count": 10,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Ruddy Duck",
@@ -3682,8 +4733,8 @@
       "thumbnail": "/assets/images/wildlife/ruddy-duck/6dd9b48e117f141766bebbea25388aa891fe2a9d.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Ruddy Duck",
-      "location": "",
+      "caption": "Male · swimming",
+      "location": "Irvine, California",
       "date": "2026-05-25T08:50:36",
       "featured": false,
       "camera": {
@@ -3697,7 +4748,16 @@
       "counter": "ruddy-duck-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Irvine, California"
+    ],
+    "location_details": [
+      {
+        "name": "Irvine, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Rufous-crowned Sparrow",
@@ -3719,8 +4779,8 @@
       "thumbnail": "/assets/images/wildlife/rufous-crowned-sparrow/8e59fa3393a76019c59c09c1ee481bca41d78be4.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Rufous-crowned Sparrow",
-      "location": "",
+      "caption": "Wings spread",
+      "location": "Sierra Vista area, California",
       "date": "2026-10-01T09:50:44",
       "featured": false,
       "camera": {
@@ -3734,7 +4794,16 @@
       "counter": "rufous-crowned-sparrow-20261001-dsc02875-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Sierra Vista area, California"
+    ],
+    "location_details": [
+      {
+        "name": "Sierra Vista area, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Saffron Finch",
@@ -3756,8 +4825,8 @@
       "thumbnail": "/assets/images/wildlife/saffron-finch/b2c590701ce34433e18167e7b5644da3394220d2.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Saffron Finch",
-      "location": "",
+      "caption": "Foraging in grass",
+      "location": "Maui, Hawaii",
       "date": "2026-10-31T19:00:18",
       "featured": false,
       "camera": {
@@ -3771,7 +4840,16 @@
       "counter": "saffron-finch-20261031-dsc05343-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Sanderling",
@@ -3793,8 +4871,8 @@
       "thumbnail": "/assets/images/wildlife/sandering/29243678cc844e7f0f1c41e2e00006958e7dbf89.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Sanderling",
-      "location": "",
+      "caption": "Foraging at the water's edge",
+      "location": "Maui, Hawaii",
       "date": "2026-10-29T15:21:48",
       "featured": false,
       "camera": {
@@ -3808,7 +4886,16 @@
       "counter": "sandering-20261029-dsc03408-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Sandhill Crane",
@@ -3830,8 +4917,8 @@
       "thumbnail": "/assets/images/wildlife/sandhill-crane/2bb6f93347ebbd02130e730b277a36718c6efef4.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Sandhill Crane",
-      "location": "",
+      "caption": "Two adults",
+      "location": "Madison, Wisconsin",
       "date": "2024-07-17T17:06:36",
       "featured": false,
       "camera": {
@@ -3845,7 +4932,16 @@
       "counter": "sandhill-crane-20240717-hwz-4489-jpg"
     },
     "count": 3,
-    "locations": []
+    "locations": [
+      "Madison, Wisconsin"
+    ],
+    "location_details": [
+      {
+        "name": "Madison, Wisconsin",
+        "country": "United States",
+        "state": "Wisconsin"
+      }
+    ]
   },
   {
     "name": "Scaly-breasted Munia",
@@ -3867,8 +4963,8 @@
       "thumbnail": "/assets/images/wildlife/scaly-breasted-munias/d37facda9362e9dc7fb3c9863ea62ae30882b21e.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Scaly-breasted Munia",
-      "location": "",
+      "caption": "Two adults · foraging",
+      "location": "Maui, Hawaii",
       "date": "2026-10-31T19:02:37",
       "featured": false,
       "camera": {
@@ -3882,7 +4978,16 @@
       "counter": "scaly-breasted-munias-20261031-dsc05364-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Snowy Egret",
@@ -3904,8 +5009,8 @@
       "thumbnail": "/assets/images/wildlife/snowy-egret/35730c9affc0ff0c0ccd9f6ab4c9eb0eb7bdded2.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Snowy Egret",
-      "location": "",
+      "caption": "Foraging in shallow water",
+      "location": "Orange County, California",
       "date": "2026-04-08T01:56:58",
       "featured": false,
       "camera": {
@@ -3919,7 +5024,16 @@
       "counter": "snowy-egret-jpg"
     },
     "count": 3,
-    "locations": []
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Snowy Plover",
@@ -3941,8 +5055,8 @@
       "thumbnail": "/assets/images/wildlife/snowy-plover/e23677e50db049a2b2e662704c41da0d6e8a5438.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Snowy Plover",
-      "location": "",
+      "caption": "On the beach",
+      "location": "Pescadero area, California",
       "date": "2026-09-19T15:51:36",
       "featured": false,
       "camera": {
@@ -3956,7 +5070,16 @@
       "counter": "snowy-plover-20260919-dsc02635-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Pescadero area, California"
+    ],
+    "location_details": [
+      {
+        "name": "Pescadero area, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Song Sparrow",
@@ -3978,8 +5101,8 @@
       "thumbnail": "/assets/images/wildlife/song-sparrow/135c7cf0d3ae27d053a311f2d94cca2dec9b717f.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Song Sparrow",
-      "location": "",
+      "caption": "Perched in foliage",
+      "location": "Los Angeles County Arboretum, California",
       "date": "2026-04-24T02:23:46",
       "featured": false,
       "camera": {
@@ -3993,7 +5116,22 @@
       "counter": "song-sparrow-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Channel Islands, California",
+      "Los Angeles County Arboretum, California"
+    ],
+    "location_details": [
+      {
+        "name": "Channel Islands, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Los Angeles County Arboretum, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Spotted Dove",
@@ -4015,8 +5153,8 @@
       "thumbnail": "/assets/images/wildlife/spotted-dove/9bcf84ee4c0ed41e0971f0102bdb4265bf732ded.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Spotted Dove",
-      "location": "",
+      "caption": "Adult · perched",
+      "location": "Maui, Hawaii",
       "date": "2026-10-30T09:59:46",
       "featured": false,
       "camera": {
@@ -4030,7 +5168,16 @@
       "counter": "spotted-dove-20261030-dsc04239-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Spotted Towhee",
@@ -4052,8 +5199,8 @@
       "thumbnail": "/assets/images/wildlife/spotted-towhee/6b14d8370af0642e91c4885572b7aac705b6bc4f.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Spotted Towhee",
-      "location": "",
+      "caption": "Male · perched",
+      "location": "Descanso Gardens, California",
       "date": "2026-03-22T04:20:22",
       "featured": false,
       "camera": {
@@ -4067,7 +5214,22 @@
       "counter": "spotted-towhee-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Channel Islands, California",
+      "Descanso Gardens, California"
+    ],
+    "location_details": [
+      {
+        "name": "Channel Islands, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Descanso Gardens, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Steller's Jay",
@@ -4089,8 +5251,8 @@
       "thumbnail": "/assets/images/wildlife/steller-s-jay/437da68aea4c3deb0f97e673cecbd168bef55ac2.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Steller's Jay",
-      "location": "",
+      "caption": "Wings spread",
+      "location": "Yosemite National Park, California",
       "date": "2026-05-03T02:43:08",
       "featured": false,
       "camera": {
@@ -4104,7 +5266,16 @@
       "counter": "steller-s-jay-20260503-dsc05624-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Yosemite National Park, California"
+    ],
+    "location_details": [
+      {
+        "name": "Yosemite National Park, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Tiger Moth Caterpillar",
@@ -4126,8 +5297,8 @@
       "thumbnail": "/assets/images/wildlife/tiger-moth-caterpillar/afafc9b06302e5a2b25d99b460477d84d8a66ca9.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Tiger Moth Caterpillar",
-      "location": "",
+      "caption": "Caterpillar · among stones",
+      "location": "Orange County, California",
       "date": "2026-04-15T06:26:39",
       "featured": false,
       "camera": {
@@ -4141,7 +5312,16 @@
       "counter": "tiger-moth-caterpillar-20260415-dsc03029-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Tree Swallow",
@@ -4163,8 +5343,8 @@
       "thumbnail": "/assets/images/wildlife/tree-swallow/cc4b3e6ed8cacd8c7bc942af89aeb0c98dbb0ef9.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Tree Swallow",
-      "location": "",
+      "caption": "Perched on a wire",
+      "location": "Orange County, California",
       "date": "2026-04-15T01:08:02",
       "featured": false,
       "camera": {
@@ -4178,7 +5358,16 @@
       "counter": "tree-sparrow-jpg"
     },
     "count": 7,
-    "locations": []
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Tricolored Blackbird",
@@ -4200,8 +5389,8 @@
       "thumbnail": "/assets/images/wildlife/tricolored-blackbird/4f41783b8c37ba087f5fa94c49b528d89024c1f7.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Tricolored Blackbird",
-      "location": "",
+      "caption": "Male · perched",
+      "location": "Quail Lake, California",
       "date": "2026-03-15T23:31:43",
       "featured": false,
       "camera": {
@@ -4215,7 +5404,16 @@
       "counter": "tricolored-blackbird-jpg"
     },
     "count": 3,
-    "locations": []
+    "locations": [
+      "Quail Lake, California"
+    ],
+    "location_details": [
+      {
+        "name": "Quail Lake, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Turkey Vulture",
@@ -4237,8 +5435,8 @@
       "thumbnail": "/assets/images/wildlife/turkey-vulture/34e0c73aec6f88238381a5dda63c958b979cb2ec.webp",
       "width": 2321,
       "height": 1547,
-      "caption": "Turkey Vulture",
-      "location": "",
+      "caption": "Adult · soaring",
+      "location": "Cuyama Valley, California",
       "date": "2026-03-16T03:33:34",
       "featured": false,
       "camera": {
@@ -4252,7 +5450,22 @@
       "counter": "turkey-vulture-jpg"
     },
     "count": 3,
-    "locations": []
+    "locations": [
+      "Cuyama Valley, California",
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Cuyama Valley, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Variegated Meadowhawk",
@@ -4274,8 +5487,8 @@
       "thumbnail": "/assets/images/wildlife/variegated-meadowhawk/3e4fc4d0b0be7e90f9e77a676c297b47619ef913.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Variegated Meadowhawk",
-      "location": "",
+      "caption": "Perched on a twig",
+      "location": "Sierra Vista area, California",
       "date": "2026-10-01T10:11:30",
       "featured": false,
       "camera": {
@@ -4289,7 +5502,16 @@
       "counter": "variegated-meadowhawk-20261001-dsc02881-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Sierra Vista area, California"
+    ],
+    "location_details": [
+      {
+        "name": "Sierra Vista area, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Vermilion Flycatcher",
@@ -4306,27 +5528,36 @@
     "slug": "vermilion-flycatcher",
     "url": "/wildlife-gallery/vermilion-flycatcher/",
     "cover": {
-      "filename": "Vermilion Flycatcher.jpg",
-      "path": "/photo_gallery/vermilion-flycatcher/Vermilion Flycatcher.jpg",
-      "thumbnail": "/assets/images/wildlife/vermilion-flycatcher/d1fb3494c1d0b83f853bafca4151d0cc039170ab.webp",
+      "filename": "20260415-DSC02759.jpg",
+      "path": "/photo_gallery/vermilion-flycatcher/20260415-DSC02759.jpg",
+      "thumbnail": "/assets/images/wildlife/vermilion-flycatcher/f170197438422e45354ea74553308a232d008921.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Vermilion Flycatcher",
-      "location": "",
-      "date": "2026-04-15T03:29:17",
+      "caption": "Male and female · at the nest",
+      "location": "Orange County, California",
+      "date": "2026-04-15T03:12:57",
       "featured": false,
       "camera": {
         "model": "ILCE-7CM2",
         "lens": "FE 200-600mm F5.6-6.3 G OSS",
-        "iso": 640,
+        "iso": 1250,
         "focal": 600,
         "aperture": 6.3,
-        "shutter": "1/1600"
+        "shutter": "1/2500"
       },
-      "counter": "vermilion-flycatcher-jpg"
+      "counter": "vermilion-flycatcher-20260415-dsc02759-jpg"
     },
     "count": 26,
-    "locations": []
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Wandering Tattler",
@@ -4348,8 +5579,8 @@
       "thumbnail": "/assets/images/wildlife/wandering-tattler/27fea8ddf99359c1aa375d260698cd154b1ffc55.webp",
       "width": 1198,
       "height": 800,
-      "caption": "Wandering Tattler",
-      "location": "",
+      "caption": "Wading among rocks",
+      "location": "Big Island, Hawaii",
       "date": "2023-09-15T12:15:41",
       "featured": false,
       "camera": {
@@ -4363,7 +5594,16 @@
       "counter": "wandering-tattler-20230915-dsc-3168-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Big Island, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Big Island, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   },
   {
     "name": "Western Bluebird",
@@ -4380,27 +5620,36 @@
     "slug": "western-bluebird",
     "url": "/wildlife-gallery/western-bluebird/",
     "cover": {
-      "filename": "20260415-DSC02527.jpg",
-      "path": "/photo_gallery/western-bluebird/20260415-DSC02527.jpg",
-      "thumbnail": "/assets/images/wildlife/western-bluebird/674750f20ae5aa856940d965f84a417786777fd7.webp",
+      "filename": "California Blue Bird.jpg",
+      "path": "/photo_gallery/western-bluebird/California Blue Bird.jpg",
+      "thumbnail": "/assets/images/wildlife/western-bluebird/bcfe815cb7dcf41c1c3e4b80f89f16cd1edf5726.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Western Bluebird",
-      "location": "",
-      "date": "2026-04-15T02:10:53",
+      "caption": "Male · perched",
+      "location": "Orange County, California",
+      "date": "2026-04-15T02:28:23",
       "featured": false,
       "camera": {
         "model": "ILCE-7CM2",
         "lens": "FE 200-600mm F5.6-6.3 G OSS",
-        "iso": 250,
-        "focal": 415,
+        "iso": 1600,
+        "focal": 600,
         "aperture": 6.3,
         "shutter": "1/1250"
       },
-      "counter": "western-bluebird-20260415-dsc02527-jpg"
+      "counter": "california-blue-bird-jpg"
     },
-    "count": 7,
-    "locations": []
+    "count": 6,
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Western Grebe",
@@ -4422,8 +5671,8 @@
       "thumbnail": "/assets/images/wildlife/western-grebe/5e4087c20eaa275914fb37954920195f9653b0b4.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Western Grebe",
-      "location": "",
+      "caption": "Swimming",
+      "location": "Orange County, California",
       "date": "2026-04-08T00:49:22",
       "featured": false,
       "camera": {
@@ -4437,7 +5686,22 @@
       "counter": "western-grebe-jpg"
     },
     "count": 3,
-    "locations": []
+    "locations": [
+      "Channel Islands, California",
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Channel Islands, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Western Gull",
@@ -4459,8 +5723,8 @@
       "thumbnail": "/assets/images/wildlife/western-gull/aa066932e806643d3f0392509b05a3e94348b907.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Western Gull",
-      "location": "",
+      "caption": "Adult · in flight",
+      "location": "Orange County, California",
       "date": "2026-04-08T05:36:31",
       "featured": false,
       "camera": {
@@ -4474,7 +5738,22 @@
       "counter": "western-gull-20260408-dsc00923-jpg"
     },
     "count": 5,
-    "locations": []
+    "locations": [
+      "Channel Islands, California",
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Channel Islands, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Western Sandpiper",
@@ -4496,8 +5775,8 @@
       "thumbnail": "/assets/images/wildlife/western-sandpipers/7cc61851a3453e3bb6d957d9aeb6d3f7e533da98.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Western Sandpiper",
-      "location": "",
+      "caption": "Bathing together",
+      "location": "Orange County, California",
       "date": "2026-04-08T04:28:45",
       "featured": false,
       "camera": {
@@ -4511,7 +5790,16 @@
       "counter": "western-sandpipers-20260408-dsc00518-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Whimbrel",
@@ -4533,8 +5821,8 @@
       "thumbnail": "/assets/images/wildlife/whimbrel/92a93963a079ea77ab742b011f803dfd02e50b8e.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Whimbrel",
-      "location": "",
+      "caption": "Walking along the beach",
+      "location": "Pescadero area, California",
       "date": "2026-09-19T15:23:53",
       "featured": false,
       "camera": {
@@ -4548,7 +5836,22 @@
       "counter": "whimbrel-20260919-dsc02601-jpg"
     },
     "count": 3,
-    "locations": []
+    "locations": [
+      "Orange County, California",
+      "Pescadero area, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Pescadero area, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "White Pelican",
@@ -4570,8 +5873,8 @@
       "thumbnail": "/assets/images/wildlife/white-pelican/5c799638a66b1a78e5f7cd5faab42eee8a050edd.webp",
       "width": 1200,
       "height": 800,
-      "caption": "White Pelican",
-      "location": "",
+      "caption": "Two birds in flight",
+      "location": "Irvine, California",
       "date": "2026-05-25T08:49:43",
       "featured": false,
       "camera": {
@@ -4585,7 +5888,16 @@
       "counter": "white-pelican-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Irvine, California"
+    ],
+    "location_details": [
+      {
+        "name": "Irvine, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "White-Crowned Sparrow",
@@ -4607,8 +5919,8 @@
       "thumbnail": "/assets/images/wildlife/white-crowned-sparrow/cc4f8205a334802d7d643038cb3dd8a9af7111e4.webp",
       "width": 1200,
       "height": 800,
-      "caption": "White-Crowned Sparrow",
-      "location": "",
+      "caption": "Adult · perched",
+      "location": "Descanso Gardens, California",
       "date": "2026-03-22T03:29:58",
       "featured": false,
       "camera": {
@@ -4622,7 +5934,22 @@
       "counter": "white-crowned-sparrow-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Cuyama Valley, California",
+      "Descanso Gardens, California"
+    ],
+    "location_details": [
+      {
+        "name": "Cuyama Valley, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Descanso Gardens, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "White-faced Ibis",
@@ -4644,8 +5971,8 @@
       "thumbnail": "/assets/images/wildlife/white-faced-ibis/a258bf1109bba91553e8b1eea9e4264f1ab72415.webp",
       "width": 1200,
       "height": 800,
-      "caption": "White-faced Ibis",
-      "location": "",
+      "caption": "Adult · wings spread",
+      "location": "Orange County, California",
       "date": "2026-04-08T00:31:32",
       "featured": false,
       "camera": {
@@ -4659,7 +5986,16 @@
       "counter": "white-faced-ibis-20260408-dsc09416-jpg"
     },
     "count": 3,
-    "locations": []
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Wild Turkey",
@@ -4681,8 +6017,8 @@
       "thumbnail": "/assets/images/wildlife/wild-turkey/5919a56c4f06314e325e20e87f91e116c553c750.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Wild Turkey",
-      "location": "",
+      "caption": "Foraging in a group",
+      "location": "Madison, Wisconsin",
       "date": "2024-07-17T15:31:39",
       "featured": false,
       "camera": {
@@ -4696,7 +6032,16 @@
       "counter": "wild-turkey-20240717-hwz-4435-jpg"
     },
     "count": 3,
-    "locations": []
+    "locations": [
+      "Madison, Wisconsin"
+    ],
+    "location_details": [
+      {
+        "name": "Madison, Wisconsin",
+        "country": "United States",
+        "state": "Wisconsin"
+      }
+    ]
   },
   {
     "name": "Willet",
@@ -4718,8 +6063,8 @@
       "thumbnail": "/assets/images/wildlife/willet/a70fe7c21711ab125a2252a5f31b5515bc21d7c2.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Willet",
-      "location": "",
+      "caption": "Standing on a rock",
+      "location": "Orange County, California",
       "date": "2026-04-08T04:42:25",
       "featured": false,
       "camera": {
@@ -4733,7 +6078,16 @@
       "counter": "willet-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Orange County, California"
+    ],
+    "location_details": [
+      {
+        "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Wilson's Warbler",
@@ -4755,8 +6109,8 @@
       "thumbnail": "/assets/images/wildlife/wilson-s-warbler/fd9d728c33a68e7d548ce59b005ac41ef91a7f11.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Wilson's Warbler",
-      "location": "",
+      "caption": "Perched",
+      "location": "Windy Hill Preserve, California",
       "date": "2026-06-20T02:05:35",
       "featured": false,
       "camera": {
@@ -4770,7 +6124,16 @@
       "counter": "wilson-s-warbler-20260620-dsc09975-jpg"
     },
     "count": 3,
-    "locations": []
+    "locations": [
+      "Windy Hill Preserve, California"
+    ],
+    "location_details": [
+      {
+        "name": "Windy Hill Preserve, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Yellow-Crowned Night Heron",
@@ -4792,8 +6155,8 @@
       "thumbnail": "/assets/images/wildlife/yellow-crowned-night-heron/bbc93098e6ca0cedf684c4de94dc70410ba657d6.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Yellow-Crowned Night Heron",
-      "location": "",
+      "caption": "Adult · perched",
+      "location": "Irvine, California",
       "date": "2026-05-25T04:06:14",
       "featured": false,
       "camera": {
@@ -4807,7 +6170,16 @@
       "counter": "yellow-crowned-night-heron-jpg"
     },
     "count": 11,
-    "locations": []
+    "locations": [
+      "Irvine, California"
+    ],
+    "location_details": [
+      {
+        "name": "Irvine, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Yellow-rumped Warbler",
@@ -4829,8 +6201,8 @@
       "thumbnail": "/assets/images/wildlife/yellow-rumped-warbler/f5c9cf45595ce0c6e7151dfd2a7e7252f9b14568.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Yellow-rumped Warbler",
-      "location": "",
+      "caption": "Male · breeding plumage, foraging",
+      "location": "Lassen Volcanic National Park, California",
       "date": "2026-07-04T08:09:52",
       "featured": false,
       "camera": {
@@ -4844,7 +6216,16 @@
       "counter": "yellow-rumped-warbler-20260704-dsc00735-jpg"
     },
     "count": 1,
-    "locations": []
+    "locations": [
+      "Lassen Volcanic National Park, California"
+    ],
+    "location_details": [
+      {
+        "name": "Lassen Volcanic National Park, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
   },
   {
     "name": "Zebra Dove",
@@ -4866,8 +6247,8 @@
       "thumbnail": "/assets/images/wildlife/zebra-dove/9fd176538460946a9fa4ac95be8440a5e765b822.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Zebra Dove",
-      "location": "",
+      "caption": "Walking on the ground",
+      "location": "Maui, Hawaii",
       "date": "2026-10-29T17:39:47",
       "featured": false,
       "camera": {
@@ -4881,6 +6262,15 @@
       "counter": "zebra-dove-20261029-dsc03638-jpg"
     },
     "count": 2,
-    "locations": []
+    "locations": [
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    ]
   }
 ]

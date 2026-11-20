@@ -9,5 +9,35 @@
       "title": "NOAA Fisheries",
       "url": "https://www.fisheries.noaa.gov/species/california-sea-lion"
     }
-  ]
+  ],
+  "photos": {
+    "20260421-DSC03237.jpg": {
+      "caption": "Resting on a buoy",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T01:13:41",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03237.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03416.jpg": {
+      "caption": "Swimming together",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T02:20:26",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03416.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

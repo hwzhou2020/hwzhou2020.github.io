@@ -9,5 +9,21 @@
       "url": "https://www.allaboutbirds.org/guide/Rufous-crowned_Sparrow/id"
     }
   ],
-  "cover": "20261001-DSC02875.jpg"
+  "cover": "20261001-DSC02875.jpg",
+  "photos": {
+    "20261001-DSC02875.jpg": {
+      "caption": "Wings spread",
+      "location": "Sierra Vista area, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-01T09:50:44",
+        "folder": "20261001 sierra vista ",
+        "raw_files": [
+          "DSC02875.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

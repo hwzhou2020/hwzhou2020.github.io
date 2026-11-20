@@ -9,5 +9,77 @@
       "url": "https://dlnr.hawaii.gov/wildlife/birds/aeo/"
     }
   ],
-  "cover": "20261102-DSC06206.jpg"
+  "cover": "20261102-DSC06206.jpg",
+  "photos": {
+    "20261029-DSC03356.jpg": {
+      "caption": "Foraging in shallow water",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-29T15:16:41",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC03356.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261102-DSC06206.jpg": {
+      "caption": "Wading",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-02T13:45:20",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC06206.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261102-DSC06207.jpg": {
+      "caption": "Wading",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-02T13:45:20",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC06207.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261102-DSC06209.jpg": {
+      "caption": "Wading",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-02T13:45:27",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC06209.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261102-DSC06211.jpg": {
+      "caption": "In flight",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-02T13:47:09",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC06211.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

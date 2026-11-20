@@ -9,5 +9,60 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/black_phoebe"
     }
-  ]
+  ],
+  "photos": {
+    "20260415-DSC02539.jpg": {
+      "caption": "Perched",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T02:12:32",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02539.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260424-DSC04733.jpg": {
+      "caption": "Perched",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T01:44:50",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04733.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260424-DSC04975.jpg": {
+      "caption": "Perched",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T03:31:27",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04975.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Black Phoebe.jpg": {
+      "caption": "In flight",
+      "location": "Pico Rivera, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-02-15",
+        "precision": "city",
+        "folder": "20260215 1st birding",
+        "note": "Photographer confirmed this outing as Pico Rivera, California."
+      }
+    }
+  }
 }

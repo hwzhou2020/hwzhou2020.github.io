@@ -9,5 +9,31 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Bewicks_Wren"
     }
-  ]
+  ],
+  "photos": {
+    "20260424-DSC04715.jpg": {
+      "caption": "Foraging among wood chips",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T01:41:36",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04715.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Bewick's Wren.jpg": {
+      "caption": "On the ground",
+      "location": "Pasadena, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-12",
+        "precision": "city",
+        "note": "Photographer confirmed the March 12 outing as Pasadena."
+      }
+    }
+  }
 }

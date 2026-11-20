@@ -9,5 +9,37 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Dark-eyed_Junco"
     }
-  ]
+  ],
+  "photos": {
+    "20260322-DSC07707.jpg": {
+      "caption": "Male · perched",
+      "location": "Descanso Gardens, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-03-22T00:24:35",
+        "folder": "20260322 Descanso Garden birding",
+        "raw_files": [
+          "DSC07707.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Dark-Eyed Junco.jpg": {
+      "caption": "Male · carrying a caterpillar",
+      "location": "Descanso Gardens, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-03-22T01:06:02",
+        "folder": "20260322 Descanso Garden birding",
+        "raw_files": [
+          "DSC07717.ARW",
+          "DSC07718.ARW",
+          "DSC07719.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

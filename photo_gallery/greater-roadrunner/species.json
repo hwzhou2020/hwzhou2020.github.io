@@ -9,5 +9,119 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/greater_roadrunner"
     }
-  ]
+  ],
+  "photos": {
+    "20260525-DSC08432.jpg": {
+      "caption": "Crest raised",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T08:57:25",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08432.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260525-DSC08475.jpg": {
+      "caption": "On the trail",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T08:57:56",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08475.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260525-DSC08487.jpg": {
+      "caption": "Walking",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T08:58:06",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08487.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260525-DSC08489.jpg": {
+      "caption": "Walking",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T08:58:08",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08489.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260525-DSC08513.jpg": {
+      "caption": "Crest raised",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T08:58:48",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08513.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260525-DSC08518.jpg": {
+      "caption": "Crest raised",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T08:58:49",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08518.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260525-DSC08525.jpg": {
+      "caption": "On the trail",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T08:59:49",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08525.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Greater Roadrunner.jpg": {
+      "caption": "Crest raised",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T08:58:47",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08511.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

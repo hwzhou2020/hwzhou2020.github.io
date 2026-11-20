@@ -9,5 +9,193 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Red-shouldered_Hawk"
     }
-  ]
+  ],
+  "photos": {
+    "20260415-DSC02443.jpg": {
+      "caption": "Adult · perched",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T01:59:40",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02443.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC02453.jpg": {
+      "caption": "Two adults · perched",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T01:59:47",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02453.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC02456.jpg": {
+      "caption": "Two adults · perched",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T01:59:48",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02456.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC02461.jpg": {
+      "caption": "Two adults · perched",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T02:00:00",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02461.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260424-DSC04981.jpg": {
+      "caption": "Adult · soaring",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T03:56:07",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04981.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261119-DSC06485.jpg": {
+      "caption": "Immature · perched",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-19T17:16:45",
+        "folder": "20261119 sunnyvale wpcp",
+        "raw_files": [
+          "DSC06485.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261119-DSC06498.jpg": {
+      "caption": "Immature · perched",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-19T17:17:10",
+        "folder": "20261119 sunnyvale wpcp",
+        "raw_files": [
+          "DSC06498.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261119-DSC06517.jpg": {
+      "caption": "Immature · perched",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-19T17:17:53",
+        "folder": "20261119 sunnyvale wpcp",
+        "raw_files": [
+          "DSC06517.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261119-DSC06523.jpg": {
+      "caption": "Immature · ruffling feathers",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-19T17:17:59",
+        "folder": "20261119 sunnyvale wpcp",
+        "raw_files": [
+          "DSC06523.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261119-DSC06550.jpg": {
+      "caption": "Immature · perched",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-19T17:19:34",
+        "folder": "20261119 sunnyvale wpcp",
+        "raw_files": [
+          "DSC06550.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261119-DSC06571.jpg": {
+      "caption": "Immature · perched",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-19T17:21:15",
+        "folder": "20261119 sunnyvale wpcp",
+        "raw_files": [
+          "DSC06571.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261119-DSC06585.jpg": {
+      "caption": "Immature · perched",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-19T17:24:07",
+        "folder": "20261119 sunnyvale wpcp",
+        "raw_files": [
+          "DSC06585.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Red-Shouldered Hawk.jpg": {
+      "caption": "Two adults · one arriving",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T01:59:47",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02450.ARW",
+          "DSC02451.ARW",
+          "DSC02452.ARW",
+          "DSC02453.ARW",
+          "DSC02454.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

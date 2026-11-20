@@ -9,5 +9,77 @@
       "url": "https://www.allaboutbirds.org/guide/northern_cardinal"
     }
   ],
-  "cover": "20261030-DSC04179.jpg"
+  "cover": "20261030-DSC04179.jpg",
+  "photos": {
+    "20261030-DSC04177.jpg": {
+      "caption": "Male · perched",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-30T09:52:20",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC04177.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261030-DSC04179.jpg": {
+      "caption": "Male · perched",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-30T09:52:20",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC04179.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261030-DSC04196.jpg": {
+      "caption": "Male · on the ground",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-30T09:53:15",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC04196.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261030-DSC04226.jpg": {
+      "caption": "Male · holding food",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-30T09:55:23",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC04226.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261030-DSC04237.jpg": {
+      "caption": "Male · feeding",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-30T09:56:11",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC04237.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

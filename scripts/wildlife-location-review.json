@@ -1,0 +1,669 @@
+{
+  "version": 1,
+  "archive": "Wildlife photos",
+  "method": "Match RAW EXIF capture timestamp and camera; also require matching camera filename when retained. Renamed or same-second burst images may have multiple RAW candidates only when all candidates belong to the same outing folder. Folder names supply approximate location, not GPS. Existing photographer-supplied locations take precedence.",
+  "summary": {
+    "raw_files_scanned": 7360,
+    "gallery_photos": 498,
+    "matched_to_one_raw_folder": 471,
+    "new_locations": 430,
+    "existing_locations_preserved": 14,
+    "awaiting_location": 0,
+    "locations_confirmed_during_review": 54
+  },
+  "folder_locations": {
+    "20260215 1st birding": "Pico Rivera, California",
+    "20260414 bird huntington central park and bolsa chica": "Orange County, California",
+    "20260407 bird Irvine Bolsa Chica": "Orange County, California",
+    "20260304-20260316 birds of prey condor and more": null,
+    "20260322 Descanso Garden birding": "Descanso Gardens, California",
+    "20260420 Channel Island": "Channel Islands, California",
+    "20260424 LA Arboretum": "Los Angeles County Arboretum, California",
+    "20260502 Yosemite": "Yosemite National Park, California",
+    "20260505 Pinnacle National Park": "Pinnacles National Park, California",
+    "20260524 UCI birding": "Irvine, California",
+    "20260617 windy hill": "Windy Hill Preserve, California",
+    "20260815 StevenCreek": "Stevens Creek area, California",
+    "20260830 baylands and halfmoonbay": "San Francisco Bay Area, California",
+    "20260919 pescadero": "Pescadero area, California",
+    "20261001 sierra vista ": "Sierra Vista area, California",
+    "20261119 sunnyvale wpcp": "Sunnyvale, California",
+    "20261025 Ulistac park santa clara": "Ulistac Natural Area, Santa Clara, California",
+    "20261029 - 20261101 Maui island": "Maui, Hawaii"
+  },
+  "review_groups": [
+    {
+      "date": "2023-09-15",
+      "raw_folders": [],
+      "status": "resolved",
+      "count": 11,
+      "photos": [
+        {
+          "album": "green-sea-turtle",
+          "species": "Green Sea Turtle",
+          "filename": "20230915-DSC_3234.jpg",
+          "date": "2023-09-15T13:10:02",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "green-sea-turtle",
+          "species": "Green Sea Turtle",
+          "filename": "20230915-DSC_3220.jpg",
+          "date": "2023-09-15T12:38:22",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "green-sea-turtle",
+          "species": "Green Sea Turtle",
+          "filename": "20230915-DSC_3217.jpg",
+          "date": "2023-09-15T12:32:57",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "green-sea-turtle",
+          "species": "Green Sea Turtle",
+          "filename": "20230915-DSC_3209.jpg",
+          "date": "2023-09-15T12:30:07",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "green-sea-turtle",
+          "species": "Green Sea Turtle",
+          "filename": "20230915-DSC_3178.jpg",
+          "date": "2023-09-15T12:17:48",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "green-sea-turtle",
+          "species": "Green Sea Turtle",
+          "filename": "20230915-DSC_3166.jpg",
+          "date": "2023-09-15T12:14:27",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "green-sea-turtle",
+          "species": "Green Sea Turtle",
+          "filename": "20230915-DSC_3136.jpg",
+          "date": "2023-09-15T12:01:35",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "hawksbill-sea-turtle",
+          "species": "Hawksbill Sea Turtle",
+          "filename": "20230915-DSC_3197.jpg",
+          "date": "2023-09-15T12:23:12",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "hawksbill-sea-turtle",
+          "species": "Hawksbill Sea Turtle",
+          "filename": "20230915-DSC_3194.jpg",
+          "date": "2023-09-15T12:22:49",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "hawksbill-sea-turtle",
+          "species": "Hawksbill Sea Turtle",
+          "filename": "20230915-DSC_3191.jpg",
+          "date": "2023-09-15T12:22:23",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "wandering-tattler",
+          "species": "Wandering Tattler",
+          "filename": "20230915-DSC_3168.jpg",
+          "date": "2023-09-15T12:15:41",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        }
+      ],
+      "resolution": {
+        "location": "Big Island, Hawaii",
+        "source": "Confirmed by photographer in conversation"
+      }
+    },
+    {
+      "date": "2024-07-17",
+      "raw_folders": [],
+      "status": "resolved",
+      "count": 7,
+      "photos": [
+        {
+          "album": "blister-beetle",
+          "species": "Blister Beetle",
+          "filename": "20240717-HWZ_4468.jpg",
+          "date": "2024-07-17T16:44:51",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "sandhill-crane",
+          "species": "Sandhill Crane",
+          "filename": "20240717-HWZ_4489.jpg",
+          "date": "2024-07-17T17:06:36",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "sandhill-crane",
+          "species": "Sandhill Crane",
+          "filename": "20240717-HWZ_4487.jpg",
+          "date": "2024-07-17T17:06:12",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "sandhill-crane",
+          "species": "Sandhill Crane",
+          "filename": "20240717-HWZ_4485.jpg",
+          "date": "2024-07-17T17:05:08",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "wild-turkey",
+          "species": "Wild Turkey",
+          "filename": "20240717-HWZ_4465.jpg",
+          "date": "2024-07-17T16:42:25",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "wild-turkey",
+          "species": "Wild Turkey",
+          "filename": "20240717-HWZ_4458.jpg",
+          "date": "2024-07-17T16:39:22",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "wild-turkey",
+          "species": "Wild Turkey",
+          "filename": "20240717-HWZ_4435.jpg",
+          "date": "2024-07-17T15:31:39",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        }
+      ],
+      "resolution": {
+        "location": "Madison, Wisconsin",
+        "source": "Confirmed by photographer in conversation"
+      }
+    },
+    {
+      "date": "2024-09-21",
+      "raw_folders": [],
+      "status": "resolved",
+      "count": 2,
+      "photos": [
+        {
+          "album": "chipmunk",
+          "species": "Chipmunk",
+          "filename": "20240921-DSC_6635.jpg",
+          "date": "2024-09-21T15:35:59",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "chipmunk",
+          "species": "Chipmunk",
+          "filename": "20240921-DSC_6634.jpg",
+          "date": "2024-09-21T15:35:57",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        }
+      ],
+      "resolution": {
+        "location": "Sequoia National Park, California",
+        "source": "Confirmed by photographer in conversation"
+      }
+    },
+    {
+      "date": "2026-02-15",
+      "raw_folders": [
+        "20260215 1st birding"
+      ],
+      "status": "resolved",
+      "count": 4,
+      "photos": [
+        {
+          "album": "american-goldfinch",
+          "species": "American Goldfinch",
+          "filename": "American Goldfinch.jpg",
+          "date": "2026-02-15T02:42:28",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260215 1st birding/DSC02482.ARW",
+            "20260215 1st birding/DSC02484.ARW"
+          ]
+        },
+        {
+          "album": "black-phoebe",
+          "species": "Black Phoebe",
+          "filename": "Black Phoebe.jpg",
+          "date": "2026-02-15T02:52:10",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260215 1st birding/DSC02510.ARW",
+            "20260215 1st birding/DSC02511.ARW",
+            "20260215 1st birding/DSC02512.ARW"
+          ]
+        },
+        {
+          "album": "common-raven",
+          "species": "Common Raven",
+          "filename": "Common Raven.jpg",
+          "date": "2026-02-15T01:55:54",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260215 1st birding/DSC02218.ARW",
+            "20260215 1st birding/DSC02220.ARW"
+          ]
+        },
+        {
+          "album": "northern-mockingbird",
+          "species": "Northern Mockingbird",
+          "filename": "Northern Mockingbird.jpg",
+          "date": "2026-02-15T03:03:38",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260215 1st birding/DSC02618.ARW"
+          ]
+        }
+      ],
+      "resolution": {
+        "location": "Pico Rivera, California",
+        "source": "Confirmed by photographer in conversation"
+      }
+    },
+    {
+      "date": "2026-03-12",
+      "raw_folders": [
+        "20260304-20260316 birds of prey condor and more"
+      ],
+      "status": "resolved",
+      "count": 9,
+      "photos": [
+        {
+          "album": "bewick-s-wren",
+          "species": "Bewick's Wren",
+          "filename": "Bewick's Wren.jpg",
+          "date": "2026-03-12T09:31:12",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC05070.ARW"
+          ]
+        },
+        {
+          "album": "european-starling",
+          "species": "European Starling",
+          "filename": "20260312-DSC05270-Topaz-Gigapixel-2X.jpg",
+          "date": "2026-03-12T09:41:53",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC05270.ARW"
+          ]
+        },
+        {
+          "album": "red-crowned-amazon",
+          "species": "Red-Crowned Amazon",
+          "filename": "20260312-DSC05233.jpg",
+          "date": "2026-03-12T09:38:26",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC05233.ARW"
+          ]
+        },
+        {
+          "album": "red-crowned-amazon",
+          "species": "Red-Crowned Amazon",
+          "filename": "20260312-DSC05159.jpg",
+          "date": "2026-03-12T09:36:23",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC05159.ARW"
+          ]
+        },
+        {
+          "album": "red-crowned-amazon",
+          "species": "Red-Crowned Amazon",
+          "filename": "Red-Crowned Amazon.jpg",
+          "date": "2026-03-12T09:32:33",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC05083.ARW"
+          ]
+        },
+        {
+          "album": "red-whiskered-bulbul",
+          "species": "Red-Whiskered Bulbul",
+          "filename": "20260312-DSC05050.jpg",
+          "date": "2026-03-12T09:11:50",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC05050.ARW"
+          ]
+        },
+        {
+          "album": "red-whiskered-bulbul",
+          "species": "Red-Whiskered Bulbul",
+          "filename": "Red-Whiskered Bulbul.jpg",
+          "date": "2026-03-12T09:11:34",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC05037.ARW"
+          ]
+        },
+        {
+          "album": "red-whiskered-bulbul",
+          "species": "Red-Whiskered Bulbul",
+          "filename": "20260312-DSC05035.jpg",
+          "date": "2026-03-12T09:11:13",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC05035.ARW"
+          ]
+        },
+        {
+          "album": "red-whiskered-bulbul",
+          "species": "Red-Whiskered Bulbul",
+          "filename": "20260312-DSC05029.jpg",
+          "date": "2026-03-12T09:10:57",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC05029.ARW"
+          ]
+        }
+      ],
+      "resolution": {
+        "location": "Pasadena, California",
+        "source": "Confirmed by photographer in conversation"
+      }
+    },
+    {
+      "date": "2026-03-15",
+      "raw_folders": [
+        "20260304-20260316 birds of prey condor and more"
+      ],
+      "status": "resolved",
+      "count": 5,
+      "photos": [
+        {
+          "album": "red-winged-blackbird",
+          "species": "Red-winged Blackbird",
+          "filename": "Red-winged Blackbird.jpg",
+          "date": "2026-03-15T23:33:17",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC05511.ARW",
+            "20260304-20260316 birds of prey condor and more/DSC05512.ARW"
+          ]
+        },
+        {
+          "album": "red-winged-blackbird",
+          "species": "Red-winged Blackbird",
+          "filename": "20260315-DSC05380.jpg",
+          "date": "2026-03-15T23:07:25",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC05380.ARW"
+          ]
+        },
+        {
+          "album": "tricolored-blackbird",
+          "species": "Tricolored Blackbird",
+          "filename": "Tricolored Blackbird.jpg",
+          "date": "2026-03-15T23:31:43",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC05477.ARW"
+          ]
+        },
+        {
+          "album": "tricolored-blackbird",
+          "species": "Tricolored Blackbird",
+          "filename": "20260315-DSC05462.jpg",
+          "date": "2026-03-15T23:27:28",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC05462.ARW"
+          ]
+        },
+        {
+          "album": "tricolored-blackbird",
+          "species": "Tricolored Blackbird",
+          "filename": "20260315-DSC05347.jpg",
+          "date": "2026-03-15T23:06:28",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC05347.ARW"
+          ]
+        }
+      ],
+      "resolution": {
+        "location": "Quail Lake, California",
+        "source": "Confirmed by photographer in conversation"
+      }
+    },
+    {
+      "date": "2026-03-16",
+      "raw_folders": [
+        "20260304-20260316 birds of prey condor and more"
+      ],
+      "status": "resolved",
+      "count": 9,
+      "photos": [
+        {
+          "album": "horned-lark",
+          "species": "Horned Lark",
+          "filename": "20260316-DSC07313.jpg",
+          "date": "2026-03-16T05:35:57",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC07313.ARW"
+          ]
+        },
+        {
+          "album": "horned-lark",
+          "species": "Horned Lark",
+          "filename": "Horned Lark.jpg",
+          "date": "2026-03-16T05:35:57",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC07312.ARW",
+            "20260304-20260316 birds of prey condor and more/DSC07313.ARW"
+          ]
+        },
+        {
+          "album": "horned-lark",
+          "species": "Horned Lark",
+          "filename": "20260316-DSC07311.jpg",
+          "date": "2026-03-16T05:35:56",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC07311.ARW"
+          ]
+        },
+        {
+          "album": "killdeer",
+          "species": "Killdeer",
+          "filename": "Killdeer.jpg",
+          "date": "2026-03-16T05:50:19",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC07568.ARW"
+          ]
+        },
+        {
+          "album": "killdeer",
+          "species": "Killdeer",
+          "filename": "20260316-DSC07407.jpg",
+          "date": "2026-03-16T05:48:35",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC07407.ARW"
+          ]
+        },
+        {
+          "album": "red-tailed-hawk",
+          "species": "Red-tailed Hawk",
+          "filename": "Red-tailed Hawk.jpg",
+          "date": "2026-03-16T03:04:26",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC06799.ARW",
+            "20260304-20260316 birds of prey condor and more/DSC06799-Topaz-Gigapixel-2X.dng"
+          ]
+        },
+        {
+          "album": "turkey-vulture",
+          "species": "Turkey Vulture",
+          "filename": "20260316-DSC06919.jpg",
+          "date": "2026-03-16T03:33:34",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC06919.ARW"
+          ]
+        },
+        {
+          "album": "turkey-vulture",
+          "species": "Turkey Vulture",
+          "filename": "Turkey Vulture.jpg",
+          "date": "2026-03-16T03:33:34",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC06919.ARW",
+            "20260304-20260316 birds of prey condor and more/DSC06920.ARW",
+            "20260304-20260316 birds of prey condor and more/DSC06921.ARW",
+            "20260304-20260316 birds of prey condor and more/DSC06922.ARW"
+          ]
+        },
+        {
+          "album": "white-crowned-sparrow",
+          "species": "White-Crowned Sparrow",
+          "filename": "20260316-DSC07071.jpg",
+          "date": "2026-03-16T04:34:41",
+          "reason": "Matching outing folder has no place name",
+          "raw_candidates": [
+            "20260304-20260316 birds of prey condor and more/DSC07071.ARW"
+          ]
+        }
+      ],
+      "resolution": {
+        "location": "Cuyama Valley, California",
+        "source": "Confirmed by photographer in conversation"
+      }
+    },
+    {
+      "date": "2026-04-26",
+      "raw_folders": [],
+      "status": "resolved",
+      "count": 2,
+      "photos": [
+        {
+          "album": "allen-s-hummingbird",
+          "species": "Allen's Hummingbird",
+          "filename": "20260426-DSC05013.jpg",
+          "date": "2026-04-26T00:29:15",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "allen-s-hummingbird",
+          "species": "Allen's Hummingbird",
+          "filename": "20260426-Hummingbird.jpg",
+          "date": "2026-04-26T00:29:00",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": [],
+          "previous_album": "anna-s-hummingbird",
+          "previous_filename": "Anna's Hummingbird.jpg"
+        }
+      ],
+      "resolution": {
+        "location": "Caltech, Pasadena, California",
+        "source": "Confirmed by photographer in conversation"
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "raw_folders": [],
+      "status": "resolved",
+      "count": 1,
+      "photos": [
+        {
+          "album": "yellow-rumped-warbler",
+          "species": "Yellow-rumped Warbler",
+          "filename": "20260704-DSC00735.jpg",
+          "date": "2026-07-04T08:09:52",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        }
+      ],
+      "resolution": {
+        "location": "Lassen Volcanic National Park, California",
+        "source": "Confirmed by photographer in conversation"
+      }
+    },
+    {
+      "date": "2026-07-05",
+      "raw_folders": [],
+      "status": "resolved",
+      "count": 4,
+      "photos": [
+        {
+          "album": "american-dipper",
+          "species": "American Dipper",
+          "filename": "20260705-DSC01134.jpg",
+          "date": "2026-07-05T07:59:07",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "chipmunk",
+          "species": "Chipmunk",
+          "filename": "20260705-DSC01122.jpg",
+          "date": "2026-07-05T07:47:59",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "mountain-chickadee",
+          "species": "Mountain Chickadee",
+          "filename": "20260705-DSC01187.jpg",
+          "date": "2026-07-05T08:03:18",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        },
+        {
+          "album": "red-winged-blackbird",
+          "species": "Red-winged Blackbird",
+          "filename": "20260705-DSC01204.jpg",
+          "date": "2026-07-05T08:08:35",
+          "reason": "No matching RAW capture timestamp and camera found",
+          "raw_candidates": []
+        }
+      ],
+      "resolution": {
+        "location": "Lassen Volcanic National Park, California",
+        "source": "Confirmed by photographer in conversation"
+      }
+    }
+  ],
+  "removed_photos": [
+    {
+      "album": "african-penguin",
+      "filename": "20261030-DSC04159.jpg",
+      "reason": "Photographer confirmed the penguin was at a hotel, not in the wild; removed from wildlife gallery."
+    }
+  ]
+}

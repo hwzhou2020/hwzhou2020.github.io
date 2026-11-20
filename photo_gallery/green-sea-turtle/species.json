@@ -9,5 +9,77 @@
       "title": "NOAA Fisheries: Green Turtle",
       "url": "https://www.fisheries.noaa.gov/species/green-turtle"
     }
-  ]
+  ],
+  "photos": {
+    "20230915-DSC_3136.jpg": {
+      "caption": "In shallow water",
+      "location": "Big Island, Hawaii",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2023-09-15",
+        "precision": "island",
+        "note": "Photographer confirmed this outing as Big Island, Hawaii."
+      }
+    },
+    "20230915-DSC_3166.jpg": {
+      "caption": "Resting on lava rocks",
+      "location": "Big Island, Hawaii",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2023-09-15",
+        "precision": "island",
+        "note": "Photographer confirmed this outing as Big Island, Hawaii."
+      }
+    },
+    "20230915-DSC_3178.jpg": {
+      "caption": "Resting on lava rocks",
+      "location": "Big Island, Hawaii",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2023-09-15",
+        "precision": "island",
+        "note": "Photographer confirmed this outing as Big Island, Hawaii."
+      }
+    },
+    "20230915-DSC_3209.jpg": {
+      "caption": "Resting on lava rocks",
+      "location": "Big Island, Hawaii",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2023-09-15",
+        "precision": "island",
+        "note": "Photographer confirmed this outing as Big Island, Hawaii."
+      }
+    },
+    "20230915-DSC_3217.jpg": {
+      "caption": "Resting on lava rocks",
+      "location": "Big Island, Hawaii",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2023-09-15",
+        "precision": "island",
+        "note": "Photographer confirmed this outing as Big Island, Hawaii."
+      }
+    },
+    "20230915-DSC_3220.jpg": {
+      "caption": "Swimming",
+      "location": "Big Island, Hawaii",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2023-09-15",
+        "precision": "island",
+        "note": "Photographer confirmed this outing as Big Island, Hawaii."
+      }
+    },
+    "20230915-DSC_3234.jpg": {
+      "caption": "In shallow water",
+      "location": "Big Island, Hawaii",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2023-09-15",
+        "precision": "island",
+        "note": "Photographer confirmed this outing as Big Island, Hawaii."
+      }
+    }
+  }
 }

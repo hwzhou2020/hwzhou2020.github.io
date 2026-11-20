@@ -9,5 +9,49 @@
       "url": "https://www.allaboutbirds.org/guide/American_White_Pelican/overview"
     }
   ],
-  "cover": "20260830-DSC01850.jpg"
+  "cover": "20260830-DSC01850.jpg",
+  "photos": {
+    "20260830-DSC01823.jpg": {
+      "caption": "Flock at the water's edge",
+      "location": "San Francisco Bay Area, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-08-30T14:49:33",
+        "folder": "20260830 baylands and halfmoonbay",
+        "raw_files": [
+          "DSC01823.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260830-DSC01850.jpg": {
+      "caption": "Wings spread",
+      "location": "San Francisco Bay Area, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-08-30T15:14:34",
+        "folder": "20260830 baylands and halfmoonbay",
+        "raw_files": [
+          "DSC01850.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261119-DSC06370.jpg": {
+      "caption": "Resting together",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-19T17:10:02",
+        "folder": "20261119 sunnyvale wpcp",
+        "raw_files": [
+          "DSC06370.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

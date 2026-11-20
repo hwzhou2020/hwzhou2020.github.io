@@ -9,5 +9,35 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Bushtit"
     }
-  ]
+  ],
+  "photos": {
+    "20260525-DSC08331.jpg": {
+      "caption": "Perched",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T08:30:17",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08331.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Bushtit.jpg": {
+      "caption": "Perched · bill open",
+      "location": "Descanso Gardens, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-03-22T03:28:19",
+        "folder": "20260322 Descanso Garden birding",
+        "raw_files": [
+          "DSC08982.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

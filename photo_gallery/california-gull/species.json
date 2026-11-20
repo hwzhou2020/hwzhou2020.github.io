@@ -5,7 +5,48 @@
   "cover": "20260919-DSC02549.jpg",
   "photos": {
     "Juvenile California Gull.jpg": {
-      "caption": "Juvenile California Gull"
+      "caption": "Immature · in flight",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-08T05:44:02",
+        "folder": "20260407 bird Irvine Bolsa Chica",
+        "raw_files": [
+          "DSC00949.ARW",
+          "DSC00951.ARW",
+          "DSC00952.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260919-DSC02549.jpg": {
+      "caption": "Immature",
+      "location": "Pescadero area, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-09-19T15:14:06",
+        "folder": "20260919 pescadero",
+        "raw_files": [
+          "DSC02549.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260919-DSC02608.jpg": {
+      "caption": "Resting flock",
+      "location": "Pescadero area, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-09-19T15:41:59",
+        "folder": "20260919 pescadero",
+        "raw_files": [
+          "DSC02608.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
     }
   },
   "description": "The California Gull links inland western wetlands with the Pacific Coast. It often breeds in colonies on lake islands or levees, then moves toward coastal areas outside the breeding season. An opportunistic feeder, it takes insects, fish, and many other available foods. Young birds have mottled brown plumage that changes as they mature, making age important in identification. Adults are medium-sized gulls with gray backs, white heads, and yellowish legs.",

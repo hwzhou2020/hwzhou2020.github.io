@@ -9,5 +9,21 @@
       "url": "https://www.allaboutbirds.org/guide/Egyptian_Goose"
     }
   ],
-  "cover": "20260408-DSC09701.jpg"
+  "cover": "20260408-DSC09701.jpg",
+  "photos": {
+    "20260408-DSC09701.jpg": {
+      "caption": "Adult · walking",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-08T01:20:31",
+        "folder": "20260407 bird Irvine Bolsa Chica",
+        "raw_files": [
+          "DSC09701.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

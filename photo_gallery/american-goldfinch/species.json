@@ -9,5 +9,18 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/American_Goldfinch"
     }
-  ]
+  ],
+  "photos": {
+    "American Goldfinch.jpg": {
+      "caption": "Perched",
+      "location": "Pico Rivera, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-02-15",
+        "precision": "city",
+        "folder": "20260215 1st birding",
+        "note": "Photographer confirmed this outing as Pico Rivera, California."
+      }
+    }
+  }
 }

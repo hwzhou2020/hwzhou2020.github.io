@@ -9,5 +9,37 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/horned_lark"
     }
-  ]
+  ],
+  "photos": {
+    "20260316-DSC07311.jpg": {
+      "caption": "Male and female",
+      "location": "Cuyama Valley, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-16",
+        "precision": "valley",
+        "note": "Photographer confirmed all nine remaining March 16 photos were taken in Cuyama Valley."
+      }
+    },
+    "20260316-DSC07313.jpg": {
+      "caption": "Male and female",
+      "location": "Cuyama Valley, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-16",
+        "precision": "valley",
+        "note": "Photographer confirmed all nine remaining March 16 photos were taken in Cuyama Valley."
+      }
+    },
+    "Horned Lark.jpg": {
+      "caption": "Male · on the ground",
+      "location": "Cuyama Valley, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-16",
+        "precision": "valley",
+        "note": "Photographer confirmed all nine remaining March 16 photos were taken in Cuyama Valley."
+      }
+    }
+  }
 }

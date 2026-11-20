@@ -74,6 +74,27 @@ class GalleryTests(unittest.TestCase):
         after = {p.name: p.read_bytes() for p in (self.root / '_data').glob('*.json')}
         self.assertEqual(before, after)
 
+    def test_location_hierarchy_preserves_regions_and_unknown_places(self):
+        gallery.save_json(self.root / '_data/gallery_places.json', {
+            'Maui, Hawaii': {'country': 'United States', 'state': 'Hawaii'},
+            'Madison, Wisconsin': {'country': 'United States', 'state': 'Wisconsin'},
+        })
+        folder = self.species('bird', photos={
+            'a.jpg': {'location': 'Maui, Hawaii'},
+            'b.jpg': {'location': 'Madison, Wisconsin'},
+            'c.jpg': {'location': 'Unmapped place'},
+        })
+        for name in ['a.jpg', 'b.jpg', 'c.jpg']:
+            self.image(folder, name)
+        album = gallery.build_gallery(self.root)['bird']
+        self.assertEqual(album['location_details'], [
+            {'name': 'Madison, Wisconsin', 'country': 'United States', 'state': 'Wisconsin'},
+            {'name': 'Maui, Hawaii', 'country': 'United States', 'state': 'Hawaii'},
+            {'name': 'Unmapped place', 'country': '', 'state': ''},
+        ])
+        index = gallery.load_json(self.root / '_data/gallery_index.json')
+        self.assertEqual(index[0]['location_details'], album['location_details'])
+
     def test_camera_capture_date_and_orientation_survive_import(self):
         for extension in ['jpg', 'webp']:
             with self.subTest(extension=extension):

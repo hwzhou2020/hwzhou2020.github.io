@@ -9,5 +9,147 @@
       "url": "https://www.allaboutbirds.org/guide/Rosy-faced_Lovebird/overview"
     }
   ],
-  "cover": "20261031-DSC05205.jpg"
+  "cover": "20261031-DSC05520.jpg",
+  "photos": {
+    "20261031-DSC05183.jpg": {
+      "caption": "Two birds in the grass",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-31T18:38:05",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05183.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261031-DSC05205.jpg": {
+      "caption": "Taking flight",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-31T18:39:34",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05205.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261031-DSC05236.jpg": {
+      "caption": "Feeding in grass",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-31T18:41:53",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05236.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261031-DSC05290.jpg": {
+      "caption": "Pale plumage · foraging",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-31T18:46:29",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05290.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261031-DSC05306.jpg": {
+      "caption": "On the grass",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-31T18:47:26",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05306.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261031-DSC05350.jpg": {
+      "caption": "On the grass",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-31T19:00:28",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05350.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261031-DSC05501.jpg": {
+      "caption": "Flock taking flight",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-31T19:13:49",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05501.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261031-DSC05520.jpg": {
+      "caption": "Flock taking flight",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-31T19:14:42",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05520.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261031-DSC05538.jpg": {
+      "caption": "Flock taking flight",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-31T19:15:37",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05538.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261031-DSC05547.jpg": {
+      "caption": "Two birds in the grass",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-31T19:16:30",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05547.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

@@ -9,5 +9,37 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Wild_turkey"
     }
-  ]
+  ],
+  "photos": {
+    "20240717-HWZ_4435.jpg": {
+      "caption": "Foraging in a group",
+      "location": "Madison, Wisconsin",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2024-07-17",
+        "precision": "city",
+        "note": "Photographer confirmed this outing as Madison, Wisconsin."
+      }
+    },
+    "20240717-HWZ_4458.jpg": {
+      "caption": "Walking along a woodland trail",
+      "location": "Madison, Wisconsin",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2024-07-17",
+        "precision": "city",
+        "note": "Photographer confirmed this outing as Madison, Wisconsin."
+      }
+    },
+    "20240717-HWZ_4465.jpg": {
+      "caption": "Among wildflowers",
+      "location": "Madison, Wisconsin",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2024-07-17",
+        "precision": "city",
+        "note": "Photographer confirmed this outing as Madison, Wisconsin."
+      }
+    }
+  }
 }

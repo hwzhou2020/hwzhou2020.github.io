@@ -9,5 +9,91 @@
       "url": "https://www.allaboutbirds.org/guide/redjun"
     }
   ],
-  "cover": "20261029-DSC03641.jpg"
+  "cover": "20261029-DSC03641.jpg",
+  "photos": {
+    "20261029-DSC03242.jpg": {
+      "caption": "Male",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-29T13:37:55",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC03242.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261029-DSC03268.jpg": {
+      "caption": "Immatures · foraging",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-29T13:41:29",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC03268.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261029-DSC03286.jpg": {
+      "caption": "Two males",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-29T13:42:37",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC03286.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261029-DSC03641.jpg": {
+      "caption": "Chicks",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-29T17:39:59",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC03641.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261029-DSC03648.jpg": {
+      "caption": "Female with chicks",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-29T17:40:11",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC03648.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261029-DSC03691.jpg": {
+      "caption": "Chicks sharing food",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-29T17:41:31",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC03691.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

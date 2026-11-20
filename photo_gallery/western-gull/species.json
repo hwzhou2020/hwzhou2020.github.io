@@ -9,5 +9,77 @@
       "url": "https://www.allaboutbirds.org/guide/Western_Gull"
     }
   ],
-  "cover": "20260408-DSC00923.jpg"
+  "cover": "20260408-DSC00923.jpg",
+  "photos": {
+    "20260408-DSC00923.jpg": {
+      "caption": "Adult · in flight",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-08T05:36:31",
+        "folder": "20260407 bird Irvine Bolsa Chica",
+        "raw_files": [
+          "DSC00923.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03349.jpg": {
+      "caption": "Adult · flying low over the water",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T02:07:07",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03349.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03350.jpg": {
+      "caption": "Adult · flying low over the water",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T02:07:08",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03350.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03356.jpg": {
+      "caption": "Adult · flying low over the water",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T02:07:09",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03356.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04358.jpg": {
+      "caption": "Adult · in flight",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T08:00:39",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04358.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

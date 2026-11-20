@@ -9,5 +9,47 @@
       "title": "BirdLife Australia",
       "url": "https://birdlife.org.au/bird-profiles/red-whiskered-bulbul/"
     }
-  ]
+  ],
+  "photos": {
+    "20260312-DSC05029.jpg": {
+      "caption": "Adult · perched",
+      "location": "Pasadena, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-12",
+        "precision": "city",
+        "note": "Photographer confirmed the March 12 outing as Pasadena."
+      }
+    },
+    "20260312-DSC05035.jpg": {
+      "caption": "Adult · perched",
+      "location": "Pasadena, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-12",
+        "precision": "city",
+        "note": "Photographer confirmed the March 12 outing as Pasadena."
+      }
+    },
+    "20260312-DSC05050.jpg": {
+      "caption": "Adult · perched",
+      "location": "Pasadena, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-12",
+        "precision": "city",
+        "note": "Photographer confirmed the March 12 outing as Pasadena."
+      }
+    },
+    "Red-Whiskered Bulbul.jpg": {
+      "caption": "Adult · bill open",
+      "location": "Pasadena, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-12",
+        "precision": "city",
+        "note": "Photographer confirmed the March 12 outing as Pasadena."
+      }
+    }
+  }
 }

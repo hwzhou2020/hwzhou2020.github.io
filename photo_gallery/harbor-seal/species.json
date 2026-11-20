@@ -9,5 +9,21 @@
       "url": "https://www.fisheries.noaa.gov/species/harbor-seal"
     }
   ],
-  "cover": "20260919-DSC02556.jpg"
+  "cover": "20260919-DSC02556.jpg",
+  "photos": {
+    "20260919-DSC02556.jpg": {
+      "caption": "Surfacing",
+      "location": "Pescadero area, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-09-19T15:15:50",
+        "folder": "20260919 pescadero",
+        "raw_files": [
+          "DSC02556.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

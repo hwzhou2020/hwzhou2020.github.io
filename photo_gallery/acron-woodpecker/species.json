@@ -9,5 +9,21 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Acorn_Woodpecker/overview"
     }
-  ]
+  ],
+  "photos": {
+    "20260322-DSC07734.jpg": {
+      "caption": "Female · perched",
+      "location": "Descanso Gardens, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-03-22T01:14:41",
+        "folder": "20260322 Descanso Garden birding",
+        "raw_files": [
+          "DSC07734.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

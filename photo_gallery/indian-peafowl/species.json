@@ -9,5 +9,109 @@
       "title": "Smithsonian's National Zoo",
       "url": "https://nationalzoo.si.edu/animals/common-peafowl"
     }
-  ]
+  ],
+  "photos": {
+    "20260424-DSC04499.jpg": {
+      "caption": "Male · displaying, rear view",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T01:07:08",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04499.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260424-DSC04553.jpg": {
+      "caption": "Male · displaying",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T01:09:28",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04553.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260424-DSC04563.jpg": {
+      "caption": "Male · perched",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T01:09:39",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04563.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260424-DSC04700.jpg": {
+      "caption": "Male · walking",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T01:25:40",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04700.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260424-DSC04708.jpg": {
+      "caption": "Male · walking",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T01:36:00",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04708.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260424-DSC04967.jpg": {
+      "caption": "Female",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T03:24:28",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04967.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Indian Peafowl.jpg": {
+      "caption": "Male · displaying",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T01:07:19",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04503.ARW",
+          "DSC04504.ARW",
+          "DSC04505.ARW",
+          "DSC04506.ARW",
+          "DSC04507.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

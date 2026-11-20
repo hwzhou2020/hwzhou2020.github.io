@@ -4,15 +4,15 @@ title: "Wildlife Gallery"
 permalink: /wildlife-gallery/
 author_profile: true
 gallery_highlights:
-  - allen-s-hummingbird
-  - california-condor
-  - nene
-  - northern-cardinal
-  - red-shouldered-hawk
-  - liwi
-  - island-fox
-  - vermilion-flycatcher
   - great-horned-owl
+  - liwi
+  - california-condor
+  - rosy-faced-lovebird
+  - nene
+  - allen-s-hummingbird
+  - island-fox
+  - red-shouldered-hawk
+  - vermilion-flycatcher
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/wildlife.css' | relative_url }}">
@@ -23,12 +23,9 @@ gallery_highlights:
 {% assign bird_albums = albums | where: 'category', 'Birds' %}
 {% assign bird_groups = bird_albums | map: 'group' | uniq | sort %}
 {% assign photo_count = 0 %}
-{% assign locations_string = '' %}
 {% for album in albums %}
   {% assign photo_count = photo_count | plus: album.count %}
-  {% for location in album.locations %}{% assign locations_string = locations_string | append: location | append: '|' %}{% endfor %}
 {% endfor %}
-{% assign locations = locations_string | split: '|' | uniq | sort %}
 
 <section class="wildlife-gallery" data-species-browser>
   <p class="wildlife-rights-notice">Photographs © Haowen Zhou. No commercial use or reuse without prior written permission.</p>
@@ -57,14 +54,25 @@ gallery_highlights:
         {% endfor %}
       </select>
     </label>
-    {% if locations.size > 0 %}
-    <label class="wildlife-location">Photographed in
-      <select data-location-filter>
-        <option value="">All locations</option>
-        {% for location in locations %}{% if location != '' %}<option value="{{ location | escape }}">{{ location | escape }}</option>{% endif %}{% endfor %}
-      </select>
-    </label>
-    {% endif %}
+    <fieldset class="wildlife-location-filters">
+      <legend>Photographed in</legend>
+      <label>Country
+        <select data-country-filter aria-describedby="wildlife-location-help">
+          <option value="">All countries</option>
+        </select>
+      </label>
+      <label>State / region
+        <select data-state-filter aria-describedby="wildlife-location-help">
+          <option value="">All states / regions</option>
+        </select>
+      </label>
+      <label>Location
+        <select data-place-filter aria-describedby="wildlife-location-help">
+          <option value="">All locations</option>
+        </select>
+      </label>
+      <p id="wildlife-location-help" class="wildlife-filter-help">Find albums with photos from a country, state, or location. Numbers show albums.</p>
+    </fieldset>
   </div>
 
   <section class="wildlife-highlights" data-gallery-highlights aria-labelledby="wildlife-highlights-title">
@@ -85,7 +93,7 @@ gallery_highlights:
     {% include wildlife-species-card.html album=album %}
     {% endfor %}
   </div>
-  <p class="wildlife-empty" data-species-empty hidden>No species match these filters. Try another name or animal group.</p>
+  <p class="wildlife-empty" data-species-empty hidden>No species match these filters. Try another name, animal group, or location.</p>
   <button class="wildlife-more" type="button" data-species-more hidden>Show more species</button>
   </section>
   {% include wildlife-copyright.html %}

@@ -9,5 +9,21 @@
       "url": "https://www.allaboutbirds.org/guide/Snowy_Plover"
     }
   ],
-  "cover": "20260919-DSC02635.jpg"
+  "cover": "20260919-DSC02635.jpg",
+  "photos": {
+    "20260919-DSC02635.jpg": {
+      "caption": "On the beach",
+      "location": "Pescadero area, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-09-19T15:51:36",
+        "folder": "20260919 pescadero",
+        "raw_files": [
+          "DSC02635.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

@@ -9,5 +9,27 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Killdeer"
     }
-  ]
+  ],
+  "photos": {
+    "20260316-DSC07407.jpg": {
+      "caption": "Wading",
+      "location": "Cuyama Valley, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-16",
+        "precision": "valley",
+        "note": "Photographer confirmed all nine remaining March 16 photos were taken in Cuyama Valley."
+      }
+    },
+    "Killdeer.jpg": {
+      "caption": "Wading",
+      "location": "Cuyama Valley, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-16",
+        "precision": "valley",
+        "note": "Photographer confirmed all nine remaining March 16 photos were taken in Cuyama Valley."
+      }
+    }
+  }
 }

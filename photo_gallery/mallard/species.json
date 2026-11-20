@@ -5,10 +5,103 @@
   "cover": "20260415-DSC02778.jpg",
   "photos": {
     "Female Mallard.jpg": {
-      "caption": "Female Mallard"
+      "caption": "Female · preening",
+      "location": "Descanso Gardens, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-03-22T03:11:40",
+        "folder": "20260322 Descanso Garden birding",
+        "raw_files": [
+          "DSC08931.ARW",
+          "DSC08932.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
     },
     "Baby Mallard.jpg": {
-      "caption": "Baby Mallard"
+      "caption": "Duckling · bill open",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T02:07:22",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02518.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260408-DSC00073.jpg": {
+      "caption": "Female with ducklings · swimming",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-08T02:00:32",
+        "folder": "20260407 bird Irvine Bolsa Chica",
+        "raw_files": [
+          "DSC00073.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC02472.jpg": {
+      "caption": "Female with duckling",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T02:04:05",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02472.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC02778.jpg": {
+      "caption": "Female resting with ducklings",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T03:16:28",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02778.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC02780.jpg": {
+      "caption": "Female resting with ducklings",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T03:16:30",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02780.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC02785.jpg": {
+      "caption": "Duckling · preening",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T03:18:39",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02785.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
     }
   },
   "description": "The Mallard is a familiar dabbling duck of ponds, lakes, marshes, and sheltered coastal wetlands across much of the Northern Hemisphere. Breeding males have glossy green heads, while females are mottled brown. Both can show a blue wing patch bordered with white. Mallards feed by reaching beneath the surface or tipping forward, taking aquatic plants and small animals. Ducklings follow their mother soon after hatching, and their changing plumage provides a clear record of early growth.",

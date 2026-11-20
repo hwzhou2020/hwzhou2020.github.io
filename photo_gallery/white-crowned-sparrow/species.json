@@ -9,5 +9,32 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/White-crowned_Sparrow"
     }
-  ]
+  ],
+  "photos": {
+    "20260316-DSC07071.jpg": {
+      "caption": "Adult · perched",
+      "location": "Cuyama Valley, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-16",
+        "precision": "valley",
+        "note": "Photographer confirmed all nine remaining March 16 photos were taken in Cuyama Valley."
+      }
+    },
+    "White-Crowned Sparrow.jpg": {
+      "caption": "Adult · perched",
+      "location": "Descanso Gardens, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-03-22T03:29:58",
+        "folder": "20260322 Descanso Garden birding",
+        "raw_files": [
+          "DSC08997.ARW",
+          "DSC08998.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

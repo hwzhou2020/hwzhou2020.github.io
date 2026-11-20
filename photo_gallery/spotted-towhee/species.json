@@ -9,5 +9,35 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Spotted_Towhee/lifehistory"
     }
-  ]
+  ],
+  "photos": {
+    "20260421-DSC03620.jpg": {
+      "caption": "Male · bill open",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T03:34:51",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03620.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Spotted Towhee.jpg": {
+      "caption": "Male · perched",
+      "location": "Descanso Gardens, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-03-22T04:20:22",
+        "folder": "20260322 Descanso Garden birding",
+        "raw_files": [
+          "DSC09155.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

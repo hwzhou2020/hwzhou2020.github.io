@@ -9,5 +9,98 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Allens_Hummingbird"
     }
-  ]
+  ],
+  "photos": {
+    "20260415-DSC02306.jpg": {
+      "caption": "Male · perched",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T01:26:48",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02306.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC02322.jpg": {
+      "caption": "Male · perched",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T01:27:39",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02322.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC02323.jpg": {
+      "caption": "Male · perched",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T01:27:39",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02323.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260426-DSC05013.jpg": {
+      "caption": "Perched · likely Allen’s",
+      "location": "Caltech, Pasadena, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-04-26",
+        "precision": "campus",
+        "note": "Photographer confirmed both photos were taken at Caltech, California."
+      },
+      "identification": {
+        "species": "Allen’s Hummingbird",
+        "confidence": "provisional",
+        "basis": "Photographer confirmed both photos show the same bird; capture timestamps are 15 seconds apart. Coppery flanks and green upperparts favor Allen’s/Rufous over Anna’s. Allen’s is retained provisionally; diagnostic tail detail is insufficient to exclude Rufous. Age and sex remain unspecified.",
+        "reference": "https://www.allaboutbirds.org/guide/Allens_Hummingbird/id",
+        "same_individual": "Photographer confirmed both April 26 Caltech photos show a single bird."
+      }
+    },
+    "Allen's Hummingbird.jpg": {
+      "caption": "Male · wings spread",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T02:11:52",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02534.ARW",
+          "DSC02535.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260426-Hummingbird.jpg": {
+      "caption": "Perched · likely Allen’s",
+      "location": "Caltech, Pasadena, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-04-26",
+        "precision": "campus",
+        "note": "Photographer confirmed both photos were taken at Caltech, California."
+      },
+      "identification": {
+        "species": "Allen’s Hummingbird",
+        "confidence": "provisional",
+        "basis": "Photographer confirmed both photos show the same bird; capture timestamps are 15 seconds apart. Coppery flanks and green upperparts favor Allen’s/Rufous over Anna’s. Allen’s is retained provisionally; diagnostic tail detail is insufficient to exclude Rufous. Age and sex remain unspecified.",
+        "reference": "https://www.allaboutbirds.org/guide/Allens_Hummingbird/id",
+        "same_individual": "Photographer confirmed both April 26 Caltech photos show a single bird."
+      }
+    }
+  }
 }

@@ -9,5 +9,36 @@
       "title": "U.S. Fish & Wildlife Service",
       "url": "https://www.fws.gov/species/monarch-danaus-plexippus"
     }
-  ]
+  ],
+  "photos": {
+    "20260525-DSC08554.jpg": {
+      "caption": "Wings spread",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T09:47:45",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08554.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Monach Butterfly.jpg": {
+      "caption": "Feeding at flowers",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T09:44:32",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08534.ARW",
+          "DSC08535.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

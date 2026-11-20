@@ -9,5 +9,91 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/pacific_Loon/overview"
     }
-  ]
+  ],
+  "photos": {
+    "20260421-DSC03276.jpg": {
+      "caption": "Flying over the sea",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T01:32:33",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03276.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03300.jpg": {
+      "caption": "Taking flight from the water",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T01:35:41",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03300.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03305.jpg": {
+      "caption": "Flying low over the water",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T01:36:30",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03305.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03307.jpg": {
+      "caption": "Flying low over the water",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T01:36:31",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03307.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03309.jpg": {
+      "caption": "Flying low over the water",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T01:37:22",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03309.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03312.jpg": {
+      "caption": "Flying low over the water",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T01:37:55",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03312.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

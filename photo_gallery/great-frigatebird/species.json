@@ -9,5 +9,35 @@
       "url": "https://www.allaboutbirds.org/guide/Great_Frigatebird/lifehistory"
     }
   ],
-  "cover": "20261029-DSC03518.jpg"
+  "cover": "20261029-DSC03518.jpg",
+  "photos": {
+    "20261029-DSC03518.jpg": {
+      "caption": "Immature · in flight",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-29T15:25:45",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC03518.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261029-DSC03534.jpg": {
+      "caption": "Immature · in flight",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-29T15:26:57",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC03534.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

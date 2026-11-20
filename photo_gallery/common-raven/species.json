@@ -9,5 +9,88 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Common_Raven"
     }
-  ]
+  ],
+  "photos": {
+    "20260421-DSC03648.jpg": {
+      "caption": "In flight",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T04:06:25",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03648.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03672.jpg": {
+      "caption": "Foraging",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T04:18:55",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03672.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03687.jpg": {
+      "caption": "Portrait",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T04:19:31",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03687.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03695.jpg": {
+      "caption": "Perched above the sea",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T04:31:16",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03695.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03696.jpg": {
+      "caption": "Perched above the sea",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T04:31:20",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03696.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Common Raven.jpg": {
+      "caption": "Perched on a fence",
+      "location": "Pico Rivera, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-02-15",
+        "precision": "city",
+        "folder": "20260215 1st birding",
+        "note": "Photographer confirmed this outing as Pico Rivera, California."
+      }
+    }
+  }
 }

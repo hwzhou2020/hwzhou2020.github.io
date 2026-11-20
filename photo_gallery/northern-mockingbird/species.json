@@ -9,5 +9,32 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Northern_Mockingbird"
     }
-  ]
+  ],
+  "photos": {
+    "20260424-DSC04692.jpg": {
+      "caption": "Perched · bill open",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T01:21:58",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04692.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Northern Mockingbird.jpg": {
+      "caption": "Perched on a wire",
+      "location": "Pico Rivera, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-02-15",
+        "precision": "city",
+        "folder": "20260215 1st birding",
+        "note": "Photographer confirmed this outing as Pico Rivera, California."
+      }
+    }
+  }
 }

@@ -9,5 +9,78 @@
       "title": "Cornell Lab: Black-crowned Night Heron identification reference",
       "url": "https://www.allaboutbirds.org/guide/Black-crowned_Night-Heron"
     }
-  ]
+  ],
+  "photos": {
+    "20260424-DSC04835.jpg": {
+      "caption": "Adult · reaching toward the water",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T03:01:19",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04835.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260424-DSC04856.jpg": {
+      "caption": "Adult · watching the water",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T03:02:45",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04856.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260424-DSC04870.jpg": {
+      "caption": "Adult · foraging",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T03:04:01",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04870.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261029-DSC03194.jpg": {
+      "caption": "Immature · wading",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-29T13:19:21",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC03194.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Night Heron.jpg": {
+      "caption": "Adult · watching the water",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T03:03:01",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04858.ARW",
+          "DSC04859.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

@@ -9,5 +9,40 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Stellers_Jay"
     }
-  ]
+  ],
+  "photos": {
+    "20260503-DSC05624.jpg": {
+      "caption": "Wings spread",
+      "location": "Yosemite National Park, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-03T02:43:08",
+        "folder": "20260502 Yosemite",
+        "raw_files": [
+          "DSC05624.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Steller's Jay.jpg": {
+      "caption": "Crest raised · bill open",
+      "location": "Yosemite National Park, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-03T02:38:44",
+        "folder": "20260502 Yosemite",
+        "raw_files": [
+          "DSC05485.ARW",
+          "DSC05486.ARW",
+          "DSC05487.ARW",
+          "DSC05488.ARW",
+          "DSC05489.ARW",
+          "DSC05490.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

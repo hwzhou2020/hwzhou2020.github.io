@@ -9,5 +9,35 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Caspian_Tern"
     }
-  ]
+  ],
+  "photos": {
+    "20260421-DSC03213.jpg": {
+      "caption": "Adult · in flight",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T01:07:41",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03213.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03214.jpg": {
+      "caption": "Adult · in flight",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T01:07:42",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03214.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

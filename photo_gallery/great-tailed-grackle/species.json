@@ -9,5 +9,106 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Great-tailed_Grackle"
     }
-  ]
+  ],
+  "photos": {
+    "20260421-DSC04436.jpg": {
+      "caption": "Males · displaying",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T10:11:05",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04436.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04456.jpg": {
+      "caption": "Male · bill open",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T10:15:56",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04456.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04465.jpg": {
+      "caption": "Female · among flowers",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T10:16:42",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04465.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04467.jpg": {
+      "caption": "Female · among flowers",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T10:16:44",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04467.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04485.jpg": {
+      "caption": "Female · on the ground",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T10:20:30",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04485.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04488.jpg": {
+      "caption": "Male · bill open",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T10:20:40",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04488.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Great-tailed Grackle.jpg": {
+      "caption": "Male · perched",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T10:20:54",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04491.ARW",
+          "DSC04492.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

@@ -9,5 +9,305 @@
       "title": "National Park Service",
       "url": "https://www.nps.gov/chis/learn/nature/island-fox.htm"
     }
-  ]
+  ],
+  "photos": {
+    "20260421-DSC03514.jpg": {
+      "caption": "Resting in the shade",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T02:58:57",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03514.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03549.jpg": {
+      "caption": "Resting in the shade",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T03:02:22",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03549.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03940.jpg": {
+      "caption": "Mouth open",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T06:51:49",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03940.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03946.jpg": {
+      "caption": "Licking its nose",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T06:51:56",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03946.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04011.jpg": {
+      "caption": "Sniffing the ground",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T06:53:35",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04011.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04063.jpg": {
+      "caption": "Portrait",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T06:58:09",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04063.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04067.jpg": {
+      "caption": "Portrait",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T06:58:11",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04067.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04068.jpg": {
+      "caption": "Portrait",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T06:58:18",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04068.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04074.jpg": {
+      "caption": "Investigating a bag",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T06:58:53",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04074.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04093.jpg": {
+      "caption": "Scratching",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T07:00:07",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04093.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04112.jpg": {
+      "caption": "Sitting in the grass",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T07:00:31",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04112.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04119.jpg": {
+      "caption": "Sitting in the grass",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T07:00:44",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04119.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04134.jpg": {
+      "caption": "Scratching",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T07:00:51",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04134.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04144.jpg": {
+      "caption": "Sitting in the grass",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T07:01:02",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04144.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04212.jpg": {
+      "caption": "Walking through grass",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T07:04:20",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04212.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04242.jpg": {
+      "caption": "Portrait",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T07:06:01",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04242.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04244.jpg": {
+      "caption": "Portrait",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T07:06:25",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04244.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04255.jpg": {
+      "caption": "Walking",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T07:07:00",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04255.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04284.jpg": {
+      "caption": "Sniffing the grass",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T07:09:04",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04284.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC04287.jpg": {
+      "caption": "Looking back",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T07:09:13",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC04287.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Island Fox.jpg": {
+      "caption": "Yawning",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T02:58:59",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03515.ARW",
+          "DSC03516.ARW",
+          "DSC03517.ARW",
+          "DSC03518.ARW",
+          "DSC03519.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

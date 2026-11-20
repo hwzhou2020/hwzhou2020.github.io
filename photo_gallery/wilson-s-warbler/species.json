@@ -9,5 +9,49 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Wilsons_Warbler/overview"
     }
-  ]
+  ],
+  "photos": {
+    "20260620-DSC09932.jpg": {
+      "caption": "Male · perched",
+      "location": "Windy Hill Preserve, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-06-20T00:52:40",
+        "folder": "20260617 windy hill",
+        "raw_files": [
+          "DSC09932.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260620-DSC09938.jpg": {
+      "caption": "Perched",
+      "location": "Windy Hill Preserve, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-06-20T00:52:43",
+        "folder": "20260617 windy hill",
+        "raw_files": [
+          "DSC09938.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260620-DSC09975.jpg": {
+      "caption": "Perched",
+      "location": "Windy Hill Preserve, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-06-20T02:05:35",
+        "folder": "20260617 windy hill",
+        "raw_files": [
+          "DSC09975.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

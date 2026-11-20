@@ -9,5 +9,21 @@
       "url": "https://www.allaboutbirds.org/guide/Spotted_Dove/id"
     }
   ],
-  "cover": "20261030-DSC04239.jpg"
+  "cover": "20261030-DSC04239.jpg",
+  "photos": {
+    "20261030-DSC04239.jpg": {
+      "caption": "Adult · perched",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-30T09:59:46",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC04239.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

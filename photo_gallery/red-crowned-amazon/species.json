@@ -9,5 +9,37 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Red-crowned_Parrot/lifehistory"
     }
-  ]
+  ],
+  "photos": {
+    "20260312-DSC05159.jpg": {
+      "caption": "Perched high in a tree",
+      "location": "Pasadena, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-12",
+        "precision": "city",
+        "note": "Photographer confirmed the March 12 outing as Pasadena."
+      }
+    },
+    "20260312-DSC05233.jpg": {
+      "caption": "Perched high in a tree",
+      "location": "Pasadena, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-12",
+        "precision": "city",
+        "note": "Photographer confirmed the March 12 outing as Pasadena."
+      }
+    },
+    "Red-Crowned Amazon.jpg": {
+      "caption": "Portrait",
+      "location": "Pasadena, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-12",
+        "precision": "city",
+        "note": "Photographer confirmed the March 12 outing as Pasadena."
+      }
+    }
+  }
 }

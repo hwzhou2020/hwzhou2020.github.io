@@ -3,7 +3,7 @@
    {% if include.highlight %}data-highlight-card{% else %}
    data-species-card data-name="{{ card_album.name | escape }} {{ card_album.scientific_name | escape }}"
    data-category="{{ card_album.category | escape }}" data-group="{{ card_album.group | escape }}"
-   data-locations="{{ card_album.locations | jsonify | escape }}"{% endif %}>
+   data-locations="{{ card_album.location_details | jsonify | escape }}"{% endif %}>
   <div class="wildlife-cover">
     <img src="{{ card_album.cover.thumbnail | relative_url }}" alt="{{ card_album.name | escape }}" width="{{ card_album.cover.width }}" height="{{ card_album.cover.height }}" loading="{% if include.highlight %}eager{% else %}lazy{% endif %}" decoding="async">
     <span class="wildlife-photo-count">{{ card_album.count }} {% if card_album.count == 1 %}photo{% else %}photos{% endif %}</span>

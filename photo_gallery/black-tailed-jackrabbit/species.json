@@ -9,5 +9,23 @@
       "title": "National Park Service",
       "url": "https://www.nps.gov/whsa/learn/nature/black-tailed-jackrabbit.htm"
     }
-  ]
+  ],
+  "photos": {
+    "Black-tailed Jackrabbit.jpg": {
+      "caption": "Among the flowers",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T01:54:16",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04749.ARW",
+          "DSC04750.ARW",
+          "DSC04751.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

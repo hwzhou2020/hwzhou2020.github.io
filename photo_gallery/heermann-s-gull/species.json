@@ -9,5 +9,21 @@
       "url": "https://www.allaboutbirds.org/guide/Heermanns_Gull"
     }
   ],
-  "cover": "20260919-DSC02579.jpg"
+  "cover": "20260919-DSC02579.jpg",
+  "photos": {
+    "20260919-DSC02579.jpg": {
+      "caption": "Adult · walking along the shore",
+      "location": "Pescadero area, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-09-19T15:18:17",
+        "folder": "20260919 pescadero",
+        "raw_files": [
+          "DSC02579.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

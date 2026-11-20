@@ -9,5 +9,49 @@
       "url": "https://www.allaboutbirds.org/guide/Whimbrel/id"
     }
   ],
-  "cover": "20260919-DSC02601.jpg"
+  "cover": "20260919-DSC02601.jpg",
+  "photos": {
+    "20260415-DSC03003.jpg": {
+      "caption": "Foraging at the water's edge",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T05:58:32",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC03003.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260415-DSC03005.jpg": {
+      "caption": "Standing at the water's edge",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T05:58:39",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC03005.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260919-DSC02601.jpg": {
+      "caption": "Walking along the beach",
+      "location": "Pescadero area, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-09-19T15:23:53",
+        "folder": "20260919 pescadero",
+        "raw_files": [
+          "DSC02601.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

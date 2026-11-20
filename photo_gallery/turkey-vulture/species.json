@@ -9,5 +9,41 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Turkey_Vulture/lifehistory"
     }
-  ]
+  ],
+  "photos": {
+    "20260316-DSC06919.jpg": {
+      "caption": "Adult · soaring",
+      "location": "Cuyama Valley, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-16",
+        "precision": "valley",
+        "note": "Photographer confirmed all nine remaining March 16 photos were taken in Cuyama Valley."
+      }
+    },
+    "20260408-DSC00098.jpg": {
+      "caption": "Adult with wings spread beside geese",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-08T02:02:43",
+        "folder": "20260407 bird Irvine Bolsa Chica",
+        "raw_files": [
+          "DSC00098.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Turkey Vulture.jpg": {
+      "caption": "Adult · soaring",
+      "location": "Cuyama Valley, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-16",
+        "precision": "valley",
+        "note": "Photographer confirmed all nine remaining March 16 photos were taken in Cuyama Valley."
+      }
+    }
+  }
 }

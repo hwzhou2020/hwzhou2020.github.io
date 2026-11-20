@@ -9,5 +9,21 @@
       "url": "https://www.allaboutbirds.org/guide/Scaly-breasted_Munia/overview"
     }
   ],
-  "cover": "20261031-DSC05364.jpg"
+  "cover": "20261031-DSC05364.jpg",
+  "photos": {
+    "20261031-DSC05364.jpg": {
+      "caption": "Two adults · foraging",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-31T19:02:37",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05364.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

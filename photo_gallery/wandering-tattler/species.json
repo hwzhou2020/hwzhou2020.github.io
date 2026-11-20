@@ -9,5 +9,17 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Wandering_Tattler/overview"
     }
-  ]
+  ],
+  "photos": {
+    "20230915-DSC_3168.jpg": {
+      "caption": "Wading among rocks",
+      "location": "Big Island, Hawaii",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2023-09-15",
+        "precision": "island",
+        "note": "Photographer confirmed this outing as Big Island, Hawaii."
+      }
+    }
+  }
 }

@@ -9,5 +9,37 @@
       "url": "https://www.nps.gov/jeca/learn/nature/least-chimpmunk-tamias-minimus.htm"
     }
   ],
-  "cover": "20260705-DSC01122.jpg"
+  "cover": "20260705-DSC01122.jpg",
+  "photos": {
+    "20240921-DSC_6634.jpg": {
+      "caption": "Among fallen branches",
+      "location": "Sequoia National Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2024-09-21",
+        "precision": "national park",
+        "note": "Photographer confirmed this outing as Sequoia National Park."
+      }
+    },
+    "20240921-DSC_6635.jpg": {
+      "caption": "Among fallen branches",
+      "location": "Sequoia National Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2024-09-21",
+        "precision": "national park",
+        "note": "Photographer confirmed this outing as Sequoia National Park."
+      }
+    },
+    "20260705-DSC01122.jpg": {
+      "caption": "On a fallen log",
+      "location": "Lassen Volcanic National Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-07-05",
+        "precision": "national park",
+        "note": "Photographer confirmed the July 4–5 photos were taken at Lassen National Park."
+      }
+    }
+  }
 }

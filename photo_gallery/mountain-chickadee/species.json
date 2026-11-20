@@ -9,5 +9,17 @@
       "url": "https://www.allaboutbirds.org/guide/Mountain_Chickadee/overview"
     }
   ],
-  "cover": "20260705-DSC01187.jpg"
+  "cover": "20260705-DSC01187.jpg",
+  "photos": {
+    "20260705-DSC01187.jpg": {
+      "caption": "Perched in a pine",
+      "location": "Lassen Volcanic National Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-07-05",
+        "precision": "national park",
+        "note": "Photographer confirmed the July 4–5 photos were taken at Lassen National Park."
+      }
+    }
+  }
 }

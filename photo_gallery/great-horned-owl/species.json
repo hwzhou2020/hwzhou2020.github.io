@@ -2,10 +2,134 @@
   "name": "Great Horned Owl",
   "category": "Birds",
   "group": "Raptors & Owls",
-  "cover": "Juvenile Great Horned Owl.jpg",
+  "cover": "Great Horned Owl.jpg",
   "photos": {
     "Juvenile Great Horned Owl.jpg": {
-      "caption": "Juvenile Great Horned Owl"
+      "caption": "Juvenile",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T05:13:49",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08186.ARW",
+          "DSC08187.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260525-DSC07963.jpg": {
+      "caption": "Adult · preening",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T04:45:53",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC07963.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260525-DSC07979.jpg": {
+      "caption": "Adult · perched",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T04:46:39",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC07979.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260525-DSC08033.jpg": {
+      "caption": "Adult · resting",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T04:49:24",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08033.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260525-DSC08240.jpg": {
+      "caption": "Juvenile",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T05:18:58",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08240.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260525-DSC08254.jpg": {
+      "caption": "Juvenile",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T05:19:37",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08254.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260525-DSC08278.jpg": {
+      "caption": "Juvenile · resting",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T05:26:32",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08278.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260525-DSC08280.jpg": {
+      "caption": "Adult · resting",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T05:28:48",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08280.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Great Horned Owl.jpg": {
+      "caption": "Adult with chick",
+      "location": "Descanso Gardens, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-03-22T02:02:00",
+        "folder": "20260322 Descanso Garden birding",
+        "raw_files": [
+          "DSC08555.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
     }
   },
   "description": "The Great Horned Owl is a powerful predator recognized by its prominent feather tufts, yellow eyes, and deep hooting calls. It inhabits an unusually broad range of environments, including woodland, desert, wetlands, and suburban landscapes. Mammals and birds form much of its varied diet, although it can take smaller prey as well. Its mottled plumage helps it blend into daytime roosts. Young owls look softer and less sharply patterned than adults as their flight feathers develop.",

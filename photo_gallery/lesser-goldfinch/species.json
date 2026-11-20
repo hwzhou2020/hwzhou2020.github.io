@@ -9,5 +9,65 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Lesser_Goldfinch"
     }
-  ]
+  ],
+  "photos": {
+    "20260424-DSC04657.jpg": {
+      "caption": "Male · preening",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T01:18:36",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04657.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260525-DSC08057.jpg": {
+      "caption": "Male · perched",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T05:03:59",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08057.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260525-DSC08065.jpg": {
+      "caption": "Male · perched",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T05:04:10",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08065.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Lesser Goldfinch.jpg": {
+      "caption": "Two males · wings spread",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T01:18:47",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04666.ARW",
+          "DSC04667.ARW",
+          "DSC04668.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

@@ -9,5 +9,49 @@
       "url": "https://www.allaboutbirds.org/guide/Hawaiian_Coot/overview"
     }
   ],
-  "cover": "20261029-DSC03555.jpg"
+  "cover": "20261029-DSC03555.jpg",
+  "photos": {
+    "20261029-DSC03350.jpg": {
+      "caption": "Adult · walking",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-29T15:16:16",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC03350.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261029-DSC03555.jpg": {
+      "caption": "Adult · swimming",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-29T15:34:31",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC03555.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261029-DSC03565.jpg": {
+      "caption": "Adult · swimming",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-29T15:35:18",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC03565.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

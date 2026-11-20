@@ -9,5 +9,37 @@
       "title": "Alaska Department of Fish and Game: Sandhill Crane",
       "url": "https://www.adfg.alaska.gov/index.cfm?adfg=sandhillcrane.main"
     }
-  ]
+  ],
+  "photos": {
+    "20240717-HWZ_4485.jpg": {
+      "caption": "Adult · walking",
+      "location": "Madison, Wisconsin",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2024-07-17",
+        "precision": "city",
+        "note": "Photographer confirmed this outing as Madison, Wisconsin."
+      }
+    },
+    "20240717-HWZ_4487.jpg": {
+      "caption": "Two adults",
+      "location": "Madison, Wisconsin",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2024-07-17",
+        "precision": "city",
+        "note": "Photographer confirmed this outing as Madison, Wisconsin."
+      }
+    },
+    "20240717-HWZ_4489.jpg": {
+      "caption": "Two adults",
+      "location": "Madison, Wisconsin",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2024-07-17",
+        "precision": "city",
+        "note": "Photographer confirmed this outing as Madison, Wisconsin."
+      }
+    }
+  }
 }

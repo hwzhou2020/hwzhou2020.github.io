@@ -9,5 +9,63 @@
       "url": "https://dlnr.hawaii.gov/wildlife/birds/nene/"
     }
   ],
-  "cover": "20261101-DSC05702.jpg"
+  "cover": "20261101-DSC05702.jpg",
+  "photos": {
+    "20261029-DSC03212.jpg": {
+      "caption": "Two adults at the water's edge",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-29T13:20:52",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC03212.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261029-DSC03217.jpg": {
+      "caption": "Two adults at the water's edge",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-29T13:20:56",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC03217.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261101-DSC05696.jpg": {
+      "caption": "Adult · grazing",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-01T11:49:17",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05696.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261101-DSC05702.jpg": {
+      "caption": "Adult · portrait",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-11-01T11:55:35",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05702.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

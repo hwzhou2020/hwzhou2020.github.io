@@ -9,5 +9,17 @@
       "title": "University of Kentucky Department of Entomology: Blister Beetles",
       "url": "https://entomology.mgcafe.uky.edu/ef102"
     }
-  ]
+  ],
+  "photos": {
+    "20240717-HWZ_4468.jpg": {
+      "caption": "On bare ground",
+      "location": "Madison, Wisconsin",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2024-07-17",
+        "precision": "city",
+        "note": "Photographer confirmed this outing as Madison, Wisconsin."
+      }
+    }
+  }
 }

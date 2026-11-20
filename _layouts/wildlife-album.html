@@ -14,12 +14,14 @@ layout: modern
   <p class="wildlife-results" data-photo-results role="status" aria-live="polite"></p>
   <div class="wildlife-photo-grid">
     {% for photo in album.photos %}
+    {% assign photo_alt = photo.caption %}
+    {% unless photo.caption contains album.name %}{% assign photo_alt = album.name | append: ' — ' | append: photo.caption %}{% endunless %}
     <figure class="wildlife-photo" data-photo>
       <div class="wildlife-photo-frame">
-        <button class="wildlife-photo-open" type="button" data-open-photo data-full="{{ photo.path | relative_url | escape }}" aria-label="Open {{ photo.caption | escape }}">
-          <img src="{{ photo.thumbnail | relative_url }}" alt="{{ photo.caption | escape }}" width="{{ photo.width }}" height="{{ photo.height }}" loading="lazy" decoding="async">
+        <button class="wildlife-photo-open" type="button" data-open-photo data-full="{{ photo.path | relative_url | escape }}" data-alt="{{ photo_alt | escape }}" aria-label="Open {{ photo_alt | escape }}">
+          <img src="{{ photo.thumbnail | relative_url }}" alt="{{ photo_alt | escape }}" width="{{ photo.width }}" height="{{ photo.height }}" loading="lazy" decoding="async">
         </button>
-        <button type="button" class="photo-heart" data-counter="{{ photo.counter | escape }}" aria-label="Like {{ photo.caption | escape }}"><span aria-hidden="true">♥</span><span class="heart-count"></span></button>
+        <button type="button" class="photo-heart" data-counter="{{ photo.counter | escape }}" aria-label="Like {{ photo_alt | escape }}"><span aria-hidden="true">♥</span><span class="heart-count"></span></button>
         {% if photo.featured %}<span class="wildlife-featured">Selected</span>{% endif %}
       </div>
       <figcaption>

@@ -5,7 +5,47 @@
   "cover": "Baby Barn Owl.jpg",
   "photos": {
     "Baby Barn Owl.jpg": {
-      "caption": "Baby Barn Owl"
+      "caption": "Owlets at the nest",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T04:26:54",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC07882.ARW",
+          "DSC07883.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260525-DSC07879.jpg": {
+      "caption": "Owlets at the nest",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T04:26:48",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC07879.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260525-DSC07898.jpg": {
+      "caption": "Owlets at the nest",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T04:28:08",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC07898.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
     }
   },
   "description": "Barn owls are pale, long-winged predators associated with open fields, grassland, and quiet roosting places. Their heart-shaped facial disk helps direct sound toward their ears as they search for small mammals in darkness. In North America, the species is now commonly called the American Barn Owl. It often nests in buildings or cavities and gives rasping calls rather than the familiar hoots of many other owls. Young birds remain dependent on their parents while developing their hunting skills.",

@@ -9,5 +9,35 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Black_Skimmer/overview"
     }
-  ]
+  ],
+  "photos": {
+    "20260525-DSC08364.jpg": {
+      "caption": "Resting flock",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T08:45:42",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08364.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260525-DSC08381.jpg": {
+      "caption": "Resting flock",
+      "location": "Irvine, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-05-25T08:48:02",
+        "folder": "20260524 UCI birding",
+        "raw_files": [
+          "DSC08381.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

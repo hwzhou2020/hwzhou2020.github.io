@@ -7,23 +7,69 @@
     var search = browser.querySelector('[data-species-search]');
     var category = browser.querySelector('[data-category-filter]');
     var group = browser.querySelector('[data-group-filter]');
-    var location = browser.querySelector('[data-location-filter]');
+    var country = browser.querySelector('[data-country-filter]');
+    var state = browser.querySelector('[data-state-filter]');
+    var place = browser.querySelector('[data-place-filter]');
+    var locations = new Map(cards.map(function (card) {
+      return [card, JSON.parse(card.dataset.locations || '[]')];
+    }));
     var highlights = browser.querySelector('[data-gallery-highlights]');
     var more = browser.querySelector('[data-species-more]');
     var limit = batchSize;
+    function matchesArea(location) {
+      return (!country || !country.value || location.country === country.value) &&
+        (!state || !state.value || location.state === state.value);
+    }
+    function locationActive() {
+      return Boolean((country && country.value) || (state && state.value) || (place && place.value));
+    }
+    function fillLocations(control, field, include, allLabel) {
+      var selected = control.value;
+      var counts = new Map();
+      cards.forEach(function (card) {
+        // Count albums once even when several of their locations share a state.
+        var values = new Set(locations.get(card).filter(include).map(function (location) {
+          return location[field];
+        }).filter(Boolean));
+        values.forEach(function (value) { counts.set(value, (counts.get(value) || 0) + 1); });
+      });
+      control.replaceChildren();
+      function addOption(value, label) {
+        var option = document.createElement('option');
+        option.value = value;
+        option.textContent = label;
+        control.appendChild(option);
+      }
+      addOption('', allLabel);
+      Array.from(counts.keys()).sort(function (a, b) { return a.localeCompare(b); }).forEach(function (value) {
+        addOption(value, value + ' (' + counts.get(value) + ')');
+      });
+      control.value = counts.has(selected) ? selected : '';
+    }
+    function refreshLocations() {
+      if (!country || !state || !place) { return; }
+      fillLocations(country, 'country', function () { return true; }, 'All countries');
+      fillLocations(state, 'state', function (location) {
+        return !country.value || location.country === country.value;
+      }, 'All states / regions');
+      fillLocations(place, 'name', matchesArea, 'All locations');
+    }
     function filterSpecies() {
       var query = search.value.trim().toLocaleLowerCase();
       var birdGroupsAvailable = !category.value || category.value === 'Birds';
       browser.querySelector('[data-bird-group-label]').hidden = !birdGroupsAvailable;
       if (!birdGroupsAvailable) { group.value = ''; }
       if (highlights) {
-        highlights.hidden = Boolean(query || category.value || group.value || (location && location.value));
+        highlights.hidden = Boolean(query || category.value || group.value || locationActive());
       }
       var matches = cards.filter(function (card) {
         return card.dataset.name.toLocaleLowerCase().includes(query) &&
           (!category.value || card.dataset.category === category.value) &&
           (!group.value || card.dataset.group === group.value) &&
-          (!location || !location.value || JSON.parse(card.dataset.locations).includes(location.value));
+          (!locationActive() || locations.get(card).some(function (location) {
+            // Country, state, and place must belong to the same photo location.
+            return matchesArea(location) && (!place || !place.value || location.name === place.value);
+          }));
       });
       cards.forEach(function (card) { card.hidden = true; });
       matches.slice(0, limit).forEach(function (card) { card.hidden = false; });
@@ -32,14 +78,16 @@
       browser.querySelector('[data-species-empty]').hidden = matches.length !== 0;
       more.hidden = limit >= matches.length;
     }
-    [search, category, group, location].filter(Boolean).forEach(function (control) {
+    [search, category, group, country, state, place].filter(Boolean).forEach(function (control) {
       control.addEventListener(control === search ? 'input' : 'change', function () {
+        if (control === country || control === state) { refreshLocations(); }
         limit = batchSize;
         filterSpecies();
       });
     });
     more.addEventListener('click', function () { limit += batchSize; filterSpecies(); });
     browser.querySelector('.wildlife-filters').hidden = false;
+    refreshLocations();
     filterSpecies();
   }
 
@@ -68,7 +116,7 @@
     var caption = photo.querySelector('.wildlife-caption').textContent;
     var camera = photo.querySelector('[data-camera-info]');
     viewerImage.src = button.dataset.full;
-    viewerImage.alt = caption;
+    viewerImage.alt = button.dataset.alt || caption;
     viewer.querySelector('[data-viewer-caption]').textContent = caption;
     viewer.querySelector('[data-viewer-context]').textContent = photo.querySelector('.wildlife-photo-context').textContent;
     // A clone retains the line break between equipment and exposure settings.

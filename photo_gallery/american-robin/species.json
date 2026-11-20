@@ -5,7 +5,62 @@
   "cover": "America Robin.jpg",
   "photos": {
     "Nest of American Robin.jpg": {
-      "caption": "Nest of American Robin"
+      "caption": "Nestling",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T03:12:09",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04914.ARW",
+          "DSC04915.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260322-DSC07638.jpg": {
+      "caption": "Adult · foraging",
+      "location": "Descanso Gardens, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-03-22T00:12:43",
+        "folder": "20260322 Descanso Garden birding",
+        "raw_files": [
+          "DSC07638.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260322-DSC07732.jpg": {
+      "caption": "Adult · perched",
+      "location": "Descanso Gardens, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-03-22T01:09:16",
+        "folder": "20260322 Descanso Garden birding",
+        "raw_files": [
+          "DSC07732.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "America Robin.jpg": {
+      "caption": "Adult · on the ground",
+      "location": "Los Angeles County Arboretum, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-24T02:33:04",
+        "folder": "20260424 LA Arboretum",
+        "raw_files": [
+          "DSC04794.ARW",
+          "DSC04795.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
     }
   },
   "description": "The American Robin is a widespread North American thrush with a warm orange breast and a familiar, musical song. Although often seen on lawns searching for earthworms, it also inhabits forests, parks, and mountain landscapes. Its diet includes insects and fruit, with berries becoming especially important outside the breeding season. Robins build cup-shaped nests and may gather in large communal roosts. Watching one pause between short runs often reveals its careful search for food on the ground.",

@@ -9,5 +9,35 @@
       "url": "https://www.allaboutbirds.org/guide/Common_Waxbill/overview"
     }
   ],
-  "cover": "20261031-DSC05456.jpg"
+  "cover": "20261031-DSC05456.jpg",
+  "photos": {
+    "20261031-DSC05448.jpg": {
+      "caption": "Looking upward",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-31T19:06:53",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05448.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261031-DSC05456.jpg": {
+      "caption": "Foraging in grass",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-31T19:07:01",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05456.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

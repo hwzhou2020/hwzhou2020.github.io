@@ -9,5 +9,35 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Black-necked_Stilt"
     }
-  ]
+  ],
+  "photos": {
+    "20260415-DSC02943.jpg": {
+      "caption": "Female · wading",
+      "location": "Orange County, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-15T05:36:06",
+        "folder": "20260414 bird huntington central park and bolsa chica",
+        "raw_files": [
+          "DSC02943.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260830-DSC01729.jpg": {
+      "caption": "Male · wading",
+      "location": "San Francisco Bay Area, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-08-30T13:37:46",
+        "folder": "20260830 baylands and halfmoonbay",
+        "raw_files": [
+          "DSC01729.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

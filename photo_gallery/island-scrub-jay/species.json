@@ -9,5 +9,162 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/island_scrub-jay"
     }
-  ]
+  ],
+  "photos": {
+    "20260421-DSC03538.jpg": {
+      "caption": "Perched",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T03:00:57",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03538.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03543.jpg": {
+      "caption": "Perched",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T03:01:01",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03543.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03772.jpg": {
+      "caption": "Among wildflowers",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T05:56:44",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03772.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03805.jpg": {
+      "caption": "Carrying food",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T06:00:04",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03805.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03825.jpg": {
+      "caption": "Looking upward",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T06:01:03",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03825.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03837.jpg": {
+      "caption": "Perched · fluffed feathers",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T06:01:23",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03837.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03860.jpg": {
+      "caption": "On the ground",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T06:02:20",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03860.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03867.jpg": {
+      "caption": "On the ground",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T06:02:44",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03867.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03885.jpg": {
+      "caption": "Looking back",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T06:06:26",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03885.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03889.jpg": {
+      "caption": "Looking back",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T06:06:48",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03889.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Island Scrub-Jay.jpg": {
+      "caption": "On the ground",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T05:56:26",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03759.ARW",
+          "DSC03760.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

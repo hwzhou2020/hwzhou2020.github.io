@@ -9,5 +9,35 @@
       "url": "https://www.nps.gov/olym/learn/nature/black-tail-deer.htm"
     }
   ],
-  "cover": "20260919-DSC02659.jpg"
+  "cover": "20260919-DSC02659.jpg",
+  "photos": {
+    "20260919-DSC02659.jpg": {
+      "caption": "Among wildflowers",
+      "location": "Pescadero area, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-09-19T16:08:54",
+        "folder": "20260919 pescadero",
+        "raw_files": [
+          "DSC02659.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261001-DSC02755.jpg": {
+      "caption": "Male · antlers in velvet",
+      "location": "Sierra Vista area, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-01T08:31:40",
+        "folder": "20261001 sierra vista ",
+        "raw_files": [
+          "DSC02755.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

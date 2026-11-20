@@ -9,5 +9,21 @@
       "url": "https://animals.sandiegozoo.org/animals/waxbill"
     }
   ],
-  "cover": "20261031-DSC05477.jpg"
+  "cover": "20261031-DSC05477.jpg",
+  "photos": {
+    "20261031-DSC05477.jpg": {
+      "caption": "Two birds in the grass",
+      "location": "Maui, Hawaii",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-10-31T19:12:40",
+        "folder": "20261029 - 20261101 Maui island",
+        "raw_files": [
+          "DSC05477.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    }
+  }
 }

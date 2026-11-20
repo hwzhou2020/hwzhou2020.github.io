@@ -9,5 +9,73 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/red-tailed_hawk"
     }
-  ]
+  ],
+  "photos": {
+    "20260421-DSC03631.jpg": {
+      "caption": "Adult · soaring",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T03:47:42",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03631.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260421-DSC03638.jpg": {
+      "caption": "Adult · soaring",
+      "location": "Channel Islands, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-04-21T03:47:44",
+        "folder": "20260420 Channel Island",
+        "raw_files": [
+          "DSC03638.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260830-DSC01961.jpg": {
+      "caption": "Adult · perched",
+      "location": "San Francisco Bay Area, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-08-30T17:30:21",
+        "folder": "20260830 baylands and halfmoonbay",
+        "raw_files": [
+          "DSC01961.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20260830-DSC01972.jpg": {
+      "caption": "Adult · perched",
+      "location": "San Francisco Bay Area, California",
+      "location_source": {
+        "type": "inferred_from_raw_outing_folder",
+        "match_method": "filename_capture_timestamp_and_camera",
+        "capture_timestamp": "2026-08-30T17:31:17",
+        "folder": "20260830 baylands and halfmoonbay",
+        "raw_files": [
+          "DSC01972.ARW"
+        ],
+        "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "Red-tailed Hawk.jpg": {
+      "caption": "Adult · soaring",
+      "location": "Cuyama Valley, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-16",
+        "precision": "valley",
+        "note": "Photographer confirmed all nine remaining March 16 photos were taken in Cuyama Valley."
+      }
+    }
+  }
 }

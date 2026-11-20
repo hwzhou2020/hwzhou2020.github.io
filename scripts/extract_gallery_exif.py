@@ -192,6 +192,7 @@ def build_gallery(root=REPO_ROOT):
     root = Path(root)
     source = root / 'photo_gallery'
     data_dir = root / '_data'
+    place_hierarchy = load_json(data_dir / 'gallery_places.json')
     thumbnails = root / 'assets/images/wildlife'
     pages = root / '_pages/wildlife'
     existing = {}
@@ -316,6 +317,11 @@ def build_gallery(root=REPO_ROOT):
                                if photo['filename'] == configured_cover), album['photos'][0])
         album['count'] = len(album['photos'])
         album['locations'] = sorted({photo['location'] for photo in album['photos'] if photo['location']})
+        album['location_details'] = [
+            {'name': location,
+             'country': place_hierarchy.get(location, {}).get('country', ''),
+             'state': place_hierarchy.get(location, {}).get('state', '')}
+            for location in album['locations']]
 
     data_dir.mkdir(parents=True, exist_ok=True)
     pages.mkdir(parents=True, exist_ok=True)

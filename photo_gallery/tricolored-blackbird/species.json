@@ -9,5 +9,37 @@
       "title": "Cornell Lab of Ornithology: All About Birds",
       "url": "https://www.allaboutbirds.org/guide/Tricolored_Blackbird"
     }
-  ]
+  ],
+  "photos": {
+    "20260315-DSC05347.jpg": {
+      "caption": "Flock perched together",
+      "location": "Quail Lake, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-15",
+        "precision": "lake",
+        "note": "Photographer confirmed this outing as Quail Lake, California."
+      }
+    },
+    "20260315-DSC05462.jpg": {
+      "caption": "Males · perched on a fence",
+      "location": "Quail Lake, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-15",
+        "precision": "lake",
+        "note": "Photographer confirmed this outing as Quail Lake, California."
+      }
+    },
+    "Tricolored Blackbird.jpg": {
+      "caption": "Male · perched",
+      "location": "Quail Lake, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-15",
+        "precision": "lake",
+        "note": "Photographer confirmed this outing as Quail Lake, California."
+      }
+    }
+  }
 }
