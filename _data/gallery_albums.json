@@ -6023,6 +6023,26 @@
     "url": "/wildlife-gallery/great-egret/",
     "photos": [
       {
+        "filename": "20261120-DSC06665.jpg",
+        "path": "/photo_gallery/great-egret/20261120-DSC06665.jpg",
+        "thumbnail": "/assets/images/wildlife/great-egret/407bb5bbe0ef88599498c64ca2e6e793b315edea.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "In flight over the wetland",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-20T16:52:13",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 500,
+          "focal": 202,
+          "aperture": 5.6,
+          "shutter": "1/4000"
+        },
+        "counter": "great-egret-20261120-dsc06665-jpg"
+      },
+      {
         "filename": "20260415-DSC02286.jpg",
         "path": "/photo_gallery/great-egret/20260415-DSC02286.jpg",
         "thumbnail": "/assets/images/wildlife/great-egret/db95d1bf76f8cfe63f85b1b92643b94181d79e04.webp",
@@ -6143,13 +6163,19 @@
       },
       "counter": "great-egret-20260415-dsc02269-jpg"
     },
-    "count": 5,
+    "count": 6,
     "locations": [
-      "Orange County, California"
+      "Orange County, California",
+      "Sunnyvale, California"
     ],
     "location_details": [
       {
         "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sunnyvale, California",
         "country": "United States",
         "state": "California"
       }
@@ -7669,6 +7695,94 @@
       }
     ]
   },
+  "house-finch": {
+    "name": "House Finch",
+    "category": "Birds",
+    "group": "Songbirds",
+    "scientific_name": "",
+    "description": "The House Finch is a familiar songbird of towns, gardens, and open country. Males often show red or orange on the head and breast, while females are brown and streaked. Their stout bills are suited to eating seeds, and they frequently gather in social flocks around feeding areas. Originally native to the western United States and Mexico, the species has spread widely across eastern North America after an introduction there. Its lively calls and habit of perching together make a flock easy to notice.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/House_Finch/overview"
+      }
+    ],
+    "slug": "house-finch",
+    "url": "/wildlife-gallery/house-finch/",
+    "photos": [
+      {
+        "filename": "20261120-DSC06674.jpg",
+        "path": "/photo_gallery/house-finch/20261120-DSC06674.jpg",
+        "thumbnail": "/assets/images/wildlife/house-finch/2d72d7e7438927c8974f81edc01bb6ef249e0c55.webp",
+        "width": 800,
+        "height": 1200,
+        "caption": "Flock perched in bare branches",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-20T16:58:25",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/4000"
+        },
+        "counter": "house-finch-20261120-dsc06674-jpg"
+      },
+      {
+        "filename": "20261120-DSC06673.jpg",
+        "path": "/photo_gallery/house-finch/20261120-DSC06673.jpg",
+        "thumbnail": "/assets/images/wildlife/house-finch/94f19efe0aec3ce01eb3610a8a51af847f3bf6ae.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Male among the flock",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-20T16:58:18",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/4000"
+        },
+        "counter": "house-finch-20261120-dsc06673-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20261120-DSC06673.jpg",
+      "path": "/photo_gallery/house-finch/20261120-DSC06673.jpg",
+      "thumbnail": "/assets/images/wildlife/house-finch/94f19efe0aec3ce01eb3610a8a51af847f3bf6ae.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Male among the flock",
+      "location": "Sunnyvale, California",
+      "date": "2026-11-20T16:58:18",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 640,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/4000"
+      },
+      "counter": "house-finch-20261120-dsc06673-jpg"
+    },
+    "count": 2,
+    "locations": [
+      "Sunnyvale, California"
+    ],
+    "location_details": [
+      {
+        "name": "Sunnyvale, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
   "house-sparrow": {
     "name": "House Sparrow",
     "category": "Birds",
@@ -8979,6 +9093,26 @@
     "url": "/wildlife-gallery/lesser-goldfinch/",
     "photos": [
       {
+        "filename": "20261120-DSC06658.jpg",
+        "path": "/photo_gallery/lesser-goldfinch/20261120-DSC06658.jpg",
+        "thumbnail": "/assets/images/wildlife/lesser-goldfinch/f84aced396ae4745017e2bfe607dc95052c57afb.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Male · perched among seedheads",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-20T16:47:57",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/4000"
+        },
+        "counter": "lesser-goldfinch-20261120-dsc06658-jpg"
+      },
+      {
         "filename": "20260525-DSC08065.jpg",
         "path": "/photo_gallery/lesser-goldfinch/20260525-DSC08065.jpg",
         "thumbnail": "/assets/images/wildlife/lesser-goldfinch/0b4b10f4828f4b5bfbb84655f57f9ef9cea066f9.webp",
@@ -9079,10 +9213,11 @@
       },
       "counter": "lesser-goldfinch-jpg"
     },
-    "count": 4,
+    "count": 5,
     "locations": [
       "Irvine, California",
-      "Los Angeles County Arboretum, California"
+      "Los Angeles County Arboretum, California",
+      "Sunnyvale, California"
     ],
     "location_details": [
       {
@@ -9092,6 +9227,11 @@
       },
       {
         "name": "Los Angeles County Arboretum, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sunnyvale, California",
         "country": "United States",
         "state": "California"
       }
@@ -10253,6 +10393,94 @@
       }
     ]
   },
+  "northern-harrier": {
+    "name": "Northern Harrier",
+    "category": "Birds",
+    "group": "Raptors & Owls",
+    "scientific_name": "",
+    "description": "The Northern Harrier searches open grasslands and marshes with a low, buoyant flight, often holding its long wings in a shallow V. Its white rump patch is a useful field mark, while an owl-like facial disk helps it locate prey by sound. Small mammals and birds make up much of its diet. Adult males are gray above, while females and young birds are brown; juveniles often have warm cinnamon underparts. Harriers nest on the ground among dense vegetation, making intact grasslands and wetlands important habitat.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Northern_Harrier/overview"
+      }
+    ],
+    "slug": "northern-harrier",
+    "url": "/wildlife-gallery/northern-harrier/",
+    "photos": [
+      {
+        "filename": "20261120-DSC06724.jpg",
+        "path": "/photo_gallery/northern-harrier/20261120-DSC06724.jpg",
+        "thumbnail": "/assets/images/wildlife/northern-harrier/6c48bc35f4f725a38c68813dfaa9853e6f5faf60.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "In flight · wings raised",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-20T17:39:49",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 200,
+          "aperture": 5.6,
+          "shutter": "1/4000"
+        },
+        "counter": "northern-harrier-20261120-dsc06724-jpg"
+      },
+      {
+        "filename": "20261120-DSC06723.jpg",
+        "path": "/photo_gallery/northern-harrier/20261120-DSC06723.jpg",
+        "thumbnail": "/assets/images/wildlife/northern-harrier/2b6a7035f8d789d8e51df9f83f2faac1790571fc.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "In flight · side view",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-20T17:39:48",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2000,
+          "focal": 200,
+          "aperture": 5.6,
+          "shutter": "1/4000"
+        },
+        "counter": "northern-harrier-20261120-dsc06723-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20261120-DSC06724.jpg",
+      "path": "/photo_gallery/northern-harrier/20261120-DSC06724.jpg",
+      "thumbnail": "/assets/images/wildlife/northern-harrier/6c48bc35f4f725a38c68813dfaa9853e6f5faf60.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "In flight · wings raised",
+      "location": "Sunnyvale, California",
+      "date": "2026-11-20T17:39:49",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 1600,
+        "focal": 200,
+        "aperture": 5.6,
+        "shutter": "1/4000"
+      },
+      "counter": "northern-harrier-20261120-dsc06724-jpg"
+    },
+    "count": 2,
+    "locations": [
+      "Sunnyvale, California"
+    ],
+    "location_details": [
+      {
+        "name": "Sunnyvale, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
   "northern-house-wren": {
     "name": "Northern House Wren",
     "category": "Birds",
@@ -11026,6 +11254,94 @@
     "location_details": [
       {
         "name": "Los Angeles County Arboretum, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
+  "pied-billed-grebe": {
+    "name": "Pied-billed Grebe",
+    "category": "Birds",
+    "group": "Waterbirds",
+    "scientific_name": "",
+    "description": "The Pied-billed Grebe is a compact brown waterbird with a chunky head and a short, thick bill. In breeding plumage, a dark band crosses its pale bill. It lives on ponds, lakes, marshes, and slow-moving waterways, often staying close to emergent vegetation. An expert diver, it pursues fish, crustaceans, and other aquatic animals beneath the surface. Its feet sit far back on the body, helping it swim efficiently. Floating nests provide a platform for raising chicks, which may ride on a parent’s back soon after hatching.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Pied-billed_Grebe/overview"
+      }
+    ],
+    "slug": "pied-billed-grebe",
+    "url": "/wildlife-gallery/pied-billed-grebe/",
+    "photos": [
+      {
+        "filename": "20261120-DSC06632.jpg",
+        "path": "/photo_gallery/pied-billed-grebe/20261120-DSC06632.jpg",
+        "thumbnail": "/assets/images/wildlife/pied-billed-grebe/ecef50a653d7bd5777185712092b202ecdfbd888.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Swimming · side profile",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-20T16:41:24",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/4000"
+        },
+        "counter": "pied-billed-grebe-20261120-dsc06632-jpg"
+      },
+      {
+        "filename": "20261120-DSC06631.jpg",
+        "path": "/photo_gallery/pied-billed-grebe/20261120-DSC06631.jpg",
+        "thumbnail": "/assets/images/wildlife/pied-billed-grebe/c97c1dc983f3a38cd7d9920f2034f3bd83513f6e.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Floating with a reflection",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-20T16:41:18",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/4000"
+        },
+        "counter": "pied-billed-grebe-20261120-dsc06631-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20261120-DSC06631.jpg",
+      "path": "/photo_gallery/pied-billed-grebe/20261120-DSC06631.jpg",
+      "thumbnail": "/assets/images/wildlife/pied-billed-grebe/c97c1dc983f3a38cd7d9920f2034f3bd83513f6e.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Floating with a reflection",
+      "location": "Sunnyvale, California",
+      "date": "2026-11-20T16:41:18",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 2000,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/4000"
+      },
+      "counter": "pied-billed-grebe-20261120-dsc06631-jpg"
+    },
+    "count": 2,
+    "locations": [
+      "Sunnyvale, California"
+    ],
+    "location_details": [
+      {
+        "name": "Sunnyvale, California",
         "country": "United States",
         "state": "California"
       }
@@ -12281,6 +12597,26 @@
     "url": "/wildlife-gallery/ring-billed-gull/",
     "photos": [
       {
+        "filename": "20261120-DSC06698.jpg",
+        "path": "/photo_gallery/ring-billed-gull/20261120-DSC06698.jpg",
+        "thumbnail": "/assets/images/wildlife/ring-billed-gull/34c89165d68f32208955e70310879a5101193506.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Standing at the water’s edge",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-20T17:27:08",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/4000"
+        },
+        "counter": "ring-billed-gull-20261120-dsc06698-jpg"
+      },
+      {
         "filename": "20260415-DSC02998.jpg",
         "path": "/photo_gallery/ring-billed-gull/20260415-DSC02998.jpg",
         "thumbnail": "/assets/images/wildlife/ring-billed-gull/d1b6dac401773b442089c75bc38b483626bb7dff.webp",
@@ -12341,13 +12677,19 @@
       },
       "counter": "ring-billed-gull-20260408-dsc00947-jpg"
     },
-    "count": 2,
+    "count": 3,
     "locations": [
-      "Orange County, California"
+      "Orange County, California",
+      "Sunnyvale, California"
     ],
     "location_details": [
       {
         "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sunnyvale, California",
         "country": "United States",
         "state": "California"
       }
@@ -14057,6 +14399,106 @@
     "url": "/wildlife-gallery/turkey-vulture/",
     "photos": [
       {
+        "filename": "20261120-DSC06716.jpg",
+        "path": "/photo_gallery/turkey-vulture/20261120-DSC06716.jpg",
+        "thumbnail": "/assets/images/wildlife/turkey-vulture/4a1715516e14a5242182abea6f81e6d0e67a2b3e.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · looking back",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-20T17:29:14",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 318,
+          "aperture": 6.3,
+          "shutter": "1/320"
+        },
+        "counter": "turkey-vulture-20261120-dsc06716-jpg"
+      },
+      {
+        "filename": "20261120-DSC06711.jpg",
+        "path": "/photo_gallery/turkey-vulture/20261120-DSC06711.jpg",
+        "thumbnail": "/assets/images/wildlife/turkey-vulture/12517f2d84dc1ed684d6d1cde9cefaaafa1e670b.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · close-up portrait",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-20T17:29:02",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/320"
+        },
+        "counter": "turkey-vulture-20261120-dsc06711-jpg"
+      },
+      {
+        "filename": "20261120-DSC06705.jpg",
+        "path": "/photo_gallery/turkey-vulture/20261120-DSC06705.jpg",
+        "thumbnail": "/assets/images/wildlife/turkey-vulture/64def99941d387cf86a6cc4c79fe1e1fac5b3368.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · side profile",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-20T17:28:26",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/640"
+        },
+        "counter": "turkey-vulture-20261120-dsc06705-jpg"
+      },
+      {
+        "filename": "20261120-DSC06700.jpg",
+        "path": "/photo_gallery/turkey-vulture/20261120-DSC06700.jpg",
+        "thumbnail": "/assets/images/wildlife/turkey-vulture/b6b9c260889c73166183481ed17c8efd48a871db.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · perched on a rock",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-20T17:28:04",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "turkey-vulture-20261120-dsc06700-jpg"
+      },
+      {
+        "filename": "20261120-DSC06639.jpg",
+        "path": "/photo_gallery/turkey-vulture/20261120-DSC06639.jpg",
+        "thumbnail": "/assets/images/wildlife/turkey-vulture/a78665e2b3eb3731f7f986eb9e2e83a03b110f3c.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · in flight",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-20T16:45:24",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/4000"
+        },
+        "counter": "turkey-vulture-20261120-dsc06639-jpg"
+      },
+      {
         "filename": "20260408-DSC00098.jpg",
         "path": "/photo_gallery/turkey-vulture/20260408-DSC00098.jpg",
         "thumbnail": "/assets/images/wildlife/turkey-vulture/7d4d8d8e2604ac49a45aebc71c07f5a1132e2c70.webp",
@@ -14118,29 +14560,30 @@
       }
     ],
     "cover": {
-      "filename": "Turkey Vulture.jpg",
-      "path": "/photo_gallery/turkey-vulture/Turkey Vulture.jpg",
-      "thumbnail": "/assets/images/wildlife/turkey-vulture/34e0c73aec6f88238381a5dda63c958b979cb2ec.webp",
-      "width": 2321,
-      "height": 1547,
-      "caption": "Adult · soaring",
-      "location": "Cuyama Valley, California",
-      "date": "2026-03-16T03:33:34",
+      "filename": "20261120-DSC06700.jpg",
+      "path": "/photo_gallery/turkey-vulture/20261120-DSC06700.jpg",
+      "thumbnail": "/assets/images/wildlife/turkey-vulture/b6b9c260889c73166183481ed17c8efd48a871db.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Adult · perched on a rock",
+      "location": "Sunnyvale, California",
+      "date": "2026-11-20T17:28:04",
       "featured": false,
       "camera": {
         "model": "ILCE-7CM2",
         "lens": "FE 200-600mm F5.6-6.3 G OSS",
-        "iso": 640,
+        "iso": 2500,
         "focal": 600,
         "aperture": 6.3,
-        "shutter": "1/2500"
+        "shutter": "1/1250"
       },
-      "counter": "turkey-vulture-jpg"
+      "counter": "turkey-vulture-20261120-dsc06700-jpg"
     },
-    "count": 3,
+    "count": 8,
     "locations": [
       "Cuyama Valley, California",
-      "Orange County, California"
+      "Orange County, California",
+      "Sunnyvale, California"
     ],
     "location_details": [
       {
@@ -14150,6 +14593,11 @@
       },
       {
         "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sunnyvale, California",
         "country": "United States",
         "state": "California"
       }
@@ -16355,6 +16803,66 @@
     "url": "/wildlife-gallery/yellow-rumped-warbler/",
     "photos": [
       {
+        "filename": "20261120-DSC06654.jpg",
+        "path": "/photo_gallery/yellow-rumped-warbler/20261120-DSC06654.jpg",
+        "thumbnail": "/assets/images/wildlife/yellow-rumped-warbler/16ef49d08a1638e63cca3b05e2bb17039502e0d1.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Perched on a leafy shrub",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-20T16:47:15",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/4000"
+        },
+        "counter": "yellow-rumped-warbler-20261120-dsc06654-jpg"
+      },
+      {
+        "filename": "20261120-DSC06611.jpg",
+        "path": "/photo_gallery/yellow-rumped-warbler/20261120-DSC06611.jpg",
+        "thumbnail": "/assets/images/wildlife/yellow-rumped-warbler/abd3234dce608b987677d9e7f44829423e88678f.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Perched on a fence",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-20T16:27:52",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 160,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/400"
+        },
+        "counter": "yellow-rumped-warbler-20261120-dsc06611-jpg"
+      },
+      {
+        "filename": "20261120-DSC06612.jpg",
+        "path": "/photo_gallery/yellow-rumped-warbler/20261120-DSC06612.jpg",
+        "thumbnail": "/assets/images/wildlife/yellow-rumped-warbler/39ce20f970ac96b15db41bd6a576ed1bacd89a36.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Perched · looking back",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-20T16:27:52",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 160,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/400"
+        },
+        "counter": "yellow-rumped-warbler-20261120-dsc06612-jpg"
+      },
+      {
         "filename": "20260704-DSC00735.jpg",
         "path": "/photo_gallery/yellow-rumped-warbler/20260704-DSC00735.jpg",
         "thumbnail": "/assets/images/wildlife/yellow-rumped-warbler/f5c9cf45595ce0c6e7151dfd2a7e7252f9b14568.webp",
@@ -16395,13 +16903,19 @@
       },
       "counter": "yellow-rumped-warbler-20260704-dsc00735-jpg"
     },
-    "count": 1,
+    "count": 4,
     "locations": [
-      "Lassen Volcanic National Park, California"
+      "Lassen Volcanic National Park, California",
+      "Sunnyvale, California"
     ],
     "location_details": [
       {
         "name": "Lassen Volcanic National Park, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sunnyvale, California",
         "country": "United States",
         "state": "California"
       }

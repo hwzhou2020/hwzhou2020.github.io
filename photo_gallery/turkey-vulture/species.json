@@ -2,7 +2,7 @@
   "name": "Turkey Vulture",
   "category": "Birds",
   "group": "Raptors & Owls",
-  "cover": "Turkey Vulture.jpg",
+  "cover": "20261120-DSC06700.jpg",
   "description": "The Turkey Vulture is a large scavenger often recognized in flight by wings held in a shallow V and a gently rocking glide. Adults have bare reddish heads, while young birds have darker heads. It searches broad landscapes for carrion, using a well-developed sense of smell as well as vision. Open country, woodland edges, and roadsides all provide feeding opportunities. By consuming dead animals, vultures play an important role in recycling nutrients within ecosystems.",
   "references": [
     {
@@ -43,6 +43,51 @@
         "outing_date": "2026-03-16",
         "precision": "valley",
         "note": "Photographer confirmed all nine remaining March 16 photos were taken in Cuyama Valley."
+      }
+    },
+    "20261120-DSC06639.jpg": {
+      "caption": "Adult · in flight",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-20",
+        "precision": "city"
+      }
+    },
+    "20261120-DSC06700.jpg": {
+      "caption": "Adult · perched on a rock",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-20",
+        "precision": "city"
+      }
+    },
+    "20261120-DSC06705.jpg": {
+      "caption": "Adult · side profile",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-20",
+        "precision": "city"
+      }
+    },
+    "20261120-DSC06711.jpg": {
+      "caption": "Adult · close-up portrait",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-20",
+        "precision": "city"
+      }
+    },
+    "20261120-DSC06716.jpg": {
+      "caption": "Adult · looking back",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-20",
+        "precision": "city"
       }
     }
   }

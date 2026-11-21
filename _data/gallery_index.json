@@ -2519,13 +2519,19 @@
       },
       "counter": "great-egret-20260415-dsc02269-jpg"
     },
-    "count": 5,
+    "count": 6,
     "locations": [
-      "Orange County, California"
+      "Orange County, California",
+      "Sunnyvale, California"
     ],
     "location_details": [
       {
         "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sunnyvale, California",
         "country": "United States",
         "state": "California"
       }
@@ -3044,6 +3050,52 @@
     ]
   },
   {
+    "name": "House Finch",
+    "category": "Birds",
+    "group": "Songbirds",
+    "scientific_name": "",
+    "description": "The House Finch is a familiar songbird of towns, gardens, and open country. Males often show red or orange on the head and breast, while females are brown and streaked. Their stout bills are suited to eating seeds, and they frequently gather in social flocks around feeding areas. Originally native to the western United States and Mexico, the species has spread widely across eastern North America after an introduction there. Its lively calls and habit of perching together make a flock easy to notice.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/House_Finch/overview"
+      }
+    ],
+    "slug": "house-finch",
+    "url": "/wildlife-gallery/house-finch/",
+    "cover": {
+      "filename": "20261120-DSC06673.jpg",
+      "path": "/photo_gallery/house-finch/20261120-DSC06673.jpg",
+      "thumbnail": "/assets/images/wildlife/house-finch/94f19efe0aec3ce01eb3610a8a51af847f3bf6ae.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Male among the flock",
+      "location": "Sunnyvale, California",
+      "date": "2026-11-20T16:58:18",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 640,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/4000"
+      },
+      "counter": "house-finch-20261120-dsc06673-jpg"
+    },
+    "count": 2,
+    "locations": [
+      "Sunnyvale, California"
+    ],
+    "location_details": [
+      {
+        "name": "Sunnyvale, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
+  {
     "name": "House Sparrow",
     "category": "Birds",
     "group": "Songbirds",
@@ -3405,10 +3457,11 @@
       },
       "counter": "lesser-goldfinch-jpg"
     },
-    "count": 4,
+    "count": 5,
     "locations": [
       "Irvine, California",
-      "Los Angeles County Arboretum, California"
+      "Los Angeles County Arboretum, California",
+      "Sunnyvale, California"
     ],
     "location_details": [
       {
@@ -3418,6 +3471,11 @@
       },
       {
         "name": "Los Angeles County Arboretum, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sunnyvale, California",
         "country": "United States",
         "state": "California"
       }
@@ -3754,6 +3812,52 @@
         "name": "Maui, Hawaii",
         "country": "United States",
         "state": "Hawaii"
+      }
+    ]
+  },
+  {
+    "name": "Northern Harrier",
+    "category": "Birds",
+    "group": "Raptors & Owls",
+    "scientific_name": "",
+    "description": "The Northern Harrier searches open grasslands and marshes with a low, buoyant flight, often holding its long wings in a shallow V. Its white rump patch is a useful field mark, while an owl-like facial disk helps it locate prey by sound. Small mammals and birds make up much of its diet. Adult males are gray above, while females and young birds are brown; juveniles often have warm cinnamon underparts. Harriers nest on the ground among dense vegetation, making intact grasslands and wetlands important habitat.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Northern_Harrier/overview"
+      }
+    ],
+    "slug": "northern-harrier",
+    "url": "/wildlife-gallery/northern-harrier/",
+    "cover": {
+      "filename": "20261120-DSC06724.jpg",
+      "path": "/photo_gallery/northern-harrier/20261120-DSC06724.jpg",
+      "thumbnail": "/assets/images/wildlife/northern-harrier/6c48bc35f4f725a38c68813dfaa9853e6f5faf60.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "In flight · wings raised",
+      "location": "Sunnyvale, California",
+      "date": "2026-11-20T17:39:49",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 1600,
+        "focal": 200,
+        "aperture": 5.6,
+        "shutter": "1/4000"
+      },
+      "counter": "northern-harrier-20261120-dsc06724-jpg"
+    },
+    "count": 2,
+    "locations": [
+      "Sunnyvale, California"
+    ],
+    "location_details": [
+      {
+        "name": "Sunnyvale, California",
+        "country": "United States",
+        "state": "California"
       }
     ]
   },
@@ -4172,6 +4276,52 @@
     "location_details": [
       {
         "name": "Los Angeles County Arboretum, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
+  {
+    "name": "Pied-billed Grebe",
+    "category": "Birds",
+    "group": "Waterbirds",
+    "scientific_name": "",
+    "description": "The Pied-billed Grebe is a compact brown waterbird with a chunky head and a short, thick bill. In breeding plumage, a dark band crosses its pale bill. It lives on ponds, lakes, marshes, and slow-moving waterways, often staying close to emergent vegetation. An expert diver, it pursues fish, crustaceans, and other aquatic animals beneath the surface. Its feet sit far back on the body, helping it swim efficiently. Floating nests provide a platform for raising chicks, which may ride on a parent’s back soon after hatching.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Pied-billed_Grebe/overview"
+      }
+    ],
+    "slug": "pied-billed-grebe",
+    "url": "/wildlife-gallery/pied-billed-grebe/",
+    "cover": {
+      "filename": "20261120-DSC06631.jpg",
+      "path": "/photo_gallery/pied-billed-grebe/20261120-DSC06631.jpg",
+      "thumbnail": "/assets/images/wildlife/pied-billed-grebe/c97c1dc983f3a38cd7d9920f2034f3bd83513f6e.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Floating with a reflection",
+      "location": "Sunnyvale, California",
+      "date": "2026-11-20T16:41:18",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 2000,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/4000"
+      },
+      "counter": "pied-billed-grebe-20261120-dsc06631-jpg"
+    },
+    "count": 2,
+    "locations": [
+      "Sunnyvale, California"
+    ],
+    "location_details": [
+      {
+        "name": "Sunnyvale, California",
         "country": "United States",
         "state": "California"
       }
@@ -4609,13 +4759,19 @@
       },
       "counter": "ring-billed-gull-20260408-dsc00947-jpg"
     },
-    "count": 2,
+    "count": 3,
     "locations": [
-      "Orange County, California"
+      "Orange County, California",
+      "Sunnyvale, California"
     ],
     "location_details": [
       {
         "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sunnyvale, California",
         "country": "United States",
         "state": "California"
       }
@@ -5430,29 +5586,30 @@
     "slug": "turkey-vulture",
     "url": "/wildlife-gallery/turkey-vulture/",
     "cover": {
-      "filename": "Turkey Vulture.jpg",
-      "path": "/photo_gallery/turkey-vulture/Turkey Vulture.jpg",
-      "thumbnail": "/assets/images/wildlife/turkey-vulture/34e0c73aec6f88238381a5dda63c958b979cb2ec.webp",
-      "width": 2321,
-      "height": 1547,
-      "caption": "Adult · soaring",
-      "location": "Cuyama Valley, California",
-      "date": "2026-03-16T03:33:34",
+      "filename": "20261120-DSC06700.jpg",
+      "path": "/photo_gallery/turkey-vulture/20261120-DSC06700.jpg",
+      "thumbnail": "/assets/images/wildlife/turkey-vulture/b6b9c260889c73166183481ed17c8efd48a871db.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Adult · perched on a rock",
+      "location": "Sunnyvale, California",
+      "date": "2026-11-20T17:28:04",
       "featured": false,
       "camera": {
         "model": "ILCE-7CM2",
         "lens": "FE 200-600mm F5.6-6.3 G OSS",
-        "iso": 640,
+        "iso": 2500,
         "focal": 600,
         "aperture": 6.3,
-        "shutter": "1/2500"
+        "shutter": "1/1250"
       },
-      "counter": "turkey-vulture-jpg"
+      "counter": "turkey-vulture-20261120-dsc06700-jpg"
     },
-    "count": 3,
+    "count": 8,
     "locations": [
       "Cuyama Valley, California",
-      "Orange County, California"
+      "Orange County, California",
+      "Sunnyvale, California"
     ],
     "location_details": [
       {
@@ -5462,6 +5619,11 @@
       },
       {
         "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sunnyvale, California",
         "country": "United States",
         "state": "California"
       }
@@ -6215,13 +6377,19 @@
       },
       "counter": "yellow-rumped-warbler-20260704-dsc00735-jpg"
     },
-    "count": 1,
+    "count": 4,
     "locations": [
-      "Lassen Volcanic National Park, California"
+      "Lassen Volcanic National Park, California",
+      "Sunnyvale, California"
     ],
     "location_details": [
       {
         "name": "Lassen Volcanic National Park, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sunnyvale, California",
         "country": "United States",
         "state": "California"
       }

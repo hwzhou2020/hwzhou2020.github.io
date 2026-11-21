@@ -1,0 +1,33 @@
+{
+  "name": "House Finch",
+  "category": "Birds",
+  "group": "Songbirds",
+  "cover": "20261120-DSC06673.jpg",
+  "description": "The House Finch is a familiar songbird of towns, gardens, and open country. Males often show red or orange on the head and breast, while females are brown and streaked. Their stout bills are suited to eating seeds, and they frequently gather in social flocks around feeding areas. Originally native to the western United States and Mexico, the species has spread widely across eastern North America after an introduction there. Its lively calls and habit of perching together make a flock easy to notice.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/House_Finch/overview"
+    }
+  ],
+  "photos": {
+    "20261120-DSC06673.jpg": {
+      "caption": "Male among the flock",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-20",
+        "precision": "city"
+      }
+    },
+    "20261120-DSC06674.jpg": {
+      "caption": "Flock perched in bare branches",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-20",
+        "precision": "city"
+      }
+    }
+  }
+}

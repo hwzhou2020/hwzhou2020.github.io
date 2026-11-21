@@ -1,0 +1,33 @@
+{
+  "name": "Northern Harrier",
+  "category": "Birds",
+  "group": "Raptors & Owls",
+  "cover": "20261120-DSC06724.jpg",
+  "description": "The Northern Harrier searches open grasslands and marshes with a low, buoyant flight, often holding its long wings in a shallow V. Its white rump patch is a useful field mark, while an owl-like facial disk helps it locate prey by sound. Small mammals and birds make up much of its diet. Adult males are gray above, while females and young birds are brown; juveniles often have warm cinnamon underparts. Harriers nest on the ground among dense vegetation, making intact grasslands and wetlands important habitat.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Northern_Harrier/overview"
+    }
+  ],
+  "photos": {
+    "20261120-DSC06723.jpg": {
+      "caption": "In flight · side view",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-20",
+        "precision": "city"
+      }
+    },
+    "20261120-DSC06724.jpg": {
+      "caption": "In flight · wings raised",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-20",
+        "precision": "city"
+      }
+    }
+  }
+}

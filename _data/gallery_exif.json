@@ -1407,6 +1407,14 @@
     "aperture": 6.3,
     "shutter": "1/4000"
   },
+  "great-egret/20261120-DSC06665.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 500,
+    "focal": 202,
+    "aperture": 5.6,
+    "shutter": "1/4000"
+  },
   "great-frigatebird/20261029-DSC03518.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -1798,6 +1806,22 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/640"
+  },
+  "house-finch/20261120-DSC06673.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/4000"
+  },
+  "house-finch/20261120-DSC06674.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/4000"
   },
   "house-sparrow/20260420-DSC03178.jpg": {
     "model": "ILCE-7CM2",
@@ -2223,6 +2247,14 @@
     "aperture": 6.3,
     "shutter": "1/2000"
   },
+  "lesser-goldfinch/20261120-DSC06658.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/4000"
+  },
   "lesser-goldfinch/Lesser Goldfinch.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -2535,6 +2567,22 @@
     "aperture": 6.3,
     "shutter": "1/800"
   },
+  "northern-harrier/20261120-DSC06723.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2000,
+    "focal": 200,
+    "aperture": 5.6,
+    "shutter": "1/4000"
+  },
+  "northern-harrier/20261120-DSC06724.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 200,
+    "aperture": 5.6,
+    "shutter": "1/4000"
+  },
   "northern-house-wren/20260415-DSC02212.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -2670,6 +2718,22 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/800"
+  },
+  "pied-billed-grebe/20261120-DSC06631.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/4000"
+  },
+  "pied-billed-grebe/20261120-DSC06632.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/4000"
   },
   "red-billed-leiothrix/20261101-DSC05906.jpg": {
     "model": "ILCE-7CM2",
@@ -3013,6 +3077,14 @@
     "iso": 400,
     "focal": 200,
     "aperture": 5.6,
+    "shutter": "1/4000"
+  },
+  "ring-billed-gull/20261120-DSC06698.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
     "shutter": "1/4000"
   },
   "rock-wren/20261001-DSC02921.jpg": {
@@ -3374,6 +3446,46 @@
     "focal": 506,
     "aperture": 6.3,
     "shutter": "1/2000"
+  },
+  "turkey-vulture/20261120-DSC06639.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/4000"
+  },
+  "turkey-vulture/20261120-DSC06700.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
+  "turkey-vulture/20261120-DSC06705.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/640"
+  },
+  "turkey-vulture/20261120-DSC06711.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/320"
+  },
+  "turkey-vulture/20261120-DSC06716.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 318,
+    "aperture": 6.3,
+    "shutter": "1/320"
   },
   "turkey-vulture/Turkey Vulture.jpg": {
     "model": "ILCE-7CM2",
@@ -3966,6 +4078,30 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/2000"
+  },
+  "yellow-rumped-warbler/20261120-DSC06611.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 160,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/400"
+  },
+  "yellow-rumped-warbler/20261120-DSC06612.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 160,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/400"
+  },
+  "yellow-rumped-warbler/20261120-DSC06654.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/4000"
   },
   "zebra-dove/20261029-DSC03312.jpg": {
     "model": "ILCE-7CM2",

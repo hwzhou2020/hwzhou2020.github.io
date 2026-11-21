@@ -1,0 +1,33 @@
+{
+  "name": "Pied-billed Grebe",
+  "category": "Birds",
+  "group": "Waterbirds",
+  "cover": "20261120-DSC06631.jpg",
+  "description": "The Pied-billed Grebe is a compact brown waterbird with a chunky head and a short, thick bill. In breeding plumage, a dark band crosses its pale bill. It lives on ponds, lakes, marshes, and slow-moving waterways, often staying close to emergent vegetation. An expert diver, it pursues fish, crustaceans, and other aquatic animals beneath the surface. Its feet sit far back on the body, helping it swim efficiently. Floating nests provide a platform for raising chicks, which may ride on a parent’s back soon after hatching.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Pied-billed_Grebe/overview"
+    }
+  ],
+  "photos": {
+    "20261120-DSC06631.jpg": {
+      "caption": "Floating with a reflection",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-20",
+        "precision": "city"
+      }
+    },
+    "20261120-DSC06632.jpg": {
+      "caption": "Swimming · side profile",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-20",
+        "precision": "city"
+      }
+    }
+  }
+}

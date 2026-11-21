@@ -68,6 +68,15 @@
         ],
         "precision": "broad outing location; no GPS coordinates"
       }
+    },
+    "20261120-DSC06658.jpg": {
+      "caption": "Male · perched among seedheads",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-20",
+        "precision": "city"
+      }
     }
   }
 }

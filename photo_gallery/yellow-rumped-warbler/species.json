@@ -20,6 +20,33 @@
         "precision": "national park",
         "note": "Photographer confirmed the July 4–5 photos were taken at Lassen National Park."
       }
+    },
+    "20261120-DSC06611.jpg": {
+      "caption": "Perched on a fence",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-20",
+        "precision": "city"
+      }
+    },
+    "20261120-DSC06612.jpg": {
+      "caption": "Perched · looking back",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-20",
+        "precision": "city"
+      }
+    },
+    "20261120-DSC06654.jpg": {
+      "caption": "Perched on a leafy shrub",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-20",
+        "precision": "city"
+      }
     }
   }
 }

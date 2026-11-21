@@ -80,6 +80,15 @@
         ],
         "precision": "broad outing location; no GPS coordinates"
       }
+    },
+    "20261120-DSC06665.jpg": {
+      "caption": "In flight over the wetland",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-20",
+        "precision": "city"
+      }
     }
   }
 }

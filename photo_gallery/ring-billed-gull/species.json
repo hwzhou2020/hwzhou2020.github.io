@@ -38,6 +38,15 @@
         ],
         "precision": "broad outing location; no GPS coordinates"
       }
+    },
+    "20261120-DSC06698.jpg": {
+      "caption": "Standing at the water’s edge",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-20",
+        "precision": "city"
+      }
     }
   }
 }
