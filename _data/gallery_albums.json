@@ -975,6 +975,26 @@
           "shutter": "1/4000"
         },
         "counter": "american-white-pelican-20260830-dsc01823-jpg"
+      },
+      {
+        "filename": "White Pelican.jpg",
+        "path": "/photo_gallery/american-white-pelican/White Pelican.jpg",
+        "thumbnail": "/assets/images/wildlife/american-white-pelican/5c799638a66b1a78e5f7cd5faab42eee8a050edd.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Two birds in flight",
+        "location": "Irvine, California",
+        "date": "2026-05-25T08:49:43",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 400,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "white-pelican-jpg"
       }
     ],
     "cover": {
@@ -997,12 +1017,18 @@
       },
       "counter": "american-white-pelican-20260830-dsc01850-jpg"
     },
-    "count": 3,
+    "count": 4,
     "locations": [
+      "Irvine, California",
       "San Francisco Bay Area, California",
       "Sunnyvale, California"
     ],
     "location_details": [
+      {
+        "name": "Irvine, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "San Francisco Bay Area, California",
         "country": "United States",
@@ -1131,26 +1157,6 @@
         "counter": "anna-s-hummingbird-20260415-dsc02594-jpg"
       },
       {
-        "filename": "Baby Hummingbird.jpg",
-        "path": "/photo_gallery/anna-s-hummingbird/Baby Hummingbird.jpg",
-        "thumbnail": "/assets/images/wildlife/anna-s-hummingbird/7d7d0318a5f8a022953d069b62df61edc815632d.webp",
-        "width": 1200,
-        "height": 800,
-        "caption": "Fledgling",
-        "location": "Orange County, California",
-        "date": "2026-04-15T02:52:43",
-        "featured": false,
-        "camera": {
-          "model": "ILCE-7CM2",
-          "lens": "FE 200-600mm F5.6-6.3 G OSS",
-          "iso": 800,
-          "focal": 600,
-          "aperture": 6.3,
-          "shutter": "1/2500"
-        },
-        "counter": "baby-hummingbird-jpg"
-      },
-      {
         "filename": "20260415-DSC02575.jpg",
         "path": "/photo_gallery/anna-s-hummingbird/20260415-DSC02575.jpg",
         "thumbnail": "/assets/images/wildlife/anna-s-hummingbird/17fe46b835af494036f7bb1f31f5990fb11ce366.webp",
@@ -1231,7 +1237,7 @@
       },
       "counter": "anna-s-hummingbird-20260415-dsc02598-jpg"
     },
-    "count": 9,
+    "count": 8,
     "locations": [
       "Orange County, California"
     ],
@@ -2570,7 +2576,7 @@
         "thumbnail": "/assets/images/wildlife/burrowing-owl/18227374b4974bbb45c4f7f971dba246198a800c.webp",
         "width": 1200,
         "height": 800,
-        "caption": "Adult · back view",
+        "caption": "Adult · resting with eyes half-closed",
         "location": "Coyote Hills Regional Park, California",
         "date": "2026-11-22T08:54:17",
         "featured": false,
@@ -2710,7 +2716,7 @@
         "thumbnail": "/assets/images/wildlife/burrowing-owl/1b9ae0eec1f17c6b1f30a8bb46229d030ed7c7ee.webp",
         "width": 1200,
         "height": 800,
-        "caption": "Adult · resting with eyes closed",
+        "caption": "Adult · glancing back from a rock",
         "location": "Coyote Hills Regional Park, California",
         "date": "2026-11-22T08:43:39",
         "featured": false,
@@ -3105,26 +3111,6 @@
           "shutter": "1/4000"
         },
         "counter": "california-brown-pelican-20260408-dsc00685-jpg"
-      },
-      {
-        "filename": "California Brown Pelican.jpg",
-        "path": "/photo_gallery/california-brown-pelican/California Brown Pelican.jpg",
-        "thumbnail": "/assets/images/wildlife/california-brown-pelican/9a3d818eba707c4de22ac27112b11dfc79eaba38.webp",
-        "width": 1200,
-        "height": 800,
-        "caption": "Adult · bill open",
-        "location": "Orange County, California",
-        "date": "2026-04-08T04:43:50",
-        "featured": false,
-        "camera": {
-          "model": "ILCE-7CM2",
-          "lens": "FE 200-600mm F5.6-6.3 G OSS",
-          "iso": 500,
-          "focal": 600,
-          "aperture": 6.3,
-          "shutter": "1/4000"
-        },
-        "counter": "california-brown-pelican-jpg"
       }
     ],
     "cover": {
@@ -3147,7 +3133,7 @@
       },
       "counter": "california-brown-pelican-20260408-dsc00713-jpg"
     },
-    "count": 6,
+    "count": 5,
     "locations": [
       "Channel Islands, California",
       "Orange County, California"
@@ -5342,7 +5328,7 @@
     ]
   },
   "dark-eyed-junco": {
-    "name": "Dark-Eyed Junco",
+    "name": "Dark-eyed Junco",
     "category": "Birds",
     "group": "Songbirds",
     "scientific_name": "",
@@ -5456,7 +5442,7 @@
     ]
   },
   "double-crested-cormorant": {
-    "name": "Double-Crested Cormorant",
+    "name": "Double-crested Cormorant",
     "category": "Birds",
     "group": "Waterbirds",
     "scientific_name": "",
@@ -6173,26 +6159,6 @@
         "counter": "foster-s-tern-20260415-dsc02969-jpg"
       },
       {
-        "filename": "Tern Rival.jpg",
-        "path": "/photo_gallery/foster-s-tern/Tern Rival.jpg",
-        "thumbnail": "/assets/images/wildlife/foster-s-tern/0538f68242e1a754c2fe1d3bc66a340cedb59aa8.webp",
-        "width": 1200,
-        "height": 800,
-        "caption": "Adults competing for a fish",
-        "location": "Orange County, California",
-        "date": "2026-04-15T05:40:49",
-        "featured": false,
-        "camera": {
-          "model": "ILCE-7CM2",
-          "lens": "FE 200-600mm F5.6-6.3 G OSS",
-          "iso": 320,
-          "focal": 600,
-          "aperture": 6.3,
-          "shutter": "1/2000"
-        },
-        "counter": "foster-s-tern-tern-rival-jpg"
-      },
-      {
         "filename": "20260415-DSC02963.jpg",
         "path": "/photo_gallery/foster-s-tern/20260415-DSC02963.jpg",
         "thumbnail": "/assets/images/wildlife/foster-s-tern/cc8de82313102bda924bcf2c00550d0f32e0e35f.webp",
@@ -6373,7 +6339,7 @@
       },
       "counter": "royal-tern-jpg"
     },
-    "count": 20,
+    "count": 19,
     "locations": [
       "Orange County, California",
       "Sunnyvale, California"
@@ -6643,26 +6609,6 @@
         "counter": "grey-heron-jpg"
       },
       {
-        "filename": "Great Blue Heron.jpg",
-        "path": "/photo_gallery/great-blue-heron/Great Blue Heron.jpg",
-        "thumbnail": "/assets/images/wildlife/great-blue-heron/62ba50dbbddc6ddbc6daceaa45b12256d9559253.webp",
-        "width": 1200,
-        "height": 800,
-        "caption": "Adult · at the shoreline",
-        "location": "Orange County, California",
-        "date": "2026-04-08T05:15:49",
-        "featured": false,
-        "camera": {
-          "model": "ILCE-7CM2",
-          "lens": "FE 200-600mm F5.6-6.3 G OSS",
-          "iso": 400,
-          "focal": 273,
-          "aperture": 5.6,
-          "shutter": "1/4000"
-        },
-        "counter": "great-blue-heron-great-blue-heron-jpg"
-      },
-      {
         "filename": "20260408-DSC00838.jpg",
         "path": "/photo_gallery/great-blue-heron/20260408-DSC00838.jpg",
         "thumbnail": "/assets/images/wildlife/great-blue-heron/4a7359b31ec63744f65c4ab9a707f6f41edd5591.webp",
@@ -6724,8 +6670,8 @@
       }
     ],
     "cover": {
-      "filename": "Great Blue Heron.jpg",
-      "path": "/photo_gallery/great-blue-heron/Great Blue Heron.jpg",
+      "filename": "20260408-DSC00854.jpg",
+      "path": "/photo_gallery/great-blue-heron/20260408-DSC00854.jpg",
       "thumbnail": "/assets/images/wildlife/great-blue-heron/62ba50dbbddc6ddbc6daceaa45b12256d9559253.webp",
       "width": 1200,
       "height": 800,
@@ -6741,9 +6687,9 @@
         "aperture": 5.6,
         "shutter": "1/4000"
       },
-      "counter": "great-blue-heron-great-blue-heron-jpg"
+      "counter": "grey-heron-jpg"
     },
-    "count": 8,
+    "count": 7,
     "locations": [
       "Coyote Hills Regional Park, California",
       "Orange County, California"
@@ -10914,14 +10860,14 @@
     ]
   },
   "night-heron": {
-    "name": "Night Heron",
+    "name": "Black-crowned Night Heron",
     "category": "Birds",
     "group": "Waterbirds",
     "scientific_name": "",
-    "description": "Night herons are relatively stocky wetland birds, often noticed resting quietly in vegetation or feeding around dusk. Their compact proportions distinguish them from many taller, longer-necked herons. The Black-crowned Night Heron, one useful comparison, hunts in freshwater, coastal, and brackish wetlands and nests in colonies. This album retains the broader 'Night Heron' label because the photographed bird's exact identification has not been confirmed. Head pattern, bill shape, age, and additional views can help resolve similar species.",
+    "description": "The Black-crowned Night Heron is a stocky, short-necked heron that often rests quietly in waterside vegetation by day and becomes more active around dusk. Adults have a black crown and back, gray wings, white underparts, and red eyes, while immatures are brown with pale spotting and streaking. It hunts in freshwater, brackish, and coastal wetlands, standing still or wading slowly before striking at fish, crustaceans, and other prey. It nests in colonies and is found across much of the world, including Hawaii, where it is known as the ʻAukuʻu.",
     "references": [
       {
-        "title": "Cornell Lab: Black-crowned Night Heron identification reference",
+        "title": "Cornell Lab of Ornithology: All About Birds",
         "url": "https://www.allaboutbirds.org/guide/Black-crowned_Night-Heron"
       }
     ],
@@ -12284,9 +12230,9 @@
     ]
   },
   "red-crowned-amazon": {
-    "name": "Red-Crowned Amazon",
+    "name": "Red-crowned Amazon",
     "category": "Birds",
-    "group": "Songbirds",
+    "group": "Other Birds",
     "scientific_name": "",
     "description": "The Red-crowned Amazon is a green parrot with a bright red forehead, pale bill, and a loud, social presence. Its native range centers on northeastern Mexico and nearby southern Texas, while established introduced populations occur in places including southern California. It feeds mainly on fruits and seeds, manipulating food with its bill and feet. Birds can be surprisingly difficult to see once they enter leafy trees, even when their calls make the flock's location obvious.",
     "references": [
@@ -12560,7 +12506,7 @@
     ]
   },
   "red-shouldered-hawk": {
-    "name": "Red-Shouldered Hawk",
+    "name": "Red-shouldered Hawk",
     "category": "Birds",
     "group": "Raptors & Owls",
     "scientific_name": "",
@@ -13086,7 +13032,7 @@
     ]
   },
   "red-whiskered-bulbul": {
-    "name": "Red-Whiskered Bulbul",
+    "name": "Red-whiskered Bulbul",
     "category": "Birds",
     "group": "Songbirds",
     "scientific_name": "",
@@ -15987,26 +15933,6 @@
         "counter": "vermilion-flycatcher-20260415-dsc02727-jpg"
       },
       {
-        "filename": "Female Vermilion Flycatcher.jpg",
-        "path": "/photo_gallery/vermilion-flycatcher/Female Vermilion Flycatcher.jpg",
-        "thumbnail": "/assets/images/wildlife/vermilion-flycatcher/e197ef21f5b97e8d6964a96d82e2fcf880673e5f.webp",
-        "width": 1200,
-        "height": 800,
-        "caption": "Female · at the nest",
-        "location": "Orange County, California",
-        "date": "2026-04-15T03:07:06",
-        "featured": false,
-        "camera": {
-          "model": "ILCE-7CM2",
-          "lens": "FE 200-600mm F5.6-6.3 G OSS",
-          "iso": 800,
-          "focal": 600,
-          "aperture": 6.3,
-          "shutter": "1/2500"
-        },
-        "counter": "female-vermilion-flycatcher-jpg"
-      },
-      {
         "filename": "20260415-DSC02699.jpg",
         "path": "/photo_gallery/vermilion-flycatcher/20260415-DSC02699.jpg",
         "thumbnail": "/assets/images/wildlife/vermilion-flycatcher/0079ba5734527cde84eb4ae7f309b8e901bc0923.webp",
@@ -16187,7 +16113,7 @@
       },
       "counter": "vermilion-flycatcher-20260415-dsc02759-jpg"
     },
-    "count": 26,
+    "count": 25,
     "locations": [
       "Orange County, California"
     ],
@@ -16906,7 +16832,7 @@
     ]
   },
   "white-crowned-sparrow": {
-    "name": "White-Crowned Sparrow",
+    "name": "White-crowned Sparrow",
     "category": "Birds",
     "group": "Songbirds",
     "scientific_name": "",
@@ -17102,74 +17028,6 @@
     "location_details": [
       {
         "name": "Orange County, California",
-        "country": "United States",
-        "state": "California"
-      }
-    ]
-  },
-  "white-pelican": {
-    "name": "White Pelican",
-    "category": "Birds",
-    "group": "Waterbirds",
-    "scientific_name": "",
-    "description": "White pelicans are large waterbirds with broad wings, substantial bills, and expandable throat pouches. In North America, the American White Pelican is the usual species, feeding from the water's surface rather than plunge-diving like a Brown Pelican. Groups may cooperate to concentrate fish in shallow water. Broad white wings with dark flight feathers are especially striking overhead. This album retains its original 'White Pelican' label; the American species provides the regional comparison rather than a newly confirmed identification.",
-    "references": [
-      {
-        "title": "Cornell Lab: American White Pelican reference",
-        "url": "https://www.allaboutbirds.org/guide/American_White_Pelican/overview"
-      }
-    ],
-    "slug": "white-pelican",
-    "url": "/wildlife-gallery/white-pelican/",
-    "photos": [
-      {
-        "filename": "White Pelican.jpg",
-        "path": "/photo_gallery/white-pelican/White Pelican.jpg",
-        "thumbnail": "/assets/images/wildlife/white-pelican/5c799638a66b1a78e5f7cd5faab42eee8a050edd.webp",
-        "width": 1200,
-        "height": 800,
-        "caption": "Two birds in flight",
-        "location": "Irvine, California",
-        "date": "2026-05-25T08:49:43",
-        "featured": false,
-        "camera": {
-          "model": "ILCE-7CM2",
-          "lens": "FE 200-600mm F5.6-6.3 G OSS",
-          "iso": 400,
-          "focal": 600,
-          "aperture": 6.3,
-          "shutter": "1/3200"
-        },
-        "counter": "white-pelican-jpg"
-      }
-    ],
-    "cover": {
-      "filename": "White Pelican.jpg",
-      "path": "/photo_gallery/white-pelican/White Pelican.jpg",
-      "thumbnail": "/assets/images/wildlife/white-pelican/5c799638a66b1a78e5f7cd5faab42eee8a050edd.webp",
-      "width": 1200,
-      "height": 800,
-      "caption": "Two birds in flight",
-      "location": "Irvine, California",
-      "date": "2026-05-25T08:49:43",
-      "featured": false,
-      "camera": {
-        "model": "ILCE-7CM2",
-        "lens": "FE 200-600mm F5.6-6.3 G OSS",
-        "iso": 400,
-        "focal": 600,
-        "aperture": 6.3,
-        "shutter": "1/3200"
-      },
-      "counter": "white-pelican-jpg"
-    },
-    "count": 1,
-    "locations": [
-      "Irvine, California"
-    ],
-    "location_details": [
-      {
-        "name": "Irvine, California",
         "country": "United States",
         "state": "California"
       }
@@ -17960,7 +17818,7 @@
     ]
   },
   "yellow-crowned-night-heron": {
-    "name": "Yellow-Crowned Night Heron",
+    "name": "Yellow-crowned Night Heron",
     "category": "Birds",
     "group": "Waterbirds",
     "scientific_name": "",

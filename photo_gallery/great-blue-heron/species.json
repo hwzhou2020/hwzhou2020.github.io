@@ -2,7 +2,7 @@
   "name": "Great Blue Heron",
   "category": "Birds",
   "group": "Waterbirds",
-  "cover": "Great Blue Heron.jpg",
+  "cover": "20260408-DSC00854.jpg",
   "description": "The Great Blue Heron is a large North American wading bird with a long neck, long legs, and a substantial pointed bill. It hunts fish and other small animals by waiting patiently or moving slowly through shallow water before striking. Wetlands, lake margins, and coastlines provide feeding habitat, while tall trees often support nesting colonies. In flight, it folds its neck into a characteristic curve. Its blue-gray plumage can look quite different as light and background change.",
   "references": [
     {
@@ -91,20 +91,6 @@
         "folder": "20260407 bird Irvine Bolsa Chica",
         "raw_files": [
           "DSC00865.ARW"
-        ],
-        "precision": "broad outing location; no GPS coordinates"
-      }
-    },
-    "Great Blue Heron.jpg": {
-      "caption": "Adult · at the shoreline",
-      "location": "Orange County, California",
-      "location_source": {
-        "type": "inferred_from_raw_outing_folder",
-        "match_method": "capture_timestamp_and_camera",
-        "capture_timestamp": "2026-04-08T05:15:49",
-        "folder": "20260407 bird Irvine Bolsa Chica",
-        "raw_files": [
-          "DSC00854.ARW"
         ],
         "precision": "broad outing location; no GPS coordinates"
       }

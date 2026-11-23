@@ -223,6 +223,14 @@
     "aperture": 6.3,
     "shutter": "1/2500"
   },
+  "american-white-pelican/White Pelican.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 400,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
   "anna-s-hummingbird/20260408-DSC09639.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -283,14 +291,6 @@
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
     "iso": 640,
-    "focal": 600,
-    "aperture": 6.3,
-    "shutter": "1/2500"
-  },
-  "anna-s-hummingbird/Baby Hummingbird.jpg": {
-    "model": "ILCE-7CM2",
-    "lens": "FE 200-600mm F5.6-6.3 G OSS",
-    "iso": 800,
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/2500"
@@ -750,14 +750,6 @@
     "focal": 600,
     "aperture": 8.0,
     "shutter": "1/640"
-  },
-  "california-brown-pelican/California Brown Pelican.jpg": {
-    "model": "ILCE-7CM2",
-    "lens": "FE 200-600mm F5.6-6.3 G OSS",
-    "iso": 500,
-    "focal": 600,
-    "aperture": 6.3,
-    "shutter": "1/4000"
   },
   "california-condor/20260506-DSC06017.jpg": {
     "model": "ILCE-7CM2",
@@ -1519,14 +1511,6 @@
     "aperture": 6.3,
     "shutter": "1/3200"
   },
-  "foster-s-tern/Tern Rival.jpg": {
-    "model": "ILCE-7CM2",
-    "lens": "FE 200-600mm F5.6-6.3 G OSS",
-    "iso": 320,
-    "focal": 600,
-    "aperture": 6.3,
-    "shutter": "1/2000"
-  },
   "foster-s-tern/Tern.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -1614,14 +1598,6 @@
     "focal": 582,
     "aperture": 6.3,
     "shutter": "1/2500"
-  },
-  "great-blue-heron/Great Blue Heron.jpg": {
-    "model": "ILCE-7CM2",
-    "lens": "FE 200-600mm F5.6-6.3 G OSS",
-    "iso": 400,
-    "focal": 273,
-    "aperture": 5.6,
-    "shutter": "1/4000"
   },
   "great-egret/20260408-DSC00455.jpg": {
     "model": "ILCE-7CM2",
@@ -3999,14 +3975,6 @@
     "aperture": 6.3,
     "shutter": "1/1600"
   },
-  "vermilion-flycatcher/Female Vermilion Flycatcher.jpg": {
-    "model": "ILCE-7CM2",
-    "lens": "FE 200-600mm F5.6-6.3 G OSS",
-    "iso": 800,
-    "focal": 600,
-    "aperture": 6.3,
-    "shutter": "1/2500"
-  },
   "vermilion-flycatcher/Vermilion Flycatcher Nest.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -4222,14 +4190,6 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/1600"
-  },
-  "white-pelican/White Pelican.jpg": {
-    "model": "ILCE-7CM2",
-    "lens": "FE 200-600mm F5.6-6.3 G OSS",
-    "iso": 400,
-    "focal": 600,
-    "aperture": 6.3,
-    "shutter": "1/3200"
   },
   "white-tailed-kite/20261122-DSC07114.jpg": {
     "model": "ILCE-7CM2",

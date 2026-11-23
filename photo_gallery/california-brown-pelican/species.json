@@ -80,21 +80,6 @@
         ],
         "precision": "broad outing location; no GPS coordinates"
       }
-    },
-    "California Brown Pelican.jpg": {
-      "caption": "Adult · bill open",
-      "location": "Orange County, California",
-      "location_source": {
-        "type": "inferred_from_raw_outing_folder",
-        "match_method": "capture_timestamp_and_camera",
-        "capture_timestamp": "2026-04-08T04:43:50",
-        "folder": "20260407 bird Irvine Bolsa Chica",
-        "raw_files": [
-          "DSC00684.ARW",
-          "DSC00685.ARW"
-        ],
-        "precision": "broad outing location; no GPS coordinates"
-      }
     }
   }
 }

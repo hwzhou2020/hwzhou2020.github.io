@@ -4,20 +4,6 @@
   "group": "Songbirds",
   "cover": "20260415-DSC02759.jpg",
   "photos": {
-    "Female Vermilion Flycatcher.jpg": {
-      "caption": "Female · at the nest",
-      "location": "Orange County, California",
-      "location_source": {
-        "type": "inferred_from_raw_outing_folder",
-        "match_method": "capture_timestamp_and_camera",
-        "capture_timestamp": "2026-04-15T03:07:06",
-        "folder": "20260414 bird huntington central park and bolsa chica",
-        "raw_files": [
-          "DSC02727.ARW"
-        ],
-        "precision": "broad outing location; no GPS coordinates"
-      }
-    },
     "Vermilion Flycatcher Nest.jpg": {
       "caption": "Male · at the nest",
       "location": "Orange County, California",

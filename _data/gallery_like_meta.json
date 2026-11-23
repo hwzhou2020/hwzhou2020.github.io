@@ -111,6 +111,10 @@
     "counter": "american-white-pelican-20261119-dsc06370-jpg",
     "fingerprint": "5f6d3aafd0e909bb7c92ed7b4a0cd7f434abf068"
   },
+  "american-white-pelican/White Pelican.jpg": {
+    "counter": "white-pelican-jpg",
+    "fingerprint": "5c799638a66b1a78e5f7cd5faab42eee8a050edd"
+  },
   "anna-s-hummingbird/20260408-DSC09639.jpg": {
     "counter": "anna-s-hummingbird-20260408-dsc09639-jpg",
     "fingerprint": "66756a75732ec7fb47971ad6a139260f455433e2"
@@ -142,10 +146,6 @@
   "anna-s-hummingbird/20260415-DSC02638.jpg": {
     "counter": "anna-s-hummingbird-20260415-dsc02638-jpg",
     "fingerprint": "56fd35582e5671f918cf55383bc364ea4dc9cb24"
-  },
-  "anna-s-hummingbird/Baby Hummingbird.jpg": {
-    "counter": "baby-hummingbird-jpg",
-    "fingerprint": "7d7d0318a5f8a022953d069b62df61edc815632d"
   },
   "barn-owl/20260525-DSC07879.jpg": {
     "counter": "barn-owl-20260525-dsc07879-jpg",
@@ -374,10 +374,6 @@
   "california-brown-pelican/20260421-DSC04309.jpg": {
     "counter": "california-brown-pelican-20260421-dsc04309-jpg",
     "fingerprint": "438bab15e97bf5b7bb84cc84d36e100e2af0c2c9"
-  },
-  "california-brown-pelican/California Brown Pelican.jpg": {
-    "counter": "california-brown-pelican-jpg",
-    "fingerprint": "9a3d818eba707c4de22ac27112b11dfc79eaba38"
   },
   "california-condor/20260506-DSC06017.jpg": {
     "counter": "california-condor-20260506-dsc06017-jpg",
@@ -759,10 +755,6 @@
     "counter": "foster-s-tern-20261119-dsc06318-jpg",
     "fingerprint": "c4df1841597c744d2b3b2ff1c10afea72ba1911b"
   },
-  "foster-s-tern/Tern Rival.jpg": {
-    "counter": "foster-s-tern-tern-rival-jpg",
-    "fingerprint": "0538f68242e1a754c2fe1d3bc66a340cedb59aa8"
-  },
   "foster-s-tern/Tern.jpg": {
     "counter": "royal-tern-jpg",
     "fingerprint": "d925c9ef8e66b82f210b48a40c4a208fc3e3d0c8"
@@ -806,10 +798,6 @@
   "great-blue-heron/20261122-DSC07775.jpg": {
     "counter": "great-blue-heron-20261122-dsc07775-jpg",
     "fingerprint": "e89b655b44ee5020d8b75f8986d549348dcdeb8b"
-  },
-  "great-blue-heron/Great Blue Heron.jpg": {
-    "counter": "great-blue-heron-great-blue-heron-jpg",
-    "fingerprint": "62ba50dbbddc6ddbc6daceaa45b12256d9559253"
   },
   "great-egret/20260408-DSC00455.jpg": {
     "counter": "great-egret-20260408-dsc00455-jpg",
@@ -1999,10 +1987,6 @@
     "counter": "vermilion-flycatcher-20260415-dsc02824-jpg",
     "fingerprint": "823c870be032667254f39086fb2cf4bab1a935ea"
   },
-  "vermilion-flycatcher/Female Vermilion Flycatcher.jpg": {
-    "counter": "female-vermilion-flycatcher-jpg",
-    "fingerprint": "e197ef21f5b97e8d6964a96d82e2fcf880673e5f"
-  },
   "vermilion-flycatcher/Vermilion Flycatcher Nest.jpg": {
     "counter": "vermilion-flycatcher-nest-jpg",
     "fingerprint": "7e314e2d4250923545d3b2237b7381dcc9315a48"
@@ -2110,10 +2094,6 @@
   "white-faced-ibis/White-faced Ibis.jpg": {
     "counter": "white-faced-ibis-jpg",
     "fingerprint": "1cf34a4ae1455137a2f6d6948360485b86d5d307"
-  },
-  "white-pelican/White Pelican.jpg": {
-    "counter": "white-pelican-jpg",
-    "fingerprint": "5c799638a66b1a78e5f7cd5faab42eee8a050edd"
   },
   "white-tailed-kite/20261122-DSC07114.jpg": {
     "counter": "white-tailed-kite-20261122-dsc07114-jpg",

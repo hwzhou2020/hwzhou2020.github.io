@@ -419,12 +419,18 @@
       },
       "counter": "american-white-pelican-20260830-dsc01850-jpg"
     },
-    "count": 3,
+    "count": 4,
     "locations": [
+      "Irvine, California",
       "San Francisco Bay Area, California",
       "Sunnyvale, California"
     ],
     "location_details": [
+      {
+        "name": "Irvine, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "San Francisco Bay Area, California",
         "country": "United States",
@@ -471,7 +477,7 @@
       },
       "counter": "anna-s-hummingbird-20260415-dsc02598-jpg"
     },
-    "count": 9,
+    "count": 8,
     "locations": [
       "Orange County, California"
     ],
@@ -728,6 +734,58 @@
         "name": "Irvine, California",
         "country": "United States",
         "state": "California"
+      }
+    ]
+  },
+  {
+    "name": "Black-crowned Night Heron",
+    "category": "Birds",
+    "group": "Waterbirds",
+    "scientific_name": "",
+    "description": "The Black-crowned Night Heron is a stocky, short-necked heron that often rests quietly in waterside vegetation by day and becomes more active around dusk. Adults have a black crown and back, gray wings, white underparts, and red eyes, while immatures are brown with pale spotting and streaking. It hunts in freshwater, brackish, and coastal wetlands, standing still or wading slowly before striking at fish, crustaceans, and other prey. It nests in colonies and is found across much of the world, including Hawaii, where it is known as the ʻAukuʻu.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Black-crowned_Night-Heron"
+      }
+    ],
+    "slug": "night-heron",
+    "url": "/wildlife-gallery/night-heron/",
+    "cover": {
+      "filename": "20261029-DSC03194.jpg",
+      "path": "/photo_gallery/night-heron/20261029-DSC03194.jpg",
+      "thumbnail": "/assets/images/wildlife/night-heron/45d1c0973e3b5f4d3ef153c7de93d27041c3bf59.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Immature · wading",
+      "location": "Maui, Hawaii",
+      "date": "2026-10-29T13:19:21",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 250,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/2500"
+      },
+      "counter": "night-heron-20261029-dsc03194-jpg"
+    },
+    "count": 5,
+    "locations": [
+      "Los Angeles County Arboretum, California",
+      "Maui, Hawaii"
+    ],
+    "location_details": [
+      {
+        "name": "Los Angeles County Arboretum, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
       }
     ]
   },
@@ -1197,7 +1255,7 @@
       },
       "counter": "california-brown-pelican-20260408-dsc00713-jpg"
     },
-    "count": 6,
+    "count": 5,
     "locations": [
       "Channel Islands, California",
       "Orange County, California"
@@ -2192,7 +2250,7 @@
     ]
   },
   {
-    "name": "Dark-Eyed Junco",
+    "name": "Dark-eyed Junco",
     "category": "Birds",
     "group": "Songbirds",
     "scientific_name": "",
@@ -2244,7 +2302,7 @@
     ]
   },
   {
-    "name": "Double-Crested Cormorant",
+    "name": "Double-crested Cormorant",
     "category": "Birds",
     "group": "Waterbirds",
     "scientific_name": "",
@@ -2433,7 +2491,7 @@
       },
       "counter": "royal-tern-jpg"
     },
-    "count": 20,
+    "count": 19,
     "locations": [
       "Orange County, California",
       "Sunnyvale, California"
@@ -2558,8 +2616,8 @@
     "slug": "great-blue-heron",
     "url": "/wildlife-gallery/great-blue-heron/",
     "cover": {
-      "filename": "Great Blue Heron.jpg",
-      "path": "/photo_gallery/great-blue-heron/Great Blue Heron.jpg",
+      "filename": "20260408-DSC00854.jpg",
+      "path": "/photo_gallery/great-blue-heron/20260408-DSC00854.jpg",
       "thumbnail": "/assets/images/wildlife/great-blue-heron/62ba50dbbddc6ddbc6daceaa45b12256d9559253.webp",
       "width": 1200,
       "height": 800,
@@ -2575,9 +2633,9 @@
         "aperture": 5.6,
         "shutter": "1/4000"
       },
-      "counter": "great-blue-heron-great-blue-heron-jpg"
+      "counter": "grey-heron-jpg"
     },
-    "count": 8,
+    "count": 7,
     "locations": [
       "Coyote Hills Regional Park, California",
       "Orange County, California"
@@ -3874,58 +3932,6 @@
     ]
   },
   {
-    "name": "Night Heron",
-    "category": "Birds",
-    "group": "Waterbirds",
-    "scientific_name": "",
-    "description": "Night herons are relatively stocky wetland birds, often noticed resting quietly in vegetation or feeding around dusk. Their compact proportions distinguish them from many taller, longer-necked herons. The Black-crowned Night Heron, one useful comparison, hunts in freshwater, coastal, and brackish wetlands and nests in colonies. This album retains the broader 'Night Heron' label because the photographed bird's exact identification has not been confirmed. Head pattern, bill shape, age, and additional views can help resolve similar species.",
-    "references": [
-      {
-        "title": "Cornell Lab: Black-crowned Night Heron identification reference",
-        "url": "https://www.allaboutbirds.org/guide/Black-crowned_Night-Heron"
-      }
-    ],
-    "slug": "night-heron",
-    "url": "/wildlife-gallery/night-heron/",
-    "cover": {
-      "filename": "20261029-DSC03194.jpg",
-      "path": "/photo_gallery/night-heron/20261029-DSC03194.jpg",
-      "thumbnail": "/assets/images/wildlife/night-heron/45d1c0973e3b5f4d3ef153c7de93d27041c3bf59.webp",
-      "width": 1200,
-      "height": 800,
-      "caption": "Immature · wading",
-      "location": "Maui, Hawaii",
-      "date": "2026-10-29T13:19:21",
-      "featured": false,
-      "camera": {
-        "model": "ILCE-7CM2",
-        "lens": "FE 200-600mm F5.6-6.3 G OSS",
-        "iso": 250,
-        "focal": 600,
-        "aperture": 6.3,
-        "shutter": "1/2500"
-      },
-      "counter": "night-heron-20261029-dsc03194-jpg"
-    },
-    "count": 5,
-    "locations": [
-      "Los Angeles County Arboretum, California",
-      "Maui, Hawaii"
-    ],
-    "location_details": [
-      {
-        "name": "Los Angeles County Arboretum, California",
-        "country": "United States",
-        "state": "California"
-      },
-      {
-        "name": "Maui, Hawaii",
-        "country": "United States",
-        "state": "Hawaii"
-      }
-    ]
-  },
-  {
     "name": "Northern Cardinal",
     "category": "Birds",
     "group": "Songbirds",
@@ -4582,9 +4588,9 @@
     ]
   },
   {
-    "name": "Red-Crowned Amazon",
+    "name": "Red-crowned Amazon",
     "category": "Birds",
-    "group": "Songbirds",
+    "group": "Other Birds",
     "scientific_name": "",
     "description": "The Red-crowned Amazon is a green parrot with a bright red forehead, pale bill, and a loud, social presence. Its native range centers on northeastern Mexico and nearby southern Texas, while established introduced populations occur in places including southern California. It feeds mainly on fruits and seeds, manipulating food with its bill and feet. Birds can be surprisingly difficult to see once they enter leafy trees, even when their calls make the flock's location obvious.",
     "references": [
@@ -4628,7 +4634,7 @@
     ]
   },
   {
-    "name": "Red-Shouldered Hawk",
+    "name": "Red-shouldered Hawk",
     "category": "Birds",
     "group": "Raptors & Owls",
     "scientific_name": "",
@@ -4750,7 +4756,7 @@
     ]
   },
   {
-    "name": "Red-Whiskered Bulbul",
+    "name": "Red-whiskered Bulbul",
     "category": "Birds",
     "group": "Songbirds",
     "scientific_name": "",
@@ -5883,7 +5889,7 @@
       },
       "counter": "vermilion-flycatcher-20260415-dsc02759-jpg"
     },
-    "count": 26,
+    "count": 25,
     "locations": [
       "Orange County, California"
     ],
@@ -6190,53 +6196,7 @@
     ]
   },
   {
-    "name": "White Pelican",
-    "category": "Birds",
-    "group": "Waterbirds",
-    "scientific_name": "",
-    "description": "White pelicans are large waterbirds with broad wings, substantial bills, and expandable throat pouches. In North America, the American White Pelican is the usual species, feeding from the water's surface rather than plunge-diving like a Brown Pelican. Groups may cooperate to concentrate fish in shallow water. Broad white wings with dark flight feathers are especially striking overhead. This album retains its original 'White Pelican' label; the American species provides the regional comparison rather than a newly confirmed identification.",
-    "references": [
-      {
-        "title": "Cornell Lab: American White Pelican reference",
-        "url": "https://www.allaboutbirds.org/guide/American_White_Pelican/overview"
-      }
-    ],
-    "slug": "white-pelican",
-    "url": "/wildlife-gallery/white-pelican/",
-    "cover": {
-      "filename": "White Pelican.jpg",
-      "path": "/photo_gallery/white-pelican/White Pelican.jpg",
-      "thumbnail": "/assets/images/wildlife/white-pelican/5c799638a66b1a78e5f7cd5faab42eee8a050edd.webp",
-      "width": 1200,
-      "height": 800,
-      "caption": "Two birds in flight",
-      "location": "Irvine, California",
-      "date": "2026-05-25T08:49:43",
-      "featured": false,
-      "camera": {
-        "model": "ILCE-7CM2",
-        "lens": "FE 200-600mm F5.6-6.3 G OSS",
-        "iso": 400,
-        "focal": 600,
-        "aperture": 6.3,
-        "shutter": "1/3200"
-      },
-      "counter": "white-pelican-jpg"
-    },
-    "count": 1,
-    "locations": [
-      "Irvine, California"
-    ],
-    "location_details": [
-      {
-        "name": "Irvine, California",
-        "country": "United States",
-        "state": "California"
-      }
-    ]
-  },
-  {
-    "name": "White-Crowned Sparrow",
+    "name": "White-crowned Sparrow",
     "category": "Birds",
     "group": "Songbirds",
     "scientific_name": "",
@@ -6530,7 +6490,7 @@
     ]
   },
   {
-    "name": "Yellow-Crowned Night Heron",
+    "name": "Yellow-crowned Night Heron",
     "category": "Birds",
     "group": "Waterbirds",
     "scientific_name": "",
