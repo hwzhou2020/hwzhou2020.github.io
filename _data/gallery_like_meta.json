@@ -67,6 +67,22 @@
     "counter": "american-goldfinch-jpg",
     "fingerprint": "eb3d1cee317eb5d7164fc28ad87a3a8a859666ec"
   },
+  "american-kestrel/20261122-DSC07670X.jpg": {
+    "counter": "american-kestrel-20261122-dsc07670x-jpg",
+    "fingerprint": "a0e4901c3dcf697e3a35def5cd1f9d81f7f3ab49"
+  },
+  "american-kestrel/20261122-DSC07677.jpg": {
+    "counter": "american-kestrel-20261122-dsc07677-jpg",
+    "fingerprint": "2dd9fcd0d829bd359820a8ae943734abd8fed3db"
+  },
+  "american-kestrel/20261122-DSC07679.jpg": {
+    "counter": "american-kestrel-20261122-dsc07679-jpg",
+    "fingerprint": "e3344e738a57b9d4727fe15cb6b3b03ff54ec76f"
+  },
+  "american-kestrel/20261122-DSC07682X.jpg": {
+    "counter": "american-kestrel-20261122-dsc07682x-jpg",
+    "fingerprint": "b3baf0f06e20a2352982fcd172bba50044502dbf"
+  },
   "american-robin/20260322-DSC07638.jpg": {
     "counter": "american-robin-20260322-dsc07638-jpg",
     "fingerprint": "3c6dbb36ece326bdaccf0cd0d5ff94f5dd046343"
@@ -254,6 +270,82 @@
   "brewer-s-blackbird/Brewer's Blackbird.jpg": {
     "counter": "brewer-s-blackbird-jpg",
     "fingerprint": "44a0d3094bc15cc0c8b1e55d68f78c2d87e4d60f"
+  },
+  "burrowing-owl/20261122-DSC06750.jpg": {
+    "counter": "burrowing-owl-20261122-dsc06750-jpg",
+    "fingerprint": "228e6b24d90950e1345e08c9e71cd4e24a4fdf25"
+  },
+  "burrowing-owl/20261122-DSC06801.jpg": {
+    "counter": "burrowing-owl-20261122-dsc06801-jpg",
+    "fingerprint": "fca155229bb490c70a718d7e0f13911339834f97"
+  },
+  "burrowing-owl/20261122-DSC06836.jpg": {
+    "counter": "burrowing-owl-20261122-dsc06836-jpg",
+    "fingerprint": "251ba5d3f54a2e41f20f1c173e34f87d8a2f068f"
+  },
+  "burrowing-owl/20261122-DSC06859.jpg": {
+    "counter": "burrowing-owl-20261122-dsc06859-jpg",
+    "fingerprint": "bb5345c204275c7fdbee9182eb1d241ef63d18fd"
+  },
+  "burrowing-owl/20261122-DSC06869.jpg": {
+    "counter": "burrowing-owl-20261122-dsc06869-jpg",
+    "fingerprint": "89c7b2cdd778db52fd553bf9ae401d00b747ee84"
+  },
+  "burrowing-owl/20261122-DSC06888.jpg": {
+    "counter": "burrowing-owl-20261122-dsc06888-jpg",
+    "fingerprint": "ec0904112a8508147139556a21beb4bc70ff728d"
+  },
+  "burrowing-owl/20261122-DSC06906.jpg": {
+    "counter": "burrowing-owl-20261122-dsc06906-jpg",
+    "fingerprint": "154c44551b72ebb81b1e045930f3aee92c0173e1"
+  },
+  "burrowing-owl/20261122-DSC06914.jpg": {
+    "counter": "burrowing-owl-20261122-dsc06914-jpg",
+    "fingerprint": "1b9ae0eec1f17c6b1f30a8bb46229d030ed7c7ee"
+  },
+  "burrowing-owl/20261122-DSC06924.jpg": {
+    "counter": "burrowing-owl-20261122-dsc06924-jpg",
+    "fingerprint": "aff0a33b48abaa1fc28e147911d251a0bbdb5631"
+  },
+  "burrowing-owl/20261122-DSC06929.jpg": {
+    "counter": "burrowing-owl-20261122-dsc06929-jpg",
+    "fingerprint": "35de371ebf22dd78c42f799cd68be0cf1b0dca6e"
+  },
+  "burrowing-owl/20261122-DSC06934.jpg": {
+    "counter": "burrowing-owl-20261122-dsc06934-jpg",
+    "fingerprint": "1875fda500f7d7464fe17d5eae7d49d38a81b1f5"
+  },
+  "burrowing-owl/20261122-DSC06960.jpg": {
+    "counter": "burrowing-owl-20261122-dsc06960-jpg",
+    "fingerprint": "a2a20d882ea0cc96659ef6db42d781122a090dfb"
+  },
+  "burrowing-owl/20261122-DSC06989.jpg": {
+    "counter": "burrowing-owl-20261122-dsc06989-jpg",
+    "fingerprint": "f774ec3458cf6bec3575c260ece4c83b7016e3de"
+  },
+  "burrowing-owl/20261122-DSC06996.jpg": {
+    "counter": "burrowing-owl-20261122-dsc06996-jpg",
+    "fingerprint": "4ecd1841200ad6dd737dc81938d09375fa0f1877"
+  },
+  "burrowing-owl/20261122-DSC06999.jpg": {
+    "counter": "burrowing-owl-20261122-dsc06999-jpg",
+    "fingerprint": "18227374b4974bbb45c4f7f971dba246198a800c"
+  },
+  "burrowing-owl/20261122-DSC07020.jpg": {
+    "counter": "burrowing-owl-20261122-dsc07020-jpg",
+    "fingerprint": "0911912aac2f70b23dab814033978770a0fc2374"
+  },
+  "burrowing-owl/20261122-DSC07032.jpg": {
+    "counter": "burrowing-owl-20261122-dsc07032-jpg",
+    "fingerprint": "0f167e6e5629f5b64dd73f0383f8bffc1053c084"
+  },
+  "burrowing-owl/20261122-DSC07048.jpg": {
+    "counter": "burrowing-owl-20261122-dsc07048-jpg",
+    "fingerprint": "3f6dccdaee0ebfeef2c78b8ae5407fe4a79c817f"
+  },
+  "burrowing-owl/20261122-DSC07077.jpg": {
+    "counter": "burrowing-owl-20261122-dsc07077-jpg",
+    "fingerprint": "8ba003c79a5c0c1caf0b42b22d29127fbd309c8f"
   },
   "bushtit/20260525-DSC08331.jpg": {
     "counter": "bushtit-20260525-dsc08331-jpg",
@@ -491,9 +583,41 @@
     "counter": "cooper-s-hawk-20261119-dsc06603-jpg",
     "fingerprint": "ae6066b7afcf1c6a9cc01a1ef57f51793fb15dc9"
   },
+  "cooper-s-hawk/20261122-DSC07894.jpg": {
+    "counter": "cooper-s-hawk-20261122-dsc07894-jpg",
+    "fingerprint": "c059da5cc79bb2eabae42155668494afe8ba8781"
+  },
+  "cooper-s-hawk/20261122-DSC07896.jpg": {
+    "counter": "cooper-s-hawk-20261122-dsc07896-jpg",
+    "fingerprint": "ac8c243ae3c9b9e16ef5a418d31a13fbdd08077c"
+  },
+  "cooper-s-hawk/20261122-DSC07912.jpg": {
+    "counter": "cooper-s-hawk-20261122-dsc07912-jpg",
+    "fingerprint": "ef6c403ac22d834063b137f284e6478d0a3ee581"
+  },
+  "cooper-s-hawk/20261122-DSC07917.jpg": {
+    "counter": "cooper-s-hawk-20261122-dsc07917-jpg",
+    "fingerprint": "37bc570ed331269e35280203bdea744cf9a84b5b"
+  },
+  "cooper-s-hawk/20261122-DSC07924.jpg": {
+    "counter": "cooper-s-hawk-20261122-dsc07924-jpg",
+    "fingerprint": "f501bec60741fa76785e5fceb3e115a7e6c3a1f1"
+  },
+  "cooper-s-hawk/20261122-DSC07950.jpg": {
+    "counter": "cooper-s-hawk-20261122-dsc07950-jpg",
+    "fingerprint": "ba7d4b9bb8a0b6fd1482c9f95b7db466c74efeca"
+  },
+  "cooper-s-hawk/20261122-DSC07970.jpg": {
+    "counter": "cooper-s-hawk-20261122-dsc07970-jpg",
+    "fingerprint": "8da863a3e52dd691f90ca596ae0a8ccca0a472b9"
+  },
   "dark-eyed-junco/20260322-DSC07707.jpg": {
     "counter": "dark-eyed-junco-20260322-dsc07707-jpg",
     "fingerprint": "39fcccecb7188101a1634ccc2d1a0fe64af525f6"
+  },
+  "dark-eyed-junco/20261122-DSC07656.jpg": {
+    "counter": "dark-eyed-junco-20261122-dsc07656-jpg",
+    "fingerprint": "d4a82a80e67abc36f7ba36797fe3f6482f577338"
   },
   "dark-eyed-junco/Dark-Eyed Junco.jpg": {
     "counter": "dark-eyed-junco-jpg",
@@ -678,6 +802,10 @@
   "great-blue-heron/20260408-DSC00865.jpg": {
     "counter": "great-blue-heron-20260408-dsc00865-jpg",
     "fingerprint": "dcf5f9fa300a6e263b6008ec695d3b0412eff276"
+  },
+  "great-blue-heron/20261122-DSC07775.jpg": {
+    "counter": "great-blue-heron-20261122-dsc07775-jpg",
+    "fingerprint": "e89b655b44ee5020d8b75f8986d549348dcdeb8b"
   },
   "great-blue-heron/Great Blue Heron.jpg": {
     "counter": "great-blue-heron-great-blue-heron-jpg",
@@ -1131,6 +1259,10 @@
     "counter": "lesser-goldfinch-jpg",
     "fingerprint": "515740c9f7a1a73177b203c0e4b1fbb1e70a5160"
   },
+  "little-bear-beetle/20260316-DSC07144.jpg": {
+    "counter": "little-bear-beetle-20260316-dsc07144-jpg",
+    "fingerprint": "108b2c51ebd9f3f83a05114f80cbe8202457211d"
+  },
   "little-blue-heron/20260415-DSC02895.jpg": {
     "counter": "little-blue-heron-20260415-dsc02895-jpg",
     "fingerprint": "b82e13fa0cb1d250b4fc4841415154a4c00546d1"
@@ -1298,6 +1430,10 @@
   "northern-mockingbird/20260424-DSC04692.jpg": {
     "counter": "northern-mockingbird-20260424-dsc04692-jpg",
     "fingerprint": "db8de584c0b94f80235c87a44f50d029bcc695c3"
+  },
+  "northern-mockingbird/20261122-DSC07099.jpg": {
+    "counter": "northern-mockingbird-20261122-dsc07099-jpg",
+    "fingerprint": "d83e4942fb51156fc12e2de1940db5f77f3dedd0"
   },
   "northern-mockingbird/Northern Mockingbird.jpg": {
     "counter": "northern-mockingbird-jpg",
@@ -1478,6 +1614,14 @@
   "red-tailed-hawk/20260830-DSC01972.jpg": {
     "counter": "red-tailed-hawk-20260830-dsc01972-jpg",
     "fingerprint": "3d9eebb3c7606383c2993019e3a12f3a1afd0e86"
+  },
+  "red-tailed-hawk/20261122-DSC07845.jpg": {
+    "counter": "red-tailed-hawk-20261122-dsc07845-jpg",
+    "fingerprint": "93eac6be77ece6fbd5aa2e0a1fbb7e3a4d085e4c"
+  },
+  "red-tailed-hawk/20261122-DSC07850.jpg": {
+    "counter": "red-tailed-hawk-20261122-dsc07850-jpg",
+    "fingerprint": "19d5bd1dd04c01812473198f4c5582c0d0f9649c"
   },
   "red-tailed-hawk/Red-tailed Hawk.jpg": {
     "counter": "red-tailed-hawk-jpg",
@@ -1743,6 +1887,18 @@
     "counter": "turkey-vulture-20261120-dsc06716-jpg",
     "fingerprint": "4a1715516e14a5242182abea6f81e6d0e67a2b3e"
   },
+  "turkey-vulture/20261122-DSC07708.jpg": {
+    "counter": "turkey-vulture-20261122-dsc07708-jpg",
+    "fingerprint": "10a860e4a53c2b867635e8a90dded32741a21f43"
+  },
+  "turkey-vulture/20261122-DSC07724.jpg": {
+    "counter": "turkey-vulture-20261122-dsc07724-jpg",
+    "fingerprint": "521fde15bd9438cc83092e5abbfb8a3c1d314762"
+  },
+  "turkey-vulture/20261122-DSC07739.jpg": {
+    "counter": "turkey-vulture-20261122-dsc07739-jpg",
+    "fingerprint": "a0c1dbd0251db7aa8ff52158c378c1a109e56377"
+  },
   "turkey-vulture/Turkey Vulture.jpg": {
     "counter": "turkey-vulture-jpg",
     "fingerprint": "34e0c73aec6f88238381a5dda63c958b979cb2ec"
@@ -1959,6 +2115,82 @@
     "counter": "white-pelican-jpg",
     "fingerprint": "5c799638a66b1a78e5f7cd5faab42eee8a050edd"
   },
+  "white-tailed-kite/20261122-DSC07114.jpg": {
+    "counter": "white-tailed-kite-20261122-dsc07114-jpg",
+    "fingerprint": "f9110701d54b3207d6d1b49a4b96deca375e1ad8"
+  },
+  "white-tailed-kite/20261122-DSC07148.jpg": {
+    "counter": "white-tailed-kite-20261122-dsc07148-jpg",
+    "fingerprint": "df9d02da71ac5a7f53066505de55e1b5d0319060"
+  },
+  "white-tailed-kite/20261122-DSC07226.jpg": {
+    "counter": "white-tailed-kite-20261122-dsc07226-jpg",
+    "fingerprint": "3c60c3b27e57165befea5065a818c177576d9e88"
+  },
+  "white-tailed-kite/20261122-DSC07228.jpg": {
+    "counter": "white-tailed-kite-20261122-dsc07228-jpg",
+    "fingerprint": "666bf25b0995aaa4721e779b44c6ceb68ae4be82"
+  },
+  "white-tailed-kite/20261122-DSC07369.jpg": {
+    "counter": "white-tailed-kite-20261122-dsc07369-jpg",
+    "fingerprint": "31cfa756898b54ff6d3b6e1feb4405493afc0df0"
+  },
+  "white-tailed-kite/20261122-DSC07372.jpg": {
+    "counter": "white-tailed-kite-20261122-dsc07372-jpg",
+    "fingerprint": "a2b8f39df815935378d2a0bcdc34c9b0da6272eb"
+  },
+  "white-tailed-kite/20261122-DSC07409.jpg": {
+    "counter": "white-tailed-kite-20261122-dsc07409-jpg",
+    "fingerprint": "c21fc2a351b81c108a2ac2dd8247d618fff4c6d9"
+  },
+  "white-tailed-kite/20261122-DSC07421.jpg": {
+    "counter": "white-tailed-kite-20261122-dsc07421-jpg",
+    "fingerprint": "cfba37845d55a496f49d2357da9b46ce7c451753"
+  },
+  "white-tailed-kite/20261122-DSC07433.jpg": {
+    "counter": "white-tailed-kite-20261122-dsc07433-jpg",
+    "fingerprint": "9797131bf9d677ba0aa5624dacc7688cc5dd704f"
+  },
+  "white-tailed-kite/20261122-DSC07436.jpg": {
+    "counter": "white-tailed-kite-20261122-dsc07436-jpg",
+    "fingerprint": "2930ad1e89a0f21266dc4f136b61f22a29c1598a"
+  },
+  "white-tailed-kite/20261122-DSC07445.jpg": {
+    "counter": "white-tailed-kite-20261122-dsc07445-jpg",
+    "fingerprint": "7e8712dbd4220f35e7ec32a296141537a2b0f62d"
+  },
+  "white-tailed-kite/20261122-DSC07457.jpg": {
+    "counter": "white-tailed-kite-20261122-dsc07457-jpg",
+    "fingerprint": "95d7051c4b12ea6f94f5a04b55ccb40492fd2f77"
+  },
+  "white-tailed-kite/20261122-DSC07459.jpg": {
+    "counter": "white-tailed-kite-20261122-dsc07459-jpg",
+    "fingerprint": "97c420a02fc0b9d9b4f2a499c5122da600592d23"
+  },
+  "white-tailed-kite/20261122-DSC07593.jpg": {
+    "counter": "white-tailed-kite-20261122-dsc07593-jpg",
+    "fingerprint": "fe076452a6c3118c498897dcb6f93b4a0b2d87c6"
+  },
+  "white-tailed-kite/20261122-DSC07599.jpg": {
+    "counter": "white-tailed-kite-20261122-dsc07599-jpg",
+    "fingerprint": "601e8dff8292c4eb399440db5389de10d170eb9e"
+  },
+  "white-tailed-kite/20261122-DSC07603.jpg": {
+    "counter": "white-tailed-kite-20261122-dsc07603-jpg",
+    "fingerprint": "e0d21d947e9a9fa2860b66fc0f229db595cd13ab"
+  },
+  "white-tailed-kite/20261122-DSC07607.jpg": {
+    "counter": "white-tailed-kite-20261122-dsc07607-jpg",
+    "fingerprint": "4fa304dd33edc8bae5baf0eb3dcf8efc9e59867f"
+  },
+  "white-tailed-kite/20261122-DSC07615.jpg": {
+    "counter": "white-tailed-kite-20261122-dsc07615-jpg",
+    "fingerprint": "2562c07eb8e7bb5229bea971ce604313e58fa429"
+  },
+  "white-tailed-kite/20261122-DSC07627.jpg": {
+    "counter": "white-tailed-kite-20261122-dsc07627-jpg",
+    "fingerprint": "2110e0748d70606db9390e1e18db83697e754937"
+  },
   "wild-turkey/20240717-HWZ_4435.jpg": {
     "counter": "wild-turkey-20240717-hwz-4435-jpg",
     "fingerprint": "5919a56c4f06314e325e20e87f91e116c553c750"
@@ -1971,9 +2203,17 @@
     "counter": "wild-turkey-20240717-hwz-4465-jpg",
     "fingerprint": "cffe91fb8f296d98383c0c1079563d2d356a72b8"
   },
+  "wild-turkey/20261122-DSC07129.jpg": {
+    "counter": "wild-turkey-20261122-dsc07129-jpg",
+    "fingerprint": "d373c19ccdd0ea0b37ba868c93dca8831152e6f3"
+  },
   "willet/20260408-DSC00993.jpg": {
     "counter": "willet-20260408-dsc00993-jpg",
     "fingerprint": "92225fcaf10846ede6a2eec47398c15e2ceea2ce"
+  },
+  "willet/20261122-DSC06780.jpg": {
+    "counter": "willet-20261122-dsc06780-jpg",
+    "fingerprint": "dbae51602ab29a0adddb8f2557520cb4963b7bcf"
   },
   "willet/Willet.jpg": {
     "counter": "willet-jpg",

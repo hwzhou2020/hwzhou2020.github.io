@@ -35,6 +35,15 @@
         "folder": "20260215 1st birding",
         "note": "Photographer confirmed this outing as Pico Rivera, California."
       }
+    },
+    "20261122-DSC07099.jpg": {
+      "caption": "Perched among leafy branches",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
     }
   }
 }

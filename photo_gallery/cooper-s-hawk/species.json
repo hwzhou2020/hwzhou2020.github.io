@@ -2,7 +2,7 @@
   "name": "Cooper's Hawk",
   "category": "Birds",
   "group": "Raptors & Owls",
-  "cover": "20261119-DSC06603.jpg",
+  "cover": "20261122-DSC07970.jpg",
   "description": "Cooper's Hawk is an agile hunter that pursues other birds through woodland and around forest edges. Its long tail and bursts of wingbeats followed by glides offer useful clues when it passes overhead. Although often elusive among trees, it also inhabits towns and suburbs, where smaller birds provide abundant prey. Females are larger than males. A quiet perched bird can be easy to overlook, making a patient scan of branches worthwhile before looking for its next sudden flight.",
   "references": [
     {
@@ -23,6 +23,69 @@
           "DSC06603.ARW"
         ],
         "precision": "broad outing location; no GPS coordinates"
+      }
+    },
+    "20261122-DSC07894.jpg": {
+      "caption": "Juvenile · looking down",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07896.jpg": {
+      "caption": "Juvenile · perched in bare branches",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07912.jpg": {
+      "caption": "Juvenile · scanning from a branch",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07917.jpg": {
+      "caption": "Juvenile · looking overhead",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07924.jpg": {
+      "caption": "Juvenile · looking back",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07950.jpg": {
+      "caption": "Juvenile · perched portrait",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07970.jpg": {
+      "caption": "Juvenile · side portrait",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
       }
     }
   }

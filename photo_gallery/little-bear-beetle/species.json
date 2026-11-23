@@ -1,0 +1,23 @@
+{
+  "name": "Little Bear Beetle",
+  "category": "Insects",
+  "cover": "20260316-DSC07144.jpg",
+  "description": "The Little Bear Beetle is a scarab whose dense body hairs give it a furry appearance. It belongs to Paracotalpa, a group found in the western United States. These beetles combine a stout body with wing covers and a darker thorax, where close views can reveal metallic tones beneath the hairs. This photograph shows an individual among purple flowers, highlighting the contrast between its textured body and the delicate blossoms. Small flower visitors like this reward a closer look during a spring walk.",
+  "references": [
+    {
+      "title": "University of Nebraska State Museum: Paracotalpa",
+      "url": "https://unsm-ento.unl.edu/Guide/Scarabaeoidea/Scarabaeidae/Rutelinae/Rutelinae-Tribes/Rutelini/Areodina/Areodina-generic-pages/Paracotalpa/Paracotalpa.html"
+    }
+  ],
+  "photos": {
+    "20260316-DSC07144.jpg": {
+      "caption": "Among purple flowers",
+      "location": "Cuyama Valley, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-03-16",
+        "precision": "valley"
+      }
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "name": "White-tailed Kite",
+  "category": "Birds",
+  "group": "Raptors & Owls",
+  "cover": "20261122-DSC07369.jpg",
+  "description": "The White-tailed Kite is a pale raptor of grasslands and open landscapes, with white underparts and tail, gray upperparts, and distinctive black shoulder patches. Its characteristic hunting technique is to hover into the wind, looking down for small mammals moving below. This suspended flight can make the bird seem almost stationary above a field. In the United States, California is one of its principal strongholds. Outside the breeding season, kites may gather to roost together in trees or tall shrubs near their hunting grounds.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/White-tailed_Kite/overview"
+    }
+  ],
+  "photos": {
+    "20261122-DSC07114.jpg": {
+      "caption": "Adult · perched among branches",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07148.jpg": {
+      "caption": "Adult · in flight",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07226.jpg": {
+      "caption": "Adult · watching through the branches",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07228.jpg": {
+      "caption": "Adult · perched in a tree",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07369.jpg": {
+      "caption": "Adult · hovering over the wetland",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07372.jpg": {
+      "caption": "Adult · hunting over the wetland",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07409.jpg": {
+      "caption": "Adult · perched above the grass",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07421.jpg": {
+      "caption": "Adult · looking over its shoulder",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07433.jpg": {
+      "caption": "Adult · watching from a low perch",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07436.jpg": {
+      "caption": "Adult · in flight over the field",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07445.jpg": {
+      "caption": "Adult · wings raised in flight",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07457.jpg": {
+      "caption": "Adult · approaching head-on",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07459.jpg": {
+      "caption": "Adult · head-on flight portrait",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07593.jpg": {
+      "caption": "Adult · hovering",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07599.jpg": {
+      "caption": "Adult · hovering with legs lowered",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07603.jpg": {
+      "caption": "Adult · hovering with wings spread",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07607.jpg": {
+      "caption": "Adult · hovering with talons visible",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07615.jpg": {
+      "caption": "Adult · in flight",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07627.jpg": {
+      "caption": "Adult · hovering above the field",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    }
+  }
+}

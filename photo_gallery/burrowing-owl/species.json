@@ -1,0 +1,186 @@
+{
+  "name": "Burrowing Owl",
+  "category": "Birds",
+  "group": "Raptors & Owls",
+  "cover": "20261122-DSC07048.jpg",
+  "description": "The Burrowing Owl is a small owl of open country, distinguished by long legs, yellow eyes, and a rounded head without ear tufts. Brown plumage marked with pale spots helps it blend into dry grass and rocky ground. Unlike many owls, it is often active in daylight and may watch its surroundings from a low perch. It catches insects and small animals close to the ground. Burrows provide nesting sites, often in places where ground squirrels or other digging mammals have already created underground shelter.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Burrowing_Owl/id"
+    }
+  ],
+  "photos": {
+    "20261122-DSC06750.jpg": {
+      "caption": "Adult · resting on a rock",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC06801.jpg": {
+      "caption": "Adult · standing on one leg",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC06836.jpg": {
+      "caption": "Adult · facing the camera",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC06859.jpg": {
+      "caption": "Adult · close-up portrait",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC06869.jpg": {
+      "caption": "Adult · resting on one leg",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC06888.jpg": {
+      "caption": "Adult · looking over its shoulder",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC06906.jpg": {
+      "caption": "Adult · watching from the rocks",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC06914.jpg": {
+      "caption": "Adult · resting with eyes closed",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC06924.jpg": {
+      "caption": "Adult · perched among rocks",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC06929.jpg": {
+      "caption": "Adult · side portrait",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC06934.jpg": {
+      "caption": "Adult · looking to the side",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC06960.jpg": {
+      "caption": "Adult · resting beside the water",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC06989.jpg": {
+      "caption": "Adult · looking toward the camera",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC06996.jpg": {
+      "caption": "Adult · looking away",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC06999.jpg": {
+      "caption": "Adult · back view",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07020.jpg": {
+      "caption": "Adult · watching from a rock",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07032.jpg": {
+      "caption": "Adult · side portrait",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07048.jpg": {
+      "caption": "Adult · alert on a rocky perch",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07077.jpg": {
+      "caption": "Adult · resting among shoreline rocks",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    }
+  }
+}

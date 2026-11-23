@@ -40,6 +40,15 @@
         "precision": "city",
         "note": "Photographer confirmed this outing as Madison, Wisconsin."
       }
+    },
+    "20261122-DSC07129.jpg": {
+      "caption": "Walking through the grass",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
     }
   }
 }

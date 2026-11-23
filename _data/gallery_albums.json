@@ -639,6 +639,134 @@
       }
     ]
   },
+  "american-kestrel": {
+    "name": "American Kestrel",
+    "category": "Birds",
+    "group": "Raptors & Owls",
+    "scientific_name": "",
+    "description": "The American Kestrel is North America’s smallest falcon, often seen watching open fields from a wire, pole, or exposed perch. Males have blue-gray wings and rusty backs, while females show warmer brown wings with dark barring. Both have bold facial markings. Kestrels hunt insects and other small animals, sometimes hovering into the wind before dropping toward prey. They nest in cavities and readily use suitable nest boxes. A perched bird may look delicate, but its alert posture and sudden hunting flights reveal an agile predator.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/American_Kestrel/overview"
+      }
+    ],
+    "slug": "american-kestrel",
+    "url": "/wildlife-gallery/american-kestrel/",
+    "photos": [
+      {
+        "filename": "20261122-DSC07682X.jpg",
+        "path": "/photo_gallery/american-kestrel/20261122-DSC07682X.jpg",
+        "thumbnail": "/assets/images/wildlife/american-kestrel/b3baf0f06e20a2352982fcd172bba50044502dbf.webp",
+        "width": 1199,
+        "height": 800,
+        "caption": "Female · looking toward the camera",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T11:30:56",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "american-kestrel-20261122-dsc07682x-jpg"
+      },
+      {
+        "filename": "20261122-DSC07679.jpg",
+        "path": "/photo_gallery/american-kestrel/20261122-DSC07679.jpg",
+        "thumbnail": "/assets/images/wildlife/american-kestrel/e3344e738a57b9d4727fe15cb6b3b03ff54ec76f.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Female · perched portrait",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T11:30:55",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "american-kestrel-20261122-dsc07679-jpg"
+      },
+      {
+        "filename": "20261122-DSC07677.jpg",
+        "path": "/photo_gallery/american-kestrel/20261122-DSC07677.jpg",
+        "thumbnail": "/assets/images/wildlife/american-kestrel/2dd9fcd0d829bd359820a8ae943734abd8fed3db.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Female · watching from a rocky perch",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T11:30:54",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "american-kestrel-20261122-dsc07677-jpg"
+      },
+      {
+        "filename": "20261122-DSC07670X.jpg",
+        "path": "/photo_gallery/american-kestrel/20261122-DSC07670X.jpg",
+        "thumbnail": "/assets/images/wildlife/american-kestrel/a0e4901c3dcf697e3a35def5cd1f9d81f7f3ab49.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Female · perched on a rock",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T11:30:51",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "american-kestrel-20261122-dsc07670x-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20261122-DSC07679.jpg",
+      "path": "/photo_gallery/american-kestrel/20261122-DSC07679.jpg",
+      "thumbnail": "/assets/images/wildlife/american-kestrel/e3344e738a57b9d4727fe15cb6b3b03ff54ec76f.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Female · perched portrait",
+      "location": "Coyote Hills Regional Park, California",
+      "date": "2026-11-22T11:30:55",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 1250,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/2500"
+      },
+      "counter": "american-kestrel-20261122-dsc07679-jpg"
+    },
+    "count": 4,
+    "locations": [
+      "Coyote Hills Regional Park, California"
+    ],
+    "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
   "american-robin": {
     "name": "American Robin",
     "category": "Birds",
@@ -2336,6 +2464,434 @@
     "location_details": [
       {
         "name": "Yosemite National Park, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
+  "burrowing-owl": {
+    "name": "Burrowing Owl",
+    "category": "Birds",
+    "group": "Raptors & Owls",
+    "scientific_name": "",
+    "description": "The Burrowing Owl is a small owl of open country, distinguished by long legs, yellow eyes, and a rounded head without ear tufts. Brown plumage marked with pale spots helps it blend into dry grass and rocky ground. Unlike many owls, it is often active in daylight and may watch its surroundings from a low perch. It catches insects and small animals close to the ground. Burrows provide nesting sites, often in places where ground squirrels or other digging mammals have already created underground shelter.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Burrowing_Owl/id"
+      }
+    ],
+    "slug": "burrowing-owl",
+    "url": "/wildlife-gallery/burrowing-owl/",
+    "photos": [
+      {
+        "filename": "20261122-DSC07077.jpg",
+        "path": "/photo_gallery/burrowing-owl/20261122-DSC07077.jpg",
+        "thumbnail": "/assets/images/wildlife/burrowing-owl/8ba003c79a5c0c1caf0b42b22d29127fbd309c8f.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · resting among shoreline rocks",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T09:05:35",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "burrowing-owl-20261122-dsc07077-jpg"
+      },
+      {
+        "filename": "20261122-DSC07048.jpg",
+        "path": "/photo_gallery/burrowing-owl/20261122-DSC07048.jpg",
+        "thumbnail": "/assets/images/wildlife/burrowing-owl/3f6dccdaee0ebfeef2c78b8ae5407fe4a79c817f.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · alert on a rocky perch",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T08:59:17",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "burrowing-owl-20261122-dsc07048-jpg"
+      },
+      {
+        "filename": "20261122-DSC07032.jpg",
+        "path": "/photo_gallery/burrowing-owl/20261122-DSC07032.jpg",
+        "thumbnail": "/assets/images/wildlife/burrowing-owl/0f167e6e5629f5b64dd73f0383f8bffc1053c084.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · side portrait",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T08:58:39",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 529,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "burrowing-owl-20261122-dsc07032-jpg"
+      },
+      {
+        "filename": "20261122-DSC07020.jpg",
+        "path": "/photo_gallery/burrowing-owl/20261122-DSC07020.jpg",
+        "thumbnail": "/assets/images/wildlife/burrowing-owl/0911912aac2f70b23dab814033978770a0fc2374.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · watching from a rock",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T08:55:02",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "burrowing-owl-20261122-dsc07020-jpg"
+      },
+      {
+        "filename": "20261122-DSC06999.jpg",
+        "path": "/photo_gallery/burrowing-owl/20261122-DSC06999.jpg",
+        "thumbnail": "/assets/images/wildlife/burrowing-owl/18227374b4974bbb45c4f7f971dba246198a800c.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · back view",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T08:54:17",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1000"
+        },
+        "counter": "burrowing-owl-20261122-dsc06999-jpg"
+      },
+      {
+        "filename": "20261122-DSC06996.jpg",
+        "path": "/photo_gallery/burrowing-owl/20261122-DSC06996.jpg",
+        "thumbnail": "/assets/images/wildlife/burrowing-owl/4ecd1841200ad6dd737dc81938d09375fa0f1877.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · looking away",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T08:54:12",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1000"
+        },
+        "counter": "burrowing-owl-20261122-dsc06996-jpg"
+      },
+      {
+        "filename": "20261122-DSC06989.jpg",
+        "path": "/photo_gallery/burrowing-owl/20261122-DSC06989.jpg",
+        "thumbnail": "/assets/images/wildlife/burrowing-owl/f774ec3458cf6bec3575c260ece4c83b7016e3de.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · looking toward the camera",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T08:49:06",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1000"
+        },
+        "counter": "burrowing-owl-20261122-dsc06989-jpg"
+      },
+      {
+        "filename": "20261122-DSC06960.jpg",
+        "path": "/photo_gallery/burrowing-owl/20261122-DSC06960.jpg",
+        "thumbnail": "/assets/images/wildlife/burrowing-owl/a2a20d882ea0cc96659ef6db42d781122a090dfb.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · resting beside the water",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T08:48:06",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1000"
+        },
+        "counter": "burrowing-owl-20261122-dsc06960-jpg"
+      },
+      {
+        "filename": "20261122-DSC06934.jpg",
+        "path": "/photo_gallery/burrowing-owl/20261122-DSC06934.jpg",
+        "thumbnail": "/assets/images/wildlife/burrowing-owl/1875fda500f7d7464fe17d5eae7d49d38a81b1f5.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · looking to the side",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T08:44:25",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1000"
+        },
+        "counter": "burrowing-owl-20261122-dsc06934-jpg"
+      },
+      {
+        "filename": "20261122-DSC06929.jpg",
+        "path": "/photo_gallery/burrowing-owl/20261122-DSC06929.jpg",
+        "thumbnail": "/assets/images/wildlife/burrowing-owl/35de371ebf22dd78c42f799cd68be0cf1b0dca6e.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · side portrait",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T08:44:23",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1000"
+        },
+        "counter": "burrowing-owl-20261122-dsc06929-jpg"
+      },
+      {
+        "filename": "20261122-DSC06924.jpg",
+        "path": "/photo_gallery/burrowing-owl/20261122-DSC06924.jpg",
+        "thumbnail": "/assets/images/wildlife/burrowing-owl/aff0a33b48abaa1fc28e147911d251a0bbdb5631.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · perched among rocks",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T08:43:48",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1000"
+        },
+        "counter": "burrowing-owl-20261122-dsc06924-jpg"
+      },
+      {
+        "filename": "20261122-DSC06914.jpg",
+        "path": "/photo_gallery/burrowing-owl/20261122-DSC06914.jpg",
+        "thumbnail": "/assets/images/wildlife/burrowing-owl/1b9ae0eec1f17c6b1f30a8bb46229d030ed7c7ee.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · resting with eyes closed",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T08:43:39",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1000"
+        },
+        "counter": "burrowing-owl-20261122-dsc06914-jpg"
+      },
+      {
+        "filename": "20261122-DSC06906.jpg",
+        "path": "/photo_gallery/burrowing-owl/20261122-DSC06906.jpg",
+        "thumbnail": "/assets/images/wildlife/burrowing-owl/154c44551b72ebb81b1e045930f3aee92c0173e1.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · watching from the rocks",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T08:43:14",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1000"
+        },
+        "counter": "burrowing-owl-20261122-dsc06906-jpg"
+      },
+      {
+        "filename": "20261122-DSC06888.jpg",
+        "path": "/photo_gallery/burrowing-owl/20261122-DSC06888.jpg",
+        "thumbnail": "/assets/images/wildlife/burrowing-owl/ec0904112a8508147139556a21beb4bc70ff728d.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · looking over its shoulder",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T08:42:40",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "burrowing-owl-20261122-dsc06888-jpg"
+      },
+      {
+        "filename": "20261122-DSC06869.jpg",
+        "path": "/photo_gallery/burrowing-owl/20261122-DSC06869.jpg",
+        "thumbnail": "/assets/images/wildlife/burrowing-owl/89c7b2cdd778db52fd553bf9ae401d00b747ee84.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · resting on one leg",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T08:40:29",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "burrowing-owl-20261122-dsc06869-jpg"
+      },
+      {
+        "filename": "20261122-DSC06859.jpg",
+        "path": "/photo_gallery/burrowing-owl/20261122-DSC06859.jpg",
+        "thumbnail": "/assets/images/wildlife/burrowing-owl/bb5345c204275c7fdbee9182eb1d241ef63d18fd.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · close-up portrait",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T08:39:15",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "burrowing-owl-20261122-dsc06859-jpg"
+      },
+      {
+        "filename": "20261122-DSC06836.jpg",
+        "path": "/photo_gallery/burrowing-owl/20261122-DSC06836.jpg",
+        "thumbnail": "/assets/images/wildlife/burrowing-owl/251ba5d3f54a2e41f20f1c173e34f87d8a2f068f.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · facing the camera",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T08:39:01",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "burrowing-owl-20261122-dsc06836-jpg"
+      },
+      {
+        "filename": "20261122-DSC06801.jpg",
+        "path": "/photo_gallery/burrowing-owl/20261122-DSC06801.jpg",
+        "thumbnail": "/assets/images/wildlife/burrowing-owl/fca155229bb490c70a718d7e0f13911339834f97.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · standing on one leg",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T08:37:35",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "burrowing-owl-20261122-dsc06801-jpg"
+      },
+      {
+        "filename": "20261122-DSC06750.jpg",
+        "path": "/photo_gallery/burrowing-owl/20261122-DSC06750.jpg",
+        "thumbnail": "/assets/images/wildlife/burrowing-owl/228e6b24d90950e1345e08c9e71cd4e24a4fdf25.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · resting on a rock",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T08:33:18",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/640"
+        },
+        "counter": "burrowing-owl-20261122-dsc06750-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20261122-DSC07048.jpg",
+      "path": "/photo_gallery/burrowing-owl/20261122-DSC07048.jpg",
+      "thumbnail": "/assets/images/wildlife/burrowing-owl/3f6dccdaee0ebfeef2c78b8ae5407fe4a79c817f.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Adult · alert on a rocky perch",
+      "location": "Coyote Hills Regional Park, California",
+      "date": "2026-11-22T08:59:17",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 2500,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/800"
+      },
+      "counter": "burrowing-owl-20261122-dsc07048-jpg"
+    },
+    "count": 19,
+    "locations": [
+      "Coyote Hills Regional Park, California"
+    ],
+    "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
         "country": "United States",
         "state": "California"
       }
@@ -4587,6 +5143,146 @@
     "url": "/wildlife-gallery/cooper-s-hawk/",
     "photos": [
       {
+        "filename": "20261122-DSC07970.jpg",
+        "path": "/photo_gallery/cooper-s-hawk/20261122-DSC07970.jpg",
+        "thumbnail": "/assets/images/wildlife/cooper-s-hawk/8da863a3e52dd691f90ca596ae0a8ccca0a472b9.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Juvenile · side portrait",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T12:43:45",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 400,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "cooper-s-hawk-20261122-dsc07970-jpg"
+      },
+      {
+        "filename": "20261122-DSC07950.jpg",
+        "path": "/photo_gallery/cooper-s-hawk/20261122-DSC07950.jpg",
+        "thumbnail": "/assets/images/wildlife/cooper-s-hawk/ba7d4b9bb8a0b6fd1482c9f95b7db466c74efeca.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Juvenile · perched portrait",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T12:42:54",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 400,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "cooper-s-hawk-20261122-dsc07950-jpg"
+      },
+      {
+        "filename": "20261122-DSC07924.jpg",
+        "path": "/photo_gallery/cooper-s-hawk/20261122-DSC07924.jpg",
+        "thumbnail": "/assets/images/wildlife/cooper-s-hawk/f501bec60741fa76785e5fceb3e115a7e6c3a1f1.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Juvenile · looking back",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T12:42:03",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "cooper-s-hawk-20261122-dsc07924-jpg"
+      },
+      {
+        "filename": "20261122-DSC07917.jpg",
+        "path": "/photo_gallery/cooper-s-hawk/20261122-DSC07917.jpg",
+        "thumbnail": "/assets/images/wildlife/cooper-s-hawk/37bc570ed331269e35280203bdea744cf9a84b5b.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Juvenile · looking overhead",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T12:41:59",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "cooper-s-hawk-20261122-dsc07917-jpg"
+      },
+      {
+        "filename": "20261122-DSC07912.jpg",
+        "path": "/photo_gallery/cooper-s-hawk/20261122-DSC07912.jpg",
+        "thumbnail": "/assets/images/wildlife/cooper-s-hawk/ef6c403ac22d834063b137f284e6478d0a3ee581.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Juvenile · scanning from a branch",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T12:41:39",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "cooper-s-hawk-20261122-dsc07912-jpg"
+      },
+      {
+        "filename": "20261122-DSC07896.jpg",
+        "path": "/photo_gallery/cooper-s-hawk/20261122-DSC07896.jpg",
+        "thumbnail": "/assets/images/wildlife/cooper-s-hawk/ac8c243ae3c9b9e16ef5a418d31a13fbdd08077c.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Juvenile · perched in bare branches",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T12:40:49",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "cooper-s-hawk-20261122-dsc07896-jpg"
+      },
+      {
+        "filename": "20261122-DSC07894.jpg",
+        "path": "/photo_gallery/cooper-s-hawk/20261122-DSC07894.jpg",
+        "thumbnail": "/assets/images/wildlife/cooper-s-hawk/c059da5cc79bb2eabae42155668494afe8ba8781.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Juvenile · looking down",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T12:40:34",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "cooper-s-hawk-20261122-dsc07894-jpg"
+      },
+      {
         "filename": "20261119-DSC06603.jpg",
         "path": "/photo_gallery/cooper-s-hawk/20261119-DSC06603.jpg",
         "thumbnail": "/assets/images/wildlife/cooper-s-hawk/ae6066b7afcf1c6a9cc01a1ef57f51793fb15dc9.webp",
@@ -4608,30 +5304,36 @@
       }
     ],
     "cover": {
-      "filename": "20261119-DSC06603.jpg",
-      "path": "/photo_gallery/cooper-s-hawk/20261119-DSC06603.jpg",
-      "thumbnail": "/assets/images/wildlife/cooper-s-hawk/ae6066b7afcf1c6a9cc01a1ef57f51793fb15dc9.webp",
+      "filename": "20261122-DSC07970.jpg",
+      "path": "/photo_gallery/cooper-s-hawk/20261122-DSC07970.jpg",
+      "thumbnail": "/assets/images/wildlife/cooper-s-hawk/8da863a3e52dd691f90ca596ae0a8ccca0a472b9.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Juvenile · perched",
-      "location": "Sunnyvale, California",
-      "date": "2026-11-19T17:36:26",
+      "caption": "Juvenile · side portrait",
+      "location": "Coyote Hills Regional Park, California",
+      "date": "2026-11-22T12:43:45",
       "featured": false,
       "camera": {
         "model": "ILCE-7CM2",
         "lens": "FE 200-600mm F5.6-6.3 G OSS",
-        "iso": 2500,
+        "iso": 400,
         "focal": 600,
         "aperture": 6.3,
-        "shutter": "1/1250"
+        "shutter": "1/2000"
       },
-      "counter": "cooper-s-hawk-20261119-dsc06603-jpg"
+      "counter": "cooper-s-hawk-20261122-dsc07970-jpg"
     },
-    "count": 1,
+    "count": 8,
     "locations": [
+      "Coyote Hills Regional Park, California",
       "Sunnyvale, California"
     ],
     "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Sunnyvale, California",
         "country": "United States",
@@ -4654,6 +5356,26 @@
     "slug": "dark-eyed-junco",
     "url": "/wildlife-gallery/dark-eyed-junco/",
     "photos": [
+      {
+        "filename": "20261122-DSC07656.jpg",
+        "path": "/photo_gallery/dark-eyed-junco/20261122-DSC07656.jpg",
+        "thumbnail": "/assets/images/wildlife/dark-eyed-junco/d4a82a80e67abc36f7ba36797fe3f6482f577338.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Perched in bare branches",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T11:18:37",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "dark-eyed-junco-20261122-dsc07656-jpg"
+      },
       {
         "filename": "Dark-Eyed Junco.jpg",
         "path": "/photo_gallery/dark-eyed-junco/Dark-Eyed Junco.jpg",
@@ -4715,11 +5437,17 @@
       },
       "counter": "dark-eyed-junco-jpg"
     },
-    "count": 2,
+    "count": 3,
     "locations": [
+      "Coyote Hills Regional Park, California",
       "Descanso Gardens, California"
     ],
     "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Descanso Gardens, California",
         "country": "United States",
@@ -5835,6 +6563,26 @@
     "url": "/wildlife-gallery/great-blue-heron/",
     "photos": [
       {
+        "filename": "20261122-DSC07775.jpg",
+        "path": "/photo_gallery/great-blue-heron/20261122-DSC07775.jpg",
+        "thumbnail": "/assets/images/wildlife/great-blue-heron/e89b655b44ee5020d8b75f8986d549348dcdeb8b.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Close-up · side profile",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T11:53:47",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2000,
+          "focal": 582,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "great-blue-heron-20261122-dsc07775-jpg"
+      },
+      {
         "filename": "20260408-DSC00865.jpg",
         "path": "/photo_gallery/great-blue-heron/20260408-DSC00865.jpg",
         "thumbnail": "/assets/images/wildlife/great-blue-heron/dcf5f9fa300a6e263b6008ec695d3b0412eff276.webp",
@@ -5995,11 +6743,17 @@
       },
       "counter": "great-blue-heron-great-blue-heron-jpg"
     },
-    "count": 7,
+    "count": 8,
     "locations": [
+      "Coyote Hills Regional Park, California",
       "Orange County, California"
     ],
     "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Orange County, California",
         "country": "United States",
@@ -9237,6 +9991,74 @@
       }
     ]
   },
+  "little-bear-beetle": {
+    "name": "Little Bear Beetle",
+    "category": "Insects",
+    "group": "",
+    "scientific_name": "",
+    "description": "The Little Bear Beetle is a scarab whose dense body hairs give it a furry appearance. It belongs to Paracotalpa, a group found in the western United States. These beetles combine a stout body with wing covers and a darker thorax, where close views can reveal metallic tones beneath the hairs. This photograph shows an individual among purple flowers, highlighting the contrast between its textured body and the delicate blossoms. Small flower visitors like this reward a closer look during a spring walk.",
+    "references": [
+      {
+        "title": "University of Nebraska State Museum: Paracotalpa",
+        "url": "https://unsm-ento.unl.edu/Guide/Scarabaeoidea/Scarabaeidae/Rutelinae/Rutelinae-Tribes/Rutelini/Areodina/Areodina-generic-pages/Paracotalpa/Paracotalpa.html"
+      }
+    ],
+    "slug": "little-bear-beetle",
+    "url": "/wildlife-gallery/little-bear-beetle/",
+    "photos": [
+      {
+        "filename": "20260316-DSC07144.jpg",
+        "path": "/photo_gallery/little-bear-beetle/20260316-DSC07144.jpg",
+        "thumbnail": "/assets/images/wildlife/little-bear-beetle/108b2c51ebd9f3f83a05114f80cbe8202457211d.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Among purple flowers",
+        "location": "Cuyama Valley, California",
+        "date": "2026-03-16T05:14:07",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "little-bear-beetle-20260316-dsc07144-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20260316-DSC07144.jpg",
+      "path": "/photo_gallery/little-bear-beetle/20260316-DSC07144.jpg",
+      "thumbnail": "/assets/images/wildlife/little-bear-beetle/108b2c51ebd9f3f83a05114f80cbe8202457211d.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Among purple flowers",
+      "location": "Cuyama Valley, California",
+      "date": "2026-03-16T05:14:07",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 1600,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/2000"
+      },
+      "counter": "little-bear-beetle-20260316-dsc07144-jpg"
+    },
+    "count": 1,
+    "locations": [
+      "Cuyama Valley, California"
+    ],
+    "location_details": [
+      {
+        "name": "Cuyama Valley, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
   "little-blue-heron": {
     "name": "Little Blue Heron",
     "category": "Birds",
@@ -10565,6 +11387,26 @@
     "url": "/wildlife-gallery/northern-mockingbird/",
     "photos": [
       {
+        "filename": "20261122-DSC07099.jpg",
+        "path": "/photo_gallery/northern-mockingbird/20261122-DSC07099.jpg",
+        "thumbnail": "/assets/images/wildlife/northern-mockingbird/d83e4942fb51156fc12e2de1940db5f77f3dedd0.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Perched among leafy branches",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T09:39:40",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "northern-mockingbird-20261122-dsc07099-jpg"
+      },
+      {
         "filename": "20260424-DSC04692.jpg",
         "path": "/photo_gallery/northern-mockingbird/20260424-DSC04692.jpg",
         "thumbnail": "/assets/images/wildlife/northern-mockingbird/db8de584c0b94f80235c87a44f50d029bcc695c3.webp",
@@ -10625,12 +11467,18 @@
       },
       "counter": "northern-mockingbird-jpg"
     },
-    "count": 2,
+    "count": 3,
     "locations": [
+      "Coyote Hills Regional Park, California",
       "Los Angeles County Arboretum, California",
       "Pico Rivera, California"
     ],
     "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Los Angeles County Arboretum, California",
         "country": "United States",
@@ -12047,6 +12895,46 @@
     "url": "/wildlife-gallery/red-tailed-hawk/",
     "photos": [
       {
+        "filename": "20261122-DSC07850.jpg",
+        "path": "/photo_gallery/red-tailed-hawk/20261122-DSC07850.jpg",
+        "thumbnail": "/assets/images/wildlife/red-tailed-hawk/19d5bd1dd04c01812473198f4c5582c0d0f9649c.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Watching from a treetop",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T12:25:48",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "red-tailed-hawk-20261122-dsc07850-jpg"
+      },
+      {
+        "filename": "20261122-DSC07845.jpg",
+        "path": "/photo_gallery/red-tailed-hawk/20261122-DSC07845.jpg",
+        "thumbnail": "/assets/images/wildlife/red-tailed-hawk/93eac6be77ece6fbd5aa2e0a1fbb7e3a4d085e4c.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Perched behind branches",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T12:24:01",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 500,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "red-tailed-hawk-20261122-dsc07845-jpg"
+      },
+      {
         "filename": "20260830-DSC01972.jpg",
         "path": "/photo_gallery/red-tailed-hawk/20260830-DSC01972.jpg",
         "thumbnail": "/assets/images/wildlife/red-tailed-hawk/3d9eebb3c7606383c2993019e3a12f3a1afd0e86.webp",
@@ -12167,15 +13055,21 @@
       },
       "counter": "red-tailed-hawk-20260830-dsc01972-jpg"
     },
-    "count": 5,
+    "count": 7,
     "locations": [
       "Channel Islands, California",
+      "Coyote Hills Regional Park, California",
       "Cuyama Valley, California",
       "San Francisco Bay Area, California"
     ],
     "location_details": [
       {
         "name": "Channel Islands, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Coyote Hills Regional Park, California",
         "country": "United States",
         "state": "California"
       },
@@ -14399,6 +15293,66 @@
     "url": "/wildlife-gallery/turkey-vulture/",
     "photos": [
       {
+        "filename": "20261122-DSC07739.jpg",
+        "path": "/photo_gallery/turkey-vulture/20261122-DSC07739.jpg",
+        "thumbnail": "/assets/images/wildlife/turkey-vulture/a0c1dbd0251db7aa8ff52158c378c1a109e56377.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · flying low over the grass",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T11:43:10",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 493,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "turkey-vulture-20261122-dsc07739-jpg"
+      },
+      {
+        "filename": "20261122-DSC07724.jpg",
+        "path": "/photo_gallery/turkey-vulture/20261122-DSC07724.jpg",
+        "thumbnail": "/assets/images/wildlife/turkey-vulture/521fde15bd9438cc83092e5abbfb8a3c1d314762.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · taking flight",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T11:43:00",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 489,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "turkey-vulture-20261122-dsc07724-jpg"
+      },
+      {
+        "filename": "20261122-DSC07708.jpg",
+        "path": "/photo_gallery/turkey-vulture/20261122-DSC07708.jpg",
+        "thumbnail": "/assets/images/wildlife/turkey-vulture/10a860e4a53c2b867635e8a90dded32741a21f43.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · perched in a tree",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T11:37:47",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "turkey-vulture-20261122-dsc07708-jpg"
+      },
+      {
         "filename": "20261120-DSC06716.jpg",
         "path": "/photo_gallery/turkey-vulture/20261120-DSC06716.jpg",
         "thumbnail": "/assets/images/wildlife/turkey-vulture/4a1715516e14a5242182abea6f81e6d0e67a2b3e.webp",
@@ -14579,13 +15533,19 @@
       },
       "counter": "turkey-vulture-20261120-dsc06700-jpg"
     },
-    "count": 8,
+    "count": 11,
     "locations": [
+      "Coyote Hills Regional Park, California",
       "Cuyama Valley, California",
       "Orange County, California",
       "Sunnyvale, California"
     ],
     "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Cuyama Valley, California",
         "country": "United States",
@@ -16215,6 +17175,434 @@
       }
     ]
   },
+  "white-tailed-kite": {
+    "name": "White-tailed Kite",
+    "category": "Birds",
+    "group": "Raptors & Owls",
+    "scientific_name": "",
+    "description": "The White-tailed Kite is a pale raptor of grasslands and open landscapes, with white underparts and tail, gray upperparts, and distinctive black shoulder patches. Its characteristic hunting technique is to hover into the wind, looking down for small mammals moving below. This suspended flight can make the bird seem almost stationary above a field. In the United States, California is one of its principal strongholds. Outside the breeding season, kites may gather to roost together in trees or tall shrubs near their hunting grounds.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/White-tailed_Kite/overview"
+      }
+    ],
+    "slug": "white-tailed-kite",
+    "url": "/wildlife-gallery/white-tailed-kite/",
+    "photos": [
+      {
+        "filename": "20261122-DSC07627.jpg",
+        "path": "/photo_gallery/white-tailed-kite/20261122-DSC07627.jpg",
+        "thumbnail": "/assets/images/wildlife/white-tailed-kite/2110e0748d70606db9390e1e18db83697e754937.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · hovering above the field",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T10:46:56",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 400,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "white-tailed-kite-20261122-dsc07627-jpg"
+      },
+      {
+        "filename": "20261122-DSC07615.jpg",
+        "path": "/photo_gallery/white-tailed-kite/20261122-DSC07615.jpg",
+        "thumbnail": "/assets/images/wildlife/white-tailed-kite/2562c07eb8e7bb5229bea971ce604313e58fa429.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · in flight",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T10:46:28",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "white-tailed-kite-20261122-dsc07615-jpg"
+      },
+      {
+        "filename": "20261122-DSC07607.jpg",
+        "path": "/photo_gallery/white-tailed-kite/20261122-DSC07607.jpg",
+        "thumbnail": "/assets/images/wildlife/white-tailed-kite/4fa304dd33edc8bae5baf0eb3dcf8efc9e59867f.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · hovering with talons visible",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T10:46:21",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "white-tailed-kite-20261122-dsc07607-jpg"
+      },
+      {
+        "filename": "20261122-DSC07603.jpg",
+        "path": "/photo_gallery/white-tailed-kite/20261122-DSC07603.jpg",
+        "thumbnail": "/assets/images/wildlife/white-tailed-kite/e0d21d947e9a9fa2860b66fc0f229db595cd13ab.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · hovering with wings spread",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T10:46:20",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "white-tailed-kite-20261122-dsc07603-jpg"
+      },
+      {
+        "filename": "20261122-DSC07599.jpg",
+        "path": "/photo_gallery/white-tailed-kite/20261122-DSC07599.jpg",
+        "thumbnail": "/assets/images/wildlife/white-tailed-kite/601e8dff8292c4eb399440db5389de10d170eb9e.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · hovering with legs lowered",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T10:46:19",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "white-tailed-kite-20261122-dsc07599-jpg"
+      },
+      {
+        "filename": "20261122-DSC07593.jpg",
+        "path": "/photo_gallery/white-tailed-kite/20261122-DSC07593.jpg",
+        "thumbnail": "/assets/images/wildlife/white-tailed-kite/fe076452a6c3118c498897dcb6f93b4a0b2d87c6.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · hovering",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T10:46:18",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "white-tailed-kite-20261122-dsc07593-jpg"
+      },
+      {
+        "filename": "20261122-DSC07457.jpg",
+        "path": "/photo_gallery/white-tailed-kite/20261122-DSC07457.jpg",
+        "thumbnail": "/assets/images/wildlife/white-tailed-kite/95d7051c4b12ea6f94f5a04b55ccb40492fd2f77.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · approaching head-on",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T10:40:33",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "white-tailed-kite-20261122-dsc07457-jpg"
+      },
+      {
+        "filename": "20261122-DSC07459.jpg",
+        "path": "/photo_gallery/white-tailed-kite/20261122-DSC07459.jpg",
+        "thumbnail": "/assets/images/wildlife/white-tailed-kite/97c420a02fc0b9d9b4f2a499c5122da600592d23.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · head-on flight portrait",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T10:40:33",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "white-tailed-kite-20261122-dsc07459-jpg"
+      },
+      {
+        "filename": "20261122-DSC07445.jpg",
+        "path": "/photo_gallery/white-tailed-kite/20261122-DSC07445.jpg",
+        "thumbnail": "/assets/images/wildlife/white-tailed-kite/7e8712dbd4220f35e7ec32a296141537a2b0f62d.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · wings raised in flight",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T10:40:29",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "white-tailed-kite-20261122-dsc07445-jpg"
+      },
+      {
+        "filename": "20261122-DSC07436.jpg",
+        "path": "/photo_gallery/white-tailed-kite/20261122-DSC07436.jpg",
+        "thumbnail": "/assets/images/wildlife/white-tailed-kite/2930ad1e89a0f21266dc4f136b61f22a29c1598a.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · in flight over the field",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T10:40:22",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "white-tailed-kite-20261122-dsc07436-jpg"
+      },
+      {
+        "filename": "20261122-DSC07433.jpg",
+        "path": "/photo_gallery/white-tailed-kite/20261122-DSC07433.jpg",
+        "thumbnail": "/assets/images/wildlife/white-tailed-kite/9797131bf9d677ba0aa5624dacc7688cc5dd704f.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · watching from a low perch",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T10:39:45",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "white-tailed-kite-20261122-dsc07433-jpg"
+      },
+      {
+        "filename": "20261122-DSC07421.jpg",
+        "path": "/photo_gallery/white-tailed-kite/20261122-DSC07421.jpg",
+        "thumbnail": "/assets/images/wildlife/white-tailed-kite/cfba37845d55a496f49d2357da9b46ce7c451753.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · looking over its shoulder",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T10:39:04",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "white-tailed-kite-20261122-dsc07421-jpg"
+      },
+      {
+        "filename": "20261122-DSC07409.jpg",
+        "path": "/photo_gallery/white-tailed-kite/20261122-DSC07409.jpg",
+        "thumbnail": "/assets/images/wildlife/white-tailed-kite/c21fc2a351b81c108a2ac2dd8247d618fff4c6d9.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · perched above the grass",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T10:38:57",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "white-tailed-kite-20261122-dsc07409-jpg"
+      },
+      {
+        "filename": "20261122-DSC07372.jpg",
+        "path": "/photo_gallery/white-tailed-kite/20261122-DSC07372.jpg",
+        "thumbnail": "/assets/images/wildlife/white-tailed-kite/a2b8f39df815935378d2a0bcdc34c9b0da6272eb.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · hunting over the wetland",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T10:32:56",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "white-tailed-kite-20261122-dsc07372-jpg"
+      },
+      {
+        "filename": "20261122-DSC07369.jpg",
+        "path": "/photo_gallery/white-tailed-kite/20261122-DSC07369.jpg",
+        "thumbnail": "/assets/images/wildlife/white-tailed-kite/31cfa756898b54ff6d3b6e1feb4405493afc0df0.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · hovering over the wetland",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T10:32:54",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "white-tailed-kite-20261122-dsc07369-jpg"
+      },
+      {
+        "filename": "20261122-DSC07228.jpg",
+        "path": "/photo_gallery/white-tailed-kite/20261122-DSC07228.jpg",
+        "thumbnail": "/assets/images/wildlife/white-tailed-kite/666bf25b0995aaa4721e779b44c6ceb68ae4be82.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · perched in a tree",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T10:07:19",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/4000"
+        },
+        "counter": "white-tailed-kite-20261122-dsc07228-jpg"
+      },
+      {
+        "filename": "20261122-DSC07226.jpg",
+        "path": "/photo_gallery/white-tailed-kite/20261122-DSC07226.jpg",
+        "thumbnail": "/assets/images/wildlife/white-tailed-kite/3c60c3b27e57165befea5065a818c177576d9e88.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · watching through the branches",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T10:07:18",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/4000"
+        },
+        "counter": "white-tailed-kite-20261122-dsc07226-jpg"
+      },
+      {
+        "filename": "20261122-DSC07148.jpg",
+        "path": "/photo_gallery/white-tailed-kite/20261122-DSC07148.jpg",
+        "thumbnail": "/assets/images/wildlife/white-tailed-kite/df9d02da71ac5a7f53066505de55e1b5d0319060.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · in flight",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T10:01:10",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1000"
+        },
+        "counter": "white-tailed-kite-20261122-dsc07148-jpg"
+      },
+      {
+        "filename": "20261122-DSC07114.jpg",
+        "path": "/photo_gallery/white-tailed-kite/20261122-DSC07114.jpg",
+        "thumbnail": "/assets/images/wildlife/white-tailed-kite/f9110701d54b3207d6d1b49a4b96deca375e1ad8.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · perched among branches",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T09:54:18",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "white-tailed-kite-20261122-dsc07114-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20261122-DSC07369.jpg",
+      "path": "/photo_gallery/white-tailed-kite/20261122-DSC07369.jpg",
+      "thumbnail": "/assets/images/wildlife/white-tailed-kite/31cfa756898b54ff6d3b6e1feb4405493afc0df0.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Adult · hovering over the wetland",
+      "location": "Coyote Hills Regional Park, California",
+      "date": "2026-11-22T10:32:54",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 2500,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/3200"
+      },
+      "counter": "white-tailed-kite-20261122-dsc07369-jpg"
+    },
+    "count": 19,
+    "locations": [
+      "Coyote Hills Regional Park, California"
+    ],
+    "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
   "wild-turkey": {
     "name": "Wild Turkey",
     "category": "Birds",
@@ -16230,6 +17618,26 @@
     "slug": "wild-turkey",
     "url": "/wildlife-gallery/wild-turkey/",
     "photos": [
+      {
+        "filename": "20261122-DSC07129.jpg",
+        "path": "/photo_gallery/wild-turkey/20261122-DSC07129.jpg",
+        "thumbnail": "/assets/images/wildlife/wild-turkey/d373c19ccdd0ea0b37ba868c93dca8831152e6f3.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Walking through the grass",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T09:56:03",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1250"
+        },
+        "counter": "wild-turkey-20261122-dsc07129-jpg"
+      },
       {
         "filename": "20240717-HWZ_4465.jpg",
         "path": "/photo_gallery/wild-turkey/20240717-HWZ_4465.jpg",
@@ -16311,11 +17719,17 @@
       },
       "counter": "wild-turkey-20240717-hwz-4435-jpg"
     },
-    "count": 3,
+    "count": 4,
     "locations": [
+      "Coyote Hills Regional Park, California",
       "Madison, Wisconsin"
     ],
     "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Madison, Wisconsin",
         "country": "United States",
@@ -16338,6 +17752,26 @@
     "slug": "willet",
     "url": "/wildlife-gallery/willet/",
     "photos": [
+      {
+        "filename": "20261122-DSC06780.jpg",
+        "path": "/photo_gallery/willet/20261122-DSC06780.jpg",
+        "thumbnail": "/assets/images/wildlife/willet/dbae51602ab29a0adddb8f2557520cb4963b7bcf.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Resting at the water’s edge",
+        "location": "Coyote Hills Regional Park, California",
+        "date": "2026-11-22T08:35:59",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1600,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/500"
+        },
+        "counter": "willet-20261122-dsc06780-jpg"
+      },
       {
         "filename": "20260408-DSC00993.jpg",
         "path": "/photo_gallery/willet/20260408-DSC00993.jpg",
@@ -16399,11 +17833,17 @@
       },
       "counter": "willet-jpg"
     },
-    "count": 2,
+    "count": 3,
     "locations": [
+      "Coyote Hills Regional Park, California",
       "Orange County, California"
     ],
     "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Orange County, California",
         "country": "United States",

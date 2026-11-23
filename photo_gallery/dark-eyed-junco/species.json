@@ -40,6 +40,15 @@
         ],
         "precision": "broad outing location; no GPS coordinates"
       }
+    },
+    "20261122-DSC07656.jpg": {
+      "caption": "Perched in bare branches",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
     }
   }
 }

@@ -76,6 +76,24 @@
         "precision": "valley",
         "note": "Photographer confirmed all nine remaining March 16 photos were taken in Cuyama Valley."
       }
+    },
+    "20261122-DSC07845.jpg": {
+      "caption": "Perched behind branches",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07850.jpg": {
+      "caption": "Watching from a treetop",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
     }
   }
 }

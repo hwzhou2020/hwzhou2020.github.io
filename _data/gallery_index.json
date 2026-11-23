@@ -288,6 +288,52 @@
     ]
   },
   {
+    "name": "American Kestrel",
+    "category": "Birds",
+    "group": "Raptors & Owls",
+    "scientific_name": "",
+    "description": "The American Kestrel is North America’s smallest falcon, often seen watching open fields from a wire, pole, or exposed perch. Males have blue-gray wings and rusty backs, while females show warmer brown wings with dark barring. Both have bold facial markings. Kestrels hunt insects and other small animals, sometimes hovering into the wind before dropping toward prey. They nest in cavities and readily use suitable nest boxes. A perched bird may look delicate, but its alert posture and sudden hunting flights reveal an agile predator.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/American_Kestrel/overview"
+      }
+    ],
+    "slug": "american-kestrel",
+    "url": "/wildlife-gallery/american-kestrel/",
+    "cover": {
+      "filename": "20261122-DSC07679.jpg",
+      "path": "/photo_gallery/american-kestrel/20261122-DSC07679.jpg",
+      "thumbnail": "/assets/images/wildlife/american-kestrel/e3344e738a57b9d4727fe15cb6b3b03ff54ec76f.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Female · perched portrait",
+      "location": "Coyote Hills Regional Park, California",
+      "date": "2026-11-22T11:30:55",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 1250,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/2500"
+      },
+      "counter": "american-kestrel-20261122-dsc07679-jpg"
+    },
+    "count": 4,
+    "locations": [
+      "Coyote Hills Regional Park, California"
+    ],
+    "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
+  {
     "name": "American Robin",
     "category": "Birds",
     "group": "Songbirds",
@@ -1014,6 +1060,52 @@
     "location_details": [
       {
         "name": "Yosemite National Park, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
+  {
+    "name": "Burrowing Owl",
+    "category": "Birds",
+    "group": "Raptors & Owls",
+    "scientific_name": "",
+    "description": "The Burrowing Owl is a small owl of open country, distinguished by long legs, yellow eyes, and a rounded head without ear tufts. Brown plumage marked with pale spots helps it blend into dry grass and rocky ground. Unlike many owls, it is often active in daylight and may watch its surroundings from a low perch. It catches insects and small animals close to the ground. Burrows provide nesting sites, often in places where ground squirrels or other digging mammals have already created underground shelter.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Burrowing_Owl/id"
+      }
+    ],
+    "slug": "burrowing-owl",
+    "url": "/wildlife-gallery/burrowing-owl/",
+    "cover": {
+      "filename": "20261122-DSC07048.jpg",
+      "path": "/photo_gallery/burrowing-owl/20261122-DSC07048.jpg",
+      "thumbnail": "/assets/images/wildlife/burrowing-owl/3f6dccdaee0ebfeef2c78b8ae5407fe4a79c817f.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Adult · alert on a rocky perch",
+      "location": "Coyote Hills Regional Park, California",
+      "date": "2026-11-22T08:59:17",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 2500,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/800"
+      },
+      "counter": "burrowing-owl-20261122-dsc07048-jpg"
+    },
+    "count": 19,
+    "locations": [
+      "Coyote Hills Regional Park, California"
+    ],
+    "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
         "country": "United States",
         "state": "California"
       }
@@ -2062,30 +2154,36 @@
     "slug": "cooper-s-hawk",
     "url": "/wildlife-gallery/cooper-s-hawk/",
     "cover": {
-      "filename": "20261119-DSC06603.jpg",
-      "path": "/photo_gallery/cooper-s-hawk/20261119-DSC06603.jpg",
-      "thumbnail": "/assets/images/wildlife/cooper-s-hawk/ae6066b7afcf1c6a9cc01a1ef57f51793fb15dc9.webp",
+      "filename": "20261122-DSC07970.jpg",
+      "path": "/photo_gallery/cooper-s-hawk/20261122-DSC07970.jpg",
+      "thumbnail": "/assets/images/wildlife/cooper-s-hawk/8da863a3e52dd691f90ca596ae0a8ccca0a472b9.webp",
       "width": 1200,
       "height": 800,
-      "caption": "Juvenile · perched",
-      "location": "Sunnyvale, California",
-      "date": "2026-11-19T17:36:26",
+      "caption": "Juvenile · side portrait",
+      "location": "Coyote Hills Regional Park, California",
+      "date": "2026-11-22T12:43:45",
       "featured": false,
       "camera": {
         "model": "ILCE-7CM2",
         "lens": "FE 200-600mm F5.6-6.3 G OSS",
-        "iso": 2500,
+        "iso": 400,
         "focal": 600,
         "aperture": 6.3,
-        "shutter": "1/1250"
+        "shutter": "1/2000"
       },
-      "counter": "cooper-s-hawk-20261119-dsc06603-jpg"
+      "counter": "cooper-s-hawk-20261122-dsc07970-jpg"
     },
-    "count": 1,
+    "count": 8,
     "locations": [
+      "Coyote Hills Regional Park, California",
       "Sunnyvale, California"
     ],
     "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Sunnyvale, California",
         "country": "United States",
@@ -2127,11 +2225,17 @@
       },
       "counter": "dark-eyed-junco-jpg"
     },
-    "count": 2,
+    "count": 3,
     "locations": [
+      "Coyote Hills Regional Park, California",
       "Descanso Gardens, California"
     ],
     "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Descanso Gardens, California",
         "country": "United States",
@@ -2473,11 +2577,17 @@
       },
       "counter": "great-blue-heron-great-blue-heron-jpg"
     },
-    "count": 7,
+    "count": 8,
     "locations": [
+      "Coyote Hills Regional Park, California",
       "Orange County, California"
     ],
     "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Orange County, California",
         "country": "United States",
@@ -3482,6 +3592,52 @@
     ]
   },
   {
+    "name": "Little Bear Beetle",
+    "category": "Insects",
+    "group": "",
+    "scientific_name": "",
+    "description": "The Little Bear Beetle is a scarab whose dense body hairs give it a furry appearance. It belongs to Paracotalpa, a group found in the western United States. These beetles combine a stout body with wing covers and a darker thorax, where close views can reveal metallic tones beneath the hairs. This photograph shows an individual among purple flowers, highlighting the contrast between its textured body and the delicate blossoms. Small flower visitors like this reward a closer look during a spring walk.",
+    "references": [
+      {
+        "title": "University of Nebraska State Museum: Paracotalpa",
+        "url": "https://unsm-ento.unl.edu/Guide/Scarabaeoidea/Scarabaeidae/Rutelinae/Rutelinae-Tribes/Rutelini/Areodina/Areodina-generic-pages/Paracotalpa/Paracotalpa.html"
+      }
+    ],
+    "slug": "little-bear-beetle",
+    "url": "/wildlife-gallery/little-bear-beetle/",
+    "cover": {
+      "filename": "20260316-DSC07144.jpg",
+      "path": "/photo_gallery/little-bear-beetle/20260316-DSC07144.jpg",
+      "thumbnail": "/assets/images/wildlife/little-bear-beetle/108b2c51ebd9f3f83a05114f80cbe8202457211d.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Among purple flowers",
+      "location": "Cuyama Valley, California",
+      "date": "2026-03-16T05:14:07",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 1600,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/2000"
+      },
+      "counter": "little-bear-beetle-20260316-dsc07144-jpg"
+    },
+    "count": 1,
+    "locations": [
+      "Cuyama Valley, California"
+    ],
+    "location_details": [
+      {
+        "name": "Cuyama Valley, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
+  {
     "name": "Little Blue Heron",
     "category": "Birds",
     "group": "Waterbirds",
@@ -3941,12 +4097,18 @@
       },
       "counter": "northern-mockingbird-jpg"
     },
-    "count": 2,
+    "count": 3,
     "locations": [
+      "Coyote Hills Regional Park, California",
       "Los Angeles County Arboretum, California",
       "Pico Rivera, California"
     ],
     "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Los Angeles County Arboretum, California",
         "country": "United States",
@@ -4557,15 +4719,21 @@
       },
       "counter": "red-tailed-hawk-20260830-dsc01972-jpg"
     },
-    "count": 5,
+    "count": 7,
     "locations": [
       "Channel Islands, California",
+      "Coyote Hills Regional Park, California",
       "Cuyama Valley, California",
       "San Francisco Bay Area, California"
     ],
     "location_details": [
       {
         "name": "Channel Islands, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Coyote Hills Regional Park, California",
         "country": "United States",
         "state": "California"
       },
@@ -5605,13 +5773,19 @@
       },
       "counter": "turkey-vulture-20261120-dsc06700-jpg"
     },
-    "count": 8,
+    "count": 11,
     "locations": [
+      "Coyote Hills Regional Park, California",
       "Cuyama Valley, California",
       "Orange County, California",
       "Sunnyvale, California"
     ],
     "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Cuyama Valley, California",
         "country": "United States",
@@ -6160,6 +6334,52 @@
     ]
   },
   {
+    "name": "White-tailed Kite",
+    "category": "Birds",
+    "group": "Raptors & Owls",
+    "scientific_name": "",
+    "description": "The White-tailed Kite is a pale raptor of grasslands and open landscapes, with white underparts and tail, gray upperparts, and distinctive black shoulder patches. Its characteristic hunting technique is to hover into the wind, looking down for small mammals moving below. This suspended flight can make the bird seem almost stationary above a field. In the United States, California is one of its principal strongholds. Outside the breeding season, kites may gather to roost together in trees or tall shrubs near their hunting grounds.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/White-tailed_Kite/overview"
+      }
+    ],
+    "slug": "white-tailed-kite",
+    "url": "/wildlife-gallery/white-tailed-kite/",
+    "cover": {
+      "filename": "20261122-DSC07369.jpg",
+      "path": "/photo_gallery/white-tailed-kite/20261122-DSC07369.jpg",
+      "thumbnail": "/assets/images/wildlife/white-tailed-kite/31cfa756898b54ff6d3b6e1feb4405493afc0df0.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Adult · hovering over the wetland",
+      "location": "Coyote Hills Regional Park, California",
+      "date": "2026-11-22T10:32:54",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 2500,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/3200"
+      },
+      "counter": "white-tailed-kite-20261122-dsc07369-jpg"
+    },
+    "count": 19,
+    "locations": [
+      "Coyote Hills Regional Park, California"
+    ],
+    "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
+  {
     "name": "Wild Turkey",
     "category": "Birds",
     "group": "Other Birds",
@@ -6193,11 +6413,17 @@
       },
       "counter": "wild-turkey-20240717-hwz-4435-jpg"
     },
-    "count": 3,
+    "count": 4,
     "locations": [
+      "Coyote Hills Regional Park, California",
       "Madison, Wisconsin"
     ],
     "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Madison, Wisconsin",
         "country": "United States",
@@ -6239,11 +6465,17 @@
       },
       "counter": "willet-jpg"
     },
-    "count": 2,
+    "count": 3,
     "locations": [
+      "Coyote Hills Regional Park, California",
       "Orange County, California"
     ],
     "location_details": [
+      {
+        "name": "Coyote Hills Regional Park, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Orange County, California",
         "country": "United States",

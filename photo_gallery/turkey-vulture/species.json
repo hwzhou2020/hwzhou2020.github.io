@@ -89,6 +89,33 @@
         "outing_date": "2026-11-20",
         "precision": "city"
       }
+    },
+    "20261122-DSC07708.jpg": {
+      "caption": "Adult · perched in a tree",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07724.jpg": {
+      "caption": "Adult · taking flight",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07739.jpg": {
+      "caption": "Adult · flying low over the grass",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
     }
   }
 }

@@ -38,6 +38,15 @@
         ],
         "precision": "broad outing location; no GPS coordinates"
       }
+    },
+    "20261122-DSC06780.jpg": {
+      "caption": "Resting at the water’s edge",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
     }
   }
 }

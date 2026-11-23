@@ -135,6 +135,38 @@
     "aperture": 6.3,
     "shutter": "1/4000"
   },
+  "american-kestrel/20261122-DSC07670X.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
+  "american-kestrel/20261122-DSC07677.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
+  "american-kestrel/20261122-DSC07679.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
+  "american-kestrel/20261122-DSC07682X.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
   "american-robin/20260322-DSC07638.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -510,6 +542,158 @@
     "focal": 478,
     "aperture": 6.3,
     "shutter": "1/2000"
+  },
+  "burrowing-owl/20261122-DSC06750.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/640"
+  },
+  "burrowing-owl/20261122-DSC06801.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "burrowing-owl/20261122-DSC06836.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "burrowing-owl/20261122-DSC06859.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "burrowing-owl/20261122-DSC06869.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "burrowing-owl/20261122-DSC06888.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "burrowing-owl/20261122-DSC06906.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1000"
+  },
+  "burrowing-owl/20261122-DSC06914.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1000"
+  },
+  "burrowing-owl/20261122-DSC06924.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1000"
+  },
+  "burrowing-owl/20261122-DSC06929.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1000"
+  },
+  "burrowing-owl/20261122-DSC06934.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1000"
+  },
+  "burrowing-owl/20261122-DSC06960.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1000"
+  },
+  "burrowing-owl/20261122-DSC06989.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1000"
+  },
+  "burrowing-owl/20261122-DSC06996.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1000"
+  },
+  "burrowing-owl/20261122-DSC06999.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1000"
+  },
+  "burrowing-owl/20261122-DSC07020.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "burrowing-owl/20261122-DSC07032.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 529,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "burrowing-owl/20261122-DSC07048.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "burrowing-owl/20261122-DSC07077.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
   },
   "bushtit/20260525-DSC08331.jpg": {
     "model": "ILCE-7CM2",
@@ -983,6 +1167,62 @@
     "aperture": 6.3,
     "shutter": "1/1250"
   },
+  "cooper-s-hawk/20261122-DSC07894.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "cooper-s-hawk/20261122-DSC07896.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "cooper-s-hawk/20261122-DSC07912.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "cooper-s-hawk/20261122-DSC07917.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "cooper-s-hawk/20261122-DSC07924.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "cooper-s-hawk/20261122-DSC07950.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 400,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "cooper-s-hawk/20261122-DSC07970.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 400,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
   "dark-eyed-junco/20260322-DSC07707.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -990,6 +1230,14 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/800"
+  },
+  "dark-eyed-junco/20261122-DSC07656.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
   },
   "dark-eyed-junco/Dark-Eyed Junco.jpg": {
     "model": "ILCE-7CM2",
@@ -1358,6 +1606,14 @@
     "focal": 200,
     "aperture": 5.6,
     "shutter": "1/4000"
+  },
+  "great-blue-heron/20261122-DSC07775.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2000,
+    "focal": 582,
+    "aperture": 6.3,
+    "shutter": "1/2500"
   },
   "great-blue-heron/Great Blue Heron.jpg": {
     "model": "ILCE-7CM2",
@@ -2263,6 +2519,14 @@
     "aperture": 6.3,
     "shutter": "1/3200"
   },
+  "little-bear-beetle/20260316-DSC07144.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
   "little-blue-heron/20260415-DSC02895.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -2598,6 +2862,14 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/2500"
+  },
+  "northern-mockingbird/20261122-DSC07099.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
   },
   "northern-mockingbird/Northern Mockingbird.jpg": {
     "model": "ILCE-7CM2",
@@ -2958,6 +3230,22 @@
     "focal": 200,
     "aperture": 5.6,
     "shutter": "1/4000"
+  },
+  "red-tailed-hawk/20261122-DSC07845.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 500,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "red-tailed-hawk/20261122-DSC07850.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
   },
   "red-tailed-hawk/Red-tailed Hawk.jpg": {
     "model": "ILCE-7CM2",
@@ -3487,6 +3775,30 @@
     "aperture": 6.3,
     "shutter": "1/320"
   },
+  "turkey-vulture/20261122-DSC07708.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
+  "turkey-vulture/20261122-DSC07724.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 489,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
+  "turkey-vulture/20261122-DSC07739.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 493,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
   "turkey-vulture/Turkey Vulture.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -3919,6 +4231,158 @@
     "aperture": 6.3,
     "shutter": "1/3200"
   },
+  "white-tailed-kite/20261122-DSC07114.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
+  "white-tailed-kite/20261122-DSC07148.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1000"
+  },
+  "white-tailed-kite/20261122-DSC07226.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/4000"
+  },
+  "white-tailed-kite/20261122-DSC07228.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/4000"
+  },
+  "white-tailed-kite/20261122-DSC07369.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "white-tailed-kite/20261122-DSC07372.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "white-tailed-kite/20261122-DSC07409.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "white-tailed-kite/20261122-DSC07421.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "white-tailed-kite/20261122-DSC07433.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "white-tailed-kite/20261122-DSC07436.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "white-tailed-kite/20261122-DSC07445.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "white-tailed-kite/20261122-DSC07457.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "white-tailed-kite/20261122-DSC07459.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "white-tailed-kite/20261122-DSC07593.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "white-tailed-kite/20261122-DSC07599.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "white-tailed-kite/20261122-DSC07603.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "white-tailed-kite/20261122-DSC07607.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "white-tailed-kite/20261122-DSC07615.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "white-tailed-kite/20261122-DSC07627.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 400,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
   "wild-turkey/20240717-HWZ_4435.jpg": {
     "model": "NIKON D7200",
     "lens": "18.0-140.0 mm f/3.5-5.6",
@@ -3943,6 +4407,14 @@
     "aperture": 5.6,
     "shutter": "1/800"
   },
+  "wild-turkey/20261122-DSC07129.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1250"
+  },
   "willet/20260408-DSC00993.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -3950,6 +4422,14 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/4000"
+  },
+  "willet/20261122-DSC06780.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1600,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/500"
   },
   "willet/Willet.jpg": {
     "model": "ILCE-7CM2",

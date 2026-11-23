@@ -1,0 +1,51 @@
+{
+  "name": "American Kestrel",
+  "category": "Birds",
+  "group": "Raptors & Owls",
+  "cover": "20261122-DSC07679.jpg",
+  "description": "The American Kestrel is North America’s smallest falcon, often seen watching open fields from a wire, pole, or exposed perch. Males have blue-gray wings and rusty backs, while females show warmer brown wings with dark barring. Both have bold facial markings. Kestrels hunt insects and other small animals, sometimes hovering into the wind before dropping toward prey. They nest in cavities and readily use suitable nest boxes. A perched bird may look delicate, but its alert posture and sudden hunting flights reveal an agile predator.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/American_Kestrel/overview"
+    }
+  ],
+  "photos": {
+    "20261122-DSC07670X.jpg": {
+      "caption": "Female · perched on a rock",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07677.jpg": {
+      "caption": "Female · watching from a rocky perch",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07679.jpg": {
+      "caption": "Female · perched portrait",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    },
+    "20261122-DSC07682X.jpg": {
+      "caption": "Female · looking toward the camera",
+      "location": "Coyote Hills Regional Park, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-22",
+        "precision": "park"
+      }
+    }
+  }
+}
