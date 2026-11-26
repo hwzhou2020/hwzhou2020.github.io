@@ -569,7 +569,7 @@
       },
       "counter": "belted-kingsfisher-20261119-dsc06303-jpg"
     },
-    "count": 8,
+    "count": 10,
     "locations": [
       "Sunnyvale, California"
     ],
@@ -667,11 +667,12 @@
       },
       "counter": "black-phoebe-jpg"
     },
-    "count": 4,
+    "count": 8,
     "locations": [
       "Los Angeles County Arboretum, California",
       "Orange County, California",
-      "Pico Rivera, California"
+      "Pico Rivera, California",
+      "Sunnyvale, California"
     ],
     "location_details": [
       {
@@ -686,6 +687,11 @@
       },
       {
         "name": "Pico Rivera, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sunnyvale, California",
         "country": "United States",
         "state": "California"
       }
@@ -1379,10 +1385,11 @@
       },
       "counter": "california-ground-squirrel-20260415-dsc02360-jpg"
     },
-    "count": 2,
+    "count": 3,
     "locations": [
       "Orange County, California",
-      "Pinnacles National Park, California"
+      "Pinnacles National Park, California",
+      "Sunnyvale, California"
     ],
     "location_details": [
       {
@@ -1392,6 +1399,11 @@
       },
       {
         "name": "Pinnacles National Park, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sunnyvale, California",
         "country": "United States",
         "state": "California"
       }
@@ -3625,7 +3637,7 @@
       },
       "counter": "lesser-goldfinch-jpg"
     },
-    "count": 5,
+    "count": 13,
     "locations": [
       "Irvine, California",
       "Los Angeles County Arboretum, California",
@@ -6190,6 +6202,52 @@
       },
       {
         "name": "Pescadero area, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
+  {
+    "name": "White Garden Snail",
+    "category": "Mollusks",
+    "group": "",
+    "scientific_name": "",
+    "description": "The White Garden Snail has a pale, rounded shell that may be almost plain or marked with narrow brown spiral bands. During hot, dry weather, it often climbs stems, fences, or other upright surfaces and rests above the ground. A seal of dried mucus helps reduce water loss while it is dormant. It becomes more active when moist conditions return, feeding on a variety of plants. These photographs show snails attached to a slender stem, with their pale shells standing out against the surrounding vegetation.",
+    "references": [
+      {
+        "title": "University of California Agriculture and Natural Resources: White Garden Snail",
+        "url": "https://ucanr.edu/blog/pests-urban-landscape/article/white-garden-snail-serious-threat-landscape-ornamentals"
+      }
+    ],
+    "slug": "white-garden-snail",
+    "url": "/wildlife-gallery/white-garden-snail/",
+    "cover": {
+      "filename": "20261126-DSC08102.jpg",
+      "path": "/photo_gallery/white-garden-snail/20261126-DSC08102.jpg",
+      "thumbnail": "/assets/images/wildlife/white-garden-snail/93c7f1d427c08053b0798743d3ddaec19b1d65d7.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Two snails sharing a stem",
+      "location": "Sunnyvale, California",
+      "date": "2026-11-26T12:25:18",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 500,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/2000"
+      },
+      "counter": "white-garden-snail-20261126-dsc08102-jpg"
+    },
+    "count": 2,
+    "locations": [
+      "Sunnyvale, California"
+    ],
+    "location_details": [
+      {
+        "name": "Sunnyvale, California",
         "country": "United States",
         "state": "California"
       }

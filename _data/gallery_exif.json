@@ -383,6 +383,22 @@
     "aperture": 6.3,
     "shutter": "1/1600"
   },
+  "belted-kingsfisher/20261126-DSC07979.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "belted-kingsfisher/20261126-DSC07985.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1000,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
   "bewick-s-wren/20260424-DSC04715.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -438,6 +454,38 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/2000"
+  },
+  "black-phoebe/20261126-DSC07992.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "black-phoebe/20261126-DSC07993.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "black-phoebe/20261126-DSC08025.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "black-phoebe/20261126-DSC08036.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1600"
   },
   "black-phoebe/Black Phoebe.jpg": {
     "model": "ILCE-7CM2",
@@ -875,6 +923,14 @@
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
     "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "california-ground-squirrel/20261126-DSC08094.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/2000"
@@ -2486,6 +2542,70 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/4000"
+  },
+  "lesser-goldfinch/20261126-DSC08040.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "lesser-goldfinch/20261126-DSC08042.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "lesser-goldfinch/20261126-DSC08053.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "lesser-goldfinch/20261126-DSC08067.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "lesser-goldfinch/20261126-DSC08077.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "lesser-goldfinch/20261126-DSC08079.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "lesser-goldfinch/20261126-DSC08085.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "lesser-goldfinch/20261126-DSC08086.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
   },
   "lesser-goldfinch/Lesser Goldfinch.jpg": {
     "model": "ILCE-7CM2",
@@ -4190,6 +4310,22 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/1600"
+  },
+  "white-garden-snail/20261126-DSC08096.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "white-garden-snail/20261126-DSC08102.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
   },
   "white-tailed-kite/20261122-DSC07114.jpg": {
     "model": "ILCE-7CM2",

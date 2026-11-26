@@ -122,6 +122,24 @@
         ],
         "precision": "broad outing location; no GPS coordinates"
       }
+    },
+    "20261126-DSC07979.jpg": {
+      "caption": "Female · perched on a metal railing",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC07985.jpg": {
+      "caption": "Female · crest raised",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
     }
   }
 }

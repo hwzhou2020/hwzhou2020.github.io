@@ -1373,6 +1373,46 @@
     "url": "/wildlife-gallery/belted-kingsfisher/",
     "photos": [
       {
+        "filename": "20261126-DSC07985.jpg",
+        "path": "/photo_gallery/belted-kingsfisher/20261126-DSC07985.jpg",
+        "thumbnail": "/assets/images/wildlife/belted-kingsfisher/4ca9c40905e6e8b1bd19b35564b92a84e8558dc2.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Female · crest raised",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-26T12:00:40",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1000,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "belted-kingsfisher-20261126-dsc07985-jpg"
+      },
+      {
+        "filename": "20261126-DSC07979.jpg",
+        "path": "/photo_gallery/belted-kingsfisher/20261126-DSC07979.jpg",
+        "thumbnail": "/assets/images/wildlife/belted-kingsfisher/6da79d30f7e2f18ecaa3e06cc8ea244a0fabde75.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Female · perched on a metal railing",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-26T12:00:37",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "belted-kingsfisher-20261126-dsc07979-jpg"
+      },
+      {
         "filename": "20261119-DSC06335.jpg",
         "path": "/photo_gallery/belted-kingsfisher/20261119-DSC06335.jpg",
         "thumbnail": "/assets/images/wildlife/belted-kingsfisher/f86949d03db61b1b0d01d48fdf2a3694926b2c09.webp",
@@ -1553,7 +1593,7 @@
       },
       "counter": "belted-kingsfisher-20261119-dsc06303-jpg"
     },
-    "count": 8,
+    "count": 10,
     "locations": [
       "Sunnyvale, California"
     ],
@@ -1769,6 +1809,86 @@
     "url": "/wildlife-gallery/black-phoebe/",
     "photos": [
       {
+        "filename": "20261126-DSC08036.jpg",
+        "path": "/photo_gallery/black-phoebe/20261126-DSC08036.jpg",
+        "thumbnail": "/assets/images/wildlife/black-phoebe/5333761fc5e5a5fb273e2db625cb6dcce4468988.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Taking flight from a post",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-26T12:19:26",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1600"
+        },
+        "counter": "black-phoebe-20261126-dsc08036-jpg"
+      },
+      {
+        "filename": "20261126-DSC08025.jpg",
+        "path": "/photo_gallery/black-phoebe/20261126-DSC08025.jpg",
+        "thumbnail": "/assets/images/wildlife/black-phoebe/3195c773d739c813167e4f19cc98d0fbcbff5f27.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Perched · side profile",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-26T12:19:21",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "black-phoebe-20261126-dsc08025-jpg"
+      },
+      {
+        "filename": "20261126-DSC07992.jpg",
+        "path": "/photo_gallery/black-phoebe/20261126-DSC07992.jpg",
+        "thumbnail": "/assets/images/wildlife/black-phoebe/1bd7c05bf053af25e341ff1bf665bb0ebf4bc611.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Wings spread in the sunlight",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-26T12:18:19",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "black-phoebe-20261126-dsc07992-jpg"
+      },
+      {
+        "filename": "20261126-DSC07993.jpg",
+        "path": "/photo_gallery/black-phoebe/20261126-DSC07993.jpg",
+        "thumbnail": "/assets/images/wildlife/black-phoebe/efc4c5cc209469af7a49265b2d15912a153faa67.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Wings extended above a perch",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-26T12:18:19",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "black-phoebe-20261126-dsc07993-jpg"
+      },
+      {
         "filename": "20260424-DSC04975.jpg",
         "path": "/photo_gallery/black-phoebe/20260424-DSC04975.jpg",
         "thumbnail": "/assets/images/wildlife/black-phoebe/56b6c28276e7ff9d0f89b1f8d16f6a8ac6b85b52.webp",
@@ -1869,11 +1989,12 @@
       },
       "counter": "black-phoebe-jpg"
     },
-    "count": 4,
+    "count": 8,
     "locations": [
       "Los Angeles County Arboretum, California",
       "Orange County, California",
-      "Pico Rivera, California"
+      "Pico Rivera, California",
+      "Sunnyvale, California"
     ],
     "location_details": [
       {
@@ -1888,6 +2009,11 @@
       },
       {
         "name": "Pico Rivera, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sunnyvale, California",
         "country": "United States",
         "state": "California"
       }
@@ -3521,6 +3647,26 @@
     "url": "/wildlife-gallery/california-ground-squirrel/",
     "photos": [
       {
+        "filename": "20261126-DSC08094.jpg",
+        "path": "/photo_gallery/california-ground-squirrel/20261126-DSC08094.jpg",
+        "thumbnail": "/assets/images/wildlife/california-ground-squirrel/d215f371c09648a6d3fe49383f1332f7c4df090b.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Sitting upright in the grass",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-26T12:24:14",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "california-ground-squirrel-20261126-dsc08094-jpg"
+      },
+      {
         "filename": "20260506-DSC06561.jpg",
         "path": "/photo_gallery/california-ground-squirrel/20260506-DSC06561.jpg",
         "thumbnail": "/assets/images/wildlife/california-ground-squirrel/085b07960da7ec80350ee3158cf15af0f063fb7c.webp",
@@ -3581,10 +3727,11 @@
       },
       "counter": "california-ground-squirrel-20260415-dsc02360-jpg"
     },
-    "count": 2,
+    "count": 3,
     "locations": [
       "Orange County, California",
-      "Pinnacles National Park, California"
+      "Pinnacles National Park, California",
+      "Sunnyvale, California"
     ],
     "location_details": [
       {
@@ -3594,6 +3741,11 @@
       },
       {
         "name": "Pinnacles National Park, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Sunnyvale, California",
         "country": "United States",
         "state": "California"
       }
@@ -9793,6 +9945,166 @@
     "url": "/wildlife-gallery/lesser-goldfinch/",
     "photos": [
       {
+        "filename": "20261126-DSC08085.jpg",
+        "path": "/photo_gallery/lesser-goldfinch/20261126-DSC08085.jpg",
+        "thumbnail": "/assets/images/wildlife/lesser-goldfinch/75fa14d7a1dce4d4531bee54461208204dabc1cf.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Male · fluffed feathers",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-26T12:22:41",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "lesser-goldfinch-20261126-dsc08085-jpg"
+      },
+      {
+        "filename": "20261126-DSC08086.jpg",
+        "path": "/photo_gallery/lesser-goldfinch/20261126-DSC08086.jpg",
+        "thumbnail": "/assets/images/wildlife/lesser-goldfinch/0c8df346b40fbf93f660279c03cc5b768174ec6c.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Male · close-up portrait",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-26T12:22:41",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "lesser-goldfinch-20261126-dsc08086-jpg"
+      },
+      {
+        "filename": "20261126-DSC08079.jpg",
+        "path": "/photo_gallery/lesser-goldfinch/20261126-DSC08079.jpg",
+        "thumbnail": "/assets/images/wildlife/lesser-goldfinch/b3bec4b51870f2ea06ada2adc20b756f77418659.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Male · looking toward the camera",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-26T12:22:30",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "lesser-goldfinch-20261126-dsc08079-jpg"
+      },
+      {
+        "filename": "20261126-DSC08077.jpg",
+        "path": "/photo_gallery/lesser-goldfinch/20261126-DSC08077.jpg",
+        "thumbnail": "/assets/images/wildlife/lesser-goldfinch/22b6745561a9b649ce1cb1c680d0dd0ee153482d.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Male · perched portrait",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-26T12:22:29",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "lesser-goldfinch-20261126-dsc08077-jpg"
+      },
+      {
+        "filename": "20261126-DSC08067.jpg",
+        "path": "/photo_gallery/lesser-goldfinch/20261126-DSC08067.jpg",
+        "thumbnail": "/assets/images/wildlife/lesser-goldfinch/f63b189b87f59004fdc3f35077644454bcc60b8c.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Male · facing the camera",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-26T12:22:11",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "lesser-goldfinch-20261126-dsc08067-jpg"
+      },
+      {
+        "filename": "20261126-DSC08053.jpg",
+        "path": "/photo_gallery/lesser-goldfinch/20261126-DSC08053.jpg",
+        "thumbnail": "/assets/images/wildlife/lesser-goldfinch/9a623128ffa992eb9443fb12f08922c43f93219e.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Perched on a slender stem",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-26T12:21:48",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "lesser-goldfinch-20261126-dsc08053-jpg"
+      },
+      {
+        "filename": "20261126-DSC08042.jpg",
+        "path": "/photo_gallery/lesser-goldfinch/20261126-DSC08042.jpg",
+        "thumbnail": "/assets/images/wildlife/lesser-goldfinch/9a181ec3baf6a499f4d549da78e2a42e54f99336.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Perched · looking to the side",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-26T12:21:31",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "lesser-goldfinch-20261126-dsc08042-jpg"
+      },
+      {
+        "filename": "20261126-DSC08040.jpg",
+        "path": "/photo_gallery/lesser-goldfinch/20261126-DSC08040.jpg",
+        "thumbnail": "/assets/images/wildlife/lesser-goldfinch/a0b5d58636329e7d4afde0395ca1056c9dbb780d.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Perched among seedheads",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-26T12:21:29",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "lesser-goldfinch-20261126-dsc08040-jpg"
+      },
+      {
         "filename": "20261120-DSC06658.jpg",
         "path": "/photo_gallery/lesser-goldfinch/20261120-DSC06658.jpg",
         "thumbnail": "/assets/images/wildlife/lesser-goldfinch/f84aced396ae4745017e2bfe607dc95052c57afb.webp",
@@ -9913,7 +10225,7 @@
       },
       "counter": "lesser-goldfinch-jpg"
     },
-    "count": 5,
+    "count": 13,
     "locations": [
       "Irvine, California",
       "Los Angeles County Arboretum, California",
@@ -17028,6 +17340,94 @@
     "location_details": [
       {
         "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
+  "white-garden-snail": {
+    "name": "White Garden Snail",
+    "category": "Mollusks",
+    "group": "",
+    "scientific_name": "",
+    "description": "The White Garden Snail has a pale, rounded shell that may be almost plain or marked with narrow brown spiral bands. During hot, dry weather, it often climbs stems, fences, or other upright surfaces and rests above the ground. A seal of dried mucus helps reduce water loss while it is dormant. It becomes more active when moist conditions return, feeding on a variety of plants. These photographs show snails attached to a slender stem, with their pale shells standing out against the surrounding vegetation.",
+    "references": [
+      {
+        "title": "University of California Agriculture and Natural Resources: White Garden Snail",
+        "url": "https://ucanr.edu/blog/pests-urban-landscape/article/white-garden-snail-serious-threat-landscape-ornamentals"
+      }
+    ],
+    "slug": "white-garden-snail",
+    "url": "/wildlife-gallery/white-garden-snail/",
+    "photos": [
+      {
+        "filename": "20261126-DSC08102.jpg",
+        "path": "/photo_gallery/white-garden-snail/20261126-DSC08102.jpg",
+        "thumbnail": "/assets/images/wildlife/white-garden-snail/93c7f1d427c08053b0798743d3ddaec19b1d65d7.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Two snails sharing a stem",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-26T12:25:18",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "white-garden-snail-20261126-dsc08102-jpg"
+      },
+      {
+        "filename": "20261126-DSC08096.jpg",
+        "path": "/photo_gallery/white-garden-snail/20261126-DSC08096.jpg",
+        "thumbnail": "/assets/images/wildlife/white-garden-snail/c2f355da89b6c0955f0b5d6d6a5281a87b995739.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Resting on a dry stem",
+        "location": "Sunnyvale, California",
+        "date": "2026-11-26T12:24:21",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "white-garden-snail-20261126-dsc08096-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20261126-DSC08102.jpg",
+      "path": "/photo_gallery/white-garden-snail/20261126-DSC08102.jpg",
+      "thumbnail": "/assets/images/wildlife/white-garden-snail/93c7f1d427c08053b0798743d3ddaec19b1d65d7.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Two snails sharing a stem",
+      "location": "Sunnyvale, California",
+      "date": "2026-11-26T12:25:18",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 500,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/2000"
+      },
+      "counter": "white-garden-snail-20261126-dsc08102-jpg"
+    },
+    "count": 2,
+    "locations": [
+      "Sunnyvale, California"
+    ],
+    "location_details": [
+      {
+        "name": "Sunnyvale, California",
         "country": "United States",
         "state": "California"
       }

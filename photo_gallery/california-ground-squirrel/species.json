@@ -38,6 +38,15 @@
         ],
         "precision": "broad outing location; no GPS coordinates"
       }
+    },
+    "20261126-DSC08094.jpg": {
+      "caption": "Sitting upright in the grass",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
     }
   }
 }

@@ -1,0 +1,32 @@
+{
+  "name": "White Garden Snail",
+  "category": "Mollusks",
+  "cover": "20261126-DSC08102.jpg",
+  "description": "The White Garden Snail has a pale, rounded shell that may be almost plain or marked with narrow brown spiral bands. During hot, dry weather, it often climbs stems, fences, or other upright surfaces and rests above the ground. A seal of dried mucus helps reduce water loss while it is dormant. It becomes more active when moist conditions return, feeding on a variety of plants. These photographs show snails attached to a slender stem, with their pale shells standing out against the surrounding vegetation.",
+  "references": [
+    {
+      "title": "University of California Agriculture and Natural Resources: White Garden Snail",
+      "url": "https://ucanr.edu/blog/pests-urban-landscape/article/white-garden-snail-serious-threat-landscape-ornamentals"
+    }
+  ],
+  "photos": {
+    "20261126-DSC08096.jpg": {
+      "caption": "Resting on a dry stem",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08102.jpg": {
+      "caption": "Two snails sharing a stem",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    }
+  }
+}

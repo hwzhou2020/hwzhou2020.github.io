@@ -63,6 +63,42 @@
         "folder": "20260215 1st birding",
         "note": "Photographer confirmed this outing as Pico Rivera, California."
       }
+    },
+    "20261126-DSC07992.jpg": {
+      "caption": "Wings spread in the sunlight",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC07993.jpg": {
+      "caption": "Wings extended above a perch",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08025.jpg": {
+      "caption": "Perched · side profile",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08036.jpg": {
+      "caption": "Taking flight from a post",
+      "location": "Sunnyvale, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
     }
   }
 }
