@@ -81,6 +81,15 @@
         ],
         "precision": "broad outing location; no GPS coordinates"
       }
+    },
+    "20261126-DSC08144.jpg": {
+      "caption": "Adult · resting among reeds",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
     }
   }
 }

@@ -39,6 +39,33 @@
         ],
         "precision": "broad outing location; no GPS coordinates"
       }
+    },
+    "20261126-DSC08105.jpg": {
+      "caption": "Flock resting along the shoreline",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08110.jpg": {
+      "caption": "Resting in shallow water",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08193.jpg": {
+      "caption": "Flock in evening light",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
     }
   }
 }

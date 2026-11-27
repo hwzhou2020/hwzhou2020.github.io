@@ -24,6 +24,15 @@
         ],
         "precision": "broad outing location; no GPS coordinates"
       }
+    },
+    "20261126-DSC08117.jpg": {
+      "caption": "Male and female · swimming",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
     }
   }
 }

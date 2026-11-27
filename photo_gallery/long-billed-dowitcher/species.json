@@ -1,0 +1,33 @@
+{
+  "name": "Long-billed Dowitcher",
+  "category": "Birds",
+  "group": "Shorebirds & Gulls",
+  "cover": "20261126-DSC08134.jpg",
+  "description": "The Long-billed Dowitcher is a stocky shorebird that probes wet mud and shallow water for small invertebrates. Its rapid, repeated bill movements are a distinctive sight in feeding flocks. Winter birds are mostly gray-brown, while breeding plumage includes rich reddish tones and intricate markings. It breeds in far northern tundra and uses wetlands farther south during migration and winter. Despite its name, bill length alone does not reliably distinguish it from the similar Short-billed Dowitcher; calls and a combination of other features provide better clues.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Long-billed_Dowitcher/overview"
+    }
+  ],
+  "photos": {
+    "20261126-DSC08129.jpg": {
+      "caption": "Flock resting in shallow water",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08134.jpg": {
+      "caption": "Resting with a reflection",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    }
+  }
+}

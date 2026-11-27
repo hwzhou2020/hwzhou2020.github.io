@@ -94,6 +94,33 @@
         ],
         "precision": "broad outing location; no GPS coordinates"
       }
+    },
+    "20261126-DSC08158.jpg": {
+      "caption": "Preening beside the water",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08167.jpg": {
+      "caption": "Preening while balancing on one leg",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08171.jpg": {
+      "caption": "Stretching a wing",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
     }
   }
 }

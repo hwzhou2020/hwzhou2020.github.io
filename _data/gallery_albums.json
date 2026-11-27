@@ -257,6 +257,66 @@
     "url": "/wildlife-gallery/american-avocet/",
     "photos": [
       {
+        "filename": "20261126-DSC08193.jpg",
+        "path": "/photo_gallery/american-avocet/20261126-DSC08193.jpg",
+        "thumbnail": "/assets/images/wildlife/american-avocet/421c8fe507ed7edd267d6eda9d862d0cb2d76bfb.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Flock in evening light",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:20:16",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 400,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1600"
+        },
+        "counter": "american-avocet-20261126-dsc08193-jpg"
+      },
+      {
+        "filename": "20261126-DSC08110.jpg",
+        "path": "/photo_gallery/american-avocet/20261126-DSC08110.jpg",
+        "thumbnail": "/assets/images/wildlife/american-avocet/74d37ea47a55bddbd69fca9c961d26cb99ebb941.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Resting in shallow water",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T16:37:03",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "american-avocet-20261126-dsc08110-jpg"
+      },
+      {
+        "filename": "20261126-DSC08105.jpg",
+        "path": "/photo_gallery/american-avocet/20261126-DSC08105.jpg",
+        "thumbnail": "/assets/images/wildlife/american-avocet/c714b973757392efdb67edc005685a0cd9435bea.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Flock resting along the shoreline",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T16:36:48",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "american-avocet-20261126-dsc08105-jpg"
+      },
+      {
         "filename": "20260408-DSC00124.jpg",
         "path": "/photo_gallery/american-avocet/20260408-DSC00124.jpg",
         "thumbnail": "/assets/images/wildlife/american-avocet/49c85f413442433812a26564f4acce5673a6332a.webp",
@@ -317,11 +377,17 @@
       },
       "counter": "american-avocet-jpg"
     },
-    "count": 2,
+    "count": 5,
     "locations": [
+      "Mountain View, California",
       "Orange County, California"
     ],
     "location_details": [
+      {
+        "name": "Mountain View, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Orange County, California",
         "country": "United States",
@@ -344,6 +410,66 @@
     "slug": "american-coot",
     "url": "/wildlife-gallery/american-coot/",
     "photos": [
+      {
+        "filename": "20261126-DSC08171.jpg",
+        "path": "/photo_gallery/american-coot/20261126-DSC08171.jpg",
+        "thumbnail": "/assets/images/wildlife/american-coot/2d8f88ff5dff4deb3cbc31465095a59c94f6d556.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Stretching a wing",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:03:48",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1000,
+          "focal": 489,
+          "aperture": 6.3,
+          "shutter": "1/500"
+        },
+        "counter": "american-coot-20261126-dsc08171-jpg"
+      },
+      {
+        "filename": "20261126-DSC08167.jpg",
+        "path": "/photo_gallery/american-coot/20261126-DSC08167.jpg",
+        "thumbnail": "/assets/images/wildlife/american-coot/126bcb3f1f13f4b3b4c5da327de185a587896e27.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Preening while balancing on one leg",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:03:43",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 518,
+          "aperture": 6.3,
+          "shutter": "1/500"
+        },
+        "counter": "american-coot-20261126-dsc08167-jpg"
+      },
+      {
+        "filename": "20261126-DSC08158.jpg",
+        "path": "/photo_gallery/american-coot/20261126-DSC08158.jpg",
+        "thumbnail": "/assets/images/wildlife/american-coot/2aaef7b79c2157469e904305f44303f7d3e13136.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Preening beside the water",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:03:36",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 1250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/500"
+        },
+        "counter": "american-coot-20261126-dsc08158-jpg"
+      },
       {
         "filename": "20260506-DSC06609.jpg",
         "path": "/photo_gallery/american-coot/20260506-DSC06609.jpg",
@@ -485,12 +611,18 @@
       },
       "counter": "american-coot-20260415-dsc02515-jpg"
     },
-    "count": 6,
+    "count": 9,
     "locations": [
+      "Mountain View, California",
       "Orange County, California",
       "Pinnacles National Park, California"
     ],
     "location_details": [
+      {
+        "name": "Mountain View, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Orange County, California",
         "country": "United States",
@@ -1699,6 +1831,186 @@
       }
     ]
   },
+  "black-crowned-night-heron": {
+    "name": "Black-crowned Night Heron",
+    "category": "Birds",
+    "group": "Waterbirds",
+    "scientific_name": "",
+    "description": "The Black-crowned Night Heron is a stocky, short-necked heron that often rests quietly in waterside vegetation by day and becomes more active around dusk. Adults have a black crown and back, gray wings, white underparts, and red eyes, while immatures are brown with pale spotting and streaking. It hunts in freshwater, brackish, and coastal wetlands, standing still or wading slowly before striking at fish, crustaceans, and other prey. It nests in colonies and is found across much of the world, including Hawaii, where it is known as the ʻAukuʻu.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Black-crowned_Night-Heron"
+      }
+    ],
+    "slug": "black-crowned-night-heron",
+    "url": "/wildlife-gallery/black-crowned-night-heron/",
+    "photos": [
+      {
+        "filename": "20261126-DSC08144.jpg",
+        "path": "/photo_gallery/black-crowned-night-heron/20261126-DSC08144.jpg",
+        "thumbnail": "/assets/images/wildlife/black-crowned-night-heron/fb29bd406ac5c703a52916ea778d4a05454ded9a.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · resting among reeds",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:01:46",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/500"
+        },
+        "counter": "black-crowned-night-heron-20261126-dsc08144-jpg"
+      },
+      {
+        "filename": "20261029-DSC03194.jpg",
+        "path": "/photo_gallery/black-crowned-night-heron/20261029-DSC03194.jpg",
+        "thumbnail": "/assets/images/wildlife/black-crowned-night-heron/45d1c0973e3b5f4d3ef153c7de93d27041c3bf59.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Immature · wading",
+        "location": "Maui, Hawaii",
+        "date": "2026-10-29T13:19:21",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2500"
+        },
+        "counter": "night-heron-20261029-dsc03194-jpg"
+      },
+      {
+        "filename": "20260424-DSC04870.jpg",
+        "path": "/photo_gallery/black-crowned-night-heron/20260424-DSC04870.jpg",
+        "thumbnail": "/assets/images/wildlife/black-crowned-night-heron/babbf644d722cb6bde345b48513d856dadb3d441.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · foraging",
+        "location": "Los Angeles County Arboretum, California",
+        "date": "2026-04-24T03:04:01",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "night-heron-20260424-dsc04870-jpg"
+      },
+      {
+        "filename": "Night Heron.jpg",
+        "path": "/photo_gallery/black-crowned-night-heron/Night Heron.jpg",
+        "thumbnail": "/assets/images/wildlife/black-crowned-night-heron/210686c22f472cae42d948163117d5d94a8853fc.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · watching the water",
+        "location": "Los Angeles County Arboretum, California",
+        "date": "2026-04-24T03:03:01",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "night-heron-jpg"
+      },
+      {
+        "filename": "20260424-DSC04856.jpg",
+        "path": "/photo_gallery/black-crowned-night-heron/20260424-DSC04856.jpg",
+        "thumbnail": "/assets/images/wildlife/black-crowned-night-heron/12005eb46edef7e2615d66718950de35fe90d10d.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · watching the water",
+        "location": "Los Angeles County Arboretum, California",
+        "date": "2026-04-24T03:02:45",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "night-heron-20260424-dsc04856-jpg"
+      },
+      {
+        "filename": "20260424-DSC04835.jpg",
+        "path": "/photo_gallery/black-crowned-night-heron/20260424-DSC04835.jpg",
+        "thumbnail": "/assets/images/wildlife/black-crowned-night-heron/cc3daef470fceec14c1c659d9c52f28412208423.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · reaching toward the water",
+        "location": "Los Angeles County Arboretum, California",
+        "date": "2026-04-24T03:01:19",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/3200"
+        },
+        "counter": "night-heron-20260424-dsc04835-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20261029-DSC03194.jpg",
+      "path": "/photo_gallery/black-crowned-night-heron/20261029-DSC03194.jpg",
+      "thumbnail": "/assets/images/wildlife/black-crowned-night-heron/45d1c0973e3b5f4d3ef153c7de93d27041c3bf59.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Immature · wading",
+      "location": "Maui, Hawaii",
+      "date": "2026-10-29T13:19:21",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 250,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/2500"
+      },
+      "counter": "night-heron-20261029-dsc03194-jpg"
+    },
+    "count": 6,
+    "locations": [
+      "Los Angeles County Arboretum, California",
+      "Maui, Hawaii",
+      "Mountain View, California"
+    ],
+    "location_details": [
+      {
+        "name": "Los Angeles County Arboretum, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Maui, Hawaii",
+        "country": "United States",
+        "state": "Hawaii"
+      },
+      {
+        "name": "Mountain View, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
   "black-necked-stilt": {
     "name": "Black-necked Stilt",
     "category": "Birds",
@@ -2596,6 +2908,234 @@
     "location_details": [
       {
         "name": "Yosemite National Park, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
+  "bufflehead": {
+    "name": "Bufflehead",
+    "category": "Birds",
+    "group": "Waterbirds",
+    "scientific_name": "",
+    "description": "The Bufflehead is a small diving duck with a rounded head and a buoyant appearance on the water. Males have striking black-and-white plumage, with green and purple iridescence visible on the head in good light. Females are gray-brown with a small white cheek patch. These ducks dive repeatedly to feed on aquatic invertebrates, often disappearing abruptly and resurfacing nearby. They spend winter on sheltered bays, lakes, and ponds, then breed in northern forests, where they use tree cavities, particularly old woodpecker holes, as nest sites.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Bufflehead/overview"
+      }
+    ],
+    "slug": "bufflehead",
+    "url": "/wildlife-gallery/bufflehead/",
+    "photos": [
+      {
+        "filename": "20261126-DSC08285.jpg",
+        "path": "/photo_gallery/bufflehead/20261126-DSC08285.jpg",
+        "thumbnail": "/assets/images/wildlife/bufflehead/c24ff0ed5f5603f90f072921fd1030f458776973.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Bathing with a splash",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:55:58",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/320"
+        },
+        "counter": "bufflehead-20261126-dsc08285-jpg"
+      },
+      {
+        "filename": "20261126-DSC08281.jpg",
+        "path": "/photo_gallery/bufflehead/20261126-DSC08281.jpg",
+        "thumbnail": "/assets/images/wildlife/bufflehead/04ee5e88a65ff5eec1d7234a9b3c5f3a2fd25b0f.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Bathing · ripples spreading",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:55:57",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/320"
+        },
+        "counter": "bufflehead-20261126-dsc08281-jpg"
+      },
+      {
+        "filename": "20261126-DSC08280.jpg",
+        "path": "/photo_gallery/bufflehead/20261126-DSC08280.jpg",
+        "thumbnail": "/assets/images/wildlife/bufflehead/c96ca5561c6f554fa5fb0ee51f9bb76ca65c5228.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Male · turning on the water",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:55:54",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/320"
+        },
+        "counter": "bufflehead-20261126-dsc08280-jpg"
+      },
+      {
+        "filename": "20261126-DSC08275.jpg",
+        "path": "/photo_gallery/bufflehead/20261126-DSC08275.jpg",
+        "thumbnail": "/assets/images/wildlife/bufflehead/4321b9819556a27429bc70e28f9a9476faac7050.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Male · swimming in evening light",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:55:41",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/500"
+        },
+        "counter": "bufflehead-20261126-dsc08275-jpg"
+      },
+      {
+        "filename": "20261126-DSC08270.jpg",
+        "path": "/photo_gallery/bufflehead/20261126-DSC08270.jpg",
+        "thumbnail": "/assets/images/wildlife/bufflehead/df04ebea95047a7d3a95982cbe15adfdb0d3aa31.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Wings raised above the water",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:52:29",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1000"
+        },
+        "counter": "bufflehead-20261126-dsc08270-jpg"
+      },
+      {
+        "filename": "20261126-DSC08264.jpg",
+        "path": "/photo_gallery/bufflehead/20261126-DSC08264.jpg",
+        "thumbnail": "/assets/images/wildlife/bufflehead/82f793d312d6651c0e4725ab19603b3b4c0bf347.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Swimming and bathing",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:51:09",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/250"
+        },
+        "counter": "bufflehead-20261126-dsc08264-jpg"
+      },
+      {
+        "filename": "20261126-DSC08263.jpg",
+        "path": "/photo_gallery/bufflehead/20261126-DSC08263.jpg",
+        "thumbnail": "/assets/images/wildlife/bufflehead/41f33abd7203a67c192aebd04dbad9fef036e199.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Male in the foreground · companion bathing",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:51:08",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/250"
+        },
+        "counter": "bufflehead-20261126-dsc08263-jpg"
+      },
+      {
+        "filename": "20261126-DSC08255.jpg",
+        "path": "/photo_gallery/bufflehead/20261126-DSC08255.jpg",
+        "thumbnail": "/assets/images/wildlife/bufflehead/74877aba1fb992af66c126fbd82bbaf2895aff2b.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Male · swimming in shaded water",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:50:06",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/640"
+        },
+        "counter": "bufflehead-20261126-dsc08255-jpg"
+      },
+      {
+        "filename": "20261126-DSC08248.jpg",
+        "path": "/photo_gallery/bufflehead/20261126-DSC08248.jpg",
+        "thumbnail": "/assets/images/wildlife/bufflehead/64096ff58a41fcc4de73e71f55b118f1c2e17118.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Male · swimming through reflections",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:46:03",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1000"
+        },
+        "counter": "bufflehead-20261126-dsc08248-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20261126-DSC08275.jpg",
+      "path": "/photo_gallery/bufflehead/20261126-DSC08275.jpg",
+      "thumbnail": "/assets/images/wildlife/bufflehead/4321b9819556a27429bc70e28f9a9476faac7050.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Male · swimming in evening light",
+      "location": "Mountain View, California",
+      "date": "2026-11-26T17:55:41",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 2500,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/500"
+      },
+      "counter": "bufflehead-20261126-dsc08275-jpg"
+    },
+    "count": 9,
+    "locations": [
+      "Mountain View, California"
+    ],
+    "location_details": [
+      {
+        "name": "Mountain View, California",
         "country": "United States",
         "state": "California"
       }
@@ -9857,6 +10397,66 @@
     "url": "/wildlife-gallery/killdeer/",
     "photos": [
       {
+        "filename": "20261126-DSC08183.jpg",
+        "path": "/photo_gallery/killdeer/20261126-DSC08183.jpg",
+        "thumbnail": "/assets/images/wildlife/killdeer/b50048eaa42debe13d4236b076edc0ae628673c7.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Resting with bill tucked",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:13:30",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 200,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/500"
+        },
+        "counter": "killdeer-20261126-dsc08183-jpg"
+      },
+      {
+        "filename": "20261126-DSC08179.jpg",
+        "path": "/photo_gallery/killdeer/20261126-DSC08179.jpg",
+        "thumbnail": "/assets/images/wildlife/killdeer/66c9043451d72d5a76255a4634dc3e0a414ee3a3.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Flock resting on the mudflat",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:13:10",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 200,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/500"
+        },
+        "counter": "killdeer-20261126-dsc08179-jpg"
+      },
+      {
+        "filename": "20261126-DSC08180.jpg",
+        "path": "/photo_gallery/killdeer/20261126-DSC08180.jpg",
+        "thumbnail": "/assets/images/wildlife/killdeer/0adda01f73e9f072a7c08c0ecde54ff241147fdd.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Resting along the shoreline",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:13:10",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 200,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/500"
+        },
+        "counter": "killdeer-20261126-dsc08180-jpg"
+      },
+      {
         "filename": "Killdeer.jpg",
         "path": "/photo_gallery/killdeer/Killdeer.jpg",
         "thumbnail": "/assets/images/wildlife/killdeer/0f98c630e6e36b34f3015dd925a53ccc0d0c22c4.webp",
@@ -9917,13 +10517,19 @@
       },
       "counter": "killdeer-jpg"
     },
-    "count": 2,
+    "count": 5,
     "locations": [
-      "Cuyama Valley, California"
+      "Cuyama Valley, California",
+      "Mountain View, California"
     ],
     "location_details": [
       {
         "name": "Cuyama Valley, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Mountain View, California",
         "country": "United States",
         "state": "California"
       }
@@ -10693,6 +11299,94 @@
       }
     ]
   },
+  "long-billed-dowitcher": {
+    "name": "Long-billed Dowitcher",
+    "category": "Birds",
+    "group": "Shorebirds & Gulls",
+    "scientific_name": "",
+    "description": "The Long-billed Dowitcher is a stocky shorebird that probes wet mud and shallow water for small invertebrates. Its rapid, repeated bill movements are a distinctive sight in feeding flocks. Winter birds are mostly gray-brown, while breeding plumage includes rich reddish tones and intricate markings. It breeds in far northern tundra and uses wetlands farther south during migration and winter. Despite its name, bill length alone does not reliably distinguish it from the similar Short-billed Dowitcher; calls and a combination of other features provide better clues.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Long-billed_Dowitcher/overview"
+      }
+    ],
+    "slug": "long-billed-dowitcher",
+    "url": "/wildlife-gallery/long-billed-dowitcher/",
+    "photos": [
+      {
+        "filename": "20261126-DSC08134.jpg",
+        "path": "/photo_gallery/long-billed-dowitcher/20261126-DSC08134.jpg",
+        "thumbnail": "/assets/images/wildlife/long-billed-dowitcher/7592199d2097cf7f823fc6a65eaf48646bd6c27e.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Resting with a reflection",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T16:56:10",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1600"
+        },
+        "counter": "long-billed-dowitcher-20261126-dsc08134-jpg"
+      },
+      {
+        "filename": "20261126-DSC08129.jpg",
+        "path": "/photo_gallery/long-billed-dowitcher/20261126-DSC08129.jpg",
+        "thumbnail": "/assets/images/wildlife/long-billed-dowitcher/d3366b20d968ca49407298fcfc39433dab0ef811.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Flock resting in shallow water",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T16:54:42",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 800,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "long-billed-dowitcher-20261126-dsc08129-jpg"
+      }
+    ],
+    "cover": {
+      "filename": "20261126-DSC08134.jpg",
+      "path": "/photo_gallery/long-billed-dowitcher/20261126-DSC08134.jpg",
+      "thumbnail": "/assets/images/wildlife/long-billed-dowitcher/7592199d2097cf7f823fc6a65eaf48646bd6c27e.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Resting with a reflection",
+      "location": "Mountain View, California",
+      "date": "2026-11-26T16:56:10",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 640,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/1600"
+      },
+      "counter": "long-billed-dowitcher-20261126-dsc08134-jpg"
+    },
+    "count": 2,
+    "locations": [
+      "Mountain View, California"
+    ],
+    "location_details": [
+      {
+        "name": "Mountain View, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
   "mallard": {
     "name": "Mallard",
     "category": "Birds",
@@ -11171,160 +11865,6 @@
       }
     ]
   },
-  "night-heron": {
-    "name": "Black-crowned Night Heron",
-    "category": "Birds",
-    "group": "Waterbirds",
-    "scientific_name": "",
-    "description": "The Black-crowned Night Heron is a stocky, short-necked heron that often rests quietly in waterside vegetation by day and becomes more active around dusk. Adults have a black crown and back, gray wings, white underparts, and red eyes, while immatures are brown with pale spotting and streaking. It hunts in freshwater, brackish, and coastal wetlands, standing still or wading slowly before striking at fish, crustaceans, and other prey. It nests in colonies and is found across much of the world, including Hawaii, where it is known as the ʻAukuʻu.",
-    "references": [
-      {
-        "title": "Cornell Lab of Ornithology: All About Birds",
-        "url": "https://www.allaboutbirds.org/guide/Black-crowned_Night-Heron"
-      }
-    ],
-    "slug": "night-heron",
-    "url": "/wildlife-gallery/night-heron/",
-    "photos": [
-      {
-        "filename": "20261029-DSC03194.jpg",
-        "path": "/photo_gallery/night-heron/20261029-DSC03194.jpg",
-        "thumbnail": "/assets/images/wildlife/night-heron/45d1c0973e3b5f4d3ef153c7de93d27041c3bf59.webp",
-        "width": 1200,
-        "height": 800,
-        "caption": "Immature · wading",
-        "location": "Maui, Hawaii",
-        "date": "2026-10-29T13:19:21",
-        "featured": false,
-        "camera": {
-          "model": "ILCE-7CM2",
-          "lens": "FE 200-600mm F5.6-6.3 G OSS",
-          "iso": 250,
-          "focal": 600,
-          "aperture": 6.3,
-          "shutter": "1/2500"
-        },
-        "counter": "night-heron-20261029-dsc03194-jpg"
-      },
-      {
-        "filename": "20260424-DSC04870.jpg",
-        "path": "/photo_gallery/night-heron/20260424-DSC04870.jpg",
-        "thumbnail": "/assets/images/wildlife/night-heron/babbf644d722cb6bde345b48513d856dadb3d441.webp",
-        "width": 1200,
-        "height": 800,
-        "caption": "Adult · foraging",
-        "location": "Los Angeles County Arboretum, California",
-        "date": "2026-04-24T03:04:01",
-        "featured": false,
-        "camera": {
-          "model": "ILCE-7CM2",
-          "lens": "FE 200-600mm F5.6-6.3 G OSS",
-          "iso": 800,
-          "focal": 600,
-          "aperture": 6.3,
-          "shutter": "1/3200"
-        },
-        "counter": "night-heron-20260424-dsc04870-jpg"
-      },
-      {
-        "filename": "Night Heron.jpg",
-        "path": "/photo_gallery/night-heron/Night Heron.jpg",
-        "thumbnail": "/assets/images/wildlife/night-heron/210686c22f472cae42d948163117d5d94a8853fc.webp",
-        "width": 1200,
-        "height": 800,
-        "caption": "Adult · watching the water",
-        "location": "Los Angeles County Arboretum, California",
-        "date": "2026-04-24T03:03:01",
-        "featured": false,
-        "camera": {
-          "model": "ILCE-7CM2",
-          "lens": "FE 200-600mm F5.6-6.3 G OSS",
-          "iso": 800,
-          "focal": 600,
-          "aperture": 6.3,
-          "shutter": "1/3200"
-        },
-        "counter": "night-heron-jpg"
-      },
-      {
-        "filename": "20260424-DSC04856.jpg",
-        "path": "/photo_gallery/night-heron/20260424-DSC04856.jpg",
-        "thumbnail": "/assets/images/wildlife/night-heron/12005eb46edef7e2615d66718950de35fe90d10d.webp",
-        "width": 1200,
-        "height": 800,
-        "caption": "Adult · watching the water",
-        "location": "Los Angeles County Arboretum, California",
-        "date": "2026-04-24T03:02:45",
-        "featured": false,
-        "camera": {
-          "model": "ILCE-7CM2",
-          "lens": "FE 200-600mm F5.6-6.3 G OSS",
-          "iso": 800,
-          "focal": 600,
-          "aperture": 6.3,
-          "shutter": "1/3200"
-        },
-        "counter": "night-heron-20260424-dsc04856-jpg"
-      },
-      {
-        "filename": "20260424-DSC04835.jpg",
-        "path": "/photo_gallery/night-heron/20260424-DSC04835.jpg",
-        "thumbnail": "/assets/images/wildlife/night-heron/cc3daef470fceec14c1c659d9c52f28412208423.webp",
-        "width": 1200,
-        "height": 800,
-        "caption": "Adult · reaching toward the water",
-        "location": "Los Angeles County Arboretum, California",
-        "date": "2026-04-24T03:01:19",
-        "featured": false,
-        "camera": {
-          "model": "ILCE-7CM2",
-          "lens": "FE 200-600mm F5.6-6.3 G OSS",
-          "iso": 640,
-          "focal": 600,
-          "aperture": 6.3,
-          "shutter": "1/3200"
-        },
-        "counter": "night-heron-20260424-dsc04835-jpg"
-      }
-    ],
-    "cover": {
-      "filename": "20261029-DSC03194.jpg",
-      "path": "/photo_gallery/night-heron/20261029-DSC03194.jpg",
-      "thumbnail": "/assets/images/wildlife/night-heron/45d1c0973e3b5f4d3ef153c7de93d27041c3bf59.webp",
-      "width": 1200,
-      "height": 800,
-      "caption": "Immature · wading",
-      "location": "Maui, Hawaii",
-      "date": "2026-10-29T13:19:21",
-      "featured": false,
-      "camera": {
-        "model": "ILCE-7CM2",
-        "lens": "FE 200-600mm F5.6-6.3 G OSS",
-        "iso": 250,
-        "focal": 600,
-        "aperture": 6.3,
-        "shutter": "1/2500"
-      },
-      "counter": "night-heron-20261029-dsc03194-jpg"
-    },
-    "count": 5,
-    "locations": [
-      "Los Angeles County Arboretum, California",
-      "Maui, Hawaii"
-    ],
-    "location_details": [
-      {
-        "name": "Los Angeles County Arboretum, California",
-        "country": "United States",
-        "state": "California"
-      },
-      {
-        "name": "Maui, Hawaii",
-        "country": "United States",
-        "state": "Hawaii"
-      }
-    ]
-  },
   "northern-cardinal": {
     "name": "Northern Cardinal",
     "category": "Birds",
@@ -11765,6 +12305,26 @@
     "url": "/wildlife-gallery/northern-shoveler/",
     "photos": [
       {
+        "filename": "20261126-DSC08117.jpg",
+        "path": "/photo_gallery/northern-shoveler/20261126-DSC08117.jpg",
+        "thumbnail": "/assets/images/wildlife/northern-shoveler/8dd27310d47caf6c1d4db01bca46c165938b821c.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Male and female · swimming",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T16:52:27",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "northern-shoveler-20261126-dsc08117-jpg"
+      },
+      {
         "filename": "20261119-DSC06373.jpg",
         "path": "/photo_gallery/northern-shoveler/20261119-DSC06373.jpg",
         "thumbnail": "/assets/images/wildlife/northern-shoveler/aa80a96477363a281de9f5b192222573bc1b6b81.webp",
@@ -11805,11 +12365,17 @@
       },
       "counter": "northern-shoveler-20261119-dsc06373-jpg"
     },
-    "count": 1,
+    "count": 2,
     "locations": [
+      "Mountain View, California",
       "Sunnyvale, California"
     ],
     "location_details": [
+      {
+        "name": "Mountain View, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Sunnyvale, California",
         "country": "United States",
@@ -12381,6 +12947,26 @@
     "url": "/wildlife-gallery/pied-billed-grebe/",
     "photos": [
       {
+        "filename": "20261126-DSC08142.jpg",
+        "path": "/photo_gallery/pied-billed-grebe/20261126-DSC08142.jpg",
+        "thumbnail": "/assets/images/wildlife/pied-billed-grebe/ebbdddbf3bff1ef8ffdab5e8a4c10c0255a96f53.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Swimming through reflections",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:01:28",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "pied-billed-grebe-20261126-dsc08142-jpg"
+      },
+      {
         "filename": "20261120-DSC06632.jpg",
         "path": "/photo_gallery/pied-billed-grebe/20261120-DSC06632.jpg",
         "thumbnail": "/assets/images/wildlife/pied-billed-grebe/ecef50a653d7bd5777185712092b202ecdfbd888.webp",
@@ -12441,11 +13027,17 @@
       },
       "counter": "pied-billed-grebe-20261120-dsc06631-jpg"
     },
-    "count": 2,
+    "count": 3,
     "locations": [
+      "Mountain View, California",
       "Sunnyvale, California"
     ],
     "location_details": [
+      {
+        "name": "Mountain View, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Sunnyvale, California",
         "country": "United States",
@@ -13153,6 +13745,86 @@
     "url": "/wildlife-gallery/red-tailed-hawk/",
     "photos": [
       {
+        "filename": "20261126-DSC08243.jpg",
+        "path": "/photo_gallery/red-tailed-hawk/20261126-DSC08243.jpg",
+        "thumbnail": "/assets/images/wildlife/red-tailed-hawk/04e63e2e3c59cbe5510294e505fb11621c319969.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Perched · side profile",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:42:42",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/1600"
+        },
+        "counter": "red-tailed-hawk-20261126-dsc08243-jpg"
+      },
+      {
+        "filename": "20261126-DSC08231.jpg",
+        "path": "/photo_gallery/red-tailed-hawk/20261126-DSC08231.jpg",
+        "thumbnail": "/assets/images/wildlife/red-tailed-hawk/4bf681344bd6b7a939ca965bca07c9af7ff613fd.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Perched · looking back",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:42:23",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 2500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/800"
+        },
+        "counter": "red-tailed-hawk-20261126-dsc08231-jpg"
+      },
+      {
+        "filename": "20261126-DSC08205.jpg",
+        "path": "/photo_gallery/red-tailed-hawk/20261126-DSC08205.jpg",
+        "thumbnail": "/assets/images/wildlife/red-tailed-hawk/1cdc3ba596c8d7692ef48e2daf57bb0a681ecadb.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Watching from a high perch",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:40:23",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/200"
+        },
+        "counter": "red-tailed-hawk-20261126-dsc08205-jpg"
+      },
+      {
+        "filename": "20261126-DSC08198.jpg",
+        "path": "/photo_gallery/red-tailed-hawk/20261126-DSC08198.jpg",
+        "thumbnail": "/assets/images/wildlife/red-tailed-hawk/c7d936cafe584ab10a499713a1c28be4fec8e9ca.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Perched on a light fixture",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T17:40:17",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 250,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/200"
+        },
+        "counter": "red-tailed-hawk-20261126-dsc08198-jpg"
+      },
+      {
         "filename": "20261122-DSC07850.jpg",
         "path": "/photo_gallery/red-tailed-hawk/20261122-DSC07850.jpg",
         "thumbnail": "/assets/images/wildlife/red-tailed-hawk/19d5bd1dd04c01812473198f4c5582c0d0f9649c.webp",
@@ -13313,11 +13985,12 @@
       },
       "counter": "red-tailed-hawk-20260830-dsc01972-jpg"
     },
-    "count": 7,
+    "count": 11,
     "locations": [
       "Channel Islands, California",
       "Coyote Hills Regional Park, California",
       "Cuyama Valley, California",
+      "Mountain View, California",
       "San Francisco Bay Area, California"
     ],
     "location_details": [
@@ -13333,6 +14006,11 @@
       },
       {
         "name": "Cuyama Valley, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Mountain View, California",
         "country": "United States",
         "state": "California"
       },
@@ -13749,6 +14427,46 @@
     "url": "/wildlife-gallery/ring-billed-gull/",
     "photos": [
       {
+        "filename": "20261126-DSC08124.jpg",
+        "path": "/photo_gallery/ring-billed-gull/20261126-DSC08124.jpg",
+        "thumbnail": "/assets/images/wildlife/ring-billed-gull/8269003103876b1b36505ab6b0108e545c04ffb3.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Flock splashing on the water",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T16:54:24",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 640,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "ring-billed-gull-20261126-dsc08124-jpg"
+      },
+      {
+        "filename": "20261126-DSC08113.jpg",
+        "path": "/photo_gallery/ring-billed-gull/20261126-DSC08113.jpg",
+        "thumbnail": "/assets/images/wildlife/ring-billed-gull/eabad51234e4c934ee710bb80429a16259b558cb.webp",
+        "width": 1200,
+        "height": 800,
+        "caption": "Adult · standing at the water’s edge",
+        "location": "Mountain View, California",
+        "date": "2026-11-26T16:45:28",
+        "featured": false,
+        "camera": {
+          "model": "ILCE-7CM2",
+          "lens": "FE 200-600mm F5.6-6.3 G OSS",
+          "iso": 500,
+          "focal": 600,
+          "aperture": 6.3,
+          "shutter": "1/2000"
+        },
+        "counter": "ring-billed-gull-20261126-dsc08113-jpg"
+      },
+      {
         "filename": "20261120-DSC06698.jpg",
         "path": "/photo_gallery/ring-billed-gull/20261120-DSC06698.jpg",
         "thumbnail": "/assets/images/wildlife/ring-billed-gull/34c89165d68f32208955e70310879a5101193506.webp",
@@ -13829,12 +14547,18 @@
       },
       "counter": "ring-billed-gull-20260408-dsc00947-jpg"
     },
-    "count": 3,
+    "count": 5,
     "locations": [
+      "Mountain View, California",
       "Orange County, California",
       "Sunnyvale, California"
     ],
     "location_details": [
+      {
+        "name": "Mountain View, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Orange County, California",
         "country": "United States",

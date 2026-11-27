@@ -1,0 +1,96 @@
+{
+  "name": "Bufflehead",
+  "category": "Birds",
+  "group": "Waterbirds",
+  "cover": "20261126-DSC08275.jpg",
+  "description": "The Bufflehead is a small diving duck with a rounded head and a buoyant appearance on the water. Males have striking black-and-white plumage, with green and purple iridescence visible on the head in good light. Females are gray-brown with a small white cheek patch. These ducks dive repeatedly to feed on aquatic invertebrates, often disappearing abruptly and resurfacing nearby. They spend winter on sheltered bays, lakes, and ponds, then breed in northern forests, where they use tree cavities, particularly old woodpecker holes, as nest sites.",
+  "references": [
+    {
+      "title": "Cornell Lab of Ornithology: All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Bufflehead/overview"
+    }
+  ],
+  "photos": {
+    "20261126-DSC08248.jpg": {
+      "caption": "Male · swimming through reflections",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08255.jpg": {
+      "caption": "Male · swimming in shaded water",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08263.jpg": {
+      "caption": "Male in the foreground · companion bathing",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08264.jpg": {
+      "caption": "Swimming and bathing",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08270.jpg": {
+      "caption": "Wings raised above the water",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08275.jpg": {
+      "caption": "Male · swimming in evening light",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08280.jpg": {
+      "caption": "Male · turning on the water",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08281.jpg": {
+      "caption": "Bathing · ripples spreading",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08285.jpg": {
+      "caption": "Bathing with a splash",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    }
+  }
+}

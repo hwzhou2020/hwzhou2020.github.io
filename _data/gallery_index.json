@@ -131,11 +131,17 @@
       },
       "counter": "american-avocet-jpg"
     },
-    "count": 2,
+    "count": 5,
     "locations": [
+      "Mountain View, California",
       "Orange County, California"
     ],
     "location_details": [
+      {
+        "name": "Mountain View, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Orange County, California",
         "country": "United States",
@@ -177,12 +183,18 @@
       },
       "counter": "american-coot-20260415-dsc02515-jpg"
     },
-    "count": 6,
+    "count": 9,
     "locations": [
+      "Mountain View, California",
       "Orange County, California",
       "Pinnacles National Park, California"
     ],
     "location_details": [
+      {
+        "name": "Mountain View, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Orange County, California",
         "country": "United States",
@@ -755,12 +767,12 @@
         "url": "https://www.allaboutbirds.org/guide/Black-crowned_Night-Heron"
       }
     ],
-    "slug": "night-heron",
-    "url": "/wildlife-gallery/night-heron/",
+    "slug": "black-crowned-night-heron",
+    "url": "/wildlife-gallery/black-crowned-night-heron/",
     "cover": {
       "filename": "20261029-DSC03194.jpg",
-      "path": "/photo_gallery/night-heron/20261029-DSC03194.jpg",
-      "thumbnail": "/assets/images/wildlife/night-heron/45d1c0973e3b5f4d3ef153c7de93d27041c3bf59.webp",
+      "path": "/photo_gallery/black-crowned-night-heron/20261029-DSC03194.jpg",
+      "thumbnail": "/assets/images/wildlife/black-crowned-night-heron/45d1c0973e3b5f4d3ef153c7de93d27041c3bf59.webp",
       "width": 1200,
       "height": 800,
       "caption": "Immature · wading",
@@ -777,10 +789,11 @@
       },
       "counter": "night-heron-20261029-dsc03194-jpg"
     },
-    "count": 5,
+    "count": 6,
     "locations": [
       "Los Angeles County Arboretum, California",
-      "Maui, Hawaii"
+      "Maui, Hawaii",
+      "Mountain View, California"
     ],
     "location_details": [
       {
@@ -792,6 +805,11 @@
         "name": "Maui, Hawaii",
         "country": "United States",
         "state": "Hawaii"
+      },
+      {
+        "name": "Mountain View, California",
+        "country": "United States",
+        "state": "California"
       }
     ]
   },
@@ -1124,6 +1142,52 @@
     "location_details": [
       {
         "name": "Yosemite National Park, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
+  {
+    "name": "Bufflehead",
+    "category": "Birds",
+    "group": "Waterbirds",
+    "scientific_name": "",
+    "description": "The Bufflehead is a small diving duck with a rounded head and a buoyant appearance on the water. Males have striking black-and-white plumage, with green and purple iridescence visible on the head in good light. Females are gray-brown with a small white cheek patch. These ducks dive repeatedly to feed on aquatic invertebrates, often disappearing abruptly and resurfacing nearby. They spend winter on sheltered bays, lakes, and ponds, then breed in northern forests, where they use tree cavities, particularly old woodpecker holes, as nest sites.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Bufflehead/overview"
+      }
+    ],
+    "slug": "bufflehead",
+    "url": "/wildlife-gallery/bufflehead/",
+    "cover": {
+      "filename": "20261126-DSC08275.jpg",
+      "path": "/photo_gallery/bufflehead/20261126-DSC08275.jpg",
+      "thumbnail": "/assets/images/wildlife/bufflehead/4321b9819556a27429bc70e28f9a9476faac7050.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Male · swimming in evening light",
+      "location": "Mountain View, California",
+      "date": "2026-11-26T17:55:41",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 2500,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/500"
+      },
+      "counter": "bufflehead-20261126-dsc08275-jpg"
+    },
+    "count": 9,
+    "locations": [
+      "Mountain View, California"
+    ],
+    "location_details": [
+      {
+        "name": "Mountain View, California",
         "country": "United States",
         "state": "California"
       }
@@ -3591,13 +3655,19 @@
       },
       "counter": "killdeer-jpg"
     },
-    "count": 2,
+    "count": 5,
     "locations": [
-      "Cuyama Valley, California"
+      "Cuyama Valley, California",
+      "Mountain View, California"
     ],
     "location_details": [
       {
         "name": "Cuyama Valley, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Mountain View, California",
         "country": "United States",
         "state": "California"
       }
@@ -3748,6 +3818,52 @@
     "location_details": [
       {
         "name": "Orange County, California",
+        "country": "United States",
+        "state": "California"
+      }
+    ]
+  },
+  {
+    "name": "Long-billed Dowitcher",
+    "category": "Birds",
+    "group": "Shorebirds & Gulls",
+    "scientific_name": "",
+    "description": "The Long-billed Dowitcher is a stocky shorebird that probes wet mud and shallow water for small invertebrates. Its rapid, repeated bill movements are a distinctive sight in feeding flocks. Winter birds are mostly gray-brown, while breeding plumage includes rich reddish tones and intricate markings. It breeds in far northern tundra and uses wetlands farther south during migration and winter. Despite its name, bill length alone does not reliably distinguish it from the similar Short-billed Dowitcher; calls and a combination of other features provide better clues.",
+    "references": [
+      {
+        "title": "Cornell Lab of Ornithology: All About Birds",
+        "url": "https://www.allaboutbirds.org/guide/Long-billed_Dowitcher/overview"
+      }
+    ],
+    "slug": "long-billed-dowitcher",
+    "url": "/wildlife-gallery/long-billed-dowitcher/",
+    "cover": {
+      "filename": "20261126-DSC08134.jpg",
+      "path": "/photo_gallery/long-billed-dowitcher/20261126-DSC08134.jpg",
+      "thumbnail": "/assets/images/wildlife/long-billed-dowitcher/7592199d2097cf7f823fc6a65eaf48646bd6c27e.webp",
+      "width": 1200,
+      "height": 800,
+      "caption": "Resting with a reflection",
+      "location": "Mountain View, California",
+      "date": "2026-11-26T16:56:10",
+      "featured": false,
+      "camera": {
+        "model": "ILCE-7CM2",
+        "lens": "FE 200-600mm F5.6-6.3 G OSS",
+        "iso": 640,
+        "focal": 600,
+        "aperture": 6.3,
+        "shutter": "1/1600"
+      },
+      "counter": "long-billed-dowitcher-20261126-dsc08134-jpg"
+    },
+    "count": 2,
+    "locations": [
+      "Mountain View, California"
+    ],
+    "location_details": [
+      {
+        "name": "Mountain View, California",
         "country": "United States",
         "state": "California"
       }
@@ -4173,11 +4289,17 @@
       },
       "counter": "northern-shoveler-20261119-dsc06373-jpg"
     },
-    "count": 1,
+    "count": 2,
     "locations": [
+      "Mountain View, California",
       "Sunnyvale, California"
     ],
     "location_details": [
+      {
+        "name": "Mountain View, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Sunnyvale, California",
         "country": "United States",
@@ -4495,11 +4617,17 @@
       },
       "counter": "pied-billed-grebe-20261120-dsc06631-jpg"
     },
-    "count": 2,
+    "count": 3,
     "locations": [
+      "Mountain View, California",
       "Sunnyvale, California"
     ],
     "location_details": [
+      {
+        "name": "Mountain View, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Sunnyvale, California",
         "country": "United States",
@@ -4737,11 +4865,12 @@
       },
       "counter": "red-tailed-hawk-20260830-dsc01972-jpg"
     },
-    "count": 7,
+    "count": 11,
     "locations": [
       "Channel Islands, California",
       "Coyote Hills Regional Park, California",
       "Cuyama Valley, California",
+      "Mountain View, California",
       "San Francisco Bay Area, California"
     ],
     "location_details": [
@@ -4757,6 +4886,11 @@
       },
       {
         "name": "Cuyama Valley, California",
+        "country": "United States",
+        "state": "California"
+      },
+      {
+        "name": "Mountain View, California",
         "country": "United States",
         "state": "California"
       },
@@ -4945,12 +5079,18 @@
       },
       "counter": "ring-billed-gull-20260408-dsc00947-jpg"
     },
-    "count": 3,
+    "count": 5,
     "locations": [
+      "Mountain View, California",
       "Orange County, California",
       "Sunnyvale, California"
     ],
     "location_details": [
+      {
+        "name": "Mountain View, California",
+        "country": "United States",
+        "state": "California"
+      },
       {
         "name": "Orange County, California",
         "country": "United States",

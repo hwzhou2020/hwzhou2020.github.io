@@ -47,6 +47,24 @@
         "outing_date": "2026-11-20",
         "precision": "city"
       }
+    },
+    "20261126-DSC08113.jpg": {
+      "caption": "Adult · standing at the water’s edge",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08124.jpg": {
+      "caption": "Flock splashing on the water",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
     }
   }
 }

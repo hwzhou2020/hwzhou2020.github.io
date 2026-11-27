@@ -28,6 +28,15 @@
         "outing_date": "2026-11-20",
         "precision": "city"
       }
+    },
+    "20261126-DSC08142.jpg": {
+      "caption": "Swimming through reflections",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
     }
   }
 }

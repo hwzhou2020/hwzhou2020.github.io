@@ -94,6 +94,42 @@
         "outing_date": "2026-11-22",
         "precision": "park"
       }
+    },
+    "20261126-DSC08198.jpg": {
+      "caption": "Perched on a light fixture",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08205.jpg": {
+      "caption": "Watching from a high perch",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08231.jpg": {
+      "caption": "Perched · looking back",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08243.jpg": {
+      "caption": "Perched · side profile",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
     }
   }
 }

@@ -63,6 +63,30 @@
     "aperture": 6.3,
     "shutter": "1/4000"
   },
+  "american-avocet/20261126-DSC08105.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "american-avocet/20261126-DSC08110.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "american-avocet/20261126-DSC08193.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 400,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1600"
+  },
   "american-avocet/American Avocet.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -118,6 +142,30 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/2000"
+  },
+  "american-coot/20261126-DSC08158.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/500"
+  },
+  "american-coot/20261126-DSC08167.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1250,
+    "focal": 518,
+    "aperture": 6.3,
+    "shutter": "1/500"
+  },
+  "american-coot/20261126-DSC08171.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 1000,
+    "focal": 489,
+    "aperture": 6.3,
+    "shutter": "1/500"
   },
   "american-dipper/20260705-DSC01134.jpg": {
     "model": "ILCE-7CM2",
@@ -415,6 +463,54 @@
     "aperture": 6.3,
     "shutter": "1/800"
   },
+  "black-crowned-night-heron/20260424-DSC04835.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "black-crowned-night-heron/20260424-DSC04856.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "black-crowned-night-heron/20260424-DSC04870.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
+  "black-crowned-night-heron/20261029-DSC03194.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 250,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2500"
+  },
+  "black-crowned-night-heron/20261126-DSC08144.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/500"
+  },
+  "black-crowned-night-heron/Night Heron.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/3200"
+  },
   "black-necked-stilt/20260415-DSC02943.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -590,6 +686,78 @@
     "focal": 478,
     "aperture": 6.3,
     "shutter": "1/2000"
+  },
+  "bufflehead/20261126-DSC08248.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1000"
+  },
+  "bufflehead/20261126-DSC08255.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/640"
+  },
+  "bufflehead/20261126-DSC08263.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/250"
+  },
+  "bufflehead/20261126-DSC08264.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/250"
+  },
+  "bufflehead/20261126-DSC08270.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1000"
+  },
+  "bufflehead/20261126-DSC08275.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/500"
+  },
+  "bufflehead/20261126-DSC08280.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/320"
+  },
+  "bufflehead/20261126-DSC08281.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/320"
+  },
+  "bufflehead/20261126-DSC08285.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/320"
   },
   "burrowing-owl/20261122-DSC06750.jpg": {
     "model": "ILCE-7CM2",
@@ -2503,6 +2671,30 @@
     "aperture": 6.3,
     "shutter": "1/2000"
   },
+  "killdeer/20261126-DSC08179.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 200,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/500"
+  },
+  "killdeer/20261126-DSC08180.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 200,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/500"
+  },
+  "killdeer/20261126-DSC08183.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 200,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/500"
+  },
   "killdeer/Killdeer.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -2735,6 +2927,22 @@
     "aperture": 6.3,
     "shutter": "1/640"
   },
+  "long-billed-dowitcher/20261126-DSC08129.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 800,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "long-billed-dowitcher/20261126-DSC08134.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1600"
+  },
   "mallard/20260408-DSC00073.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -2847,46 +3055,6 @@
     "aperture": 6.3,
     "shutter": "1/160"
   },
-  "night-heron/20260424-DSC04835.jpg": {
-    "model": "ILCE-7CM2",
-    "lens": "FE 200-600mm F5.6-6.3 G OSS",
-    "iso": 640,
-    "focal": 600,
-    "aperture": 6.3,
-    "shutter": "1/3200"
-  },
-  "night-heron/20260424-DSC04856.jpg": {
-    "model": "ILCE-7CM2",
-    "lens": "FE 200-600mm F5.6-6.3 G OSS",
-    "iso": 800,
-    "focal": 600,
-    "aperture": 6.3,
-    "shutter": "1/3200"
-  },
-  "night-heron/20260424-DSC04870.jpg": {
-    "model": "ILCE-7CM2",
-    "lens": "FE 200-600mm F5.6-6.3 G OSS",
-    "iso": 800,
-    "focal": 600,
-    "aperture": 6.3,
-    "shutter": "1/3200"
-  },
-  "night-heron/20261029-DSC03194.jpg": {
-    "model": "ILCE-7CM2",
-    "lens": "FE 200-600mm F5.6-6.3 G OSS",
-    "iso": 250,
-    "focal": 600,
-    "aperture": 6.3,
-    "shutter": "1/2500"
-  },
-  "night-heron/Night Heron.jpg": {
-    "model": "ILCE-7CM2",
-    "lens": "FE 200-600mm F5.6-6.3 G OSS",
-    "iso": 800,
-    "focal": 600,
-    "aperture": 6.3,
-    "shutter": "1/3200"
-  },
   "northern-cardinal/20261030-DSC04177.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -2982,6 +3150,14 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/2500"
+  },
+  "northern-shoveler/20261126-DSC08117.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
   },
   "oak-titmouse/Oak Titmouse.jpg": {
     "model": "ILCE-7CM2",
@@ -3102,6 +3278,14 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/4000"
+  },
+  "pied-billed-grebe/20261126-DSC08142.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
   },
   "red-billed-leiothrix/20261101-DSC05906.jpg": {
     "model": "ILCE-7CM2",
@@ -3343,6 +3527,38 @@
     "aperture": 6.3,
     "shutter": "1/2000"
   },
+  "red-tailed-hawk/20261126-DSC08198.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 250,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/200"
+  },
+  "red-tailed-hawk/20261126-DSC08205.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/200"
+  },
+  "red-tailed-hawk/20261126-DSC08231.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/800"
+  },
+  "red-tailed-hawk/20261126-DSC08243.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 2500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/1600"
+  },
   "red-tailed-hawk/Red-tailed Hawk.jpg": {
     "model": "ILCE-7CM2",
     "lens": "FE 200-600mm F5.6-6.3 G OSS",
@@ -3470,6 +3686,22 @@
     "focal": 600,
     "aperture": 6.3,
     "shutter": "1/4000"
+  },
+  "ring-billed-gull/20261126-DSC08113.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 500,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
+  },
+  "ring-billed-gull/20261126-DSC08124.jpg": {
+    "model": "ILCE-7CM2",
+    "lens": "FE 200-600mm F5.6-6.3 G OSS",
+    "iso": 640,
+    "focal": 600,
+    "aperture": 6.3,
+    "shutter": "1/2000"
   },
   "rock-wren/20261001-DSC02921.jpg": {
     "model": "ILCE-7CM2",

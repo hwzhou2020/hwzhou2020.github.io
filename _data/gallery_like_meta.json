@@ -31,6 +31,18 @@
     "counter": "american-avocet-20260408-dsc00124-jpg",
     "fingerprint": "49c85f413442433812a26564f4acce5673a6332a"
   },
+  "american-avocet/20261126-DSC08105.jpg": {
+    "counter": "american-avocet-20261126-dsc08105-jpg",
+    "fingerprint": "c714b973757392efdb67edc005685a0cd9435bea"
+  },
+  "american-avocet/20261126-DSC08110.jpg": {
+    "counter": "american-avocet-20261126-dsc08110-jpg",
+    "fingerprint": "74d37ea47a55bddbd69fca9c961d26cb99ebb941"
+  },
+  "american-avocet/20261126-DSC08193.jpg": {
+    "counter": "american-avocet-20261126-dsc08193-jpg",
+    "fingerprint": "421c8fe507ed7edd267d6eda9d862d0cb2d76bfb"
+  },
   "american-avocet/American Avocet.jpg": {
     "counter": "american-avocet-jpg",
     "fingerprint": "0ce84d83d214912f02f95180a852f45b83fd4f00"
@@ -58,6 +70,18 @@
   "american-coot/20260506-DSC06609.jpg": {
     "counter": "american-coot-20260506-dsc06609-jpg",
     "fingerprint": "335f3279124dc414232237c2f66d616f2f3250e9"
+  },
+  "american-coot/20261126-DSC08158.jpg": {
+    "counter": "american-coot-20261126-dsc08158-jpg",
+    "fingerprint": "2aaef7b79c2157469e904305f44303f7d3e13136"
+  },
+  "american-coot/20261126-DSC08167.jpg": {
+    "counter": "american-coot-20261126-dsc08167-jpg",
+    "fingerprint": "126bcb3f1f13f4b3b4c5da327de185a587896e27"
+  },
+  "american-coot/20261126-DSC08171.jpg": {
+    "counter": "american-coot-20261126-dsc08171-jpg",
+    "fingerprint": "2d8f88ff5dff4deb3cbc31465095a59c94f6d556"
   },
   "american-dipper/20260705-DSC01134.jpg": {
     "counter": "american-dipper-20260705-dsc01134-jpg",
@@ -207,6 +231,30 @@
     "counter": "bewick-s-wren-jpg",
     "fingerprint": "3c529934305374f9d720d34aabda9c477fc2a5db"
   },
+  "black-crowned-night-heron/20260424-DSC04835.jpg": {
+    "counter": "night-heron-20260424-dsc04835-jpg",
+    "fingerprint": "cc3daef470fceec14c1c659d9c52f28412208423"
+  },
+  "black-crowned-night-heron/20260424-DSC04856.jpg": {
+    "counter": "night-heron-20260424-dsc04856-jpg",
+    "fingerprint": "12005eb46edef7e2615d66718950de35fe90d10d"
+  },
+  "black-crowned-night-heron/20260424-DSC04870.jpg": {
+    "counter": "night-heron-20260424-dsc04870-jpg",
+    "fingerprint": "babbf644d722cb6bde345b48513d856dadb3d441"
+  },
+  "black-crowned-night-heron/20261029-DSC03194.jpg": {
+    "counter": "night-heron-20261029-dsc03194-jpg",
+    "fingerprint": "45d1c0973e3b5f4d3ef153c7de93d27041c3bf59"
+  },
+  "black-crowned-night-heron/20261126-DSC08144.jpg": {
+    "counter": "black-crowned-night-heron-20261126-dsc08144-jpg",
+    "fingerprint": "fb29bd406ac5c703a52916ea778d4a05454ded9a"
+  },
+  "black-crowned-night-heron/Night Heron.jpg": {
+    "counter": "night-heron-jpg",
+    "fingerprint": "210686c22f472cae42d948163117d5d94a8853fc"
+  },
   "black-necked-stilt/20260415-DSC02943.jpg": {
     "counter": "black-necked-stilt-20260415-dsc02943-jpg",
     "fingerprint": "994b57021506577d5ff3a9fe90813fbf6c1daa9a"
@@ -294,6 +342,42 @@
   "brewer-s-blackbird/Brewer's Blackbird.jpg": {
     "counter": "brewer-s-blackbird-jpg",
     "fingerprint": "44a0d3094bc15cc0c8b1e55d68f78c2d87e4d60f"
+  },
+  "bufflehead/20261126-DSC08248.jpg": {
+    "counter": "bufflehead-20261126-dsc08248-jpg",
+    "fingerprint": "64096ff58a41fcc4de73e71f55b118f1c2e17118"
+  },
+  "bufflehead/20261126-DSC08255.jpg": {
+    "counter": "bufflehead-20261126-dsc08255-jpg",
+    "fingerprint": "74877aba1fb992af66c126fbd82bbaf2895aff2b"
+  },
+  "bufflehead/20261126-DSC08263.jpg": {
+    "counter": "bufflehead-20261126-dsc08263-jpg",
+    "fingerprint": "41f33abd7203a67c192aebd04dbad9fef036e199"
+  },
+  "bufflehead/20261126-DSC08264.jpg": {
+    "counter": "bufflehead-20261126-dsc08264-jpg",
+    "fingerprint": "82f793d312d6651c0e4725ab19603b3b4c0bf347"
+  },
+  "bufflehead/20261126-DSC08270.jpg": {
+    "counter": "bufflehead-20261126-dsc08270-jpg",
+    "fingerprint": "df04ebea95047a7d3a95982cbe15adfdb0d3aa31"
+  },
+  "bufflehead/20261126-DSC08275.jpg": {
+    "counter": "bufflehead-20261126-dsc08275-jpg",
+    "fingerprint": "4321b9819556a27429bc70e28f9a9476faac7050"
+  },
+  "bufflehead/20261126-DSC08280.jpg": {
+    "counter": "bufflehead-20261126-dsc08280-jpg",
+    "fingerprint": "c96ca5561c6f554fa5fb0ee51f9bb76ca65c5228"
+  },
+  "bufflehead/20261126-DSC08281.jpg": {
+    "counter": "bufflehead-20261126-dsc08281-jpg",
+    "fingerprint": "04ee5e88a65ff5eec1d7234a9b3c5f3a2fd25b0f"
+  },
+  "bufflehead/20261126-DSC08285.jpg": {
+    "counter": "bufflehead-20261126-dsc08285-jpg",
+    "fingerprint": "c24ff0ed5f5603f90f072921fd1030f458776973"
   },
   "burrowing-owl/20261122-DSC06750.jpg": {
     "counter": "burrowing-owl-20261122-dsc06750-jpg",
@@ -1251,6 +1335,18 @@
     "counter": "killdeer-20260316-dsc07407-jpg",
     "fingerprint": "b2c960ca5d7927cdfd876cdcdc7b6b4334ef6baf"
   },
+  "killdeer/20261126-DSC08179.jpg": {
+    "counter": "killdeer-20261126-dsc08179-jpg",
+    "fingerprint": "66c9043451d72d5a76255a4634dc3e0a414ee3a3"
+  },
+  "killdeer/20261126-DSC08180.jpg": {
+    "counter": "killdeer-20261126-dsc08180-jpg",
+    "fingerprint": "0adda01f73e9f072a7c08c0ecde54ff241147fdd"
+  },
+  "killdeer/20261126-DSC08183.jpg": {
+    "counter": "killdeer-20261126-dsc08183-jpg",
+    "fingerprint": "b50048eaa42debe13d4236b076edc0ae628673c7"
+  },
   "killdeer/Killdeer.jpg": {
     "counter": "killdeer-jpg",
     "fingerprint": "0f98c630e6e36b34f3015dd925a53ccc0d0c22c4"
@@ -1367,6 +1463,14 @@
     "counter": "liwi-20261101-dsc05817-jpg",
     "fingerprint": "3002bcb0c252ef6f3885a7e8500e106c093387b8"
   },
+  "long-billed-dowitcher/20261126-DSC08129.jpg": {
+    "counter": "long-billed-dowitcher-20261126-dsc08129-jpg",
+    "fingerprint": "d3366b20d968ca49407298fcfc39433dab0ef811"
+  },
+  "long-billed-dowitcher/20261126-DSC08134.jpg": {
+    "counter": "long-billed-dowitcher-20261126-dsc08134-jpg",
+    "fingerprint": "7592199d2097cf7f823fc6a65eaf48646bd6c27e"
+  },
   "mallard/20260408-DSC00073.jpg": {
     "counter": "mallard-20260408-dsc00073-jpg",
     "fingerprint": "f2a8a7e51a79924e27a102b8bc60e01f3f387784"
@@ -1423,26 +1527,6 @@
     "counter": "nene-20261101-dsc05702-jpg",
     "fingerprint": "97f50824b71568f3929d8ef2a0ca050783e71aba"
   },
-  "night-heron/20260424-DSC04835.jpg": {
-    "counter": "night-heron-20260424-dsc04835-jpg",
-    "fingerprint": "cc3daef470fceec14c1c659d9c52f28412208423"
-  },
-  "night-heron/20260424-DSC04856.jpg": {
-    "counter": "night-heron-20260424-dsc04856-jpg",
-    "fingerprint": "12005eb46edef7e2615d66718950de35fe90d10d"
-  },
-  "night-heron/20260424-DSC04870.jpg": {
-    "counter": "night-heron-20260424-dsc04870-jpg",
-    "fingerprint": "babbf644d722cb6bde345b48513d856dadb3d441"
-  },
-  "night-heron/20261029-DSC03194.jpg": {
-    "counter": "night-heron-20261029-dsc03194-jpg",
-    "fingerprint": "45d1c0973e3b5f4d3ef153c7de93d27041c3bf59"
-  },
-  "night-heron/Night Heron.jpg": {
-    "counter": "night-heron-jpg",
-    "fingerprint": "210686c22f472cae42d948163117d5d94a8853fc"
-  },
   "northern-cardinal/20261030-DSC04177.jpg": {
     "counter": "northern-cardinal-20261030-dsc04177-jpg",
     "fingerprint": "c967e344a7d3373da70f86d11537643bb5377dd0"
@@ -1490,6 +1574,10 @@
   "northern-shoveler/20261119-DSC06373.jpg": {
     "counter": "northern-shoveler-20261119-dsc06373-jpg",
     "fingerprint": "aa80a96477363a281de9f5b192222573bc1b6b81"
+  },
+  "northern-shoveler/20261126-DSC08117.jpg": {
+    "counter": "northern-shoveler-20261126-dsc08117-jpg",
+    "fingerprint": "8dd27310d47caf6c1d4db01bca46c165938b821c"
   },
   "oak-titmouse/Oak Titmouse.jpg": {
     "counter": "oak-titmouse-jpg",
@@ -1550,6 +1638,10 @@
   "pied-billed-grebe/20261120-DSC06632.jpg": {
     "counter": "pied-billed-grebe-20261120-dsc06632-jpg",
     "fingerprint": "ecef50a653d7bd5777185712092b202ecdfbd888"
+  },
+  "pied-billed-grebe/20261126-DSC08142.jpg": {
+    "counter": "pied-billed-grebe-20261126-dsc08142-jpg",
+    "fingerprint": "ebbdddbf3bff1ef8ffdab5e8a4c10c0255a96f53"
   },
   "red-billed-leiothrix/20261101-DSC05906.jpg": {
     "counter": "red-billed-leiothrix-20261101-dsc05906-jpg",
@@ -1671,6 +1763,22 @@
     "counter": "red-tailed-hawk-20261122-dsc07850-jpg",
     "fingerprint": "19d5bd1dd04c01812473198f4c5582c0d0f9649c"
   },
+  "red-tailed-hawk/20261126-DSC08198.jpg": {
+    "counter": "red-tailed-hawk-20261126-dsc08198-jpg",
+    "fingerprint": "c7d936cafe584ab10a499713a1c28be4fec8e9ca"
+  },
+  "red-tailed-hawk/20261126-DSC08205.jpg": {
+    "counter": "red-tailed-hawk-20261126-dsc08205-jpg",
+    "fingerprint": "1cdc3ba596c8d7692ef48e2daf57bb0a681ecadb"
+  },
+  "red-tailed-hawk/20261126-DSC08231.jpg": {
+    "counter": "red-tailed-hawk-20261126-dsc08231-jpg",
+    "fingerprint": "4bf681344bd6b7a939ca965bca07c9af7ff613fd"
+  },
+  "red-tailed-hawk/20261126-DSC08243.jpg": {
+    "counter": "red-tailed-hawk-20261126-dsc08243-jpg",
+    "fingerprint": "04e63e2e3c59cbe5510294e505fb11621c319969"
+  },
   "red-tailed-hawk/Red-tailed Hawk.jpg": {
     "counter": "red-tailed-hawk-jpg",
     "fingerprint": "d5cdc6d1b03bf33ee922c6dc5318a1324bc01e91"
@@ -1734,6 +1842,14 @@
   "ring-billed-gull/20261120-DSC06698.jpg": {
     "counter": "ring-billed-gull-20261120-dsc06698-jpg",
     "fingerprint": "34c89165d68f32208955e70310879a5101193506"
+  },
+  "ring-billed-gull/20261126-DSC08113.jpg": {
+    "counter": "ring-billed-gull-20261126-dsc08113-jpg",
+    "fingerprint": "eabad51234e4c934ee710bb80429a16259b558cb"
+  },
+  "ring-billed-gull/20261126-DSC08124.jpg": {
+    "counter": "ring-billed-gull-20261126-dsc08124-jpg",
+    "fingerprint": "8269003103876b1b36505ab6b0108e545c04ffb3"
   },
   "rock-wren/20261001-DSC02921.jpg": {
     "counter": "rock-wren-20261001-dsc02921-jpg",

@@ -30,6 +30,33 @@
         "precision": "valley",
         "note": "Photographer confirmed all nine remaining March 16 photos were taken in Cuyama Valley."
       }
+    },
+    "20261126-DSC08179.jpg": {
+      "caption": "Flock resting on the mudflat",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08180.jpg": {
+      "caption": "Resting along the shoreline",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
+    },
+    "20261126-DSC08183.jpg": {
+      "caption": "Resting with bill tucked",
+      "location": "Mountain View, California",
+      "location_source": {
+        "type": "photographer_confirmed",
+        "outing_date": "2026-11-26",
+        "precision": "city"
+      }
     }
   }
 }
